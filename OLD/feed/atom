@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0">
+  <title>barge</title>
+  <link rel="alternate" href="https://www.barge.org" />
+  <subtitle />
+  <entry>
+    <title>Why I Love Going To BARGE</title>
+    <link rel="alternate" href="https://www.barge.org/why-i-love-going-to-barge" />
+    <author>
+      <name>Barry Kornspan</name>
+      <email>bkornspan@wsinolimit.com (Barry Kornspan)</email>
+    </author>
+    <updated>2017-07-18T17:38:42Z</updated>
+    <published>2017-07-18T17:38:42Z</published>
+    <summary type="text" />
+    <g-custom:tags type="string" />
+  </entry>
+  <entry>
+    <title>Strategizing Moves Ahead</title>
+    <link rel="alternate" href="https://www.barge.org/blog/strategizing-moves-ahead" />
+    <author>
+      <name>Roy Cooke</name>
+      <email>roycooke123@gmail.com (Roy Cooke)</email>
+    </author>
+    <updated>2016-11-24T02:40:23Z</updated>
+    <published>2016-11-24T02:40:23Z</published>
+    <summary type="text">Great chess players are legendary for their ability to think many moves ahead. But in poker, forward thinking is undervalued by most players.</summary>
+    <g-custom:tags type="string" />
+  </entry>
+  <entry>
+    <title>Playing the ABC Loose-Passive</title>
+    <link rel="alternate" href="https://www.barge.org/blog/playing-the-abc-loose-passive" />
+    <author>
+      <name>Roy Cooke</name>
+      <email>roycooke123@gmail.com (Roy Cooke)</email>
+    </author>
+    <updated>2016-09-07T02:37:14Z</updated>
+    <published>2016-09-07T02:37:14Z</published>
+    <summary type="text">ABC loose-passive’s are the easiest opponents to play against, and you generally have the largest edge against them. Most lowstakes players are ABC loose-passive. On the flop they tend to be fit or fold. Meaning, if they hit the flop, they continue, if not, they’ll fold.  The good news is they’re easily exploitable.</summary>
+    <g-custom:tags type="string" />
+  </entry>
+  <entry>
+    <title>A Better You!</title>
+    <link rel="alternate" href="https://www.barge.org/blog/cooke/a-better-you" />
+    <author>
+      <name>Roy Cooke</name>
+      <email>roycooke123@gmail.com (Roy Cooke)</email>
+    </author>
+    <updated>2016-08-29T18:29:15Z</updated>
+    <published>2016-08-29T18:29:15Z</published>
+    <summary type="text">Much is written about poker psychology; mostly it’s about analyzing how your opponents react. But seldom discussed and of much greater importance is your own psychology. Being real and in tune with yourself has huge value, and those that aren’t never correct their leaks as they’re unaware they even exist.</summary>
+    <g-custom:tags type="string" />
+  </entry>
+  <entry>
+    <title>Equity and Implied Odds</title>
+    <link rel="alternate" href="https://www.barge.org/equity-and-implied-odds" />
+    <author>
+      <name>Roy Cooke</name>
+      <email>roycooke123@gmail.com (Roy Cooke)</email>
+    </author>
+    <updated>2016-08-16T03:08:02Z</updated>
+    <published>2016-08-16T03:08:02Z</published>
+    <summary type="text">Many players calculate the equity of their hand at the current moment, compare it to the size of the pot, and base their decision solely on that calculation. Those decisions are correct if there is no future betting.
+But when there is future betting...</summary>
+    <g-custom:tags type="string">equity,implied,odds,cooke</g-custom:tags>
+  </entry>
+  <entry>
+    <title>Understanding Equity and EV</title>
+    <link rel="alternate" href="https://www.barge.org/understanding-equity-and-ev" />
+    <author>
+      <name>Roy Cooke</name>
+      <email>roycooke123@gmail.com (Roy Cooke)</email>
+    </author>
+    <updated>2016-08-16T03:08:01Z</updated>
+    <published>2016-08-16T03:08:01Z</published>
+    <summary type="text">Many people don’t know the exact difference between equity and EV. In fact, some people use the terms as if they were identical.  Equity is the percentage chance that a hand will win after all the cards are dealt. The percentage chance includes splits and is utilized when comparing your holding against opponent’s hand(s) or range(s).</summary>
+    <g-custom:tags type="string">equity,ev,value</g-custom:tags>
+  </entry>
+</feed>

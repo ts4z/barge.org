@@ -1,0 +1,17 @@
+# TODO hack for experimental site
+# baseURL: https://w.bjrge.org/
+languageCode: en-us
+title: BARGE
+theme: ["PaperMod"]
+sectionPagesMenu: main
+params:
+  showShareButtons: true
+  ShareButtons: ["facebook", "linkedin", "reddit", "whatsapp"]
+
+menu:
+  main:
+    - name: Register for EMBARGO 2024
+      url: "https://barge.regfox.com/embargo-2024"
+      weight: 0
+      params:
+        external: true

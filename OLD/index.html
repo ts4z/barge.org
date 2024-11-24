@@ -1,0 +1,2176 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      class="">
+<head>
+    <meta charset="utf-8">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.barge.org/',
+        AccountUUID: '8fde30b1acfa4d809a576fe424c9b477',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: '7fa840da',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Mon Nov 18 02:48:30 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'home',
+        InitialPageUuid: '575913dfef2c416abc2bd991b698da05',
+        InitialPageId: '1156753298',
+        InitialEncodedPageAlias: 'aG9tZQ==',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: true,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '49340',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'barge',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'null',
+        currentLocale: 'null',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.barge.org/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'FROM_SCRATCH',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'null',
+        hamburgerMigration: null
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<script>
+    try {
+    if (
+        navigator.serviceWorker &&
+        navigator.serviceWorker.getRegistrations &&
+        location.protocol === 'https:'
+    ) {
+        // remove all service workers
+        navigator.serviceWorker
+            .getRegistrations()
+            .then(function (registrations) {
+                if (registrations && registrations.length) {
+                    console.log('unregistering service workers');
+                    registrations.forEach(function (registration) {
+                        registration.unregister();
+                    });
+                }
+            });
+        // clear caches
+        if (caches) {
+            caches.keys().then(function (keyList) {
+                if (keyList && keyList.length) {
+                    console.log('deleting caches');
+                    keyList.forEach(function (key) {
+                        if (key && key.indexOf('druntime') === 0) {
+                            caches.delete(key);
+                        }
+                    });
+                }
+            });
+        }
+    }
+} catch (err) {
+    // not a secured location
+}
+</script>
+
+
+
+<link rel="canonical" href="https://www.barge.org/">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp-cdn.multiscreensite.com/7fa840da/site_favicon_16_1447302957248.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+
+<style id="criticalCss">
+    @charset "UTF-8";.display_None,.dmPopupMask{display:none}.clearfix:after,.slides:after{line-height:0;visibility:hidden;clear:both}*,.dmPopup,:after,:before{box-sizing:border-box}#dm .dmInner .dmWidget,.clearfix:after,.dmImageSlider,.dmRespRow .dmRespRow:after,.dmRespRow:after,.dmSocialHub,.dmTwitterFeedWrapper,.slides:after,DIV.dmBody{clear:both}@font-face{font-family:flexslider-icon;src:url(https://static.cdn-website.com/fonts/flexslider-icon.woff) format("woff");font-weight:400;font-style:normal;font-display:swap}@font-face{font-family:Impact;font-style:normal;font-weight:400;src:local("Impact"),url(https://dd-cdn.multiscreensite.com/fonts/additionalfonts/5128cd07406988e3.woff) format("woff");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215;font-display:swap}@font-face{font-family:FontAwesome;font-display:block;src:url(https://static.cdn-website.com/fonts/fontawesome-webfont.eot?v=6);src:url(https://static.cdn-website.com/fonts/fontawesome-webfont.eot?#iefix&v=6) format("embedded-opentype"),url(https://static.cdn-website.com/fonts/fontawesome-webfont.woff?v=6) format("woff"),url(https://static.cdn-website.com/fonts/fontawesome-webfont.ttf?v=6) format("truetype"),url(https://static.cdn-website.com/fonts/fontawesome-webfont.svg#fontawesomeregular?v=6) format("svg");font-weight:400;font-style:normal}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Source Sans Pro';font-style:italic;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sourcesanspro/v22/6xK1dSBYKcSV-LCoeQqfX1RYOo3qPZ7nsDI.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}.dmInner{min-height:100vh!important;position:relative}.dmPopup,.dmPopupMask{position:fixed;left:0}.dmDisplay_None{display:none!important}.clearfix:after{height:0}.clearfix:after,.clearfix:before{content:' ';display:table}.clearfix{display:inline-block}#dm .dmWidget .icon{font-size:26px}body.dmRoot #dm .dmOuter .dmInner .dmWidget .icon.hasFontIcon{height:26px;margin-top:-13px;line-height:normal;text-align:center;background-image:none}.dmRoot .hasFontIcon{background-image:none!important}.dmPopupMask{margin:0;width:10px;z-index:1000000999;top:0}#dmRoot .dmPopup,.dmPopup,.dmPopupClose:before,[data-display-type=block]{display:block}.dmPopup{text-align:left;top:10px;width:93%;z-index:1000009999!important;background:#f5f5f5;overflow-y:auto;height:100%}.dmPopup .dmPopupTitle{text-align:left;font:700 19px Helvetica,Arial;margin:20px 20px 35px;color:#999}.lh-1,button{line-height:normal}#dmPopup{opacity:0}.dmPopupClose,.dmPopupClose:before{position:absolute;visibility:visible}.dmPopupClose{border-radius:25px;width:27px;height:27px;z-index:1;background-color:rgba(255,255,255,.4);top:12px;right:12px}.dmPopupClose:before{font-size:20px;color:#000;top:3px;right:3px}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar{width:5px;height:5px}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar-track{background:rgba(0,0,0,.1)}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar-thumb{background:#c8c8c8;box-shadow:inset 0 1px 2px #454545;border-radius:45px}.dmTwitterFeed{min-height:1px;min-width:1px}#dm .dmRespRow .dmRespColsWrapper{display:flex}#dm .dmInner .dmWidget.align-center,.align-center{margin-left:auto;margin-right:auto}body.fix-mobile-scrolling{overflow:initial}#dmRoot{text-decoration-skip-ink:none}@media (min-width:1025px){#dmRoot.responsiveTablet #dm .dmInner .hide-for-large{display:none!important}:root{--btn-text-font-size:18px}}@media (min-width:768px) and (max-width:1024px){#dmRoot.responsiveTablet #dm .dmInner .hide-for-medium{display:none!important}}@media (max-width:767px){#dmRoot.responsiveTablet #dm .dmInner .hide-for-small{display:none!important}}#dm .flexslider[sliderscriptparams*="'isFade':true"] .slides li{width:100%!important;float:left!important;margin-right:-100%!important;position:relative!important}#dm .flexslider .slides li:first-child>img{width:100%;height:100%;object-fit:contain;position:absolute;display:block}#dm .flexslider[sliderscriptparams*="'stretch':true"] .slides li:first-child img{object-fit:cover}@media (min-width:1025px) and (max-width:1399px){[data-hidden-on-desktop]{display:none!important}}body{-webkit-overflow-scrolling:touch}@media (min-width:768px) and (max-width:1024px){[data-hidden-on-tablet]{display:none!important}:root{--btn-text-font-size:18px}}nav{display:block}html{font-family:Source Sans Pro;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}h1{margin:.67em 0}b{font-weight:700}hr{box-sizing:content-box;height:0}img{border:0;max-width:100%;-ms-interpolation-mode:bicubic;display:inline-block}button{font-family:inherit;font-size:100%;margin:0;text-transform:none;-webkit-appearance:button}button::-moz-focus-inner{border:0;padding:0}.dmRespRow.dmPaddingForCols .dmRespCol{padding-left:15px;padding-right:15px}.dmRespRow.dmRespRowNoPadding{padding:0}.dmRespRow{padding-top:15px;padding-bottom:15px}.dmRespRow .dmRespRow:after,.dmRespRow .dmRespRow:before,.dmRespRow:after,.dmRespRow:before{content:' ';display:table}.dmRespRow,.dmRespRow .dmRespColsWrapper{max-width:960px;position:relative;margin:0 auto;width:100%}.dmRespRow .dmRespCol{position:relative;width:100%;display:inline-block;vertical-align:top;float:left}.dmRespRow .dmRespCol>*{max-width:100%}.dmRespRow .dmRespRow{width:auto;margin-top:0;margin-bottom:0;max-width:none}.dmDesktopBody .dmRespRow .large-1{position:relative;width:8.33333%}.dmDesktopBody .dmRespRow .large-4{position:relative;width:33.33333%}.dmDesktopBody .dmRespRow .large-6{position:relative;width:50%}.dmDesktopBody .dmRespRow .large-7{position:relative;width:58.33333%}.dmDesktopBody .dmRespRow .large-8{position:relative;width:66.66667%}.dmDesktopBody .dmRespRow .large-12{position:relative;width:100%}.socialHubIcon,[class*=' dm-common-icons-'],[class*=' dm-social-icons-']{font-family:dm-social-icons!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.dm-social-icons-google-plus:before{content:'\e905'}.dm-social-icons-facebook:before{content:'\ea90'}.dm-social-icons-twitter:before{content:'\ea96'}[class*=' dm-common-icons-']{font-family:dm-common-icons!important}.dm-common-icons-close:before{content:'\e901'}#dm div.dmContent [class*=' icon-'],[class*=' icon-']{font-family:FontAwesome!important;font-weight:400;font-style:normal;text-decoration:inherit;-webkit-font-smoothing:antialiased}[class*=' icon-']:before{text-decoration:none;display:inline-block;speak:none}a [class*=' icon-']{display:inline}[class*=' icon-']{display:inline;width:auto;height:auto;line-height:normal;vertical-align:baseline;background-image:none;background-position:0 0;background-repeat:repeat;margin-top:0}.icon-star:before{content:'\f005'}.icon-angle-right:before{content:'\f105'}.icon-angle-down:before{content:'\f107'}.animated{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both}@-webkit-keyframes fadeInUp{0%{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}100%{opacity:1;-webkit-transform:none;transform:none}}@keyframes fadeInUp{0%{opacity:0;-webkit-transform:translate3d(0,100%,0);-ms-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}100%{opacity:1;-webkit-transform:none;-ms-transform:none;transform:none}}.fadeInUp{-webkit-animation-name:fadeInUp;animation-name:fadeInUp}#dm .dmRespRow .dmRespCol>.dmWidget{overflow:initial}@media (min-width:768px){#dm .dmRespRow .dmRespCol>.dmWidget{width:280px;max-width:100%}}@media (max-width:767px){#dm .dmInner .dmWidget{width:100%}}#dm .dmInner .dmWidget:not(.displayNone){display:inline-block}#dm .dmInner .dmWidget:not(.flexButton):not(.displayNone)[data-display-type=block]{display:block}#dm .dmInner .dmWidget{text-decoration:none;margin:10px 0;position:relative;text-align:center;line-height:22px;box-shadow:none;background-image:none;padding:0;height:auto;border-style:solid;white-space:nowrap}#dm .dmInner .dmWidget.slide-button{margin-bottom:0}#dm .dmInner .dmWidget:after{content:'';display:inline-block;height:100%;vertical-align:middle;width:0;margin-right:-.25em}#dm .dmInner .dmWidget .iconBg{position:absolute;left:0;width:50px;top:50%;margin-top:-13px}#dm .dmWidget .text{display:inline-block;vertical-align:middle;font-size:1.125em;line-height:normal;white-space:normal;padding:10px 7px;max-width:98%}#dm .dmWidget.slide-button:after{display:none}@media (max-width:767px){#dm .dmInner .small-6 .dmWidget .iconBg{left:10px}}.dmImageSlider{height:350px;position:relative}.flexslider{-webkit-transform:translate3d(0,0,0);padding:0;-webkit-transform:translateZ(0);direction:ltr;margin:0;zoom:1;opacity:1!important}.dmInner{min-width:768px!important}.imageWidget{position:relative}.imageWidget a{font-style:italic;text-align:center}.slides{margin:0;padding:0;list-style:none}.flexslider,.flexslider .slides>li{height:100%;overflow:hidden;position:relative}.flexslider .slides{height:100%;zoom:1}.flexslider .slides>li{display:none;text-align:center}.flexslider .slides img{width:100%;display:block;margin:auto}.slides:after{content:'\0020';display:block;height:0}html[xmlns] .slides{display:block}.flexslider .color-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-color:rgba(0,0,0,.25);display:block}.flexslider .slides>li .slide-inner{font-weight:700;color:#fff;position:absolute;z-index:1;visibility:hidden}.flexslider .slides>li .slide-inner *{line-height:normal}.flexslider .slides>li .slide-inner.animated{visibility:visible}.flexslider .slides>li .slide-inner .slide-title{margin:0}.flexslider .slides>li .slide-inner .slide-text{margin:0;font-size:19px;font-weight:400;white-space:pre-line}#dm .dmInner .flexslider .slides>li .slide-inner .slide-button{margin-top:20px;margin-left:auto;margin-right:auto}.flexslider[hide-content=true] .slides .color-overlay,.flexslider[hide-content=true] .slides .slide-inner{visibility:hidden!important}.flexslider .slides>li[layout=center] .slide-inner{max-width:70%;max-height:80%}#dm .flexslider .slides .dmWidget .text{max-width:100%;width:100%;padding:10px 20px!important}#dm .dmInner .flexslider.ed-version .slide-button{-js-display:inline-flex;display:inline-flex;justify-content:center;align-items:center}.flexslider:not([position]):not([layout]) .slides>li[layout=center][position=center] .slide-inner{right:auto!important;bottom:auto!important;text-align:center}.flexslider.ed-version .slides img{display:none}.flexslider.ed-version:not([layout]) .slides>li[layout=center]{-ms-flex-pack:center;-ms-flex-align:center;display:flex!important;justify-content:center;align-items:center}.flexslider.ed-version:not([layout]) .slides>li[layout=center] .slide-inner{position:static!important;top:auto!important;left:auto!important;margin:0!important}.flexslider.ed-version:not([layout]) .slides>li[layout=center] .slide-inner .slide-button.slide-button-visible{display:inline-flex!important}.flexslider.ed-version:not([layout]) .slide-inner{max-width:70%;max-height:80%;background-color:transparent;top:50%!important;left:50%!important;right:auto!important;width:auto}.flexslider.ed-version:not([layout]) .slide-inner .slide-title{display:block!important;text-align:center!important}.socialHubIcon{display:flex!important;align-items:center;justify-content:center}.dmNewParagraph[data-version]{line-height:initial}.dmNewParagraph[data-version] p,.dmNewParagraph[data-version] ul{margin-top:0;margin-bottom:0}.dmNewParagraph[data-version] ul{padding:0;counter-reset:list-1 list-2 list-3 list-4 list-5 list-6 list-7 list-8 list-9}.dmNewParagraph[data-version] ul>li{list-style-type:none;text-indent:-1.5em;margin:0 1em;margin-inline-end:0;margin-inline-start:2em}.dmNewParagraph[data-version] ul>li:before{min-width:1em;display:inline-block;margin-right:.5em;margin-inline-start:0;margin-inline-end:.5em;text-align:right;text-align:end;font-weight:700;content:'\2022';font-family:Arial}.dmNewParagraph[data-version] a{vertical-align:initial}*{border:0 solid #574c36;scrollbar-arrow-color:#fff;scrollbar-track-color:#F2F2F2;scrollbar-face-color:silver;scrollbar-highlight-color:silver;scrollbar-3dlight-color:silver;scrollbar-shadow-color:silver;scrollbar-darkshadow-color:silver;scrollbar-width:12px}body{width:100%;overflow:hidden;-webkit-text-size-adjust:100%!important;-ms-text-size-adjust:100%!important}A IMG{border:none}h1,h3,ul{margin-left:0;margin-right:0}.displayNone{display:none}.dmInner *{-webkit-font-smoothing:antialiased}span.oneIcon:before{display:inline-block}.clearfix,a,iframe,img,li,ul{vertical-align:top}#iscrollBody,#site_content{position:relative}.dmOuter{word-wrap:break-word}.dmInner{font-size:16px;background:#fcfbfc;color:#333}.dmDesktopBody .dmInner{min-width:960px}.dmInner a{color:#5b4824}.dmInner ul:not(.defaultList){padding:0}.dmHeader{background:#fff;color:#333;text-align:center;position:relative;width:100%;max-width:100%}DIV.dmBody{padding:0}.dmContent{margin:0;padding:0}#site_content ul:not(.defaultList){-webkit-padding-start:0;-moz-padding-start:0;list-style-position:inside}#innerBar{position:relative;height:36px;width:100%;font-size:20px;margin:0;z-index:80}#dm .dmRespRow.dmRespRowNoPadding{padding:0}.dmLargeBody .dmBody .dmRespRowsWrapper{background-color:#fcfbfc}.dmRespRowsWrapper{max-width:960px;margin:0 auto}.dmRespCol>[dmle_extension]:not(:first-child){margin-top:10px}.dmLargeBody .imageWidget:not(.displayNone){display:inline-block;max-width:100%}.imageWidget:not(.displayNone) img{width:100%}.dmDivider.defaultDivider{min-height:1px;background-color:rgba(51,51,51,.2);margin:0}h3{font-size:23px;font-weight:400}#dm .dmRespColsWrapper{display:block}.dmNewParagraph{text-align:left;margin:8px 0;padding:2px 0}.dmRespRow.dmImgCoverTxtRow{padding-top:0;padding-bottom:10px}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol,.dmLargeBody .fHeader .dmRespRow .dmRespCol{padding-left:.75%;padding-right:.75%}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol:first-child,.dmLargeBody .fHeader .dmRespRow .dmRespCol:first-child{padding-left:0;padding-right:1.5%}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol:last-child,.dmLargeBody .fHeader .dmRespRow .dmRespCol:last-child{padding-right:0;padding-left:1.5%}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol:only-child,.dmLargeBody .fHeader .dmRespRow .dmRespCol:only-child{padding-left:0;padding-right:0}#dm .dmStandardDesktop .dmSocialHub.dmSocialHome a{margin:7px}#innerBar.lineInnerBar{width:100%;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;font-size:20px;margin-top:30px;margin-bottom:30px;background-color:transparent;color:#333}#innerBar .titleLine{display:table-cell;vertical-align:middle;width:50%}.dmPageTitleRow:not(#innerBar){display:none}.titleLine hr{min-height:1px;background-color:rgba(51,51,51,.2)}.dmLargeBody .dmFooterResp>.dmRespRow .dmRespCol{padding-left:.75%;padding-right:.75%}.dmLargeBody .dmFooterResp>.dmRespRow .dmRespCol:first-child{padding-left:0;padding-right:1.5%}.dmLargeBody .dmFooterResp>.dmRespRow .dmRespCol:last-child{padding-right:0;padding-left:1.5%}.dmLargeBody .dmFooterResp>.dmRespRow .dmRespCol:only-child{padding-left:0;padding-right:0}.dmLargeBody .dmRespRow.dmFooterContent h3{margin-top:0}.dmFullFooterResp .dmSocialHub{text-align:center}.dmLinksMenu{float:none!important;display:block}.dmStandardDesktop{display:block;margin:0 auto}.dmInner a{outline:0;vertical-align:inherit}#dm .dmInner .dmWidget{color:#fff;background-color:#574c36}.dmCustomHtml{margin:10px 0}#dm .dmDivider{display:block;margin:10px 0}#dm .dmSocialHub a{display:inline-block;text-decoration:none;margin:0;vertical-align:bottom}.dmSocialHub>div{text-align:inherit}a span.socialHubIcon{width:36px;height:36px;font-size:31px;display:inline-block;text-align:center;margin-right:0;margin-bottom:5px;line-height:36px;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;background-image:none!important}.socialHubIcon.style3{font-size:24px;padding:1px;border-radius:50%;border:3px solid #fff;color:#fff}#dm .dmSocialHub .socialHubWrapper{display:inline-block;max-width:100%}.dmTwitterFeed.dmWwr{-webkit-box-shadow:none;-moz-box-shadow:none;box-shadow:none;background-color:transparent}body{background-color:#eee}#dm .dmDividerWrapper{display:block}.dmRespRow.dmImgCoverBottomRow{padding:0;background-color:rgba(0,0,0,.1)}#dm .dmStandardDesktop .dmImgCoverBottomRow .dmRespCol{display:inline-block;float:none;vertical-align:middle;margin-right:-3px;min-height:66px;padding:0 20px}.dmRespRow.dmImgCoverBottomRow h1.dmImgCoverBottomTxt{margin:0;padding:22px 0;font-size:30px}div.dmInner{font-family:Source Sans Pro;font-weight:400;background:#d51f1f}h1{font-size:30px;font-weight:400}.dmLargeBody .dmFooterResp>div.dmRespRow,.dmLargeBody .dmHomeRespTmpl.dmRespRowsWrapper>div.dmRespRow{padding-left:40px;padding-right:40px}#dm .fHeader .dmHeaderContent.freeHeaderRow2{padding:10px 0}.dmLargeBody .dmRespRow.dmImgCoverBottomRow{padding:0;background-color:#fcfbfc}.dmLargeBody .dmImgCoverBottomRow .dmRespCol{padding:0}.dmLargeBody .dmRespRow.dmImgCoverTxtRow{padding-top:20px;padding-bottom:0}#innerBar.lineInnerBar,.dmFooterDefaultH3,.dmFooterResp>.dmRespRow.dmDividerRow{display:none}.dmLinksMenu>ul{display:block;margin:0;font-size:0}.dmDivider{color:grey;border-color:currentColor;background:0 0}.main-navigation.unifiednav{-js-display:flex;display:flex;justify-content:flex-start;align-items:stretch;overflow:visible}.main-navigation.unifiednav ul{list-style:none;padding:0;margin:0;font-size:1rem}.main-navigation.unifiednav .unifiednav__container{-js-display:flex;display:flex;justify-content:flex-start;list-style:none}.main-navigation.unifiednav:not(.unifiednav_vertical)>.unifiednav__container{flex-wrap:wrap}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap{-js-display:flex;display:flex;justify-content:flex-start;position:relative;font-weight:400}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before{content:'';align-self:center;font-weight:700}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item{-js-display:flex;display:flex;justify-content:flex-start;align-items:center;flex-direction:row;color:inherit;text-decoration:none;position:relative;padding:12px 15px;margin:0;font-weight:inherit;letter-spacing:.03em}#dm .dmBody a.u_1490094414 span.text,#dm .p_hfcontainer nav.u_1456307130.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{font-weight:700!important}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{padding:0 15px}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item .nav-item-text{white-space:nowrap}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{content:'';width:100%;height:0;border:0 solid transparent;border-top-color:currentColor;display:block;opacity:0}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::before{opacity:1}.main-navigation.unifiednav.effect-bottom2{padding:calc(12px - .2em - 2px) 15px}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{transform:scaleX(0);border-top-width:2px}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after{margin-top:.2em}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{margin-bottom:.2em;border-top-color:transparent}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::after,.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::before{transform:scaleX(1)}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{transform-origin:left}.main-navigation.unifiednav .unifiednav__container .unifiednav__item:not(.unifiednav__item_has-sub-nav) .icon{display:none}.main-navigation.unifiednav .unifiednav__container[data-depth='1']{min-width:100%}.main-navigation.unifiednav .unifiednav__container[data-depth]{position:absolute;top:0;left:0;flex-direction:column;opacity:0;z-index:100;background-color:#faf9f9}.main-navigation.unifiednav .unifiednav__container[data-depth='0']{top:100%;transform:translateY(-10px)}.main-navigation.unifiednav:not(.unifiednav_vertical) .unifiednav__container[data-depth='0']{left:15px}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap .unifiednav__container>.unifiednav__item-wrap{flex-direction:column}.main-navigation.unifiednav .unifiednav__container[data-depth]>.unifiednav__item-wrap .unifiednav__item{padding:15px 30px 15px 15px;margin:0}.main-navigation.unifiednav .unifiednav__container[data-depth]>.unifiednav__item-wrap:not(:last-child)::after{content:''!important;width:100%;height:0;color:#ececec;align-self:center;border:0 solid currentColor}.main-navigation.unifiednav[layout-sub=submenu_horizontal_1] .unifiednav__container[data-depth]{color:#999}.main-navigation.unifiednav:not(.unifiednav_vertical) .unifiednav__container[data-depth='1']{transform:translateX(-10%) translateY(0);left:100%}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item.unifiednav__item_has-sub-nav .icon{display:initial;padding-left:10px;margin-left:0}.main-navigation.unifiednav .unifiednav__container[data-depth] .unifiednav__item_has-sub-nav .icon{transform:rotate(0)}.main-navigation.unifiednav:not(.unifiednav_vertical)>.unifiednav__container{justify-content:inherit}#dm .p_hfcontainer nav.main-navigation.unifiednav{min-width:9em!important;text-align:initial!important}#dm .main-navigation.unifiednav .unifiednav__container[data-depth]{background-color:transparent}#dm .main-navigation.unifiednav[layout-sub=submenu_horizontal_1] .unifiednav__container[data-depth]{background-color:#faf9f9}#dm .main-navigation.unifiednav .unifiednav__container[data-depth]>.unifiednav__item-wrap:not(:last-child)::after{color:#d1d1d1}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])>.unifiednav__container{flex-wrap:wrap;justify-content:inherit}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])>.unifiednav__container .nav-item-text::before{text-align:left}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after,#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before,#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])[data-divider]:not([data-direction=RIGHT]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before{content:''}.dmRoot:not(.dmTabletBody):not(.dmMobileBody) #dm .main-navigation.unifiednav:not([data-nav-structure=SPLIT]) .unifiednav__container[data-depth='1']{max-height:65vh;overflow-y:auto}.dmRoot:not(.dmTabletBody):not(.dmMobileBody) #dm .main-navigation.unifiednav:not([data-nav-structure=SPLIT]) .unifiednav__container[data-depth='1'] .unifiednav__item-wrap{flex-shrink:0}.standardHeaderLayout .dmHeader{float:none;display:block;height:auto}#dm .dmOuter .dmInner .dmWidget[data-buttonstyle=ROUND_SIDES] .iconBg,#dm .dmWidget:not([data-buttonstyle]) .iconBg{display:none}.dmRespRow:not(.dmPlaceHolderRespRow) .dmRespColsWrapper .dmRespCol:not(.content-removed).empty-column{min-height:100px}.dmRespRow:not(.dmPlaceHolderRespRow) .dmRespCol:not(.content-removed).empty-column,.dmRespRow:not(.dmPlaceHolderRespRow) .dmRespCol:not(.content-removed):empty{min-height:1px}@media all{:root{--btn-text-direction:ltr;--btn-border-r-color:var(--btn-border-color);--btn-border-l-color:var(--btn-border-color);--btn-border-b-width:var(--btn-border-width);--btn-border-width:0px;--btn-border-radius:0px;--btn-border-t-width:var(--btn-border-width);--btn-border-tl-radius:var(--btn-border-radius);--btn-border-br-radius:var(--btn-border-radius);--btn-border-bl-radius:var(--btn-border-radius);--btn-bg-color:rgb(87, 76, 54);--btn-border-color:rgb(87, 76, 54);--btn-border-tr-radius:var(--btn-border-radius);--btn-border-r-width:var(--btn-border-width);--btn-border-b-color:var(--btn-border-color);--btn-border-l-width:var(--btn-border-width);--btn-border-t-color:var(--btn-border-color);--btn-text-align:center;--btn-text-color:rgb(255, 255, 255);--btn-text-decoration:none;--btn-icon-color:rgb(255, 255, 255);--btn-icon-fill:rgb(255, 255, 255);--btn-icon-wrpr-display:none;--btn-hover-border-b-color:var(--btn-hover-border-color);--btn-hover-bg:var(--btn-bg-color);--btn-hover-border-t-color:var(--btn-hover-border-color);--btn-hover-border-r-color:var(--btn-hover-border-color);--btn-hover-border-l-color:var(--btn-hover-border-color);--btn-hover-border-color:var(--btn-border-color);--btn-hover-text-color:var(--btn-text-color);--btn-hover-text-font-weight:var(--btn-text-font-weight);--btn-hover-text-decoration:var(--btn-text-decoration);--btn-hover-text-font-style:var(--btn-text-font-style)}}@media (min-width:0px) and (max-width:767px){:root{--btn-text-font-size:18px}}#dm .dmWidget:not([data-buttonstyle]){background-clip:border-box;border-radius:0}#dm .dmWidget:not([data-buttonstyle]) .text{padding:10px 7px}#dm .dmOuter .dmInner .dmWidget[data-buttonstyle=ROUND_SIDES]{border-radius:50px}#dm .dmOuter .dmInner .dmWidget[data-buttonstyle=ROUND_SIDES] .text{padding:10px 0}#dm div.dmInner #site_content .dmWidget{background-color:var(--btn-bg-color);border-color:var(--btn-border-color);border-bottom-color:var(--btn-border-b-color);border-left-color:var(--btn-border-l-color);border-right-color:var(--btn-border-r-color);border-top-color:var(--btn-border-t-color);border-radius:var(--btn-border-radius);border-bottom-left-radius:var(--btn-border-bl-radius);border-bottom-right-radius:var(--btn-border-br-radius);border-top-left-radius:var(--btn-border-tl-radius);border-top-right-radius:var(--btn-border-tr-radius);border-width:var(--btn-border-width);border-bottom-width:var(--btn-border-b-width);border-left-width:var(--btn-border-l-width);border-right-width:var(--btn-border-r-width);border-top-width:var(--btn-border-t-width);direction:var(--btn-text-direction);text-align:var(--btn-text-align)}#dm div.dmInner #site_content .dmWidget span.text{color:var(--btn-text-color);font-size:var(--btn-text-font-size);text-decoration:var(--btn-text-decoration)}#dm div.dmInner #site_content .dmWidget span.icon{color:var(--btn-icon-color);fill:var(--btn-icon-fill)}#dm div.dmInner #site_content .dmWidget:not([data-buttonstyle]) .iconBg{display:var(--btn-icon-wrpr-display)}#dm .p_hfcontainer div.u_1581090362{max-width:100%!important;display:block!important}#dm .p_hfcontainer div.u_1092480819 hr{color:grey!important;background:0 0!important;height:0!important;background-size:initial!important;min-height:0!important;border-color:currentColor!important;border-width:1px!important;border-top-style:solid!important}#dm .p_hfcontainer img.u_1581598016{width:100%!important;max-height:none!important;max-width:none!important;height:auto!important}#dm .p_hfcontainer div.u_1709485542{float:none!important;top:auto!important;max-width:960px!important;left:0!important;width:100%!important;position:relative!important;min-width:0!important;text-align:center!important;height:auto!important;padding:0!important;margin:0 auto!important}#dm .p_hfcontainer h1.u_1945548768{margin-bottom:8px!important;margin-top:28px!important}#dm .p_hfcontainer hr.u_1588900271{margin-bottom:5px!important;margin-top:10px!important}#dm .p_hfcontainer div.u_1607626902{margin-left:auto!important;margin-right:45px!important}#dm .p_hfcontainer div.u_1581090362{width:73%!important;max-height:1000px!important;height:auto!important;margin:19px auto 0 45px!important}#dm .p_hfcontainer div.u_1587255911,#dm .p_hfcontainer nav.u_1456307130{float:none!important;left:0!important;min-width:0!important;text-align:center!important;margin:0 auto!important;width:100%!important;position:relative!important;top:0!important;height:auto!important}#dm .p_hfcontainer div.u_1587255911{max-width:960px!important;padding:0 0 1px!important}#dm .p_hfcontainer nav.u_1456307130{display:block!important;max-width:100%!important;padding:6.8px 15px!important}#dm .dmBody div.u_1163153965,#dm .dmBody h1.u_1705865891{float:none!important;left:0!important;min-width:25px!important}#dm .dmBody .u_1406347532,#dm .dmBody .u_1415208390,#dm .dmBody .u_1710105492,#dm .dmBody .u_1903784429{display:none!important}#dm .dmBody div.u_1597749784{display:block!important}#dm .dmBody a.u_1490094414 .iconBg{display:none!important}#dm .dmBody a.u_1490094414{border-radius:50px!important;-moz-border-radius:50px!important;-webkit-border-radius:50px!important;background-color:rgba(213,31,31,1)!important}#dm .dmBody a.u_1117011203,#dm .dmBody a.u_1209924019,#dm .dmBody a.u_1320124049,#dm .dmBody a.u_1651708812,#dm .dmBody a.u_1711751751,#dm .dmBody a.u_1770356384{color:#1d07f5!important;background-color:#1d07f5!important;border-style:solid!important;border-color:#1d07f5!important}#dm .dmBody .u_1654353303{background-image:url(https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2018-5-1920w.jpg),url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAABhGlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9TpUUqHSwo4pChOlkQFemoVShChVArtOpgcukXNGlIUlwcBdeCgx+LVQcXZ10dXAVB8APEzc1J0UVK/F9aaBHjwXE/3t173L0DhEaFaVbPBKDptplOJsRsblUMvEJAGEEMIi4zy5iTpBQ8x9c9fHy9i/Es73N/jn41bzHAJxLPMsO0iTeIZzZtg/M+cYSVZJX4nHjcpAsSP3JdafEb56LLAs+MmJn0PHGEWCx2sdLFrGRqxNPEUVXTKV/ItljlvMVZq9RY+578haG8vrLMdZojSGIRS5AgQkENZVRgI0arToqFNO0nPPzDrl8il0KuMhg5FlCFBtn1g//B726twtRkKymUAHpfHOdjFAjsAs2643wfO07zBPA/A1d6x19tAPFP0usdLXoEhLeBi+uOpuwBlzvA0JMhm7Ir+WkKhQLwfkbflAMGboG+tVZv7X2cPgAZ6ip1AxwcAmNFyl73eHewu7d/z7T7+wFwJnKmZ9+MiwAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAAd0SU1FB+UCDwksLkLIPkkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAAC0lEQVQI12NgAAIAAAUAAeImBZsAAAAASUVORK5CYII=)!important;background-position:100% 50%!important}#dm .dmBody .u_1473690652,#dm .dmBody .u_1765823619{background-position:50% 0!important}#dm .dmBody .u_1765823619{background-image:url(https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/Showalter+2+2024-1920w.jpg),url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAABhGlDQ1BJQ0MgcHJvZmlsZQAAKJF9kT1Iw0AcxV9TpUUqHSwo4pChOlkQFemoVShChVArtOpgcukXNGlIUlwcBdeCgx+LVQcXZ10dXAVB8APEzc1J0UVK/F9aaBHjwXE/3t173L0DhEaFaVbPBKDptplOJsRsblUMvEJAGEEMIi4zy5iTpBQ8x9c9fHy9i/Es73N/jn41bzHAJxLPMsO0iTeIZzZtg/M+cYSVZJX4nHjcpAsSP3JdafEb56LLAs+MmJn0PHGEWCx2sdLFrGRqxNPEUVXTKV/ItljlvMVZq9RY+578haG8vrLMdZojSGIRS5AgQkENZVRgI0arToqFNO0nPPzDrl8il0KuMhg5FlCFBtn1g//B726twtRkKymUAHpfHOdjFAjsAs2643wfO07zBPA/A1d6x19tAPFP0usdLXoEhLeBi+uOpuwBlzvA0JMhm7Ir+WkKhQLwfkbflAMGboG+tVZv7X2cPgAZ6ip1AxwcAmNFyl73eHewu7d/z7T7+wFwJnKmZ9+MiwAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAAuIwAALiMBeKU/dgAAAAd0SU1FB+UCDwksLkLIPkkAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAAAC0lEQVQI12NgAAIAAAUAAeImBZsAAAAASUVORK5CYII=)!important}#dm .dmBody div.u_1163153965{top:auto!important;max-width:calc(100% - 0px)!important;width:100%!important;position:relative!important;text-align:left!important;height:auto!important;padding:2px 0!important;margin:0!important}#dm .dmBody div.u_1892878080,#dm .dmBody div.u_1903450100{position:relative!important;min-width:0!important;margin:0 auto!important;width:100%!important}#dm .dmBody div.u_1892878080{float:none!important;top:auto!important;max-width:960px!important;left:0!important;text-align:center!important;height:auto!important;padding:0 40px!important}#dm .dmBody h1.u_1705865891{top:0!important;max-width:calc(100% - 0px)!important;width:100%!important;position:relative!important;text-align:left!important;height:auto!important;margin:0!important;padding:0!important}#dm .dmBody div.u_1367671198,#dm .dmBody div.u_1768626890{min-width:25px!important;text-align:center!important;margin:0!important;float:none!important;top:auto!important;left:0!important;padding:0!important;max-width:calc(100% - 0px)!important}#dm .dmBody div.u_1768626890{max-height:1000px!important;height:219px!important;display:block!important;width:100%!important;position:relative!important}#dm .dmBody div.u_1367671198{width:424px!important;position:relative!important;height:220px!important}#dm .dmBody div.u_1903450100{float:none!important;top:auto!important;max-width:none!important;left:0!important;text-align:left!important;height:auto!important;padding:0!important}#dm .dmBody div.u_1118521460,#dm .dmBody h1.u_1048055199{min-width:25px!important;float:none!important;top:0!important;position:relative!important;height:auto!important;max-width:100%!important;left:0!important;width:calc(100% - 0px)!important}#dm .dmBody h1.u_1048055199{text-align:left!important;padding:2px 0!important;margin:24px 0 0!important}#dm .dmBody div.u_1118521460{text-align:start!important;padding:0!important;margin:0 auto!important}#dm .dmBody div.u_1655991403{float:none!important;top:0!important;left:0!important;width:auto!important;position:relative!important;height:auto!important;max-width:100%!important;min-width:0!important;text-align:center!important;padding:0 40px!important;margin:0!important}#dm .dmBody img.u_1949977372{width:100%!important;max-height:none!important;max-width:none!important;height:auto!important}#dm .dmBody div.u_1108535451,#dm .dmBody div.u_1617856114{top:0!important;max-width:100%!important;text-align:left!important;height:auto!important;padding:2px 0!important;margin:0!important;min-width:0!important;float:none!important;position:relative!important}#dm .dmBody div.u_1617856114{left:0!important;width:100%!important}#dm .dmBody div.u_1108535451{left:0!important;width:351px!important}#dm .dmBody a.u_1651708812,#dm .dmBody a.u_1711751751{left:0!important;height:43px!important;top:0!important;min-width:25px!important}#dm .dmBody a.u_1651708812{float:none!important;max-width:calc(100% - 73px)!important;width:280px!important;position:relative!important;text-align:center!important;padding:0!important;margin:10px 0 10px 73.41px!important}#dm .dmBody div.u_1394193737{float:none!important;top:0!important;left:0!important;width:100%!important;position:relative!important;height:auto!important;max-width:100%!important;min-width:0!important;text-align:left!important;padding:2px 0!important}#dm .dmBody div.u_1597749784{width:calc(100% - 56px)!important;max-height:1000px!important;float:none!important;top:0!important;max-width:312px!important;left:0!important;position:relative!important;min-width:25px!important;text-align:start!important;padding:0!important;margin:0 0 0 56px!important}#dm .dmBody img.u_1910948190{width:100%!important;max-height:none!important;max-width:none!important;height:auto!important}#dm .dmBody div.u_1926795602{float:none!important;top:0!important;max-width:calc(100% - 0px)!important;left:0!important;width:100%!important;position:relative!important;min-width:25px!important;text-align:left!important;height:auto!important;padding:2px 0!important;margin:0!important}#dm .dmBody a.u_1711751751{float:none!important;width:280px!important;position:relative!important;max-width:calc(100% - 71px)!important;text-align:center!important;padding:0!important;margin:10px 0 10px 71px!important}#dm .dmBody div.u_1757518457,#dm .dmBody div.u_1763788199,#dm .dmBody div.u_1852064899{float:none!important;max-width:100%!important;left:0!important;height:auto!important;position:relative!important}#dm .dmBody div.u_1852064899{top:0!important;width:auto!important;min-width:0!important;text-align:center!important;padding:24.5px 40px!important}#dm .dmBody div.u_1757518457,#dm .dmBody div.u_1763788199{top:0!important;width:calc(100% - 0px)!important;min-width:25px!important;text-align:left!important;padding:2px 0!important;margin:0 0 8px!important}#dm .dmBody a.u_1117011203,#dm .dmBody div.u_1188224452{padding:0!important;float:none!important;top:0!important;left:0!important;min-width:25px!important}#dm .dmBody a.u_1117011203{width:calc(100% - 71px)!important;position:relative!important;height:43px!important;max-width:280px!important;text-align:center!important;margin:10px 0 10px 71px!important}#dm .dmBody div.u_1188224452{display:block!important;width:calc(100% - 85px)!important;max-height:1000px!important;max-width:248px!important;position:relative!important;text-align:start!important;height:auto!important;margin:25px 147.27px 0 85px!important}#dm .dmBody a.u_1320124049{float:none!important;top:0!important;max-width:238.14px!important;left:0!important;width:calc(100% - 0px)!important;position:relative!important;min-width:25px!important;text-align:center!important;height:56px!important;padding:0!important;margin:10px 0!important}#dm .dmBody a.u_1209924019,#dm .dmBody a.u_1770356384{float:none!important;top:0!important;left:0!important;min-width:25px!important;text-align:center!important;height:43px!important;padding:0!important}#dm .dmBody a.u_1209924019{width:calc(100% - 71px)!important;position:relative!important;max-width:280px!important;margin:10px 0 10px 71px!important}#dm .dmBody a.u_1770356384{max-width:calc(100% - 73px)!important;width:280px!important;position:relative!important;margin:10px 0 10px 73.41px!important}.size-48{font-size:48px!important}.size-16{font-size:16px!important}.font-size-18{font-size:18px!important}#\31 008354053,#\31 015855729,#\31 015858988,#\31 033248163,#\31 033934294,#\31 038171384,#\31 039224979,#\31 049680610,#\31 051956705,#\31 059216323,#\31 061961617,#\31 067192587,#\31 071781401,#\31 074025078,#\31 080585607,#\31 090423459,#\31 090973577,#\31 092808954,#\31 124688583,#\31 128907796,#\31 131773816,#\31 139493641,#\31 141276989,#\31 144667172,#\31 146116834,#\31 165896784,#\31 173899207,#\31 196196263,#\31 227022149,#\31 233034173,#\31 243503194,#\31 281429444,#\31 286332943,#\31 297094512,#\31 316383907,#\31 320560670,#\31 322044584,#\31 331132231,#\31 334304906,#\31 337181383,#\31 357247209,#\31 361927689,#\31 372370568,#\31 372411425,#\31 386677691,#\31 407398443,#\31 409662117,#\31 410473469,#\31 418662246,#\31 419929513,#\31 431780404,#\31 433347573,#\31 436978535,#\31 439223714,#\31 439772651,#\31 448038484,#\31 451098651,#\31 452079582,#\31 452706191,#\31 460293192,#\31 473690652,#\31 475162319,#\31 494321831,#\31 505674809,#\31 516968782,#\31 518431963,#\31 527896906,#\31 549060800,#\31 558998425,#\31 562471675,#\31 562531441,#\31 564500555,#\31 566934109,#\31 572643282,#\31 578373003,#\31 584086844,#\31 584579924,#\31 590133743,#\31 593342093,#\31 596376517,#\31 616396358,#\31 618396630,#\31 629205981,#\31 647117893,#\31 647274372,#\31 654353303,#\31 655514351,#\31 657305887,#\31 671857179,#\31 678746248,#\31 690011961,#\31 696117342,#\31 697167734,#\31 702183193,#\31 702717888,#\31 704949871,#\31 714327758,#\31 726653797,#\31 734052641,#\31 753216910,#\31 765823619,#\31 775070861,#\31 785024611,#\31 785708335,#\31 800773527,#\31 811254657,#\31 818852873,#\31 828216092,#\31 833219253,#\31 835774082,#\31 842114561,#\31 854523513,#\31 867975223,#\31 883949547,#\31 898261124,#\31 902344339,#\31 904510411,#\31 912595003,#\31 914532846,#\31 932935800,#\31 933014012,#\31 937746336,#\31 941548609,#\31 952014886,#\31 960239586,#\31 972627581,#\31 973578177{order:0;flex-direction:row} #dm .dmPhotoGallery.newPhotoGallery .dmPhotoGalleryHolder {display: none;} @media (max-width:767px){ [data-hidden-on-mobile] {display:none!important}}
+    .dmDesktopBody [data-anim-desktop]:not([data-anim-desktop='none']) {
+        visibility: hidden;
+    }
+
+    
+</style>
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Roboto Slab Fallback";
+  src: local('Arial');
+  ascent-override: 97.7562%;
+  descent-override: 25.2818%;
+  size-adjust: 107.1903%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="https://www.barge.org//feed/rss2"/>
+  <link type="application/atom+xml" rel="alternate" href="https://www.barge.org//feed/atom"/>
+  <meta property="og:type" content="website"/>
+  <title>
+    
+    BARGE
+  
+  </title>
+  <meta name="google-site-verification" content="P-H4V6Q5dkJWeZHSS8douzMdxOtx0YCi9KVgdmRfy9g"/>
+  <script type="text/javascript">
+
+
+
+
+
+
+
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.;c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'ab7bccc237ad2d60fdc3aebf0940ab63fafb4f60');
+    
+  
+
+  
+
+  
+
+  </script>
+  <meta name="msvalidate.01" content="17F806856C83EF4DE81D42EFC79911D0"/>
+
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="BARGE"/>
+  <meta property="og:title" content="BARGE"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="home"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1880055087" class="dm-home-page"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-home dmPageBody d-page-1619011000 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1619011000" data-soch="true"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="dmHeader p_hfcontainer" freeheader="true"> <div dm:templateorder="75" class="dmHeaderResp dmHeaderStack" id="1013626179"> <div class="u_1709485542 dmRespRow" style="text-align: center;" id="1709485542"> <div class="dmRespColsWrapper" id="1883949547"> <div class="dmRespCol small-12 medium-4 large-4" id="1035172894"> <div class="u_1581090362 imageWidget" data-widget-type="image" id="1581090362" data-element-type="image"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/barge_logo_undated-1024x694-267w.png" id="1581598016" dm_changed="true" class="u_1581598016" onerror="handleImageLoadError(this)" height="151.1875" width="223.078125"/></div> 
+</div> 
+ <div class="u_1337507390 dmRespCol small-12 large-1 medium-1 empty-column" id="1337507390"></div> 
+ <div class="u_1024636728 dmRespCol small-12 large-7 medium-7" id="1024636728"> <h1 class="dmNewParagraph u_1945548768" id="1945548768" style="" data-element-type="paragraph"><div style="text-align: center;"><span class="m-size-36 lh-1 size-48" style="font-weight:400;font-family:Impact;">BARGE</span></div><div style="text-align: center;">Big August Rec.Gambling Excursion</div></h1> <div class="u_1607626902 dmNewParagraph" id="1607626902"><div style="text-align: right;">&quot;There are no strangers here, just friends you haven't met yet&quot;</div><div style="text-align: right;">- Peter &quot;Foldem&quot; Secor</div></div></div> 
+</div> 
+</div> 
+ <div class="u_1587255911 dmRespRow dmHeaderContent freeHeaderRow2" id="1587255911"> <div class="dmRespColsWrapper clearfix" id="1337181383"> <div class="dmRespCol large-12 medium-12 small-12" id="1225943982"> <nav class="u_1456307130 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1456307130" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-nav-structure="HORIZONTAL" wr="false" icon="true" surround="false" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmNavItemSelected  dmUDNavigationItem_00  " target="" data-target-page-alias="" data-auto="selected-page"> <span class="nav-item-text " data-link-text="
+         HOME
+        " data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/barge" class="unifiednav__item  dmUDNavigationItem_01  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BARGE
+        " data-auto="page-text-style">BARGE<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://barge.regfox.com/barge-2024" class="unifiednav__item  dmUDNavigationItem_010101370753  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Registration
+          " data-auto="page-text-style">BARGE Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-2024-schedule" class="unifiednav__item  dmUDNavigationItem_010101370726  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE 2024 Schedule
+          " data-auto="page-text-style">BARGE 2024 Schedule<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-results" class="unifiednav__item  dmUDNavigationItem_010101443267  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Results
+          " data-auto="page-text-style">BARGE Results<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="0"> <a href="/embargo-info" class="unifiednav__item  dmUDNavigationItem_02  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         EMBARGO
+        " data-auto="page-text-style">EMBARGO<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://barge.regfox.com/embargo-2024" class="unifiednav__item  dmUDNavigationItem_010101419050  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Registration
+          " data-auto="page-text-style">EMBARGO Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/schedule1" class="unifiednav__item  dmUDNavigationItem_010101739308  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Schedule
+          " data-auto="page-text-style">EMBARGO Schedule<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/embargo-results" class="unifiednav__item  dmUDNavigationItem_010101122191  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Results
+          " data-auto="page-text-style">EMBARGO Results<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="1" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/embargo-2024" class="unifiednav__item  dmUDNavigationItem_010101312641  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             EMBARGO 2024
+            " data-auto="page-text-style">EMBARGO 2024<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="#" class="unifiednav__item  dmUDNavigationItem_010101870070  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         RESOURCES
+        " data-auto="page-text-style">RESOURCES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://ts4z.net/tmp/book/" class="unifiednav__item  dmUDNavigationItem_010101112743  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Rule Book
+          " data-auto="page-text-style">BARGE Rule Book<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-unified-payout-structures" class="unifiednav__item  dmUDNavigationItem_010101683781  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Unified Payout Structures
+          " data-auto="page-text-style">BARGE Unified Payout Structures<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/baap-points-table" class="unifiednav__item  dmUDNavigationItem_01010149354  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BAAP Points Table
+          " data-auto="page-text-style">BAAP Points Table<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/all-around-baap-points-database" class="unifiednav__item  dmUDNavigationItem_010101249217  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="All-Around BAAP Points Database" data-auto="page-text-style">All-Around BAAP Points Database<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://secure.barge.org/bargerulebooks/BARGETrivia-20190716.pdf" class="unifiednav__item  dmUDNavigationItem_010101778398  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Trivia
+          " data-auto="page-text-style">BARGE Trivia<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-welcoming-committee" class="unifiednav__item  dmUDNavigationItem_010101720847  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Welcoming Committee
+          " data-auto="page-text-style">BARGE Welcoming Committee<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="1" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/what-i-wish-id-known" class="unifiednav__item  dmUDNavigationItem_010101675687  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             What I wish I'd known
+            " data-auto="page-text-style">What I wish I'd known<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/how-not-to-feel-like-an-outsider" class="unifiednav__item  dmUDNavigationItem_010101901399  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             How not to feel like an outsider
+            " data-auto="page-text-style">How not to feel like an outsider<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/code-of-conduct" class="unifiednav__item  dmUDNavigationItem_010101337280  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Code of Conduct
+          " data-auto="page-text-style">Code of Conduct<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/mailing-lists" class="unifiednav__item  dmUDNavigationItem_010101451892  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Mailing Lists
+          " data-auto="page-text-style">Mailing Lists<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/in-memoriam" class="unifiednav__item  dmUDNavigationItem_010101610099  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           In Memoriam
+          " data-auto="page-text-style">In Memoriam<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/glossary" class="unifiednav__item  dmUDNavigationItem_010101414966  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Glossary
+          " data-auto="page-text-style">Glossary<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-history" class="unifiednav__item  dmUDNavigationItem_010101989200  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE History
+          " data-auto="page-text-style">BARGE History<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-virgin-queen-history" class="unifiednav__item  dmUDNavigationItem_010101238156  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Virgin Queen History
+          " data-auto="page-text-style">BARGE Virgin Queen History<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/inc" class="unifiednav__item  dmUDNavigationItem_04  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BARGE, INC.
+        " data-auto="page-text-style">BARGE, INC.<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/bylaws" class="unifiednav__item  dmUDNavigationItem_010101142010  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Bylaws
+          " data-auto="page-text-style">Bylaws<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/committees" class="unifiednav__item  dmUDNavigationItem_010101680834  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Organizers and Committees
+          " data-auto="page-text-style">Organizers and Committees<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/officers" class="unifiednav__item  dmUDNavigationItem_010101602952  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Board of Directors
+          " data-auto="page-text-style">Board of Directors<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/contact" class="unifiednav__item  dmUDNavigationItem_06  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         CONTACT
+        " data-auto="page-text-style">CONTACT<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/blog" class="unifiednav__item  dmUDNavigationItem_010101628779  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BLOG
+        " data-auto="page-text-style">BLOG<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+ <div class="dmCustomHtml" id="1372194028" data-element-type="html"> <script type="text/javascript">
+
+
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.;c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'ab7bccc237ad2d60fdc3aebf0940ab63fafb4f60');
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+            </script> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1092480819" id="1092480819" layout="divider-style-1" data-element-type="dDividerId"><hr class="u_1588900271 dmDivider" style="min-height: 2px; border:none; background:grey" id="1588900271"/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"></div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_home dm-home-page"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="105" class="dmHomeRespTmpl mainBorder dmRespRowsWrapper" id="1619011000"> <div class="dmRespRow dmDividerRow displayNone" id="1286599623"> <div class="dmRespColsWrapper clearfix" id="1590133743"> <div class="large-12 medium-12 small-12 dmRespCol" id="1289228953"> <div class="dmDividerWrapper clearfix" id="1517843356" data-element-type="dDividerId"><hr class="dmDivider defaultDivider" id="1230014972"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1655991403 dmRespRow" style="text-align: center;" id="1655991403"> <div class="dmRespColsWrapper" id="1785024611"> <div class="u_1571115469 dmRespCol small-12 large-8 medium-8" id="1571115469"> <h1 class="u_1048055199 dmNewParagraph" id="1048055199" data-element-type="paragraph"><b>Welcome to BARGE! ... but what is BARGE?</b></h1></div> 
+ <div class="u_1715812859 dmRespCol small-12 large-4 medium-4 hide-for-small content-removed" id="1715812859"></div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1625157581"> <div class="dmRespColsWrapper" id="1227022149"> <div class="dmRespCol large-12 medium-12 small-12" id="1238285619"> <div class="u_1118521460 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1118521460"> <a id="1000778228"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/Group+Photo+2019-1056w.jpg" id="1543011688" class="" data-dm-image-path="https://irp-cdn.multiscreensite.com/7fa840da/dms3rep/multi/Group+Photo+2019.jpg" onerror="handleImageLoadError(this)" height="334.828125" width="880.0"/></a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1596874168 dmRespRow" style="text-align: center;" id="1596874168"> <div class="dmRespColsWrapper" id="1562531441"> <div class="dmRespCol medium-6 large-6 small-6" id="1590924223"> <span id="1987357171"></span> 
+ <div class="u_1768626890 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" id="1768626890" data-element-type="dSliderId"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':true,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1614963984" hide-content="true"> <ul class="slides" id="1238193637"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1765823619" class="u_1765823619"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/Showalter+2+2024-512w.jpg" id="1243436476" class="" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1229458128"></div> 
+ <div class="slide-inner" id="1138628529"> <div class="text-wrapper" id="1945539890"> <div class="slide-text richText" id="1017529526">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1736692337"> <span class="iconBg" id="1831923894"> <span class="icon hasFontIcon icon-star" id="1299290625"></span> 
+</span> 
+ <span class="text" id="1463919596">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1334304906"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2018-2-512w.jpg" id="1954097560" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1290971229"></div> 
+ <div class="slide-inner" id="1735235397"> <div class="text-wrapper" id="1661115676"> <h3 class="slide-title" id="1261409166">Slide title</h3> 
+ <div class="slide-text richText" id="1326095638">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1330119532"> <span class="iconBg" id="1343646817"> <span class="icon hasFontIcon icon-star" id="1538318502"></span> 
+</span> 
+ <span class="text" id="1269703246">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1867975223" class="" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/Scottro+winner+photo-512w.jpg" id="1136037801" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1043198422"></div> 
+ <div class="slide-inner" id="1970675891"> <div class="text-wrapper" id="1076982184"> <h3 class="slide-title u_1710105492" id="1710105492">Slide title</h3> 
+ <div class="slide-text richText u_1406347532" id="1406347532">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-visible" id="1816845574"> <span class="iconBg" id="1893050031"> <span class="icon hasFontIcon icon-star" id="1984394263"></span> 
+</span> 
+ <span class="text" id="1220140902">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1952014886"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2018-7-512w.jpg" id="1243936149" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1997112100"></div> 
+ <div class="slide-inner" id="1102552570"> <div class="text-wrapper" id="1757683878"> <h3 class="slide-title" id="1727327359">Slide title</h3> 
+ <div class="slide-text richText" id="1691073476">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1033658611"> <span class="iconBg" id="1990676081"> <span class="icon hasFontIcon icon-star" id="1008224970"></span> 
+</span> 
+ <span class="text" id="1735598365">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="30" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1785708335"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-9b-350x200-512w.jpg" irh="91" irw="160" id="1442575980" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1361636780"></div> 
+ <div class="slide-inner fadeInUp animated" id="1297869016"> <div class="text-wrapper" id="1937728063"> <h3 class="slide-title" id="1029643139">Slide Title</h3> 
+ <p class="slide-text" id="1471069633">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1741771905"> <span class="iconBg" id="1538535970"> <span class="icon hasFontIcon icon-star" id="1315141108"></span> 
+</span> 
+ <span class="text" id="1589690486">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1654353303" class="u_1654353303"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2018-5-512w.jpg" id="1946519077" class="" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1096273447"></div> 
+ <div class="slide-inner" id="1630856257"> <div class="text-wrapper" id="1991782659"> <h3 class="slide-title" id="1959287117">Slide title</h3> 
+ <p class="slide-text" id="1058950613">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1314202771"> <span class="iconBg" id="1630519827"> <span class="icon hasFontIcon icon-star" id="1923435450"></span> 
+</span> 
+ <span class="text" id="1677799961">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="31" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1811254657"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-4b-350x200-512w.jpg" irh="91" irw="160" id="1890948296" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1257494242"></div> 
+ <div class="slide-inner fadeInUp animated" id="1656337120"> <div class="text-wrapper" id="1475007761"> <h3 class="slide-title" id="1210171088">Slide Title</h3> 
+ <p class="slide-text" id="1659888838">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1855454911"> <span class="iconBg" id="1841936490"> <span class="icon hasFontIcon icon-star" id="1786136800"></span> 
+</span> 
+ <span class="text" id="1139886813">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="38" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1431780404"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-12b-350x200-512w.jpg" irh="91" irw="160" id="1216845666" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1458691942"></div> 
+ <div class="slide-inner fadeInUp animated" id="1498725610"> <div class="text-wrapper" id="1609877151"> <h3 class="slide-title" id="1507164349">Slide Title</h3> 
+ <p class="slide-text" id="1020664803">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1329075619"> <span class="iconBg" id="1458224310"> <span class="icon hasFontIcon icon-star" id="1689007935"></span> 
+</span> 
+ <span class="text" id="1342711579">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="40" id="1578373003"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/50-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1304921486" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1216150626"></div> 
+ <div class="slide-inner fadeInUp animated" id="1858581820"> <div class="text-wrapper" id="1768786592"> <h1 class="slide-title" id="1011374985">Slide Title</h1> 
+ <p class="slide-text" id="1001751826">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1217211293"> <span class="iconBg" id="1780095903"> <span class="icon hasFontIcon icon-star" id="1639103548"></span> 
+</span> 
+ <span class="text" id="1165172956">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="32" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1452706191"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-3b-350x200-512w.jpg" irh="91" irw="160" id="1542409835" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1848934375"></div> 
+ <div class="slide-inner fadeInUp animated" id="1718354152"> <div class="text-wrapper" id="1726399050"> <h3 class="slide-title" id="1363767481">Slide Title</h3> 
+ <p class="slide-text" id="1978254107">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1858777879"> <span class="iconBg" id="1368757193"> <span class="icon hasFontIcon icon-star" id="1147554722"></span> 
+</span> 
+ <span class="text" id="1849191097">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="34" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1165896784"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-1b-350x200-512w.jpg" irh="91" irw="160" id="1950990744" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1351145194"></div> 
+ <div class="slide-inner fadeInUp animated" id="1286482837"> <div class="text-wrapper" id="1016712647"> <h3 class="slide-title" id="1629141840">Slide Title</h3> 
+ <p class="slide-text" id="1120192108">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1516840804"> <span class="iconBg" id="1145818321"> <span class="icon hasFontIcon icon-star" id="1433658617"></span> 
+</span> 
+ <span class="text" id="1980487518">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="20" id="1059216323"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/26-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1378135091" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1160033542"></div> 
+ <div class="slide-inner fadeInUp animated" id="1655074884"> <div class="text-wrapper" id="1239519769"> <h1 class="slide-title" id="1388970558">Slide Title</h1> 
+ <p class="slide-text" id="1387898092">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1494160560"> <span class="iconBg" id="1653238453"> <span class="icon hasFontIcon icon-star" id="1852071698"></span> 
+</span> 
+ <span class="text" id="1739721075">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="35" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1448038484"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-8b-350x200-512w.jpg" irh="91" irw="160" id="1139800012" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1598132883"></div> 
+ <div class="slide-inner fadeInUp animated" id="1334321733"> <div class="text-wrapper" id="1836086453"> <h3 class="slide-title" id="1147986328">Slide Title</h3> 
+ <p class="slide-text" id="1906995168">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1173814846"> <span class="iconBg" id="1203542431"> <span class="icon hasFontIcon icon-star" id="1895560533"></span> 
+</span> 
+ <span class="text" id="1842879196">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="21" id="1564500555"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/27-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1167977851" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1665805485"></div> 
+ <div class="slide-inner fadeInUp animated" id="1306710737"> <div class="text-wrapper" id="1899232359"> <h1 class="slide-title" id="1611537020">Slide Title</h1> 
+ <p class="slide-text" id="1587901090">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1222105117"> <span class="iconBg" id="1441055630"> <span class="icon hasFontIcon icon-star" id="1901990117"></span> 
+</span> 
+ <span class="text" id="1045036380">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="39" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1704949871"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-11b-350x200-512w.jpg" irh="91" irw="160" id="1713240789" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1041948687"></div> 
+ <div class="slide-inner fadeInUp animated" id="1406472032"> <div class="text-wrapper" id="1041243871"> <h3 class="slide-title" id="1706062961">Slide Title</h3> 
+ <p class="slide-text" id="1736632407">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1695022358"> <span class="iconBg" id="1924747164"> <span class="icon hasFontIcon icon-star" id="1787026161"></span> 
+</span> 
+ <span class="text" id="1726205547">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="22" id="1436978535"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/28-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1553932670" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1370993248"></div> 
+ <div class="slide-inner fadeInUp animated" id="1595878081"> <div class="text-wrapper" id="1849748541"> <h1 class="slide-title" id="1901672980">Slide Title</h1> 
+ <p class="slide-text" id="1131246133">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1729459719"> <span class="iconBg" id="1899733285"> <span class="icon hasFontIcon icon-star" id="1518640324"></span> 
+</span> 
+ <span class="text" id="1516405088">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="23" id="1833219253"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/29-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1494732376" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1918750396"></div> 
+ <div class="slide-inner fadeInUp animated" id="1049483139"> <div class="text-wrapper" id="1747594245"> <h1 class="slide-title" id="1598974341">Slide Title</h1> 
+ <p class="slide-text" id="1907313196">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1230076418"> <span class="iconBg" id="1145325367"> <span class="icon hasFontIcon icon-star" id="1471822871"></span> 
+</span> 
+ <span class="text" id="1477319031">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="24" id="1898261124"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/30-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1842785723" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1880156241"></div> 
+ <div class="slide-inner fadeInUp animated" id="1985804924"> <div class="text-wrapper" id="1467213473"> <h1 class="slide-title" id="1553148460">Slide Title</h1> 
+ <p class="slide-text" id="1605725075">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1651296646"> <span class="iconBg" id="1643023133"> <span class="icon hasFontIcon icon-star" id="1398827888"></span> 
+</span> 
+ <span class="text" id="1738738900">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="25" id="1596376517"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/31-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1334708920" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1864309156"></div> 
+ <div class="slide-inner fadeInUp animated" id="1880102988"> <div class="text-wrapper" id="1279247222"> <h1 class="slide-title" id="1920562507">Slide Title</h1> 
+ <p class="slide-text" id="1053264728">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1789014374"> <span class="iconBg" id="1577471594"> <span class="icon hasFontIcon icon-star" id="1143839323"></span> 
+</span> 
+ <span class="text" id="1154025672">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="26" id="1937746336"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/32-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1774733602" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1826629251"></div> 
+ <div class="slide-inner fadeInUp animated" id="1715570957"> <div class="text-wrapper" id="1840430252"> <h1 class="slide-title" id="1485843002">Slide Title</h1> 
+ <p class="slide-text" id="1110404662">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1878352772"> <span class="iconBg" id="1028007617"> <span class="icon hasFontIcon icon-star" id="1444283515"></span> 
+</span> 
+ <span class="text" id="1558563044">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="27" id="1451098651"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/33-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1870941125" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1255304618"></div> 
+ <div class="slide-inner fadeInUp animated" id="1162666370"> <div class="text-wrapper" id="1935748400"> <h1 class="slide-title" id="1575609875">Slide Title</h1> 
+ <p class="slide-text" id="1404419274">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1755475335"> <span class="iconBg" id="1465273886"> <span class="icon hasFontIcon icon-star" id="1285013024"></span> 
+</span> 
+ <span class="text" id="1342284789">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="28" id="1960239586"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/34-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1452300698" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1989160080"></div> 
+ <div class="slide-inner fadeInUp animated" id="1850642113"> <div class="text-wrapper" id="1654818624"> <h1 class="slide-title" id="1983060314">Slide Title</h1> 
+ <p class="slide-text" id="1726762088">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1205901968"> <span class="iconBg" id="1775978472"> <span class="icon hasFontIcon icon-star" id="1264993841"></span> 
+</span> 
+ <span class="text" id="1299449754">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="29" id="1734052641"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/35-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1539934664" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1614943469"></div> 
+ <div class="slide-inner fadeInUp animated" id="1893745134"> <div class="text-wrapper" id="1413179948"> <h1 class="slide-title" id="1868553534">Slide Title</h1> 
+ <p class="slide-text" id="1603123380">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1969445157"> <span class="iconBg" id="1376106213"> <span class="icon hasFontIcon icon-star" id="1706756658"></span> 
+</span> 
+ <span class="text" id="1750617394">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="30" id="1558998425"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/36-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1044572604" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1855834553"></div> 
+ <div class="slide-inner fadeInUp animated" id="1028414237"> <div class="text-wrapper" id="1423082887"> <h1 class="slide-title" id="1627464726">Slide Title</h1> 
+ <p class="slide-text" id="1248309515">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1526715769"> <span class="iconBg" id="1817477564"> <span class="icon hasFontIcon icon-star" id="1508438952"></span> 
+</span> 
+ <span class="text" id="1312547663">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="31" id="1678746248"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/37-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1056531997" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1724940599"></div> 
+ <div class="slide-inner fadeInUp animated" id="1852410737"> <div class="text-wrapper" id="1906299347"> <h1 class="slide-title" id="1395762069">Slide Title</h1> 
+ <p class="slide-text" id="1631998670">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1505393574"> <span class="iconBg" id="1075918357"> <span class="icon hasFontIcon icon-star" id="1746656368"></span> 
+</span> 
+ <span class="text" id="1472360307">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="32" id="1080585607"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/38-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1686119475" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1147054754"></div> 
+ <div class="slide-inner fadeInUp animated" id="1455784927"> <div class="text-wrapper" id="1237457453"> <h1 class="slide-title" id="1252685135">Slide Title</h1> 
+ <p class="slide-text" id="1347286789">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1797559053"> <span class="iconBg" id="1108431498"> <span class="icon hasFontIcon icon-star" id="1906863037"></span> 
+</span> 
+ <span class="text" id="1402382180">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="33" id="1281429444"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/39-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1457527455" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1633891834"></div> 
+ <div class="slide-inner fadeInUp animated" id="1248675925"> <div class="text-wrapper" id="1865990395"> <h1 class="slide-title" id="1264037485">Slide Title</h1> 
+ <p class="slide-text" id="1991099587">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1206910381"> <span class="iconBg" id="1379511796"> <span class="icon hasFontIcon icon-star" id="1333941967"></span> 
+</span> 
+ <span class="text" id="1736535230">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="34" id="1854523513"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/40-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1316963640" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1757256948"></div> 
+ <div class="slide-inner fadeInUp animated" id="1652045735"> <div class="text-wrapper" id="1985189454"> <h1 class="slide-title" id="1669451887">Slide Title</h1> 
+ <p class="slide-text" id="1751174065">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1284338896"> <span class="iconBg" id="1336785554"> <span class="icon hasFontIcon icon-star" id="1656998614"></span> 
+</span> 
+ <span class="text" id="1331114606">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="35" id="1647117893"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/41-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1315045811" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1683280416"></div> 
+ <div class="slide-inner fadeInUp animated" id="1982567438"> <div class="text-wrapper" id="1139327865"> <h1 class="slide-title" id="1487556113">Slide Title</h1> 
+ <p class="slide-text" id="1681604242">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1552927499"> <span class="iconBg" id="1309130666"> <span class="icon hasFontIcon icon-star" id="1226252981"></span> 
+</span> 
+ <span class="text" id="1301812832">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="36" id="1297094512"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/42-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1584610462" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1493478142"></div> 
+ <div class="slide-inner fadeInUp animated" id="1868155434"> <div class="text-wrapper" id="1290333332"> <h1 class="slide-title" id="1620518442">Slide Title</h1> 
+ <p class="slide-text" id="1326428462">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1362914483"> <span class="iconBg" id="1091601672"> <span class="icon hasFontIcon icon-star" id="1314017084"></span> 
+</span> 
+ <span class="text" id="1463192054">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="37" id="1562471675"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/43-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1786566490" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1601267055"></div> 
+ <div class="slide-inner fadeInUp animated" id="1740300660"> <div class="text-wrapper" id="1628560813"> <h1 class="slide-title" id="1369113497">Slide Title</h1> 
+ <p class="slide-text" id="1773765611">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1400601357"> <span class="iconBg" id="1176838131"> <span class="icon hasFontIcon icon-star" id="1285325006"></span> 
+</span> 
+ <span class="text" id="1632023137">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="38" id="1629205981"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/45-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1762673850" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1109389589"></div> 
+ <div class="slide-inner fadeInUp animated" id="1805838004"> <div class="text-wrapper" id="1286563159"> <h1 class="slide-title" id="1171685857">Slide Title</h1> 
+ <p class="slide-text" id="1784324783">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1352771772"> <span class="iconBg" id="1888463591"> <span class="icon hasFontIcon icon-star" id="1743763350"></span> 
+</span> 
+ <span class="text" id="1168984025">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li show-content="true" layout="center" position="center" text-background="true" color-overlay="true" animation="fadeInUp" index="39" id="1008354053"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/48-350x200-512w.jpg" dm="true" irw="160" irh="91" id="1785630657" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1388416592"></div> 
+ <div class="slide-inner fadeInUp animated" id="1674534883"> <div class="text-wrapper" id="1408578435"> <h1 class="slide-title" id="1631887420">Slide Title</h1> 
+ <p class="slide-text" id="1403624493">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1303250440"> <span class="iconBg" id="1863928030"> <span class="icon hasFontIcon icon-star" id="1668084114"></span> 
+</span> 
+ <span class="text" id="1615526811">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="33" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1972627581"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-2b-350x200-512w.jpg" irh="91" irw="160" id="1755357568" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1611386778"></div> 
+ <div class="slide-inner fadeInUp animated" id="1702639542"> <div class="text-wrapper" id="1744432802"> <h3 class="slide-title" id="1408348701">Slide Title</h3> 
+ <p class="slide-text" id="1444411714">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1920321592"> <span class="iconBg" id="1556420307"> <span class="icon hasFontIcon icon-star" id="1545795254"></span> 
+</span> 
+ <span class="text" id="1015187614">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="37" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1647274372"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-5b-350x200-512w.jpg" irh="91" irw="160" id="1462505563" onerror="handleImageLoadError(this)" height="219.0" width="426.8125"/> <div class="color-overlay" id="1419986486"></div> 
+ <div class="slide-inner fadeInUp animated" id="1679110023"> <div class="text-wrapper" id="1495583165"> <h3 class="slide-title" id="1102841697">Slide Title</h3> 
+ <p class="slide-text" id="1427921953">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1782356514"> <span class="iconBg" id="1699194189"> <span class="icon hasFontIcon icon-star" id="1096293325"></span> 
+</span> 
+ <span class="text" id="1306043919">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespCol medium-6 large-6 small-6" id="1305136104"> <span id="1851139308"></span> 
+ <div class="u_1367671198 flex-container dmImageSlider dmNoMargin dmNoMark" data-widget-type="imageSlider" dmle_volatile_widget="true" id="1367671198" data-element-type="dSliderId"> <div class="flexslider ed-version" sliderscriptparams="{'stretch':true,'animation':true,'randomize':false,'directionNav':true,'isAutoPlay':true,'isFade':true,'controlNav':false,'slideshowSpeed':7000,'animationDuration':600,'pausePlay':true}" id="1215515312" hide-content="true"> <ul class="slides" id="1392399227"> <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1473690652" class="u_1473690652"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/Bremer+2013-508w.jpg" id="1357812979" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1525531888"></div> 
+ <div class="slide-inner" id="1719659618"> <div class="text-wrapper" id="1470325890"> <h3 class="slide-title" id="1576723649">Slide title</h3> 
+ <div class="slide-text richText" id="1773236201">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1027721539"> <span class="iconBg" id="1195946347"> <span class="icon hasFontIcon icon-star" id="1650189384"></span> 
+</span> 
+ <span class="text" id="1499512795">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="38" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1702183193"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/25-350x200-508w.jpg" irh="91" irw="160" id="1842316732" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1186148682"></div> 
+ <div class="slide-inner fadeInUp animated" id="1102872804"> <div class="text-wrapper" id="1982562376"> <h1 class="slide-title" id="1273211305">Slide Title</h1> 
+ <p class="slide-text" id="1310891896">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1813200863"> <span class="iconBg" id="1859114975"> <span class="icon hasFontIcon icon-star" id="1295152262"></span> 
+</span> 
+ <span class="text" id="1026773536">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1410473469" class="" show-caption="false"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/IMG_2544-508w.JPG" id="1865460516" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1992956020"></div> 
+ <div class="slide-inner" id="1274521277"> <div class="text-wrapper" id="1202193634"> <h3 class="slide-title u_1903784429" id="1903784429">Slide title</h3> 
+ <div class="slide-text richText u_1415208390" id="1415208390">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix slide-button-visible" id="1294726935"> <span class="iconBg" id="1312926644"> <span class="icon hasFontIcon icon-star" id="1705049825"></span> 
+</span> 
+ <span class="text" id="1224777909">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="10" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1800773527"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2-350x200-508w.jpg" irh="91" irw="160" id="1166654177" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1191673338"></div> 
+ <div class="slide-inner fadeInUp animated" id="1007026908"> <div class="text-wrapper" id="1483187962"> <h1 class="slide-title" id="1011887539">Slide Title</h1> 
+ <p class="slide-text" id="1679287459">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1742171683"> <span class="iconBg" id="1023330651"> <span class="icon hasFontIcon icon-star" id="1493729775"></span> 
+</span> 
+ <span class="text" id="1260585167">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1372370568"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2018-1-508w.jpg" id="1178136028" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1059982896"></div> 
+ <div class="slide-inner" id="1170155932"> <div class="text-wrapper" id="1403102641"> <h3 class="slide-title" id="1361520170">Slide title</h3> 
+ <div class="slide-text richText" id="1130926943">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1078722926"> <span class="iconBg" id="1128055845"> <span class="icon hasFontIcon icon-star" id="1902007795"></span> 
+</span> 
+ <span class="text" id="1180885132">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1409662117"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2018-4-508w.jpg" id="1308580469" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1425624794"></div> 
+ <div class="slide-inner" id="1867857624"> <div class="text-wrapper" id="1842236114"> <h3 class="slide-title" id="1454791728">Slide title</h3> 
+ <div class="slide-text richText" id="1440205805">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1908264416"> <span class="iconBg" id="1801522622"> <span class="icon hasFontIcon icon-star" id="1309329597"></span> 
+</span> 
+ <span class="text" id="1136794277">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1584086844"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2018-3-508w.jpg" id="1072077169" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1656816810"></div> 
+ <div class="slide-inner" id="1273371341"> <div class="text-wrapper" id="1488297797"> <h3 class="slide-title" id="1581632502">Slide title</h3> 
+ <div class="slide-text richText" id="1513245241">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1511762822"> <span class="iconBg" id="1141859203"> <span class="icon hasFontIcon icon-star" id="1236972928"></span> 
+</span> 
+ <span class="text" id="1166303250">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1566934109"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2018-6-508w.jpg" id="1306148078" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1973996016"></div> 
+ <div class="slide-inner" id="1477350290"> <div class="text-wrapper" id="1281548489"> <h3 class="slide-title" id="1296117275">Slide title</h3> 
+ <div class="slide-text richText" id="1688953446">Write your caption here</div> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1281154882"> <span class="iconBg" id="1235159838"> <span class="icon hasFontIcon icon-star" id="1541063464"></span> 
+</span> 
+ <span class="text" id="1143742212">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="9" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1914532846"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/1-350x200-508w.jpg" irh="91" irw="160" id="1551373789" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1715473618"></div> 
+ <div class="slide-inner fadeInUp animated" id="1422345890"> <div class="text-wrapper" id="1668622444"> <h1 class="slide-title" id="1370765856">Slide Title</h1> 
+ <p class="slide-text" id="1082377963">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1686307103"> <span class="iconBg" id="1751342253"> <span class="icon hasFontIcon icon-star" id="1526347552"></span> 
+</span> 
+ <span class="text" id="1059406201">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="26" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1033934294"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/13-350x200-508w.jpg" irh="91" irw="160" id="1398816016" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1174848831"></div> 
+ <div class="slide-inner fadeInUp animated" id="1702040329"> <div class="text-wrapper" id="1861550309"> <h1 class="slide-title" id="1983399449">Slide Title</h1> 
+ <p class="slide-text" id="1980197240">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1634404910"> <span class="iconBg" id="1804944651"> <span class="icon hasFontIcon icon-star" id="1368080848"></span> 
+</span> 
+ <span class="text" id="1619447862">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="12" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1196196263"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/4-350x200-508w.jpg" irh="91" irw="160" id="1378856308" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1102176013"></div> 
+ <div class="slide-inner fadeInUp animated" id="1684296115"> <div class="text-wrapper" id="1178614398"> <h1 class="slide-title" id="1717803274">Slide Title</h1> 
+ <p class="slide-text" id="1236639449">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1031057844"> <span class="iconBg" id="1183024069"> <span class="icon hasFontIcon icon-star" id="1427983923"></span> 
+</span> 
+ <span class="text" id="1919132292">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="13" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1320560670"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/5-350x200-508w.jpg" irh="91" irw="160" id="1005624603" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1758740807"></div> 
+ <div class="slide-inner fadeInUp animated" id="1049260949"> <div class="text-wrapper" id="1892812367"> <h1 class="slide-title" id="1603743219">Slide Title</h1> 
+ <p class="slide-text" id="1547379817">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1082900838"> <span class="iconBg" id="1112564207"> <span class="icon hasFontIcon icon-star" id="1273915692"></span> 
+</span> 
+ <span class="text" id="1179019993">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="14" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1015858988"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/6-350x200-508w.jpg" irh="91" irw="160" id="1919241613" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1182054270"></div> 
+ <div class="slide-inner fadeInUp animated" id="1443490464"> <div class="text-wrapper" id="1850340754"> <h1 class="slide-title" id="1845468727">Slide Title</h1> 
+ <p class="slide-text" id="1273316751">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1993267029"> <span class="iconBg" id="1977533379"> <span class="icon hasFontIcon icon-star" id="1135652374"></span> 
+</span> 
+ <span class="text" id="1248383394">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="16" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1973578177"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/8-350x200-508w.jpg" irh="91" irw="160" id="1170130941" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1027348006"></div> 
+ <div class="slide-inner fadeInUp animated" id="1177763389"> <div class="text-wrapper" id="1671047749"> <h1 class="slide-title" id="1692051797">Slide Title</h1> 
+ <p class="slide-text" id="1014795564">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1868785286"> <span class="iconBg" id="1541783192"> <span class="icon hasFontIcon icon-star" id="1021188497"></span> 
+</span> 
+ <span class="text" id="1035849185">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="17" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1904510411"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/9-350x200-508w.jpg" irh="91" irw="160" id="1233948235" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1262479054"></div> 
+ <div class="slide-inner fadeInUp animated" id="1051587274"> <div class="text-wrapper" id="1406058818"> <h1 class="slide-title" id="1282002306">Slide Title</h1> 
+ <p class="slide-text" id="1470744692">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1130993907"> <span class="iconBg" id="1482254285"> <span class="icon hasFontIcon icon-star" id="1809590824"></span> 
+</span> 
+ <span class="text" id="1169722657">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="30" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1038171384"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/17-350x200-508w.jpg" irh="91" irw="160" id="1503482249" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1593853100"></div> 
+ <div class="slide-inner fadeInUp animated" id="1945363699"> <div class="text-wrapper" id="1447745455"> <h1 class="slide-title" id="1779974435">Slide Title</h1> 
+ <p class="slide-text" id="1288913378">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1050646765"> <span class="iconBg" id="1904150067"> <span class="icon hasFontIcon icon-star" id="1736999282"></span> 
+</span> 
+ <span class="text" id="1085978478">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="15" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1714327758"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/7-350x200-508w.jpg" irh="91" irw="160" id="1048358295" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1257091403"></div> 
+ <div class="slide-inner fadeInUp animated" id="1520736794"> <div class="text-wrapper" id="1777367594"> <h1 class="slide-title" id="1755278994">Slide Title</h1> 
+ <p class="slide-text" id="1059558345">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1155868315"> <span class="iconBg" id="1146630155"> <span class="icon hasFontIcon icon-star" id="1239236092"></span> 
+</span> 
+ <span class="text" id="1771235191">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="24" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1051956705"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/11-350x200-508w.jpg" irh="91" irw="160" id="1076743893" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1572079278"></div> 
+ <div class="slide-inner fadeInUp animated" id="1413802584"> <div class="text-wrapper" id="1208719207"> <h1 class="slide-title" id="1592404402">Slide Title</h1> 
+ <p class="slide-text" id="1266505513">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1798750159"> <span class="iconBg" id="1886360104"> <span class="icon hasFontIcon icon-star" id="1778963488"></span> 
+</span> 
+ <span class="text" id="1798807698">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="25" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1146116834"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/12-350x200-508w.jpg" irh="91" irw="160" id="1185992014" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1448441049"></div> 
+ <div class="slide-inner fadeInUp animated" id="1334232962"> <div class="text-wrapper" id="1812818352"> <h1 class="slide-title" id="1119869237">Slide Title</h1> 
+ <p class="slide-text" id="1111873479">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1359889611"> <span class="iconBg" id="1250095767"> <span class="icon hasFontIcon icon-star" id="1281183255"></span> 
+</span> 
+ <span class="text" id="1934152902">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="27" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1690011961"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/14-350x200-508w.jpg" irh="91" irw="160" id="1611075263" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1588827983"></div> 
+ <div class="slide-inner fadeInUp animated" id="1414576905"> <div class="text-wrapper" id="1752425894"> <h1 class="slide-title" id="1685846914">Slide Title</h1> 
+ <p class="slide-text" id="1532807398">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1800232407"> <span class="iconBg" id="1424504918"> <span class="icon hasFontIcon icon-star" id="1748268201"></span> 
+</span> 
+ <span class="text" id="1487562443">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="28" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1933014012"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/15-350x200-508w.jpg" irh="91" irw="160" id="1973048476" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1513033695"></div> 
+ <div class="slide-inner fadeInUp animated" id="1295814175"> <div class="text-wrapper" id="1127181881"> <h1 class="slide-title" id="1305474448">Slide Title</h1> 
+ <p class="slide-text" id="1129347719">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1618297559"> <span class="iconBg" id="1425410574"> <span class="icon hasFontIcon icon-star" id="1236189461"></span> 
+</span> 
+ <span class="text" id="1162425834">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="29" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1067192587"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/16-350x200-508w.jpg" irh="91" irw="160" id="1580905927" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1628545060"></div> 
+ <div class="slide-inner fadeInUp animated" id="1780353942"> <div class="text-wrapper" id="1328892152"> <h1 class="slide-title" id="1819937033">Slide Title</h1> 
+ <p class="slide-text" id="1028861198">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1875750888"> <span class="iconBg" id="1423739781"> <span class="icon hasFontIcon icon-star" id="1052809960"></span> 
+</span> 
+ <span class="text" id="1592283083">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="31" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1061961617"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/18-350x200-508w.jpg" irh="91" irw="160" id="1959711956" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1564854959"></div> 
+ <div class="slide-inner fadeInUp animated" id="1369984018"> <div class="text-wrapper" id="1355995051"> <h1 class="slide-title" id="1544399860">Slide Title</h1> 
+ <p class="slide-text" id="1219575039">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1750792216"> <span class="iconBg" id="1193092598"> <span class="icon hasFontIcon icon-star" id="1039125904"></span> 
+</span> 
+ <span class="text" id="1249988987">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="32" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1419929513"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/19-350x200-508w.jpg" irh="91" irw="160" id="1360802389" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1922406887"></div> 
+ <div class="slide-inner fadeInUp animated" id="1632697894"> <div class="text-wrapper" id="1567699136"> <h1 class="slide-title" id="1044521018">Slide Title</h1> 
+ <p class="slide-text" id="1820733697">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1614999906"> <span class="iconBg" id="1468648685"> <span class="icon hasFontIcon icon-star" id="1000992635"></span> 
+</span> 
+ <span class="text" id="1041014826">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="33" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1912595003"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/20-350x200-508w.jpg" irh="91" irw="160" id="1868067272" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1655668246"></div> 
+ <div class="slide-inner fadeInUp animated" id="1447985968"> <div class="text-wrapper" id="1961445643"> <h1 class="slide-title" id="1345376573">Slide Title</h1> 
+ <p class="slide-text" id="1617195204">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1298865190"> <span class="iconBg" id="1100918260"> <span class="icon hasFontIcon icon-star" id="1896020359"></span> 
+</span> 
+ <span class="text" id="1397666943">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="35" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1015855729"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/22-350x200-508w.jpg" irh="91" irw="160" id="1447628680" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1947367959"></div> 
+ <div class="slide-inner fadeInUp animated" id="1189068178"> <div class="text-wrapper" id="1757024532"> <h1 class="slide-title" id="1107310895">Slide Title</h1> 
+ <p class="slide-text" id="1837902528">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1878307804"> <span class="iconBg" id="1546591545"> <span class="icon hasFontIcon icon-star" id="1091598061"></span> 
+</span> 
+ <span class="text" id="1766407767">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="36" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1584579924"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/23-350x200-508w.jpg" irh="91" irw="160" id="1310951593" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1307710645"></div> 
+ <div class="slide-inner fadeInUp animated" id="1727062991"> <div class="text-wrapper" id="1221475478"> <h1 class="slide-title" id="1053959949">Slide Title</h1> 
+ <p class="slide-text" id="1357369085">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1967216830"> <span class="iconBg" id="1463161298"> <span class="icon hasFontIcon icon-star" id="1459941199"></span> 
+</span> 
+ <span class="text" id="1205325728">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="37" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1549060800"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/24-350x200-508w.jpg" irh="91" irw="160" id="1916763607" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1988681412"></div> 
+ <div class="slide-inner fadeInUp animated" id="1975801940"> <div class="text-wrapper" id="1322445256"> <h1 class="slide-title" id="1358012196">Slide Title</h1> 
+ <p class="slide-text" id="1768579016">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1932165813"> <span class="iconBg" id="1820175491"> <span class="icon hasFontIcon icon-star" id="1001596495"></span> 
+</span> 
+ <span class="text" id="1733481759">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="37" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1039224979"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-2b-350x200-508w.jpg" irh="91" irw="160" id="1481327440" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1029054026"></div> 
+ <div class="slide-inner fadeInUp animated" id="1612578037"> <div class="text-wrapper" id="1776272821"> <h3 class="slide-title" id="1595966153">Slide Title</h3> 
+ <p class="slide-text" id="1846672281">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1780684515"> <span class="iconBg" id="1323659658"> <span class="icon hasFontIcon icon-star" id="1249717712"></span> 
+</span> 
+ <span class="text" id="1922747673">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="40" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1616396358"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/2016-5b-350x200-508w.jpg" irh="91" irw="160" id="1816195870" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1642013211"></div> 
+ <div class="slide-inner fadeInUp animated" id="1587241471"> <div class="text-wrapper" id="1788941048"> <h3 class="slide-title" id="1215730868">Slide Title</h3> 
+ <p class="slide-text" id="1152480766">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1162847687"> <span class="iconBg" id="1867591917"> <span class="icon hasFontIcon icon-star" id="1534761502"></span> 
+</span> 
+ <span class="text" id="1499633072">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="18" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1433347573"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/10-350x200-508w.jpg" irh="91" irw="160" id="1083382722" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1053851994"></div> 
+ <div class="slide-inner fadeInUp animated" id="1609656818"> <div class="text-wrapper" id="1710715827"> <h1 class="slide-title" id="1880118809">Slide Title</h1> 
+ <p class="slide-text" id="1821222928">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1019369858"> <span class="iconBg" id="1904677829"> <span class="icon hasFontIcon icon-star" id="1096033201"></span> 
+</span> 
+ <span class="text" id="1557767309">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="34" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1726653797"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/21-350x200-508w.jpg" irh="91" irw="160" id="1599140246" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1599477025"></div> 
+ <div class="slide-inner fadeInUp animated" id="1544578417"> <div class="text-wrapper" id="1954170395"> <h1 class="slide-title" id="1569942430">Slide Title</h1> 
+ <p class="slide-text" id="1082183921">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1695963913"> <span class="iconBg" id="1260739363"> <span class="icon hasFontIcon icon-star" id="1648959843"></span> 
+</span> 
+ <span class="text" id="1547587384">Button</span> 
+</div> 
+</div> 
+</li> 
+ <li index="11" layout="center" position="center" animation="fadeInUp" show-content="true" color-overlay="true" text-background="true" id="1593342093"><img dm="true" src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/3-350x200-508w.jpg" irh="91" irw="160" id="1770221304" onerror="handleImageLoadError(this)" height="220.0" width="424.0"/> <div class="color-overlay" id="1085912029"></div> 
+ <div class="slide-inner fadeInUp animated" id="1092328341"> <div class="text-wrapper" id="1364574017"> <h1 class="slide-title" id="1824401450">Slide Title</h1> 
+ <p class="slide-text" id="1300700363">Write your caption here</p> 
+</div> 
+ <div class="slide-button dmWidget clearfix" id="1655778294"> <span class="iconBg" id="1864267182"> <span class="icon hasFontIcon icon-star" id="1146091107"></span> 
+</span> 
+ <span class="text" id="1540604700">Button</span> 
+</div> 
+</div> 
+</li> 
+</ul> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow dmImgCoverTxtRow dmRespRowStable" id="1115110114"> <div class="dmRespColsWrapper clearfix" id="1753216910"> <div class="dmRespCol large-12 medium-12 small-12" id="1078229793"> <div class="u_1903450100 dmRespRow dmImgCoverBottomRow" id="1903450100"> <div class="dmRespColsWrapper clearfix" id="1243503194"> <div class="dmRespCol small-12 medium-12 large-12" id="1152770253"> <h1 class="dmImgCoverBottomTxt u_1705865891" id="1705865891" style="float: none; display: block;"><div style="text-align: center;"><b><span style="font-weight: 700;">BARGE is the most fun you can have while playing poker...</span></b></div></h1> <div class="dmDividerWrapper clearfix" id="1839739306" data-element-type="dDividerId"><hr class="dmDivider defaultDivider" id="1816606147"/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1892878080 dmRespRow" style="text-align: center;" id="1892878080"> <div class="dmRespColsWrapper" id="1439772651"> <div class="dmRespCol small-12 medium-12 large-12" id="1531772332"> <div class="u_1163153965 dmNewParagraph" id="1163153965" style="transition: none 0s ease 0s; display: block;"> <p class="size-16 m-size-16" style="text-decoration:none;">This is the home of BARGE, the Big August Rec.Gambling Excursion.
+BARGE is an online community of poker enthusiasts that hosts an annual
+event (of the same name) in Las Vegas, NV typically during the week
+leading up to the first Saturday in August. The event features several
+poker tournaments, as well as a wide variety of non-poker related
+activities including dinners, karaoke, a golf outing, a sushi outing, 
+a fun run, room escapes, shows, and shopping. Activities can vary from year to year
+and are based on whatever people choose to organize. In recent years, we
+have also hosted a winter event, known as <a href="/embargo-info" runtime_url="/embargo-info">EMBARGO</a>.</p> 
+</div> 
+ <div class="u_1576499874 dmNewParagraph" id="1576499874"> <p class="size-16 m-size-16" style="text-decoration:none;">Our members communicate throughout the year via email, Facebook, Twitter and other means (including in person). &nbsp;BARGE began in 1991 and membership has grown significantly over the years. &nbsp;Our members come from all professions and ages. &nbsp;The poker accomplishments of our members include over 20 WSOP bracelet winners as well as other major tournaments (WPT, WSOP Circuit). Although we do find that many of our members have backgrounds in technology, science and the law, we
+welcome and encourage people to join regardless of their professional
+backgrounds or poker accomplishments.</p> 
+</div> 
+ <div class="dmNewParagraph u_1991231190" id="1991231190" style="display: block;"> <p class="size-16 m-size-16" style="text-decoration:none;">BARGE Inc. is a 501(c)7 corporation registered in the State of Nevada.</p> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow" style="text-align: center;" id="1427652783"> <div class="dmRespColsWrapper" id="1407398443"> <div class="dmRespCol small-12 medium-12 large-12" id="1512165231"> <div class="dmDividerWrapper clearfix" id="1803942962" data-element-type="dDividerId"><hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1203471283"/></div> 
+ <span id="1054490303"></span> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1030013589 dmRespRow" style="text-align: center;" id="1030013589"> <div class="dmRespColsWrapper" id="1357247209"> <div class="u_1976278920 dmRespCol small-12 medium-12 large-12" id="1976278920"> <h1 class="u_1568299706 dmNewParagraph" id="1568299706" data-element-type="paragraph">Why Join Us?</h1></div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1920756222"> <div class="dmRespColsWrapper" id="1835774082"> <div class="u_1704277937 dmRespCol small-12 large-7 medium-7" id="1704277937"> <div class="u_1153496892 dmNewParagraph" id="1153496892"> <span id="1586619027">Because you enjoy playing poker and want to be part of a diverse community
+of fun-loving people. We all enjoy the game of poker. We claim several WSOP
+bracelet winners among our membership. We also have novice players. We host
+tournaments and live games during our events. No one is pressured to play
+above their bankroll. We openly exchange ideas and many of our members have
+greatly enhanced their poker skills via BARGE. But the most important reason
+to join is: it's the most fun you will ever have playing poker! BARGE is what
+poker should be!</span> 
+</div> 
+</div> 
+ <div class="u_1658800174 dmRespCol small-12 large-5 medium-5" id="1658800174"> <div class="u_1447519937 imageWidget align-center" data-element-type="image" data-widget-type="image" id="1447519937"> <a id="1012864536"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/20200203_122511-424w.jpg" id="1788513754" class="" data-dm-image-path="https://irp-cdn.multiscreensite.com/7fa840da/dms3rep/multi/20200203_122511.jpg" onerror="handleImageLoadError(this)" height="198.8125" width="353.46875"/></a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow" style="text-align: center;" id="1101236771"> <div class="dmRespColsWrapper" id="1331132231"> <div class="dmRespCol small-12 medium-12 large-12" id="1325675299"> <div class="u_1324804457 dmDividerWrapper clearfix" id="1324804457" data-element-type="dDividerId"><hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1345558891"/></div> 
+ <div class="u_1127248636 dmTwitterFeedWrapper hide-for-medium hide-for-large" data-element-type="dTwitterId" id="1127248636"> <div class="dmTwitterFeed dmWwr dmTwitterNoScroll" twitterusername="bargedotorg" numberoftweets="3" twittertype="Profile" hideheaderfooter="" lang="en" id="1339669931"></div> 
+</div> 
+ <div class="u_1773009983 dmTwitterFeedWrapper hide-for-small" data-element-type="dTwitterId" id="1773009983"> <div class="dmTwitterFeed dmWwr dmTwitterNoScroll" twitterusername="bargedotorg" numberoftweets="3" twittertype="Profile" hideheaderfooter="" lang="en" id="1093009274"></div> 
+</div> 
+ <span id="1446125476"></span> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow" style="text-align: center;" id="1187268886"> <div class="dmRespColsWrapper" id="1141276989"> <div class="dmRespCol small-12 medium-12 large-12" id="1262009519"> <div class="dmDividerWrapper clearfix" id="1148301744" data-element-type="dDividerId"><hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1587606700"/></div> 
+ <span id="1455824505"></span> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1661668324 dmRespRow" id="1661668324"> <div class="dmRespColsWrapper" id="1941548609"> <div class="dmRespCol large-12 medium-12 small-12" id="1250117670"> <h3 class="dmNewParagraph" data-element-type="paragraph" id="1371938255" style="transition: opacity 1s ease-in-out 0s;"><span style="font-weight: 700;">Here's a video montage from ATLARGE 2019 (courtesy of Dilligaf)!&nbsp; Enjoy!</span></h3></div> 
+</div> 
+</div> 
+ <div class="u_1813890377 dmRespRow" id="1813890377"> <div class="dmRespColsWrapper" id="1128907796"> <div class="dmRespCol large-12 medium-12 small-12" id="1416647864"> <div data-element-type="html" class="u_1201102288 dmCustomHtml" id="1201102288"> <iframe width="900" height="450" src="https://www.youtube.com/embed/ZP7sEpPKBgA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow" style="text-align: center;" id="1628971380"> <div class="dmRespColsWrapper" id="1452079582"> <div class="dmRespCol small-12 medium-12 large-12" id="1569130962"> <div class="u_1790594421 dmDividerWrapper clearfix" id="1790594421" data-element-type="dDividerId"><hr class="dmDivider" style="min-height: 2px; border:none; background:grey" id="1409103222"/></div> 
+ <span id="1167943859"></span> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1599847701 dmRespRow" style="text-align: center;" id="1599847701"> <div class="dmRespColsWrapper" id="1702717888"> <div class="dmRespCol small-12 medium-12 large-12" id="1651500719"> <div class="u_1198255220 dmNewParagraph" id="1198255220" data-element-type="paragraph" data-version="5"> <h3 class="text-align-left"><span style="display: initial; font-weight: 700;">OUR NEXT EVENT</span></h3> 
+</div></div> 
+</div> 
+</div> 
+ <div class="dmRespRow" id="1472151235"> <div class="dmRespColsWrapper" id="1516968782"> <div class="dmRespCol large-12 medium-12 small-12" id="1979005458"> <div class="dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1168177415"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1388364791"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1396388122 dmRespRow dmPaddingForCols" data-dm-col-count="2" data-dm-import-group="0" data-dm-raw-html="true" data-dm-raw-html-id="imported0" id="1396388122"> <div class="dmRespColsWrapper" id="1494321831"> <div class="u_1799090606 dmRespCol    small-12 large-6 medium-6" id="1799090606"> <div class="u_1608192770 imageWidget" data-widget-type="image" id="1608192770" data-element-type="image"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/barge_logo_undated-374w.png" id="1846717922" dm_changed="true" class="u_1846717922" data-dm-image-path="https://irp.cdn-website.com/7fa840da/dms3rep/multi/barge_logo_undated.png" width="1024" height="694" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+ <div class="u_1962390334 dmRespCol    small-12 large-6 medium-6 content-removed" id="1962390334"> <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1805326934" style="transition: opacity 1s ease-in-out 0s;"><p><span class="" style="display: initial; font-weight: bold; color: rgb(0, 0, 0);"><span style="display: initial; font-weight: bold; color: rgb(0, 0, 0);">BARGE 2024 will take place at the Westgate in beautiful Las Vegas from July 15 - 20, 2024.&nbsp; Registration is open!</span> 
+</span></p><p><span style="display: initial;"><br/></span></p><p><span class="" style="display: initial;"><span style="display: initial;">The event schedule can be found</span> 
+</span><a href="/barge-2024-schedule" runtime_url="/barge-2024-schedule" type="page" style="display: initial;">here</a><span style="display: initial;">.</span></p><p><span style="display: initial;"><br/></span></p><p><span class="" style="display: initial;"><span style="display: initial;">The registration link can be found</span> 
+</span><a href="https://barge.regfox.com/barge-2024" target="_blank" runtime_url="https://barge.regfox.com/barge-2024" type="url" style="display: initial;">here</a><span style="display: initial;">.</span></p><p><span style="display: initial;"><br/></span></p><p><span style="display: initial;">Also, the Westgate has asked me to remind everyone once again to book your BARGE rooms as soon as possible, as overall hotel availability is dwindling. Rooms are allocated on a first-come first-served basis, please make sure to reserve your room as soon as possible if you plan to attend BARGE 2024. The BARGE 2024 rate will be $55 Sunday through Thursday and $85 Friday and Saturday INCLUDING resort fee and taxes. The rate should be available from Saturday, July 13 through Monday, July 22. Rooms can be booked through Casino Services at&nbsp;</span><a href="tel:7027325151" target="_blank" style="display: initial;">(702) 732-5151</a><span style="display: initial;">&nbsp;or toll free at&nbsp;</span><a href="tel:8889993836" target="_blank" style="display: initial;">(888) 999-3836</a><span style="display: initial;">. Please mention the BARGE poker group or croup code ZBARGE4. These rates are only available by phone and cannot be booked online.&nbsp; NOTE: Casino Services hours are 8-5 Monday through Saturday, closed on Sunday.&nbsp; Upgrades to Lanai suites cannot be booked in advance, but may be available at check-in depending on occupancy.</span></p><p><span style="display: initial;"><br/></span></p><p><span style="font-weight: bold; color: rgb(0, 0, 0); display: initial;">Please subscribe to the BARGE mailing list for the most up-to-date information by clicking on Resource, then Mailing Lists.</span></p><p><span style="display: initial;"><br/></span></p><p><span style="font-weight: bold; display: initial;">We hope to see you there!</span></p><p><span style="display: initial;"><br/></span></p><p><span style="font-weight: bold; display: initial;">For the Organizers:</span></p><p><span style="font-weight: bold; display: initial;">Rich Bremer</span></p><p><span style="font-weight: bold; display: initial;">Russ Fox</span></p><p><span style="font-weight: bold; display: initial;">Jeff Deitch</span></p><p><span style="font-weight: bold; display: initial;">Stevan Goldman</span></p><p><span style="font-weight: bold; display: initial;">Sharon Goldman</span></p></div> 
+ <div class="u_1881690407 dmNewParagraph" id="1881690407"><div><b><span class="lh-1 font-size-18">Keep up to date with information by <a href="/mailing-lists" runtime_url="/mailing-lists">subscribing</a> 
+to our email mailing lists!</span></b><br/></div></div></div> 
+</div> 
+</div> 
+ <div class="u_1067797291 dmRespRow hide-for-small hide-for-medium" id="1067797291"> <div class="dmRespColsWrapper" id="1775070861"> <div class="dmRespCol large-12 medium-12 small-12" id="1489635546"> <div class="dmDividerWrapper clearfix" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1510709527"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1283820028"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1923764125 dmRespRow" style="text-align: center;" id="1923764125"> <div class="dmRespColsWrapper" id="1286332943"> <div class="dmRespCol small-12 medium-12 large-12" id="1874620474"> <div class="u_1253654225 dmNewParagraph" id="1253654225" data-element-type="paragraph" data-version="5"> <h3 class="text-align-left"><span style="display: initial; font-weight: 700;">OUR RECENT EVENTS</span></h3> 
+</div></div> 
+</div> 
+</div> 
+ <div class="dmRespRow" style="text-align: center;" id="1697752314"> <div class="dmRespColsWrapper" id="1655514351"> <div class="dmRespCol small-12 medium-6 large-6" id="1479622820"> <span id="1031890826"></span> 
+ <div class="u_1681989093 imageWidget" data-widget-type="image" id="1681989093" data-element-type="image"> <a href="http://www.atlargepoker.com" id="1850743060" file="false" target="_blank"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/atlarge%20logo-230x196-276w.jpg" id="1202726678" dm_changed="true" class="u_1202726678" onerror="handleImageLoadError(this)" height="196.0" width="230.0"/></a> 
+</div> 
+</div> 
+ <div class="dmRespCol small-12 medium-6 large-6" id="1438150255"> <span id="1992606425"></span> 
+ <div class="u_1949401354 dmNewParagraph" id="1949401354" style="display:block;line-height:initial;" data-version="5"><p class="text-align-left" style="line-height: 16px;"><span style="font-weight: 700; display: initial;">&nbsp;<br/></span></p><p class="text-align-left size-18"><a href="http://www.atlargepoker.com/" runtime_url="http://www.atlargepoker.com/" style="font-weight: 700; color: rgb(91, 72, 36); text-decoration: none; display: initial;" class="font-size-18 m-font-size-16">ATLARG</a><span class="font-size-18 m-font-size-16" style="font-weight: 700; color: rgb(91, 72, 36); text-decoration: none; display: initial;">E 2024</span><span class="font-size-18" style="font-weight: 700; display: initial;"> <span class="font-size-18" style="font-weight: 700; display: initial;">will take place at the Borgata in Atlantic City, April 19 - 21, 2024.</span></span><span class="font-size-18" style="font-weight: bold; display: initial;">&nbsp;</span></p><p class="text-align-left" style="line-height: 16px;"><span style="font-weight: 700; display: initial;">&nbsp;<br/></span></p><p class="text-align-left size-18"><span class="font-size-18" style="font-weight: bold; display: initial;"><span style="font-weight: bold; display: initial;" class="font-size-18">For more information about ATLARGE, including our email list registration link, please visit</span> 
+</span><a href="https://www.atlargepoker.com" target="_blank" runtime_url="https://www.atlargepoker.com" type="url" class="font-size-18" style="font-weight: bold; display: initial;">https://www.atlargepoker.com</a><span class="font-size-18" style="font-weight: bold; display: initial;"> <span class="font-size-18" style="font-weight: bold; display: initial;">!</span></span><span style="font-weight: 700; display: initial;"><br/></span></p><p class="text-align-left" style="line-height: 16px;"><span style="font-weight: 700; display: initial;">&nbsp;<br/></span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1488903529 dmRespRow hide-for-small hide-for-medium" id="1488903529"> <div class="dmRespColsWrapper" id="1572643282"> <div class="dmRespCol large-12 medium-12 small-12" id="1970003385"> <div class="dmDividerWrapper clearfix u_1420860595" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1420860595"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1713170537"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1144527935 dmRespRow" style="text-align: center;" id="1144527935"> <div class="dmRespColsWrapper" id="1131773816"> <div class="u_1927101918 dmRespCol small-12 large-6 medium-6" id="1927101918"> <span id="1280278558"></span> 
+ <div class="u_1094995557 imageWidget" data-widget-type="image" id="1094995557" data-element-type="image"> <a href="http://www.fargopoker.com" id="1222435576" file="false" target="_blank"><img src="https://irp-cdn.multiscreensite.com/7fa840da/dms3rep/multi/fargo%20logo%201-1004x180.gif" id="1898717799" dm_changed="true" class="u_1898717799" onerror="handleImageLoadError(this)" height="41.9375" width="234.0"/></a> 
+</div> 
+</div> 
+ <div class="u_1919477092 dmRespCol small-12 large-6 medium-6 content-removed" id="1919477092"> <span id="1769822377"></span> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1743442841" style="transition: opacity 1s ease-in-out 0s;"><p><span style="font-weight: bold; display: initial;">FARGO 2023 took place at the Mohegan Sun in&nbsp;</span><span style="font-weight: bold; display: initial; color: rgb(0, 0, 0);">Connecticut&nbsp; from October 13-15, 2023!&nbsp; &nbsp;</span></p><p><span style="display: initial;"><br/></span></p><p><span style="font-weight: 700; display: initial;">Visit&nbsp;</span><a href="http://www.fargopoker.org" target="_blank" runtime_url="http://www.fargopoker.org" style="font-weight: 700; display: initial;">www.fargopoker.org</a><span style="font-weight: 700; display: initial;">&nbsp;for additional information.&nbsp;</span></p></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1739241590 dmRespRow hide-for-small hide-for-medium" id="1739241590"> <div class="dmRespColsWrapper" id="1657305887"> <div class="dmRespCol large-12 medium-12 small-12" id="1910630963"> <div class="dmDividerWrapper clearfix u_1406510282" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1406510282"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1070511909"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1010895209 dmRespRow" style="text-align: center;" id="1010895209"> <div class="dmRespColsWrapper" id="1818852873"> <div class="u_1393738710 dmRespCol small-12 large-6 medium-6" id="1393738710"> <div class="u_1137842358 imageWidget" data-widget-type="image" id="1137842358" data-element-type="image"> <a href="/embargo-info" id="1270881784" file="false"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/argem+logo-504w.jpg" id="1322399691" dm_changed="true" class="u_1322399691" data-dm-image-path="https://irp-cdn.multiscreensite.com/7fa840da/dms3rep/multi/argem+logo.jpg" onerror="handleImageLoadError(this)" height="91.46875" width="420.8125"/></a> 
+</div> 
+</div> 
+ <div class="u_1505892759 dmRespCol small-12 large-6 medium-6" id="1505892759"> <span id="1561045791"></span> 
+ <div class="u_1081537712 dmNewParagraph" id="1081537712" style="display:block;transition:none;line-height:initial;" data-version="5"><p class="m-size-18 text-align-left size-18" style="line-height: 16px;"><span style="font-weight: bold; display: initial;" class="font-size-18 m-font-size-18" m-font-size-set="true">ARGEM was held June 7-9, 2024 at Maryland Live!</span></p><p class="text-align-left"><span style="display: initial;"><br/></span></p><p class="text-align-left size-18"><span class="font-size-18" style="display: initial; font-weight: bold;"><span style="display: initial; font-weight: bold;" class="font-size-18">Please visit the ARGEM website</span> 
+</span><a href="https://argempoker.com/" target="_blank" runtime_url="https://argempoker.com/" type="url" class="font-size-18" style="display: initial; font-weight: bold;">here</a><span class="font-size-18" style="display: initial; font-weight: bold;"> <span class="font-size-18" style="display: initial; font-weight: bold;">for more information...hope to see you in the future!</span></span><span style="display: initial;"><br/></span></p><p class="text-align-left" style="line-height: 16px;"><span style="display: initial;">&nbsp;<br/></span></p></div></div> 
+</div> 
+</div> 
+ <div class="u_1407584749 dmRespRow hide-for-small hide-for-medium" id="1407584749"> <div class="dmRespColsWrapper" id="1090423459"> <div class="dmRespCol large-12 medium-12 small-12" id="1902213807"> <div class="dmDividerWrapper clearfix u_1961604296" data-element-type="dDividerId" data-layout="divider-style-1" data-widget-version="2" id="1961604296"><hr class="dmDivider" style="border-width:2px; border-top-style:solid; color:grey;" id="1600727339"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1639270000 dmRespRow" style="text-align: center;" id="1639270000"> <div class="dmRespColsWrapper" id="1618396630"> <div class="u_1705542802 dmRespCol small-12 large-6 medium-6" id="1705542802"> <div class="u_1923276046 imageWidget" data-widget-type="image" id="1923276046" data-element-type="image"> <a href="/embargo-info" id="1441161373" file="false"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/embargo_logo_2024-446h.png" id="1049391381" dm_changed="true" class="u_1049391381" data-dm-image-path="https://irp.cdn-website.com/7fa840da/dms3rep/multi/embargo_logo_2024.png" width="400" height="600" onerror="handleImageLoadError(this)"/></a> 
+</div> 
+</div> 
+ <div class="u_1274144885 dmRespCol small-12 large-6 medium-6 content-removed" id="1274144885"> <span id="1352728326"></span> 
+ <div class="dmNewParagraph" data-element-type="paragraph" data-version="5" id="1649196199" style="transition: opacity 1s ease-in-out 0s;"><p><span style="display: initial; font-weight: bold;">EMBARGO 2024 took place at Resorts World in Las Vegas from February 1-3, 2024.</span><span style="display: initial;"><br/></span></p></div> 
+ <a data-display-type="block" class="u_1787148367 dmButtonLink dmWidget dmWwr default dmOnlyButton" file="false" href="/schedule1" id="1787148367" data-element-type="dButtonLinkId"> <span class="iconBg" id="1380055650"> <span class="icon hasFontIcon icon-star" id="1581885517"></span> 
+</span> 
+ <span class="text" id="1762984957">EMBARGO 2024 Schedule</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="14" class="dmFooterResp dmFullFooterResp" id="1111073452"> <div class="dmRespRow dmDividerRow" id="1503735893"> <div class="dmRespColsWrapper" id="1033248163"> <div class="large-12 medium-12 small-12 dmRespCol" id="1142567420"> <div class="dmDividerWrapper clearfix" id="1560217446" data-element-type="dDividerId"><hr class="dmDivider defaultDivider" id="1292223076"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1424577298 dmRespRow dmFooterContent" id="1424577298"> <div class="dmRespColsWrapper" id="1527896906"> <div class="dmRespCol large-12 medium-12 small-12 dmFooterCol content-removed" id="1624182295"> <h3 class="dmFooterDefaultH3" id="1489236914">Follow Us</h3> 
+</div> 
+</div> 
+</div> 
+ <div id="1409248432" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&amp;subset=latin-ext&amp;display=swap"  as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="preload" as="style" fetchpriority="low" onload="loadCSS(this)" href="https://static.cdn-website.com/mnlt/production/4934/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link rel="preload" href="https://irp.cdn-website.com/WIDGET_CSS/8b2ac982b3d24d20bc50725c3e5c10b3.css" id="widgetCSS" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="home"] #dm [data-show-on-page-only="home"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link rel="preload" href="https://irp.cdn-website.com/7fa840da/files/7fa840da_withFlex_1.min.css?v=1124" id="siteGlobalCss" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<!-- Page CSS -->
+<link rel="preload" href="https://irp.cdn-website.com/7fa840da/files/7fa840da_home_withFlex_1.min.css?v=1124" id="homeCssLink" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+<style id="pagestyle" type="text/css">
+    
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-48, .size-48, .size-48 > font { font-size: 48px !important; }.font-size-16, .size-16, .size-16 > font { font-size: 16px !important; }.font-size-18, .size-18, .size-18 > font { font-size: 18px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4934";
+    var build = "2024-11-17T13_49_44";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-11-17T13_49_44";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4934';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4934';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =true;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwid.delegateNavigationToEcwid.enabled"] = false;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4934/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4934/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script src="/_dm/s/rt/smart/message.js?r&#x3D;1" type="text/javascript"></script><script src="/_dm/s/rt/smart/helpers.js" type="text/javascript"></script><script src="/_dm/s/rt/smart/userVisitsConditionService.js?v&#x3D;1" type="text/javascript"></script><script src="/_dm/s/rt/smart/timeRangeConditionService.js" type="text/javascript"></script><script src="https://static.cdn-website.com/libs/rrule/2.8.1/rrule.min.js" type="text/javascript"></script><script>(function(global){
+global.insiteScripts.message({useNew: true, ruleId : '133460', ruleType : 'notification', settings : 'eyJzdGFydF90aW1lIjoiMjAxNi0wNS0xOFQwMDowMCIsInJydWxlIjpudWxsLCJiYWNrZ3JvdW5kIjoicmdiKDIxMywzMSwzMSkiLCJ0aW1lem9uZSI6IkFtZXJpY2EvTmV3X1lvcmsiLCJlbmRfdGltZSI6IjIwMTYtMDctMjRUMDA6MDAiLCJhbGxfZGF5X2VuYWJsZWQiOiJ0cnVlIiwiYm9keSI6IiUzQ2ZvbnQlMjBmYWNlJTNEJTIyU291cmNlJTIwU2FucyUyMFBybyUyMiUyMHNpemUlM0QlMjI0JTIyJTIwY29sb3IlM0QlMjIlMjNmY2ZiZmMlMjIlM0UlM0NiJTNFQkFSR0UlMjAyMDE2JTIwUmVnaXN0cmF0aW9uJTIwaXMlMjBjbG9zZWQuJTNDJTJGYiUzRSUzQyUyRmZvbnQlM0UifQ==', duration : 15, isForced : false });
+})(this);</script><script type="text/javascript" id="d_track_campaign">
+(function() {
+	const queryParams = new URLSearchParams(window.location.search);
+
+	const expires = 'expires=' + new Date().getTime() + 24 * 60 * 60 * 1000;
+	const domain = 'domain=' + window.location.hostname;
+	const path = "path=/";
+
+	queryParams.forEach((value, key) => {
+		if (key.startsWith('utm_')) {
+			const cookieName = "_dm_rt_" + key.substring(4);
+			const cookie = cookieName + "=" + value;
+			const joined = [cookie, expires, domain, path].join(";");
+			document.cookie = joined;
+		}
+	});
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [{ruleId: 133460, ruleType: 'notification'}];
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71695070-1"></script>
+<script type="text/javascript" id="d_track_ga">
+  _dm_gaq.siteAlias = '7fa840da';
+  _dm_gaq.systemAggregatedGaqID = '';
+  _dm_gaq.externalGaqID = 'UA-71695070-1';
+  _dm_gaq.gaAggregatedEventAttributes = {
+	  'site_alias':  _dm_gaq.siteAlias,
+	  'product': 'DM_DIRECT',
+	  'plan': 'BUSINESS_PLUS',
+	  'dfooter': 'false',
+	  'sitetype': '1',
+	  'pwaEnabled': 'false'
+  }
+
+  _dm_gaq.pushEvent = function(trackingId, event, category, label, value, additionalParams = {}) {
+	  const eventProps = {
+		  send_to: trackingId,
+		  event_category: category,
+		  event_label: label,
+		  value,
+		  ...additionalParams,
+		  ...(trackingId === _dm_gaq.systemAggregatedGaqID
+				  ? _dm_gaq.gaAggregatedEventAttributes : {})
+	  };
+	  gtag('event', event, eventProps);
+  }
+
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+  function pushInsiteImpressions(id) {
+	  _dm_insite.forEach((rule) => {
+		  _dm_gaq.pushEvent(id, 'insite_impression', 'insite', rule.ruleType + '__' + rule.ruleId);
+	  });
+  }
+
+if(_dm_gaq.systemAggregatedGaqID){
+	// track aggregated account
+	gtag('config', '', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'custom_map': {'dimension1': 'site_alias', 'dimension2': 'product', 'dimension3': 'dFooter', 'dimension4': 'sitetype'}
+	});
+	gtag('set', 'developer_id.dMDU5Nj', true);
+
+	_dm_gaq.pushEvent('', 'page_view');
+	pushInsiteImpressions(_dm_gaq.systemAggregatedGaqID);
+}
+
+if(_dm_gaq.externalGaqID && _dm_gaq.externalGaqID!= '') {
+	gtag('config', 'UA-71695070-1', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'linker': {
+			'domains': ['barge.org']
+		}
+	});
+	_dm_gaq.pushEvent('UA-71695070-1', 'page_view');
+	pushInsiteImpressions(_dm_gaq.externalGaqID);
+}
+</script>
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: '7fa840da'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: 7fa840da -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>

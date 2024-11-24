@@ -1,0 +1,2118 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      class="">
+<head>
+    <meta charset="utf-8">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.barge.org/',
+        AccountUUID: '8fde30b1acfa4d809a576fe424c9b477',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: '7fa840da',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Mon Nov 18 02:48:30 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'd1-internal-blog-post',
+        InitialPageUuid: '6256233d06604800bb8d175161afb2ac',
+        InitialPageId: '1122356563',
+        InitialEncodedPageAlias: 'ZDEtaW50ZXJuYWwtYmxvZy1wb3N0',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '49340',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'barge',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'null',
+        currentLocale: 'null',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.barge.org/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'BLOG_POST_TEMPLATE',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'null',
+        hamburgerMigration: null
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<script>
+    try {
+    if (
+        navigator.serviceWorker &&
+        navigator.serviceWorker.getRegistrations &&
+        location.protocol === 'https:'
+    ) {
+        // remove all service workers
+        navigator.serviceWorker
+            .getRegistrations()
+            .then(function (registrations) {
+                if (registrations && registrations.length) {
+                    console.log('unregistering service workers');
+                    registrations.forEach(function (registration) {
+                        registration.unregister();
+                    });
+                }
+            });
+        // clear caches
+        if (caches) {
+            caches.keys().then(function (keyList) {
+                if (keyList && keyList.length) {
+                    console.log('deleting caches');
+                    keyList.forEach(function (key) {
+                        if (key && key.indexOf('druntime') === 0) {
+                            caches.delete(key);
+                        }
+                    });
+                }
+            });
+        }
+    }
+} catch (err) {
+    // not a secured location
+}
+</script>
+
+
+
+<link rel="canonical" href="https://www.barge.org/blog/playing-the-abc-loose-passive">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp-cdn.multiscreensite.com/7fa840da/site_favicon_16_1447302957248.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&amp;subset=latin-ext&amp;display=swap"  />
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="stylesheet" type="text/css" href="https://static.cdn-website.com/mnlt/production/4937/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/WIDGET_CSS/eadd0ddb629233611fe504822e2b1fed.css" id="widgetCSS" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="d1-internal-blog-post"] #dm [data-show-on-page-only="d1-internal-blog-post"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/7fa840da/files/7fa840da_1.min.css?v=1124" id="siteGlobalCss" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<style id="pagestyle" type="text/css">
+    
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-48, .size-48, .size-48 > font { font-size: 48px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Roboto Slab Fallback";
+  src: local('Arial');
+  ascent-override: 97.7562%;
+  descent-override: 25.2818%;
+  size-adjust: 107.1903%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="https://www.barge.org//feed/rss2"/>
+  <link type="application/atom+xml" rel="alternate" href="https://www.barge.org//feed/atom"/>
+  <script type="application/ld+json">
+
+{
+  "@context" : {
+    "@vocab" : "http://schema.org/"
+  },
+  "@type" : "BlogPosting",
+  "headline" : "Playing the ABC Loose-Passive",
+  "datePublished" : "2016-09-07T02:37:14",
+  "dateModified" : "2016-09-07T02:37:11",
+  "author" : {
+    "@type" : "Person",
+    "name" : "Roy Cooke"
+  },
+  "description" : "ABC loose-passive’s are the easiest opponents to play against, and you generally have the largest edge against them. Most lowstakes players are ABC loose-passive. On the flop they tend to be fit or fold. Meaning, if they hit the flop, they continue, if not, they’ll fold.  The good news is they’re easily exploitable.  "
+}
+
+  </script>
+  <meta property="og:type" content="article"/>
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="Playing the ABC Loose-Passive"/>
+  <meta name="twitter:description" content="ABC loose-passive’s are the easiest opponents to play against, and you generally have the largest edge against them. Most lowstakes players are ABC loose-passive. On the flop they tend to be fit or fold. Meaning, if they hit the flop, they continue, if not, they’ll fold.  The good news is they’re easily exploitable.  "/>
+  <meta name="article:published_time" content="2016-09-07T02:37Z"/>
+  <meta property="og:description" content="ABC loose-passive’s are the easiest opponents to play against, and you generally have the largest edge against them. Most lowstakes players are ABC loose-passive. On the flop they tend to be fit or fold. Meaning, if they hit the flop, they continue, if not, they’ll fold.  The good news is they’re easily exploitable.  "/>
+  <meta property="og:url" content="https://www.barge.org/blog/playing-the-abc-loose-passive"/>
+  <meta property="og:title" content="Playing the ABC Loose-Passive"/>
+  <title>
+    
+    Playing the ABC Loose-Passive
+  
+  </title>
+  <meta name="description" content="ABC loose-passive’s are the easiest opponents to play against, and you generally have the largest edge against them. Most lowstakes players are ABC loose-passive. On the flop they tend to be fit or fold. Meaning, if they hit the flop, they continue, if not, they’ll fold.  The good news is they’re easily exploitable.  "/>
+  <meta name="google-site-verification" content="P-H4V6Q5dkJWeZHSS8douzMdxOtx0YCi9KVgdmRfy9g"/>
+  <script type="text/javascript">
+
+
+
+
+
+
+
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.;c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'ab7bccc237ad2d60fdc3aebf0940ab63fafb4f60');
+    
+  
+
+  
+
+  
+
+  </script>
+  <meta name="msvalidate.01" content="17F806856C83EF4DE81D42EFC79911D0"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="d1-internal-blog-post"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1231046309" class="u_1231046309"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-sec dmPageBody d-page-1744403437 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1744403437" data-soch="true"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="dmHeader p_hfcontainer" freeheader="true"> <div dm:templateorder="75" class="dmHeaderResp dmHeaderStack" id="1013626179"> <div class="u_1709485542 dmRespRow" style="text-align: center;" id="1709485542"> <div class="dmRespColsWrapper" id="1883949547"> <div class="dmRespCol small-12 medium-4 large-4" id="1035172894"> <div class="u_1581090362 imageWidget" data-widget-type="image" id="1581090362" data-element-type="image"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/barge_logo_undated-1024x694-1920w.png" id="1581598016" dm_changed="true" class="u_1581598016" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+ <div class="u_1337507390 dmRespCol small-12 large-1 medium-1 empty-column" id="1337507390"></div> 
+ <div class="u_1024636728 dmRespCol small-12 large-7 medium-7" id="1024636728"> <h1 class="dmNewParagraph u_1945548768" id="1945548768" style="" data-element-type="paragraph"><div style="text-align: center;"><span class="m-size-36 lh-1 size-48" style="font-weight:400;font-family:Impact;">BARGE</span></div><div style="text-align: center;">Big August Rec.Gambling Excursion</div></h1> <div class="u_1607626902 dmNewParagraph" id="1607626902"><div style="text-align: right;">&quot;There are no strangers here, just friends you haven't met yet&quot;</div><div style="text-align: right;">- Peter &quot;Foldem&quot; Secor</div></div></div> 
+</div> 
+</div> 
+ <div class="u_1587255911 dmRespRow dmHeaderContent freeHeaderRow2" id="1587255911"> <div class="dmRespColsWrapper clearfix" id="1337181383"> <div class="dmRespCol large-12 medium-12 small-12" id="1225943982"> <nav class="u_1456307130 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1456307130" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-nav-structure="HORIZONTAL" wr="false" icon="true" surround="false" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmUDNavigationItem_00  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         HOME
+        " data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/barge" class="unifiednav__item  dmUDNavigationItem_01  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BARGE
+        " data-auto="page-text-style">BARGE<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://barge.regfox.com/barge-2024" class="unifiednav__item  dmUDNavigationItem_010101370753  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Registration
+          " data-auto="page-text-style">BARGE Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-2024-schedule" class="unifiednav__item  dmUDNavigationItem_010101370726  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE 2024 Schedule
+          " data-auto="page-text-style">BARGE 2024 Schedule<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-results" class="unifiednav__item  dmUDNavigationItem_010101443267  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Results
+          " data-auto="page-text-style">BARGE Results<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="0"> <a href="/embargo-info" class="unifiednav__item  dmUDNavigationItem_02  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         EMBARGO
+        " data-auto="page-text-style">EMBARGO<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://barge.regfox.com/embargo-2024" class="unifiednav__item  dmUDNavigationItem_010101419050  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Registration
+          " data-auto="page-text-style">EMBARGO Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/schedule1" class="unifiednav__item  dmUDNavigationItem_010101739308  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Schedule
+          " data-auto="page-text-style">EMBARGO Schedule<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/embargo-results" class="unifiednav__item  dmUDNavigationItem_010101122191  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Results
+          " data-auto="page-text-style">EMBARGO Results<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="1" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/embargo-2024" class="unifiednav__item  dmUDNavigationItem_010101312641  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             EMBARGO 2024
+            " data-auto="page-text-style">EMBARGO 2024<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="#" class="unifiednav__item  dmUDNavigationItem_010101870070  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         RESOURCES
+        " data-auto="page-text-style">RESOURCES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://ts4z.net/tmp/book/" class="unifiednav__item  dmUDNavigationItem_010101112743  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Rule Book
+          " data-auto="page-text-style">BARGE Rule Book<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-unified-payout-structures" class="unifiednav__item  dmUDNavigationItem_010101683781  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Unified Payout Structures
+          " data-auto="page-text-style">BARGE Unified Payout Structures<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/baap-points-table" class="unifiednav__item  dmUDNavigationItem_01010149354  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BAAP Points Table
+          " data-auto="page-text-style">BAAP Points Table<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/all-around-baap-points-database" class="unifiednav__item  dmUDNavigationItem_010101249217  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="All-Around BAAP Points Database" data-auto="page-text-style">All-Around BAAP Points Database<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://secure.barge.org/bargerulebooks/BARGETrivia-20190716.pdf" class="unifiednav__item  dmUDNavigationItem_010101778398  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Trivia
+          " data-auto="page-text-style">BARGE Trivia<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-welcoming-committee" class="unifiednav__item  dmUDNavigationItem_010101720847  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Welcoming Committee
+          " data-auto="page-text-style">BARGE Welcoming Committee<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="1" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/what-i-wish-id-known" class="unifiednav__item  dmUDNavigationItem_010101675687  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             What I wish I'd known
+            " data-auto="page-text-style">What I wish I'd known<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/how-not-to-feel-like-an-outsider" class="unifiednav__item  dmUDNavigationItem_010101901399  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             How not to feel like an outsider
+            " data-auto="page-text-style">How not to feel like an outsider<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/code-of-conduct" class="unifiednav__item  dmUDNavigationItem_010101337280  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Code of Conduct
+          " data-auto="page-text-style">Code of Conduct<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/mailing-lists" class="unifiednav__item  dmUDNavigationItem_010101451892  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Mailing Lists
+          " data-auto="page-text-style">Mailing Lists<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/in-memoriam" class="unifiednav__item  dmUDNavigationItem_010101610099  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           In Memoriam
+          " data-auto="page-text-style">In Memoriam<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/glossary" class="unifiednav__item  dmUDNavigationItem_010101414966  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Glossary
+          " data-auto="page-text-style">Glossary<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-history" class="unifiednav__item  dmUDNavigationItem_010101989200  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE History
+          " data-auto="page-text-style">BARGE History<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-virgin-queen-history" class="unifiednav__item  dmUDNavigationItem_010101238156  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Virgin Queen History
+          " data-auto="page-text-style">BARGE Virgin Queen History<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/inc" class="unifiednav__item  dmUDNavigationItem_04  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BARGE, INC.
+        " data-auto="page-text-style">BARGE, INC.<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/bylaws" class="unifiednav__item  dmUDNavigationItem_010101142010  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Bylaws
+          " data-auto="page-text-style">Bylaws<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/committees" class="unifiednav__item  dmUDNavigationItem_010101680834  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Organizers and Committees
+          " data-auto="page-text-style">Organizers and Committees<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/officers" class="unifiednav__item  dmUDNavigationItem_010101602952  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Board of Directors
+          " data-auto="page-text-style">Board of Directors<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/contact" class="unifiednav__item  dmUDNavigationItem_06  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         CONTACT
+        " data-auto="page-text-style">CONTACT<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/blog" class="unifiednav__item  dmUDNavigationItem_010101628779  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BLOG
+        " data-auto="page-text-style">BLOG<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+ <div class="dmCustomHtml" id="1372194028" data-element-type="html"> <script type="text/javascript">
+
+
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.;c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'ab7bccc237ad2d60fdc3aebf0940ab63fafb4f60');
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+            </script> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1092480819" id="1092480819" layout="divider-style-1" data-element-type="dDividerId"><hr class="u_1588900271 dmDivider" style="min-height: 2px; border:none; background:grey" id="1588900271"/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"> <div class="innerPageTitle">Blog Post</div> 
+</div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_d1-internal-blog-post u_1231046309"> <div id="allWrapper" class="allWrapper u_allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent u_dm_content"> <div dm:templateid="DudaBlogPostTemplateResp" class="generalRespTmplWrapper dmRespRowsWrapper innerPageTmplBox storeDefaultPage u_1744403437" id="1744403437"> <div class="dmRespRow u_1784605662" id="1784605662"> <div class="dmRespColsWrapper u_1510318023" id="1510318023"> <div class="dmRespCol small-12 medium-12 large-12 u_1206457868" id="1206457868"> <div data-blog-component="post" id="1217831182" class="blog-post-tmpl u_1217831182 blog-post" dmle_extension="internal_blog_post" data-element-type="internal_blog_post" icon="true" wr="false" surround="false"> <style id="post-d806551-style"></style> 
+ <div data-blog-component="title" id="post-d806551-title" class="blog-post-component blog-post-component-title"> <style id="post-d806551-title-style">#post-d806551-title .inner-title{ text-align: left;font-weight: normal; }#post-d806551-title .inner-post-details{ text-align: left; }</style> 
+ <div> <h1 data-blog-inner="title" class="inner-title">Playing the ABC Loose-Passive</h1> 
+ <ul data-blog-inner="post-details" class="inner-post-details"><li><span dmle_is_text="true">By</span><span dmle_is_text="true">&nbsp;</span><span dmle_is_text="true">Roy Cooke</span></li><li>&bull;</li><li>07 Sep, 2016</li><li>&bull;</li><li><span class="blog-post-comments-count" data-href="https://www.barge.org/blog/playing-the-abc-loose-passive" data-comment="Comment" data-comments="Comments"></span></li></ul> 
+</div> 
+</div> 
+ <div data-blog-component="text" id="post-component-c23c838" class="blog-post-component blog-post-component-text"> <style id="post-component-c23c838-style">#post-component-c23c838 .inner-paragraph{ text-align: left; }</style> 
+ <div data-blog-inner="text" class="inner-paragraph"><!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG></o:AllowPNG>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves></w:TrackMoves>
+  <w:TrackFormatting></w:TrackFormatting>
+  <w:PunctuationKerning></w:PunctuationKerning>
+  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF></w:DoNotPromoteQF>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables></w:BreakWrappedTables>
+   <w:SnapToGridInCell></w:SnapToGridInCell>
+   <w:WrapTextWithPunct></w:WrapTextWithPunct>
+   <w:UseAsianBreakRules></w:UseAsianBreakRules>
+   <w:DontGrowAutofit></w:DontGrowAutofit>
+   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark>
+   <w:EnableOpenTypeKerning></w:EnableOpenTypeKerning>
+   <w:DontFlipMirrorIndents></w:DontFlipMirrorIndents>
+   <w:OverrideTableStyleHps></w:OverrideTableStyleHps>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"></m:mathFont>
+   <m:brkBin m:val="before"></m:brkBin>
+   <m:brkBinSub m:val="&#45;-"></m:brkBinSub>
+   <m:smallFrac m:val="off"></m:smallFrac>
+   <m:dispDef></m:dispDef>
+   <m:lMargin m:val="0"></m:lMargin>
+   <m:rMargin m:val="0"></m:rMargin>
+   <m:defJc m:val="centerGroup"></m:defJc>
+   <m:wrapIndent m:val="1440"></m:wrapIndent>
+   <m:intLim m:val="subSup"></m:intLim>
+   <m:naryLim m:val="undOvr"></m:naryLim>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="373">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"></w:LsdException>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"></w:LsdException>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"></w:LsdException>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"></w:LsdException>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"></w:LsdException>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"></w:LsdException>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"></w:LsdException>
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin-top:0in;
+	mso-para-margin-right:0in;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0in;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]--><!--StartFragment--> <p>ABC loose-passive&rsquo;s are the easiest opponent&rsquo;s to
+play, and you generally have the largest edge against them. Most lowstakes
+players are ABC loose-passive. Aspiring to see many flops, they habitually
+limp. Their propensity to call pre-flop raises varies, but they call pre-flop
+raises much more than your average opponent. 
+On the flop they tend to be fit or fold. Meaning, if they hit the flop,
+they continue, if not, they&rsquo;ll fold. &nbsp;The
+good news is they&rsquo;re easily exploitable.<br/></p> 
+ <p>One method of exploitation is merely playing
+better starting hands. That way, you&rsquo;ll trap them when their inferior hands
+provide you with big edges. You&rsquo;ll &ldquo;outkick&rdquo; them, set-over them, make higher
+flushes and commonly make better hands than they will against you. You can also
+play a wide range with position, but need to be aware of players behind you and
+play well after the flop. If you&rsquo;re not a good post-flop player, don&rsquo;t play
+your marginal hands pre-flop.</p> 
+ <p>Another exploitative method is to isolate and
+continuation bet them. Since they&rsquo;re folding when they miss, and they&rsquo;ll miss
+the flop around 60% of the time, a continuation bluff or semi-bluff is high
+EV.  Unpaired starting hands make a pair
+or better about 1/3rd of the time, but additional draws make the 60%
+missed flop number a good approximation. When your opponent holds a small wired
+pair, he will to miss almost 90% of the time. If you continuation bet &frac12; pot,
+you need a fold 33% of the time to acquire immediate fold equity.  That&rsquo;s good EV, and those situations present
+themselves repeatedly.</p> 
+ <p>When contemplating an isolation play, you need to
+reasonably assess its effectiveness. If players behind are likely to call or
+3-bet you, your isolation play has lost considerable value. If that is the case,
+tighten up and exploit their weaker hands that way. Additionally, having
+position strengthens isolation plays considerably.</p> 
+ <p>Making isolation/continuation bet plays also adds
+value because it makes you harder to read, and you will acquire more action
+when you hit your hand. When you&rsquo;re continuously betting at them, your opponents
+will tend to call you more liberally.</p> 
+ <p>When continuation betting with a weak hand after
+isolating, you&rsquo;ll need to take the board texture into consideration. Some
+boards will hit your opponent&rsquo;s range more than others. Be more inclined to
+check the boards that are more likely to hit your opponent&rsquo;s range. I.E. A
+Jd-Ts-8d flop hits more of your opponent&rsquo;s range than a Kd-7c-2h board.</p> 
+ <p>Those plays work well against ABC loose-passive
+opponents. Just select the right situations and execute.</p> 
+ <p>And if you&rsquo;ve done that correctly, you&rsquo;ll improve
+your edge tremendously. &nbsp; &nbsp;</p> 
+<!--EndFragment--></div> 
+</div> 
+ <footer data-blog-inner="footer"><div class="timeline-post prev-post" dmle_is_text="true"><a class="prev-post" href="/blog/cooke/a-better-you">&larr; Older Post</a></div><div class="timeline-post next-post" dmle_is_text="true"><a class="next-post" href="/blog/strategizing-moves-ahead">Newer Post &rarr;</a></div></footer> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1581736630" id="1581736630"> <div class="dmRespColsWrapper u_1847412662" id="1847412662"> <div class="dmRespCol small-12 medium-12 large-12 u_1262644015" id="1262644015"> <div class="u_1494275671 dmShare dmNoMark dmShareDesktop clearfix" id="1494275671" dmle_extension="shareextension" data-element-type="shareextension" google_plus="true" wr="false" icon="true" surround="false" description="Share" icon-name="icon-share" facebook="true" twitter="true" email="true" like="true" use_new_design="true" use_popup="true" linked_in="true" data-title="U2hhcmU=" data-display-title="false" data-layout="layout-3" data-share-hover-effect="zoomout" design="large" share_button_text="Share"> <div data-target="facebook" class="shareLink fbShare clickTarget" data-href="http://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.barge.org%2Fblog%2Fplaying-the-abc-loose-passive"> <span class="icon-facebook shareText">Share</span> 
+</div> 
+ <div data-target="twitter" class="shareLink twitterShare clickTarget" data-href="http://twitter.com/intent/tweet?text=I wanted to share this great website with you&url=https%3A%2F%2Fwww.barge.org%2Fblog%2Fplaying-the-abc-loose-passive"> <span class="icon-twitter shareText">Tweet</span> 
+</div> 
+ <div data-target="linkedin" class="shareLink linkedinShare clickTarget" data-href="http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.barge.org%2Fblog%2Fplaying-the-abc-loose-passive&title=I wanted to share this great website with you"> <span class="icon-linkedin shareText">Share</span> 
+</div> 
+ <div data-target="email" class="shareLink emailShare clickTarget" data-href="/_dm/s/rt/actions/emailshare?text=I wanted to share this great website with you&site=https%3A%2F%2Fwww.barge.org%2Fblog%2Fplaying-the-abc-loose-passive&lang=us&class=insidePopUp"> <span class="icon-envelope shareText">Mail</span> 
+</div> 
+</div> 
+ <span style="clear:both;display:block" id="1575376362" class="u_1575376362"></span> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1577638054" id="1577638054"> <div class="dmRespColsWrapper u_1869481553" id="1869481553"> <div class="dmRespCol small-12 medium-12 large-12 u_1409316865" id="1409316865"> <div id="1505509343" class="u_1505509343 dmFacebookComments" dmle_comments="true" dmle_extension="facebook_comments" data-element-type="facebook_comments" wr="false" color="light" icon="true" surround="false"> <div class="fb-comments" data-href="https://www.barge.org/blog/playing-the-abc-loose-passive" data-mobile="false" data-num-posts="10" data-colorscheme="light"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow u_1714380908" id="1714380908"> <div class="dmRespColsWrapper u_1415633769" id="1415633769"> <div class="dmRespCol small-12 medium-12 large-12 u_1162957671" id="1162957671"> <div class="u_1258206408 mainBlog large_list" id="1258206408" dmle_extension="internal_blog_list" data-element-type="internal_blog_list" show-images="true" postspadding="10" wr="false" trim-title="true" show-blog-title="false" posts-animation="fadeInUp" text-align="left" icon="true" surround="false" list-layout="large_list" visible-items="10" visible-post-lines="3" search-tags="" search-term="" more-posts-text="More Posts" header-type="H1" posts-padding="10" posts-per-row="2" show-author="false" text-box-padding="false" show-action-text="true" action-text="Continue reading" skip-post-index="143164" blog-posts-feature-flag="false" data-image-hover-effect="zoomout" show-more-posts-text="true"> <div class="inner "> <div style="-ms-grid-column:1; -ms-grid-row:1" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 200.0ms;"> <a class="blogImgLink" dont-color-link="true" href="/why-i-love-going-to-barge" data-blog-post-alias="why-i-love-going-to-barge"> <div class="blogImg" style="background-image: url('https://lirp.cdn-website.com/7fa840da/import/base/dms3rep/multi/opt/banner-1920w.jpg');"><img src="https://lirp.cdn-website.com/7fa840da/import/base/dms3rep/multi/opt/banner-1920w.jpg" "="" onerror="handleImageLoadError(this)"/></div> 
+</a> 
+ <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/why-i-love-going-to-barge" data-blog-post-alias="why-i-love-going-to-barge">Why I Love Going To BARGE</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>By Barry Kornspan</span> 
+ <span>&bull;</span> 
+ <span>July 18, 2017</span> 
+</div> 
+ <div class="postDescription">Originally published at&nbsp; <a href="http://www.pokertelegraph.com/blog/2014/07/17/love-going-barge/" title="Link: http://www.pokertelegraph.com/blog/2014/07/17/love-going-barge/">http://www.pokertelegraph.com/blog/2014/07/17/love-going-barge/</a> 
+</div> 
+ <div class="readMore"> <a dont-color-link="true" href="/why-i-love-going-to-barge"></a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:2; -ms-grid-row:1" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 400.0ms;"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/blog/strategizing-moves-ahead" data-blog-post-alias="blog/strategizing-moves-ahead">Strategizing Moves Ahead</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>By Roy Cooke</span> 
+ <span>&bull;</span> 
+ <span>November 24, 2016</span> 
+</div> 
+ <div class="postDescription">Great chess players are legendary for their ability to think many moves ahead. But in poker, forward thinking is undervalued by most players.</div> 
+ <div class="readMore"> <a dont-color-link="true" href="/blog/strategizing-moves-ahead"></a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:1; -ms-grid-row:2" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 600.0ms;"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/blog/cooke/a-better-you" data-blog-post-alias="blog/cooke/a-better-you">A Better You!</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>By Roy Cooke</span> 
+ <span>&bull;</span> 
+ <span>August 29, 2016</span> 
+</div> 
+ <div class="postDescription">Much is written about poker psychology; mostly it&rsquo;s about analyzing how your opponents react. But seldom discussed and of much greater importance is your own psychology. Being real and in tune with yourself has huge value, and those that aren&rsquo;t never correct their leaks as they&rsquo;re unaware they even exist.</div> 
+ <div class="readMore"> <a dont-color-link="true" href="/blog/cooke/a-better-you"></a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:2; -ms-grid-row:2" class="postArticle "> <div class="inner clearfix wow" style="animation-delay: 800.0ms;"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/equity-and-implied-odds" data-blog-post-alias="equity-and-implied-odds">Equity and Implied Odds</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>By Roy Cooke</span> 
+ <span>&bull;</span> 
+ <span>August 16, 2016</span> 
+</div> 
+ <div class="postDescription">Many players calculate the equity of their hand at the current moment, compare it to the size of the pot, and base their decision solely on that calculation. Those decisions are correct if there is no future betting.
+But when there is future betting...</div> 
+ <div class="readMore"> <a dont-color-link="true" href="/equity-and-implied-odds"></a> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div style="-ms-grid-column:1; -ms-grid-row:3" class="postArticle lastArticle"> <div class="inner clearfix wow" style="animation-delay: 1000.0ms;"> <div class="postText clearfix"> <div class="postTitle"> <h3> <a dont-color-link="true" href="/understanding-equity-and-ev" data-blog-post-alias="understanding-equity-and-ev">Understanding Equity and EV</a> 
+</h3> 
+</div> 
+ <div class="authorBar"> <span>By Roy Cooke</span> 
+ <span>&bull;</span> 
+ <span>August 16, 2016</span> 
+</div> 
+ <div class="postDescription">Many people don&rsquo;t know the exact difference between equity and EV. In fact, some people use&nbsp;the terms as if they were identical. &nbsp;Equity is the percentage chance that a hand will win after all the cards are dealt. The&nbsp;percentage chance includes splits and is utilized when comparing your holding against&nbsp;opponent&rsquo;s hand(s) or range(s).</div> 
+ <div class="readMore"> <a dont-color-link="true" href="/understanding-equity-and-ev"></a> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="14" class="dmFooterResp dmFullFooterResp" id="1111073452"> <div class="dmRespRow dmDividerRow" id="1503735893"> <div class="dmRespColsWrapper" id="1033248163"> <div class="large-12 medium-12 small-12 dmRespCol" id="1142567420"> <div class="dmDividerWrapper clearfix" id="1560217446" data-element-type="dDividerId"><hr class="dmDivider defaultDivider" id="1292223076"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1424577298 dmRespRow dmFooterContent" id="1424577298"> <div class="dmRespColsWrapper" id="1527896906"> <div class="dmRespCol large-12 medium-12 small-12 dmFooterCol content-removed" id="1624182295"> <h3 class="dmFooterDefaultH3" id="1489236914">Follow Us</h3> 
+</div> 
+</div> 
+</div> 
+ <div id="1409248432" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4937";
+    var build = "2024-11-18T13_48_15";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-11-18T13_48_15";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4937';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4937';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =true;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwid.delegateNavigationToEcwid.enabled"] = false;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4937/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4937/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+	const queryParams = new URLSearchParams(window.location.search);
+
+	const expires = 'expires=' + new Date().getTime() + 24 * 60 * 60 * 1000;
+	const domain = 'domain=' + window.location.hostname;
+	const path = "path=/";
+
+	queryParams.forEach((value, key) => {
+		if (key.startsWith('utm_')) {
+			const cookieName = "_dm_rt_" + key.substring(4);
+			const cookie = cookieName + "=" + value;
+			const joined = [cookie, expires, domain, path].join(";");
+			document.cookie = joined;
+		}
+	});
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71695070-1"></script>
+<script type="text/javascript" id="d_track_ga">
+  _dm_gaq.siteAlias = '7fa840da';
+  _dm_gaq.systemAggregatedGaqID = '';
+  _dm_gaq.externalGaqID = 'UA-71695070-1';
+  _dm_gaq.gaAggregatedEventAttributes = {
+	  'site_alias':  _dm_gaq.siteAlias,
+	  'product': 'DM_DIRECT',
+	  'plan': 'BUSINESS_PLUS',
+	  'dfooter': 'false',
+	  'sitetype': '1',
+	  'pwaEnabled': 'false'
+  }
+
+  _dm_gaq.pushEvent = function(trackingId, event, category, label, value, additionalParams = {}) {
+	  const eventProps = {
+		  send_to: trackingId,
+		  event_category: category,
+		  event_label: label,
+		  value,
+		  ...additionalParams,
+		  ...(trackingId === _dm_gaq.systemAggregatedGaqID
+				  ? _dm_gaq.gaAggregatedEventAttributes : {})
+	  };
+	  gtag('event', event, eventProps);
+  }
+
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+  function pushInsiteImpressions(id) {
+	  _dm_insite.forEach((rule) => {
+		  _dm_gaq.pushEvent(id, 'insite_impression', 'insite', rule.ruleType + '__' + rule.ruleId);
+	  });
+  }
+
+if(_dm_gaq.systemAggregatedGaqID){
+	// track aggregated account
+	gtag('config', '', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'custom_map': {'dimension1': 'site_alias', 'dimension2': 'product', 'dimension3': 'dFooter', 'dimension4': 'sitetype'}
+	});
+	gtag('set', 'developer_id.dMDU5Nj', true);
+
+	_dm_gaq.pushEvent('', 'page_view');
+	pushInsiteImpressions(_dm_gaq.systemAggregatedGaqID);
+}
+
+if(_dm_gaq.externalGaqID && _dm_gaq.externalGaqID!= '') {
+	gtag('config', 'UA-71695070-1', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'linker': {
+			'domains': ['barge.org']
+		}
+	});
+	_dm_gaq.pushEvent('UA-71695070-1', 'page_view');
+	pushInsiteImpressions(_dm_gaq.externalGaqID);
+}
+</script>
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: '7fa840da'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: 7fa840da -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>

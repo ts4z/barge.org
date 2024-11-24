@@ -1,0 +1,1370 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      class="">
+<head>
+    <meta charset="utf-8">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.barge.org/',
+        AccountUUID: '8fde30b1acfa4d809a576fe424c9b477',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: '7fa840da',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Mon Nov 18 02:48:30 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'barge-2013',
+        InitialPageUuid: '0cb9b518af924f0eabc8651c46939736',
+        InitialPageId: '940567556',
+        InitialEncodedPageAlias: 'YmFyZ2UtMjAxMw==',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '49340',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'barge',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'null',
+        currentLocale: 'null',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.barge.org/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'FROM_SCRATCH',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'null',
+        hamburgerMigration: null
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<script>
+    try {
+    if (
+        navigator.serviceWorker &&
+        navigator.serviceWorker.getRegistrations &&
+        location.protocol === 'https:'
+    ) {
+        // remove all service workers
+        navigator.serviceWorker
+            .getRegistrations()
+            .then(function (registrations) {
+                if (registrations && registrations.length) {
+                    console.log('unregistering service workers');
+                    registrations.forEach(function (registration) {
+                        registration.unregister();
+                    });
+                }
+            });
+        // clear caches
+        if (caches) {
+            caches.keys().then(function (keyList) {
+                if (keyList && keyList.length) {
+                    console.log('deleting caches');
+                    keyList.forEach(function (key) {
+                        if (key && key.indexOf('druntime') === 0) {
+                            caches.delete(key);
+                        }
+                    });
+                }
+            });
+        }
+    }
+} catch (err) {
+    // not a secured location
+}
+</script>
+
+
+
+<link rel="canonical" href="https://www.barge.org/barge-2013">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp-cdn.multiscreensite.com/7fa840da/site_favicon_16_1447302957248.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&amp;subset=latin-ext&amp;display=swap"  />
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="stylesheet" type="text/css" href="https://static.cdn-website.com/mnlt/production/4937/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/WIDGET_CSS/471796351712832c0089bab4837c52fb.css" id="widgetCSS" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="barge-2013"] #dm [data-show-on-page-only="barge-2013"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link type="text/css" rel="stylesheet" href="https://irp.cdn-website.com/7fa840da/files/7fa840da_1.min.css?v=1124" id="siteGlobalCss" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<style id="pagestyle" type="text/css">
+    *#dm *.dmBody a.u_1793716156 {
+ color: rgb(29, 7, 245) !important;
+ background-color: rgb(29, 7, 245) !important;
+ }
+*#dm *.dmBody a.u_1793716156 span.text {
+ font-weight: bold !important;
+ }
+*#dm *.dmBody a.u_1793716156 span.textonly {
+ font-weight: bold !important;
+ }
+
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    *#dm *.dmBody a.u_1793716156 {
+ padding-top: 0px !important;
+ padding-left: 0px !important;
+ padding-bottom: 0px !important;
+ float: none !important;
+ margin-right: 0 !important;
+ margin-left: 0 !important;
+ top: auto !important;
+ max-width: 100% !important;
+ left: 0px !important;
+ width: 100% !important;
+ margin-top: 0 !important;
+ position: relative !important;
+ margin-bottom: 0 !important;
+ padding-right: 0px !important;
+ min-width: 0 !important;
+ text-align: center !important;
+ height: 43px !important;
+ }
+*#dm *.dmBody div.u_1587997648 {
+ padding-top: 0px !important;
+ padding-left: 40px !important;
+ padding-bottom: 0px !important;
+ float: none !important;
+ top: auto !important;
+ max-width: 960px !important;
+ left: 0 !important;
+ width: 100% !important;
+ position: relative !important;
+ padding-right: 40px !important;
+ min-width: 0 !important;
+ text-align: center !important;
+ height: auto !important;
+ }
+*#dm *.dmBody a.u_1793716156 span.text {
+ font-size: 17px !important;
+ }
+*#dm *.dmBody a.u_1793716156 span.textonly {
+ font-size: 17px !important;
+ }
+
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-48, .size-48, .size-48 > font { font-size: 48px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Roboto Slab Fallback";
+  src: local('Arial');
+  ascent-override: 97.7562%;
+  descent-override: 25.2818%;
+  size-adjust: 107.1903%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="https://www.barge.org//feed/rss2"/>
+  <link type="application/atom+xml" rel="alternate" href="https://www.barge.org//feed/atom"/>
+  <meta property="og:type" content="website"/>
+  <title>
+    
+    BARGE
+  
+  </title>
+  <meta name="google-site-verification" content="P-H4V6Q5dkJWeZHSS8douzMdxOtx0YCi9KVgdmRfy9g"/>
+  <script type="text/javascript">
+
+
+
+
+
+
+
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.;c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'ab7bccc237ad2d60fdc3aebf0940ab63fafb4f60');
+    
+  
+
+  
+
+  
+
+  </script>
+  <meta name="msvalidate.01" content="17F806856C83EF4DE81D42EFC79911D0"/>
+
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="BARGE"/>
+  <meta property="og:title" content="BARGE"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="barge-2013"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1941808818"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-sec dmPageBody d-page-1589170204 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1589170204" data-soch="true"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="dmHeader p_hfcontainer" freeheader="true"> <div dm:templateorder="75" class="dmHeaderResp dmHeaderStack" id="1013626179"> <div class="u_1709485542 dmRespRow" style="text-align: center;" id="1709485542"> <div class="dmRespColsWrapper" id="1883949547"> <div class="dmRespCol small-12 medium-4 large-4" id="1035172894"> <div class="u_1581090362 imageWidget" data-widget-type="image" id="1581090362" data-element-type="image"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/barge_logo_undated-1024x694-1920w.png" id="1581598016" dm_changed="true" class="u_1581598016" onerror="handleImageLoadError(this)"/></div> 
+</div> 
+ <div class="u_1337507390 dmRespCol small-12 large-1 medium-1 empty-column" id="1337507390"></div> 
+ <div class="u_1024636728 dmRespCol small-12 large-7 medium-7" id="1024636728"> <h1 class="dmNewParagraph u_1945548768" id="1945548768" style="" data-element-type="paragraph"><div style="text-align: center;"><span class="m-size-36 lh-1 size-48" style="font-weight:400;font-family:Impact;">BARGE</span></div><div style="text-align: center;">Big August Rec.Gambling Excursion</div></h1> <div class="u_1607626902 dmNewParagraph" id="1607626902"><div style="text-align: right;">&quot;There are no strangers here, just friends you haven't met yet&quot;</div><div style="text-align: right;">- Peter &quot;Foldem&quot; Secor</div></div></div> 
+</div> 
+</div> 
+ <div class="u_1587255911 dmRespRow dmHeaderContent freeHeaderRow2" id="1587255911"> <div class="dmRespColsWrapper clearfix" id="1337181383"> <div class="dmRespCol large-12 medium-12 small-12" id="1225943982"> <nav class="u_1456307130 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1456307130" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-nav-structure="HORIZONTAL" wr="false" icon="true" surround="false" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmUDNavigationItem_00  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         HOME
+        " data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/barge" class="unifiednav__item  dmUDNavigationItem_01  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BARGE
+        " data-auto="page-text-style">BARGE<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://barge.regfox.com/barge-2024" class="unifiednav__item  dmUDNavigationItem_010101370753  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Registration
+          " data-auto="page-text-style">BARGE Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-2024-schedule" class="unifiednav__item  dmUDNavigationItem_010101370726  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE 2024 Schedule
+          " data-auto="page-text-style">BARGE 2024 Schedule<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-results" class="unifiednav__item  dmUDNavigationItem_010101443267  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Results
+          " data-auto="page-text-style">BARGE Results<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="0"> <a href="/embargo-info" class="unifiednav__item  dmUDNavigationItem_02  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         EMBARGO
+        " data-auto="page-text-style">EMBARGO<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://barge.regfox.com/embargo-2024" class="unifiednav__item  dmUDNavigationItem_010101419050  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Registration
+          " data-auto="page-text-style">EMBARGO Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/schedule1" class="unifiednav__item  dmUDNavigationItem_010101739308  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Schedule
+          " data-auto="page-text-style">EMBARGO Schedule<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/embargo-results" class="unifiednav__item  dmUDNavigationItem_010101122191  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Results
+          " data-auto="page-text-style">EMBARGO Results<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="1" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/embargo-2024" class="unifiednav__item  dmUDNavigationItem_010101312641  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             EMBARGO 2024
+            " data-auto="page-text-style">EMBARGO 2024<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="#" class="unifiednav__item  dmUDNavigationItem_010101870070  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         RESOURCES
+        " data-auto="page-text-style">RESOURCES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://ts4z.net/tmp/book/" class="unifiednav__item  dmUDNavigationItem_010101112743  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Rule Book
+          " data-auto="page-text-style">BARGE Rule Book<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-unified-payout-structures" class="unifiednav__item  dmUDNavigationItem_010101683781  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Unified Payout Structures
+          " data-auto="page-text-style">BARGE Unified Payout Structures<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/baap-points-table" class="unifiednav__item  dmUDNavigationItem_01010149354  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BAAP Points Table
+          " data-auto="page-text-style">BAAP Points Table<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/all-around-baap-points-database" class="unifiednav__item  dmUDNavigationItem_010101249217  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="All-Around BAAP Points Database" data-auto="page-text-style">All-Around BAAP Points Database<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://secure.barge.org/bargerulebooks/BARGETrivia-20190716.pdf" class="unifiednav__item  dmUDNavigationItem_010101778398  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Trivia
+          " data-auto="page-text-style">BARGE Trivia<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-welcoming-committee" class="unifiednav__item  dmUDNavigationItem_010101720847  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Welcoming Committee
+          " data-auto="page-text-style">BARGE Welcoming Committee<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="1" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/what-i-wish-id-known" class="unifiednav__item  dmUDNavigationItem_010101675687  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             What I wish I'd known
+            " data-auto="page-text-style">What I wish I'd known<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/how-not-to-feel-like-an-outsider" class="unifiednav__item  dmUDNavigationItem_010101901399  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             How not to feel like an outsider
+            " data-auto="page-text-style">How not to feel like an outsider<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/code-of-conduct" class="unifiednav__item  dmUDNavigationItem_010101337280  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Code of Conduct
+          " data-auto="page-text-style">Code of Conduct<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/mailing-lists" class="unifiednav__item  dmUDNavigationItem_010101451892  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Mailing Lists
+          " data-auto="page-text-style">Mailing Lists<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/in-memoriam" class="unifiednav__item  dmUDNavigationItem_010101610099  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           In Memoriam
+          " data-auto="page-text-style">In Memoriam<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/glossary" class="unifiednav__item  dmUDNavigationItem_010101414966  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Glossary
+          " data-auto="page-text-style">Glossary<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-history" class="unifiednav__item  dmUDNavigationItem_010101989200  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE History
+          " data-auto="page-text-style">BARGE History<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-virgin-queen-history" class="unifiednav__item  dmUDNavigationItem_010101238156  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Virgin Queen History
+          " data-auto="page-text-style">BARGE Virgin Queen History<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/inc" class="unifiednav__item  dmUDNavigationItem_04  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BARGE, INC.
+        " data-auto="page-text-style">BARGE, INC.<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/bylaws" class="unifiednav__item  dmUDNavigationItem_010101142010  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Bylaws
+          " data-auto="page-text-style">Bylaws<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/committees" class="unifiednav__item  dmUDNavigationItem_010101680834  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Organizers and Committees
+          " data-auto="page-text-style">Organizers and Committees<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/officers" class="unifiednav__item  dmUDNavigationItem_010101602952  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Board of Directors
+          " data-auto="page-text-style">Board of Directors<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/contact" class="unifiednav__item  dmUDNavigationItem_06  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         CONTACT
+        " data-auto="page-text-style">CONTACT<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/blog" class="unifiednav__item  dmUDNavigationItem_010101628779  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BLOG
+        " data-auto="page-text-style">BLOG<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+ <div class="dmCustomHtml" id="1372194028" data-element-type="html"> <script type="text/javascript">
+
+
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.;c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'ab7bccc237ad2d60fdc3aebf0940ab63fafb4f60');
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+            </script> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1092480819" id="1092480819" layout="divider-style-1" data-element-type="dDividerId"><hr class="u_1588900271 dmDivider" style="min-height: 2px; border:none; background:grey" id="1588900271"/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"> <div class="innerPageTitle">BARGE 2013</div> 
+</div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_barge-2013"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="1" class="dmDefaultRespTmpl" id="1589170204"> <div class="innerPageTmplBox dmDefaultPage  dmRespRowsWrapper" id="1133366104"> <div class="u_1587997648 dmRespRow" style="text-align: center;" id="1587997648"> <div class="dmRespColsWrapper" id="1623415338"> <div class="u_1499483204 dmRespCol small-12 large-8 medium-8" id="1499483204"> <h3 class="dmNewParagraph" id="1501597299" data-element-type="paragraph">BARGE 2013 Results</h3></div> 
+ <div class="u_1054847363 dmRespCol small-12 large-4 medium-4" id="1054847363"> <span id="1360173439"></span> 
+ <a data-display-type="block" class="u_1793716156 dmButtonLink dmWidget dmWwr default dmOnlyButton" file="false" href="/barge-results" id="1793716156" data-element-type="dButtonLinkId"> <span class="iconBg" id="1667149773"> <span class="icon hasFontIcon icon-star" id="1474065186"></span> 
+</span> 
+ <span class="text" id="1819322850">Return to BARGE Results</span> 
+</a> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow dmDefaultListContentRow" style="text-align:center" id="1826706074"> <div class="dmRespColsWrapper" id="1619365055"> <div class="large-12 medium-12 small-12 dmRespCol" id="1669802864"> <div class="dmNewParagraph" id="1180550381"><div><b><span style="font-weight: 700;">No Limit Holdem - Draw Lowball</span></b></div><div>Monday, July 29th</div><div>$60+$10</div><div><br/></div><div>1st &nbsp; Andy Hughes  $765&nbsp;</div><div>2nd Christopher Mecklin  $575&nbsp;</div><div>3rd &nbsp;Rich Bremer  $440</div><div>4th &nbsp;Keith Fichtemaeir  $360&nbsp;</div><div>5th &nbsp;Daniel Goldman  $275&nbsp;</div><div>6th &nbsp;Michael Maurer  $195&nbsp;</div><div>7th &nbsp;Richard Korbin  $140 &nbsp;&nbsp;</div><div><br/></div><div><b><span style="font-weight: 700;">Chinese Poker</span></b></div><div>Tuesday, July 30th</div><div>$60+$15</div><div><br/></div><div>1st &nbsp; Caryl Aronson  $875</div><div>2nd Patti Beadles  $655&nbsp;</div><div>3rd &nbsp;Paul Gibboney  $500&nbsp;</div><div>4th &nbsp;Doug Grismore  $405&nbsp;</div><div>5th &nbsp;J. P. Massar  $310&nbsp;</div><div>6th &nbsp;Kenny Shei  $220&nbsp;</div><div>7th &nbsp;Mike Klein  $155 &nbsp;</div><div><br/></div><div><b><span style="font-weight: 700;">Triathalon of Gambling</span></b></div><div>Tuesday, July 31st</div><div>$30+$5</div><div><br/></div><div>1st &nbsp; &nbsp;Michael Patterson  $480</div><div>2nd &nbsp;Patti Beadles  $300</div><div>3rd &nbsp; Kenny Shei  $200&nbsp;</div><div>4th &nbsp; Gillian Groves  $40 &nbsp;&nbsp;</div><div><br/></div><div><b><span style="font-weight: 700;">Limit 6-Game</span></b></div><div>Wednesday, August 1st</div><div>$75+$20</div><div><br/></div><div>1st &nbsp; &nbsp;David Lawful  $1,710</div><div>2nd &nbsp;David Aronson  $1,245&nbsp;</div><div>3rd &nbsp; Paul McMullin  $980 &nbsp;</div><div>4th &nbsp; David Soussan  $780&nbsp;</div><div>5th &nbsp; Randy Collack  $585&nbsp;</div><div>6th &nbsp; Michael Klein  $450&nbsp;</div><div>7th &nbsp; Peter Secor  $320&nbsp;</div><div>8th &nbsp; Ronald Nutt  $190&nbsp;</div><div>9th &nbsp; Russell Fox  $120&nbsp;</div><div>10th Nolan Dalla  $120&nbsp;</div><div>11th Andy Hughes  $100 &nbsp;</div><div><br/></div><div><b><span style="font-weight: 700;">Pot Limit Omaha</span></b></div><div>Thursday, August 1st</div><div>$75+$20</div><div><br/></div><div>1st &nbsp; &nbsp; Rich Strauss  $1,205</div><div>2nd &nbsp; Tom White Jr.  $1,200&nbsp;</div><div>3rd &nbsp; &nbsp;Paul Fischman  $835&nbsp;</div><div>4th &nbsp; &nbsp;Corey Insdahl  $665&nbsp;</div><div>5th &nbsp; &nbsp;Kenneth Kubey  $555&nbsp;</div><div>6th &nbsp; &nbsp;David Low  $390&nbsp;</div><div>7th &nbsp; &nbsp;Daniel Goldman  $280&nbsp;</div><div>8th &nbsp; &nbsp;Kyle Minnis  $220&nbsp;</div><div>9th &nbsp; &nbsp;Janie McIntosh  $100&nbsp;</div><div>10th &nbsp;Alan Veach  $100 &nbsp;</div><div><br/></div><div><b><span style="font-weight: 700;">TOC Style</span></b></div><div>$75 + $20</div><div>Friday, August 2nd</div><div><br/></div><div>1st &nbsp; &nbsp; Gillian Groves  $2,150&nbsp;</div><div>2nd &nbsp; Derek Gomez  $1,635&nbsp;</div><div>3rd &nbsp; &nbsp;Don Rieck  $1,210&nbsp;</div><div>4th &nbsp; &nbsp;Steve Pierce  $950&nbsp;</div><div>5th &nbsp; &nbsp;J. P. Massar  $775&nbsp;</div><div>6th &nbsp; &nbsp;Steve Watanabe  $605&nbsp;</div><div>7th &nbsp; &nbsp;Ross Poppel  $430&nbsp;</div><div>8th &nbsp; &nbsp;Chris Connor  $260&nbsp;</div><div>9th &nbsp; &nbsp;Bob Ogus  $175&nbsp;</div><div>10th &nbsp;Stephen Landrum  $175&nbsp;</div><div>11th &nbsp;Kyle Minnis  $130&nbsp;</div><div>12th &nbsp;Peter Caldes  $130 &nbsp;&nbsp;</div><div><br/></div><div><b><span style="font-weight: 700;">No Limit Holdem Championship</span></b></div><div>$100 + $20</div><div>Saturday, August 3rd</div><div><br/></div><div>1st &nbsp; &nbsp; David Lawful  $3,100&nbsp;</div><div>2nd &nbsp; &nbsp;Robert Lauria  $3,090&nbsp;</div><div>3rd &nbsp; &nbsp; Gerald Petersen  $2,015&nbsp;</div><div>4th &nbsp; &nbsp; Rick Mombourquette  $1,585&nbsp;</div><div>5th &nbsp; &nbsp; Keith Troell  $1,150&nbsp;</div><div>6th &nbsp; &nbsp; Mike McManus  $865&nbsp;</div><div>7th &nbsp; &nbsp; Christine Gonzalez  $575&nbsp;</div><div>8th &nbsp; &nbsp; Andrew Prock  $430&nbsp;</div><div>9th &nbsp; &nbsp; Carol Kline  $290&nbsp;</div><div>10th &nbsp; Adam Bachrach  $290&nbsp;</div><div>11th &nbsp; Sandra Terauds  $215</div><div>12th &nbsp; Connie Kellers  $215&nbsp;</div><div>13th &nbsp; Todd Bryson  $145&nbsp;</div><div>14th &nbsp; Nick Christenson  $145&nbsp;</div><div>15th &nbsp; Rod Crane  $145</div><div>16th &nbsp; J. P. Massar  $145 &nbsp;</div><div><br/></div><div><br/></div><div><b><span style="font-weight: 700;">2013-2014 ARG Best All-Around Player</span></b></div><div><br/></div><div>1 Steven Eisenstein</div><div>2 Scott Byron</div><div>3 Bob Lauria</div><div><br/></div><div><br/></div>Team CHORSE <div>8/1/2013</div><div>10 Teams<br/></div><div>Buy in $400+ $30<br/></div><div><br/></div><div>1st Arrogant Bastards  $610</div><div>2nd Team Virgin  $602<br/></div><div>3rd Team Moosecock  $542<br/></div><div>4th McLibtards  $500<br/></div><div>5th deadheads $493<br/></div><div>6th Team MPN $484<br/></div><div>7th Team Jam $469<br/></div><div><br/></div><div>Team Sleeping In</div><div><br/></div><div>8th Repeat Offenders $173</div><div>9th Top Posters $128<br/></div><div>10th Runner Runner $0<br/></div><div><br/></div><div>Notes:</div><div>These are rounded up payouts and may deviate slightly (+/- $1)  from actual amounts awarded<br/></div><div>Impressive that 7/10 teams made money; probably the worst placing Team Sleeping In has ever done.<br/></div><div>At the Symposium, foldem renamed the Virgin Team the &quot;Like a Virgin Team&quot; since only half of their members were actually virgins.<br/></div></div></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="14" class="dmFooterResp dmFullFooterResp" id="1111073452"> <div class="dmRespRow dmDividerRow" id="1503735893"> <div class="dmRespColsWrapper" id="1033248163"> <div class="large-12 medium-12 small-12 dmRespCol" id="1142567420"> <div class="dmDividerWrapper clearfix" id="1560217446" data-element-type="dDividerId"><hr class="dmDivider defaultDivider" id="1292223076"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1424577298 dmRespRow dmFooterContent" id="1424577298"> <div class="dmRespColsWrapper" id="1527896906"> <div class="dmRespCol large-12 medium-12 small-12 dmFooterCol content-removed" id="1624182295"> <h3 class="dmFooterDefaultH3" id="1489236914">Follow Us</h3> 
+</div> 
+</div> 
+</div> 
+ <div id="1409248432" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4937";
+    var build = "2024-11-18T13_48_15";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-11-18T13_48_15";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4937';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4937';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =true;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwid.delegateNavigationToEcwid.enabled"] = false;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4937/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4937/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+	const queryParams = new URLSearchParams(window.location.search);
+
+	const expires = 'expires=' + new Date().getTime() + 24 * 60 * 60 * 1000;
+	const domain = 'domain=' + window.location.hostname;
+	const path = "path=/";
+
+	queryParams.forEach((value, key) => {
+		if (key.startsWith('utm_')) {
+			const cookieName = "_dm_rt_" + key.substring(4);
+			const cookie = cookieName + "=" + value;
+			const joined = [cookie, expires, domain, path].join(";");
+			document.cookie = joined;
+		}
+	});
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71695070-1"></script>
+<script type="text/javascript" id="d_track_ga">
+  _dm_gaq.siteAlias = '7fa840da';
+  _dm_gaq.systemAggregatedGaqID = '';
+  _dm_gaq.externalGaqID = 'UA-71695070-1';
+  _dm_gaq.gaAggregatedEventAttributes = {
+	  'site_alias':  _dm_gaq.siteAlias,
+	  'product': 'DM_DIRECT',
+	  'plan': 'BUSINESS_PLUS',
+	  'dfooter': 'false',
+	  'sitetype': '1',
+	  'pwaEnabled': 'false'
+  }
+
+  _dm_gaq.pushEvent = function(trackingId, event, category, label, value, additionalParams = {}) {
+	  const eventProps = {
+		  send_to: trackingId,
+		  event_category: category,
+		  event_label: label,
+		  value,
+		  ...additionalParams,
+		  ...(trackingId === _dm_gaq.systemAggregatedGaqID
+				  ? _dm_gaq.gaAggregatedEventAttributes : {})
+	  };
+	  gtag('event', event, eventProps);
+  }
+
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+  function pushInsiteImpressions(id) {
+	  _dm_insite.forEach((rule) => {
+		  _dm_gaq.pushEvent(id, 'insite_impression', 'insite', rule.ruleType + '__' + rule.ruleId);
+	  });
+  }
+
+if(_dm_gaq.systemAggregatedGaqID){
+	// track aggregated account
+	gtag('config', '', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'custom_map': {'dimension1': 'site_alias', 'dimension2': 'product', 'dimension3': 'dFooter', 'dimension4': 'sitetype'}
+	});
+	gtag('set', 'developer_id.dMDU5Nj', true);
+
+	_dm_gaq.pushEvent('', 'page_view');
+	pushInsiteImpressions(_dm_gaq.systemAggregatedGaqID);
+}
+
+if(_dm_gaq.externalGaqID && _dm_gaq.externalGaqID!= '') {
+	gtag('config', 'UA-71695070-1', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'linker': {
+			'domains': ['barge.org']
+		}
+	});
+	_dm_gaq.pushEvent('UA-71695070-1', 'page_view');
+	pushInsiteImpressions(_dm_gaq.externalGaqID);
+}
+</script>
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: '7fa840da'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: 7fa840da -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>

@@ -1,0 +1,1341 @@
+<!doctype html >
+<html xmlns="http://www.w3.org/1999/xhtml" 
+      class="">
+<head>
+    <meta charset="utf-8">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+    window._currentDevice = 'desktop';
+    window.Parameters = window.Parameters || {
+        HomeUrl: 'https://www.barge.org/',
+        AccountUUID: '8fde30b1acfa4d809a576fe424c9b477',
+        SystemID: 'US_DIRECT_PRODUCTION',
+        SiteAlias: '7fa840da',
+        SiteType: atob('RFVEQU9ORQ=='),
+        PublicationDate: 'Mon Nov 18 02:48:30 UTC 2024',
+        ExternalUid: null,
+        IsSiteMultilingual: false,
+        InitialPostAlias: '',
+        InitialDynamicItem: '',
+        DynamicPageInfo: {
+            isDynamicPage: false,
+            base64JsonRowData: 'null',
+        },
+        InitialPageAlias: 'contact',
+        InitialPageUuid: '04dbf9ae47774952baa521e67f5598e5',
+        InitialPageId: '933041473',
+        InitialEncodedPageAlias: 'Y29udGFjdA==',
+        CurrentPageUrl: '',
+        IsCurrentHomePage: false,
+        AllowAjax: false,
+        AfterAjaxCommand: null,
+        HomeLinkText: 'Back To Home',
+        UseGalleryModule: false,
+        CurrentThemeName: 'Layout Theme',
+        ThemeVersion: '49340',
+        DefaultPageAlias: '',
+        RemoveDID: true,
+        WidgetStyleID: null,
+        IsHeaderFixed: false,
+        IsHeaderSkinny: false,
+        IsBfs: true,
+        StorePageAlias: 'null',
+        StorePagesUrls: 'e30=',
+        IsNewStore: 'false',
+        StorePath: '',
+        StoreId: 'null',
+        StoreVersion: 0,
+        StoreBaseUrl: '',
+        StoreCleanUrl: true,
+        StoreDisableScrolling: true,
+        IsStoreSuspended: false,
+        NotificationSubDomain: 'barge',
+        HasCustomDomain: true,
+        SimpleSite: false,
+        showCookieNotification: false,
+        cookiesNotificationMarkup: 'null',
+        translatedPageUrl: '',
+        isFastMigrationSite: false,
+        sidebarPosition: 'NA',
+        currentLanguage: 'null',
+        currentLocale: 'null',
+        NavItems: '{}',
+        errors: {
+            general: 'There was an error connecting to the page.<br/> Make sure you are not offline.',
+            password: 'Incorrect name/password combination',
+            tryAgain: 'Try again'
+        },
+        NavigationAreaParams: {
+            ShowBackToHomeOnInnerPages: true,
+            NavbarSize: -1,
+            NavbarLiveHomePage: 'https://www.barge.org/',
+            BlockContainerSelector: '.dmBody',
+            NavbarSelector: '#dmNav:has(a)',
+            SubNavbarSelector: '#subnav_main'
+        },
+        hasCustomCode: true,
+        planID: '7',
+        customTemplateId: 'null',
+        siteTemplateId: 'null',
+        productId: 'DM_DIRECT',
+        disableTracking: false,
+        pageType: 'FROM_SCRATCH',
+        isRuntimeServer: true,
+        isInEditor: false,
+        hasNativeStore: false,
+        defaultLang: 'null',
+        hamburgerMigration: null
+    };
+
+    window.Parameters.LayoutID = {};
+    window.Parameters.LayoutID[window._currentDevice] = 6;
+    window.Parameters.LayoutVariationID = {};
+    window.Parameters.LayoutVariationID[window._currentDevice] = 5;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Injecting site-wide to the head -->
+
+
+
+
+<!-- End Injecting site-wide to the head -->
+
+<!-- Inject secured cdn script -->
+
+
+<!-- ========= Meta Tags ========= -->
+<script>
+    try {
+    if (
+        navigator.serviceWorker &&
+        navigator.serviceWorker.getRegistrations &&
+        location.protocol === 'https:'
+    ) {
+        // remove all service workers
+        navigator.serviceWorker
+            .getRegistrations()
+            .then(function (registrations) {
+                if (registrations && registrations.length) {
+                    console.log('unregistering service workers');
+                    registrations.forEach(function (registration) {
+                        registration.unregister();
+                    });
+                }
+            });
+        // clear caches
+        if (caches) {
+            caches.keys().then(function (keyList) {
+                if (keyList && keyList.length) {
+                    console.log('deleting caches');
+                    keyList.forEach(function (key) {
+                        if (key && key.indexOf('druntime') === 0) {
+                            caches.delete(key);
+                        }
+                    });
+                }
+            });
+        }
+    }
+} catch (err) {
+    // not a secured location
+}
+</script>
+
+
+
+<link rel="canonical" href="https://www.barge.org/contact">
+
+<meta id="view" name="viewport" content="initial-scale=1, minimum-scale=1, maximum-scale=5, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+
+<!--Add favorites icons-->
+
+<link rel="icon" type="image/x-icon" href="https://irp-cdn.multiscreensite.com/7fa840da/site_favicon_16_1447302957248.ico"/>
+
+<!-- End favorite icons -->
+<link rel="preconnect" href="https://lirp.cdn-website.com/"/>
+
+
+
+<!-- render the required CSS and JS in the head section -->
+<script>
+    window.SystemID = 'US_DIRECT_PRODUCTION';
+
+    if (!window.dmAPI) {
+        window.dmAPI = {
+            registerExternalRuntimeComponent: function () {
+            },
+            getCurrentDeviceType: function () {
+                return window._currentDevice;
+            },
+            runOnReady: (ns, fn) => {
+                const safeFn = dmAPI.toSafeFn(fn);
+                ns = ns || 'global_' + Math.random().toString(36).slice(2, 11);
+                const eventName = 'afterAjax.' + ns;
+
+                if (document.readyState === 'complete') {
+                    $.DM.events.off(eventName).on(eventName, safeFn);
+                    setTimeout(function () {
+                        safeFn({
+                            isAjax: false,
+                        });
+                    }, 0);
+                } else {
+                    window?.waitForDeferred?.('dmAjax', () => {
+                        $.DM.events.off(eventName).on(eventName, safeFn);
+                        safeFn({
+                            isAjax: false,
+                        });
+                    });
+                }
+            },
+            toSafeFn: (fn) => {
+                if (fn?.safe) {
+                    return fn;
+                }
+                const safeFn = function (...args) {
+                    try {
+                        return fn?.apply(null, args);
+                    } catch (e) {
+                        console.log('function failed ' + e.message);
+                    }
+                };
+                safeFn.safe = true;
+                return safeFn;
+            }
+        };
+    }
+
+    if (!window.requestIdleCallback) {
+        window.requestIdleCallback = function (fn) {
+            setTimeout(fn, 0);
+        }
+    }
+</script>
+
+<!-- loadCSS function header.jsp-->
+
+
+
+
+
+
+<script id="d-js-load-css">
+/**
+ * There are a few <link> tags with CSS resource in them that are preloaded in the page
+ * in each of those there is a "onload" handler which invokes the loadCSS callback
+ * defined here.
+ * We are monitoring 3 main CSS files - the runtime, the global and the page.
+ * When each load we check to see if we can append them all in a batch. If threre
+ * is no page css (which may happen on inner pages) then we do not wait for it
+ */
+(function () {
+  let cssLinks = {};
+  function loadCssLink(link) {
+    link.onload = null;
+    link.rel = "stylesheet";
+    link.type = "text/css";
+  }
+  
+    function checkCss() {
+      const pageCssLink = document.querySelector("[id*='CssLink']");
+      const widgetCssLink = document.querySelector("[id*='widgetCSS']");
+
+        if (cssLinks && cssLinks.runtime && cssLinks.global && (!pageCssLink || cssLinks.page) && (!widgetCssLink || cssLinks.widget)) {
+            const storedRuntimeCssLink = cssLinks.runtime;
+            const storedPageCssLink = cssLinks.page;
+            const storedGlobalCssLink = cssLinks.global;
+            const storedWidgetCssLink = cssLinks.widget;
+
+            storedGlobalCssLink.disabled = true;
+            loadCssLink(storedGlobalCssLink);
+
+            if (storedPageCssLink) {
+                storedPageCssLink.disabled = true;
+                loadCssLink(storedPageCssLink);
+            }
+
+            if(storedWidgetCssLink) {
+                storedWidgetCssLink.disabled = true;
+                loadCssLink(storedWidgetCssLink);
+            }
+
+            storedRuntimeCssLink.disabled = true;
+            loadCssLink(storedRuntimeCssLink);
+
+            requestAnimationFrame(() => {
+                setTimeout(() => {
+                    storedRuntimeCssLink.disabled = false;
+                    storedGlobalCssLink.disabled = false;
+                    if (storedPageCssLink) {
+                      storedPageCssLink.disabled = false;
+                    }
+                    if (storedWidgetCssLink) {
+                      storedWidgetCssLink.disabled = false;
+                    }
+                    // (SUP-4179) Clear the accumulated cssLinks only when we're
+                    // sure that the document has finished loading and the document 
+                    // has been parsed.
+                    if(document.readyState === 'interactive') {
+                      cssLinks = null;
+                    }
+                }, 0);
+            });
+        }
+    }
+  
+
+  function loadCSS(link) {
+    try {
+      var urlParams = new URLSearchParams(window.location.search);
+      var noCSS = !!urlParams.get("nocss");
+      var cssTimeout = urlParams.get("cssTimeout") || 0;
+
+      if (noCSS) {
+        return;
+      }
+      if (link.href && link.href.includes("d-css-runtime")) {
+        cssLinks.runtime = link;
+        checkCss();
+      } else if (link.id === "siteGlobalCss") {
+        cssLinks.global = link;
+        checkCss();
+      } 
+      
+      else if (link.id && link.id.includes("CssLink")) {
+        cssLinks.page = link;
+        checkCss();
+      } else if (link.id && link.id.includes("widgetCSS")) {
+        cssLinks.widget = link;
+        checkCss();
+      }
+      
+      else {
+        requestIdleCallback(function () {
+          window.setTimeout(function () {
+            loadCssLink(link);
+          }, parseInt(cssTimeout, 10));
+        });
+      }
+    } catch (e) {
+      throw e
+    }
+  }
+  window.loadCSS = window.loadCSS || loadCSS;
+})();
+</script>
+
+
+
+<script data-role="deferred-init" type="text/javascript">
+    /* usage: window.getDeferred(<deferred name>).resolve() or window.getDeferred(<deferred name>).promise.then(...)*/
+    function Def() {
+        this.promise = new Promise((function (a, b) {
+            this.resolve = a, this.reject = b
+        }).bind(this))
+    }
+
+    const defs = {};
+    window.getDeferred = function (a) {
+        return null == defs[a] && (defs[a] = new Def), defs[a]
+    }
+    window.waitForDeferred = function (b, a, c) {
+        let d = window?.getDeferred?.(b);
+        d
+            ? d.promise.then(a)
+            : c && ["complete", "interactive"].includes(document.readyState)
+                ? setTimeout(a, 1)
+                : c
+                    ? document.addEventListener("DOMContentLoaded", a)
+                    : console.error(`Deferred  does not exist`);
+    };
+</script>
+<style id="forceCssIncludes">
+    /* This file is auto-generated from a `scss` file with the same name */
+
+.videobgwrapper{overflow:hidden;position:absolute;z-index:0;width:100%;height:100%;top:0;left:0;pointer-events:none;border-radius:inherit}.videobgframe{position:absolute;width:101%;height:100%;top:50%;left:50%;transform:translateY(-50%) translateX(-50%);object-fit:fill}#dm video.videobgframe{margin:0}@media (max-width:767px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:80vh}}@media (min-width:1025px){.dmRoot .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}@media (min-width:768px) and (max-width:1024px){.responsiveTablet .dmPhotoGallery.newPhotoGallery:not(.photo-gallery-done){min-height:45vh}}#dm [data-show-on-page-only]{display:none!important}#dmRoot div.stickyHeaderFix div.site_content{margin-top:0!important}#dmRoot div.stickyHeaderFix div.hamburger-header-container{position:relative}
+    
+
+</style>
+<style id="cssVariables" type="text/css">
+    
+</style>
+
+
+<style id="hideAnimFix">
+    .dmDesktopBody:not(.editGrid) [data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) [data-anim-extended] {
+        visibility: hidden;
+    }
+
+    .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-desktop]:not([data-anim-desktop='none']), .dmDesktopBody:not(.editGrid) .dmNewParagraph[data-anim-extended] {
+        visibility: hidden !important;
+    }
+</style>
+
+
+
+<style id="criticalCss">
+    @charset "UTF-8";#dm .dmInner .dmWidget,.clearfix:after,.dmRespDesignRow:after,.dmRespRow:after,.dmSocialHub,.dmform,DIV.dmBody{clear:both}#dm .dmwidget-title,.innerPageTitle{text-overflow:ellipsis;word-wrap:normal}@font-face{font-family:Impact;font-style:normal;font-weight:400;src:local("Impact"),url(https://dd-cdn.multiscreensite.com/fonts/additionalfonts/5128cd07406988e3.woff) format("woff");unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2212,U+2215;font-display:swap}@font-face{font-family:FontAwesome;font-display:block;src:url(https://static.cdn-website.com/fonts/fontawesome-webfont.eot?v=6);src:url(https://static.cdn-website.com/fonts/fontawesome-webfont.eot?#iefix&v=6) format("embedded-opentype"),url(https://static.cdn-website.com/fonts/fontawesome-webfont.woff?v=6) format("woff"),url(https://static.cdn-website.com/fonts/fontawesome-webfont.ttf?v=6) format("truetype"),url(https://static.cdn-website.com/fonts/fontawesome-webfont.svg#fontawesomeregular?v=6) format("svg");font-weight:400;font-style:normal}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:400;font-display:swap;src:url(https://fonts.gstatic.com/s/sourcesanspro/v22/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7l.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}@font-face{font-family:'Source Sans Pro';font-style:normal;font-weight:700;font-display:swap;src:url(https://fonts.gstatic.com/s/sourcesanspro/v22/6xKydSBYKcSV-LCoeQqfX1RYOo3ig4vwlxdu.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}.dmInner{min-height:100vh!important;position:relative}.dmPopup,.dmPopupMask{position:fixed;left:0}.display_None{display:none}.dmDisplay_None{display:none!important}.clearfix:after{visibility:hidden;line-height:0;height:0}.clearfix:after,.clearfix:before{content:' ';display:table}.clearfix{display:inline-block}.dmPopupMask{margin:0;display:none;width:10px;z-index:1000000999;top:0}#dmRoot .dmPopup{display:block}.dmPopup{text-align:left;top:10px;width:93%;z-index:1000009999!important;box-sizing:border-box;background:#f5f5f5;overflow-y:auto;height:100%;display:block}.dmPopup .dmPopupTitle{text-align:left;font:700 19px Helvetica,Arial;margin:20px 20px 35px;color:#999}.lh-1,button,input{line-height:normal}#dmPopup{opacity:0}.dmPopupClose,.dmPopupClose:before{position:absolute;visibility:visible}.dmPopupClose{border-radius:25px;width:27px;height:27px;z-index:1;background-color:rgba(255,255,255,.4);top:12px;right:12px}.dmPopupClose:before{display:block;font-size:20px;color:#000;top:3px;right:3px}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar{width:5px;height:5px}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar-track{background:rgba(0,0,0,.1)}body.dmDesktopBody:not(.mac) .data::-webkit-scrollbar-thumb{background:#c8c8c8;box-shadow:inset 0 1px 2px #454545;border-radius:45px}#dm .dmRespRow .dmRespColsWrapper{display:flex}body.fix-mobile-scrolling{overflow:initial}#dmRoot{text-decoration-skip-ink:none}.dmform-title{padding-right:15px;padding-left:15px}@media (max-width:767px){#dmRoot.responsiveTablet #dm .dmInner .hide-for-small{display:none!important}}@media (min-width:1025px) and (max-width:1399px){[data-hidden-on-desktop]{display:none!important}}body{-webkit-overflow-scrolling:touch}@media (min-width:1025px){#dmRoot.responsiveTablet #dm .dmInner .hide-for-large{display:none!important}:root{--btn-text-font-size:18px}}@media (min-width:768px) and (max-width:1024px){#dmRoot.responsiveTablet #dm .dmInner .hide-for-medium,[data-hidden-on-tablet]{display:none!important}:root{--btn-text-font-size:18px}}nav{display:block}html{font-family:Source Sans Pro;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}h1{margin:.67em 0}hr{box-sizing:content-box;height:0}img{border:0;max-width:100%;-ms-interpolation-mode:bicubic;display:inline-block}button,input,textarea{font-family:inherit;font-size:100%;margin:0}button{text-transform:none}button,input[type=submit]{-webkit-appearance:button}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top;height:auto;min-height:50px}*,:after,:before{box-sizing:border-box}.dmRespRow.dmRespRowNoPadding{padding:0}.dmRespDesignRow,.dmRespRow{padding-top:15px;padding-bottom:15px}.dmRespDesignRow:after,.dmRespDesignRow:before,.dmRespRow:after,.dmRespRow:before{content:' ';display:table}.dmRespDesignRow,.dmRespRow,.dmRespRow .dmRespColsWrapper{max-width:960px;position:relative;margin:0 auto;width:100%}.dmRespDesignRow .dmRespDesignCol,.dmRespRow .dmRespCol{position:relative;width:100%;display:inline-block;vertical-align:top;float:left}.dmRespRow .dmRespCol>*{max-width:100%}.dmDesktopBody .dmRespRow .large-1{position:relative;width:8.33333%}.dmDesktopBody .dmRespDesignRow .large-4,.dmDesktopBody .dmRespRow .large-4{position:relative;width:33.33333%}.dmDesktopBody .dmRespRow .large-7{position:relative;width:58.33333%}.dmDesktopBody .dmRespDesignRow .large-12,.dmDesktopBody .dmRespRow .large-12{position:relative;width:100%}.socialHubIcon,[class*=' dm-social-icons-'],[class*=' dm-common-icons-']{font-family:dm-social-icons!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.dm-social-icons-google-plus:before{content:'\e905'}.dm-social-icons-facebook:before{content:'\ea90'}.dm-social-icons-twitter:before{content:'\ea96'}[class*=' dm-common-icons-']{font-family:dm-common-icons!important}.dm-common-icons-close:before{content:'\e901'}[class*=' icon-']{font-family:FontAwesome!important;font-weight:400;font-style:normal;text-decoration:inherit;-webkit-font-smoothing:antialiased;display:inline;width:auto;height:auto;line-height:normal;vertical-align:baseline;background-image:none;background-position:0 0;background-repeat:repeat;margin-top:0}[class*=' icon-']:before{text-decoration:none;display:inline-block;speak:none}a [class*=' icon-']{display:inline}.icon-angle-right:before{content:'\f105'}.icon-angle-down:before{content:'\f107'}@media (max-width:767px){#dm .dmInner .dmWidget{width:100%}}#dm .dmInner .dmWidget:not(.displayNone){display:inline-block}#dm .dmInner .dmWidget{text-decoration:none;margin:10px 0;position:relative;text-align:center;line-height:22px;box-shadow:none;background-image:none;padding:0;height:auto;border-style:solid;white-space:nowrap}#dm .dmInner .dmWidget:after{content:'';display:inline-block;height:100%;vertical-align:middle;width:0;margin-right:-.25em}.dmWidget.R{float:right}#dm .dmInner .dmWidget input{width:98%;margin:auto;font-size:1.125em;padding:10px!important;background-color:transparent}.dmInner{min-width:768px!important;font-size:16px;background:#fcfbfc;color:#333}.socialHubIcon{display:flex!important;align-items:center;justify-content:center}.imageWidget{position:relative}#dm .dmformsubmit input[type=submit]{text-align:inherit}.dmform .dmforminput label{display:block;overflow:hidden;text-overflow:ellipsis}#dmRoot.dmLargeBody #dm .dmWidget.dmformsubmit{max-width:100%;padding:0}.dmLargeBody #dm .large-12 .dmformsubmit.dmformsubmit{width:280px}*{border:0 solid #574c36;scrollbar-arrow-color:#fff;scrollbar-track-color:#F2F2F2;scrollbar-face-color:silver;scrollbar-highlight-color:silver;scrollbar-3dlight-color:silver;scrollbar-shadow-color:silver;scrollbar-darkshadow-color:silver;scrollbar-width:12px}body{width:100%;overflow:hidden;-webkit-text-size-adjust:100%!important;-ms-text-size-adjust:100%!important}h1,h3,ul{margin-left:0;margin-right:0}.dmInner *{-webkit-font-smoothing:antialiased}span.oneIcon:before{display:inline-block}.clearfix,a,img,li,ul{vertical-align:top}#iscrollBody,#site_content{position:relative}.dmOuter{word-wrap:break-word}.dmDesktopBody .dmInner{min-width:960px}.dmInner a{color:#5b4824}.dmInner ul:not(.defaultList){padding:0}.dmHeader{background:#fff;color:#333;text-align:center;position:relative;width:100%;max-width:100%}DIV.dmBody{padding:0}.dmContent{margin:0;padding:0}#site_content ul:not(.defaultList){-webkit-padding-start:0;-moz-padding-start:0;list-style-position:inside}#innerBar{position:relative;height:36px;width:100%;font-size:20px;margin:0;z-index:80}#dm .dmRespRow.dmRespRowNoPadding{padding:0}.dmLargeBody .dmBody .dmRespRowsWrapper{background-color:#fcfbfc}.dmRespRowsWrapper{max-width:960px;margin:0 auto}.dmRespCol>[dmle_extension]:not(:first-child){margin-top:10px}.dmLargeBody .imageWidget:not(.displayNone){display:inline-block;max-width:100%}.imageWidget:not(.displayNone) img{width:100%}.dmDivider.defaultDivider{min-height:1px;background-color:rgba(51,51,51,.2);margin:0}h3{font-size:23px}#dm .dmRespColsWrapper{display:block}.dmNewParagraph{text-align:left;margin:8px 0;padding:2px 0}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol,.dmLargeBody .fHeader .dmRespRow .dmRespCol{padding-left:.75%;padding-right:.75%}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol:first-child,.dmLargeBody .fHeader .dmRespRow .dmRespCol:first-child{padding-left:0;padding-right:1.5%}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol:last-child,.dmLargeBody .fHeader .dmRespRow .dmRespCol:last-child{padding-right:0;padding-left:1.5%}.dmLargeBody .dmRespRowsWrapper>.dmRespRow .dmRespCol:only-child,.dmLargeBody .fHeader .dmRespRow .dmRespCol:only-child{padding-left:0;padding-right:0}#dm .dmStandardDesktop .dmSocialHub.dmSocialHome a{margin:7px}#innerBar.lineInnerBar{width:100%;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none;font-size:20px;margin-top:30px;margin-bottom:30px;background-color:transparent;color:#333}.innerPageTitle{display:block;text-align:center;color:#fff;margin:3px 65px;padding:6px 0;white-space:nowrap;overflow:hidden;box-sizing:border-box}#innerBar .titleLine{display:table-cell;vertical-align:middle;width:50%}.dmPageTitleRow:not(#innerBar){display:none}.titleLine hr{min-height:1px;background-color:rgba(51,51,51,.2)}.lineInnerBar .innerPageTitle{display:table-cell;vertical-align:middle;text-transform:capitalize;text-align:left;margin:0;padding:4px 15px 0;color:#333;font-family:inherit;white-space:nowrap}.dmFooter,.dmform.dmContactDefaultForm .dmform-wrapper form{padding:0}#dm .dmform.default.dmContactDefaultForm h3.dmform-title.dmwidget-title{margin:0}.dmRespRow.dmContactFormRow .dmform.default.dmContactDefaultForm .dmform-wrapper{margin:0 -15px}.dmStandardDesktop .dmRespRow.dmContactFormRow{padding-top:0;padding-bottom:0}.dmFooterContainer{position:relative}.dmFooter{font-size:1em;font-weight:400;text-align:left;background:#1d07f5}.dmRespRow.dmFooterContent{padding-top:0}.dmFullFooterResp .dmFooterContent{padding:30px 0}.dmLargeBody .dmFooterResp>.dmRespRow .dmRespCol{padding-left:.75%;padding-right:.75%}.dmLargeBody .dmFooterResp>.dmRespRow .dmRespCol:first-child{padding-left:0;padding-right:1.5%}.dmLargeBody .dmFooterResp>.dmRespRow .dmRespCol:last-child{padding-right:0;padding-left:1.5%}.dmLargeBody .dmFooterResp>.dmRespRow .dmRespCol:only-child{padding-left:0;padding-right:0}.dmLargeBody .dmRespRow.dmFooterContent h3{margin-top:0}.dmFullFooterResp .dmSocialHub{text-align:center}.dmLinksMenu{float:none!important;display:block}.dmStandardDesktop{display:block;margin:0 auto}.dmInner a{outline:0;vertical-align:inherit}#dm .dmInner .dmWidget{color:#fff;background-color:#574c36}#dm .dmwidget-title{margin:10px 0;font-size:23px;text-shadow:none;text-align:left;text-transform:capitalize;overflow:hidden;white-space:nowrap}div.dmInner input[type=email],div.dmInner input[type=tel],div.dmInner input[type=text]{font-size:16px;background-color:rgba(51,51,51,.15);border:2px solid #fcfbfc;width:100%;margin:3px 0;height:40px;padding:0 10px}div.dmInner textarea{height:80px;width:100%;margin:3px 0;padding:10px;min-height:50px;font-size:16px;background-color:rgba(51,51,51,.15);border:2px solid #fcfbfc}div.dmInner input[type=submit]{margin:5px auto;width:100%;border-radius:5px;-webkit-border-radius:5px;-moz-border-radius:5px;height:30px!important;color:#fff;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;font-size:16px;border:none;outline:0}.dmforminput{margin-top:10px;text-align:left;padding-left:.9375em;padding-right:.9375em}#dm .dmform .dmformsubmit{margin:20px 15px}div.dmInner .dmformsubmit input[type=submit]{height:auto!important}.dmCustomHtml{margin:10px 0}#dm .dmDivider{display:block;margin:10px 0}#dm .dmSocialHub a{display:inline-block;text-decoration:none;margin:0;vertical-align:bottom}.dmSocialHub>div{text-align:inherit}a span.socialHubIcon{width:36px;height:36px;font-size:31px;display:inline-block;text-align:center;margin-right:0;margin-bottom:5px;line-height:36px;-webkit-box-sizing:content-box;-moz-box-sizing:content-box;box-sizing:content-box;background-image:none!important}.socialHubIcon.style3{font-size:24px;padding:1px;border-radius:50%;border:3px solid #fff;color:#fff}#dm .dmSocialHub .socialHubWrapper{display:inline-block;max-width:100%}body{background-color:#eee}#dm .dmDividerWrapper{display:block}#innerBar.lineInnerBar,.dmFooterDefaultH3,.dmFooterResp>.dmRespRow.dmDividerRow{display:none}.dmLargeBody .dm-layout-sec .dmBody .dmRespRowsWrapper{background-color:#fcfbfc;color:#333}.dm-layout-sec .lineInnerBar .innerPageTitle{color:#333}.dm-layout-sec .dmDivider.defaultDivider,.dm-layout-sec .titleLine hr{background-color:rgba(51,51,51,.2)}.dmLargeBody #dm .dm-layout-sec div.dmInner input[type=text],.dmLargeBody .dm-layout-sec div.dmInner input[type=email],.dmLargeBody .dm-layout-sec div.dmInner input[type=tel],.dmLargeBody .dm-layout-sec div.dmInner textarea{background-color:rgba(50,50,50,.15)}div.dmInner{font-family:Source Sans Pro;font-weight:400;background:#d51f1f}h1{font-size:30px;font-weight:400}#dm .dmwidget-title,h3{font-weight:400}.dmLargeBody .dmFooterResp>div.dmRespRow,.dmLargeBody .innerPageTmplBox>div.dmRespRow{padding-left:40px;padding-right:40px}#dm .fHeader .dmHeaderContent.freeHeaderRow2{padding:10px 0}.dmLargeBody .dmRespRow.dmContactFormRow{padding-bottom:30px}.dmform.dmContactDefaultForm .dmform-wrapper form{max-width:928px;margin:0}#dm .dmform.default.dmContactDefaultForm h3.dmform-title.dmwidget-title{padding:0 0 5px}.dmform .dmformsubmit{margin:20px 15px 10px}.dmform.default.dmContactDefaultForm{margin:0}.dmFooter{margin:auto;background-color:#1d07f5;color:#fff}.dmLargeBody .dmRespRow.dmFooterContent{padding:10px 40px}.dmLinksMenu>ul{display:block;margin:0;font-size:0}.dmDivider{color:grey;border-color:currentColor;background:0 0}.main-navigation.unifiednav{-js-display:flex;display:flex;justify-content:flex-start;align-items:stretch;overflow:visible}.main-navigation.unifiednav ul{list-style:none;padding:0;margin:0;font-size:1rem}.main-navigation.unifiednav .unifiednav__container{-js-display:flex;display:flex;justify-content:flex-start;list-style:none}.main-navigation.unifiednav:not(.unifiednav_vertical)>.unifiednav__container{flex-wrap:wrap}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap{-js-display:flex;display:flex;justify-content:flex-start;position:relative;font-weight:400}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before{content:'';align-self:center;font-weight:700}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item{-js-display:flex;display:flex;justify-content:flex-start;align-items:center;flex-direction:row;color:inherit;text-decoration:none;position:relative;padding:12px 15px;margin:0;font-weight:inherit;letter-spacing:.03em}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{padding:0 15px}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item .nav-item-text{white-space:nowrap}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{content:'';width:100%;height:0;border:0 solid transparent;border-top-color:currentColor;display:block;opacity:0}.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::after,.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::before{opacity:1}.main-navigation.unifiednav.effect-bottom2{padding:calc(12px - .2em - 2px) 15px}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{transform:scaleX(0);border-top-width:2px}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after{margin-top:.2em}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{margin-bottom:.2em;border-top-color:transparent}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::after,.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item.dmNavItemSelected .nav-item-text::before{transform:scaleX(1)}.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::after,.main-navigation.unifiednav.effect-bottom2 .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item .nav-item-text::before{transform-origin:left}.main-navigation.unifiednav .unifiednav__container .unifiednav__item:not(.unifiednav__item_has-sub-nav) .icon{display:none}.main-navigation.unifiednav .unifiednav__container[data-depth='1']{min-width:100%}.main-navigation.unifiednav .unifiednav__container[data-depth]{position:absolute;top:0;left:0;flex-direction:column;opacity:0;z-index:100;background-color:#faf9f9}.main-navigation.unifiednav .unifiednav__container[data-depth='0']{top:100%;transform:translateY(-10px)}.main-navigation.unifiednav:not(.unifiednav_vertical) .unifiednav__container[data-depth='0']{left:15px}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap .unifiednav__container>.unifiednav__item-wrap{flex-direction:column}.main-navigation.unifiednav .unifiednav__container[data-depth]>.unifiednav__item-wrap .unifiednav__item{padding:15px 30px 15px 15px;margin:0}.main-navigation.unifiednav .unifiednav__container[data-depth]>.unifiednav__item-wrap:not(:last-child)::after{content:''!important;width:100%;height:0;color:#ececec;align-self:center;border:0 solid currentColor}.main-navigation.unifiednav[layout-sub=submenu_horizontal_1] .unifiednav__container[data-depth]{color:#999}.main-navigation.unifiednav:not(.unifiednav_vertical) .unifiednav__container[data-depth='1']{transform:translateX(-10%) translateY(0);left:100%}.main-navigation.unifiednav .unifiednav__container>.unifiednav__item-wrap>.unifiednav__item.unifiednav__item_has-sub-nav .icon{display:initial;padding-left:10px;margin-left:0}.main-navigation.unifiednav .unifiednav__container[data-depth] .unifiednav__item_has-sub-nav .icon{transform:rotate(0)}.main-navigation.unifiednav:not(.unifiednav_vertical)>.unifiednav__container{justify-content:inherit}#dm .p_hfcontainer nav.main-navigation.unifiednav{min-width:9em!important;text-align:initial!important}#dm .p_hfcontainer div.u_1424577298,#dm .p_hfcontainer div.u_1709485542{left:0!important;width:100%!important;position:relative!important;min-width:0!important}#dm .main-navigation.unifiednav .unifiednav__container[data-depth]{background-color:transparent}#dm .main-navigation.unifiednav[layout-sub=submenu_horizontal_1] .unifiednav__container[data-depth]{background-color:#faf9f9}#dm .main-navigation.unifiednav .unifiednav__container[data-depth]>.unifiednav__item-wrap:not(:last-child)::after{color:#d1d1d1}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])>.unifiednav__container{flex-wrap:wrap;justify-content:inherit}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])>.unifiednav__container .nav-item-text::before{text-align:left}#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::after,#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before,#dm .main-navigation.unifiednav:not([data-nav-structure=VERTICAL])[data-divider]:not([data-direction=RIGHT]) .unifiednav__container:not([data-depth])>.unifiednav__item-wrap:not(:last-child)::before{content:''}.dmRoot:not(.dmTabletBody):not(.dmMobileBody) #dm .main-navigation.unifiednav:not([data-nav-structure=SPLIT]) .unifiednav__container[data-depth='1']{max-height:65vh;overflow-y:auto}.dmRoot:not(.dmTabletBody):not(.dmMobileBody) #dm .main-navigation.unifiednav:not([data-nav-structure=SPLIT]) .unifiednav__container[data-depth='1'] .unifiednav__item-wrap{flex-shrink:0}.standardHeaderLayout .dmHeader{float:none;display:block;height:auto}.dmRespRow:not(.dmPlaceHolderRespRow) .dmRespColsWrapper .dmRespCol:not(.content-removed).empty-column{min-height:100px}.dmRespRow:not(.dmPlaceHolderRespRow) .dmRespCol:not(.content-removed).empty-column,.dmRespRow:not(.dmPlaceHolderRespRow) .dmRespCol:not(.content-removed):empty{min-height:1px}@media all{:root{--btn-text-direction:ltr;--btn-border-r-color:var(--btn-border-color);--btn-border-l-color:var(--btn-border-color);--btn-border-b-width:var(--btn-border-width);--btn-border-width:0px;--btn-border-radius:0px;--btn-border-t-width:var(--btn-border-width);--btn-border-tl-radius:var(--btn-border-radius);--btn-border-br-radius:var(--btn-border-radius);--btn-border-bl-radius:var(--btn-border-radius);--btn-bg-color:rgb(87, 76, 54);--btn-border-color:rgb(87, 76, 54);--btn-border-tr-radius:var(--btn-border-radius);--btn-border-r-width:var(--btn-border-width);--btn-border-b-color:var(--btn-border-color);--btn-border-l-width:var(--btn-border-width);--btn-border-t-color:var(--btn-border-color);--btn-text-align:center;--btn-text-color:rgb(255, 255, 255);--btn-text-decoration:none;--btn-icon-color:rgb(255, 255, 255);--btn-icon-fill:rgb(255, 255, 255);--btn-icon-wrpr-display:none;--btn-hover-border-b-color:var(--btn-hover-border-color);--btn-hover-bg:var(--btn-bg-color);--btn-hover-border-t-color:var(--btn-hover-border-color);--btn-hover-border-r-color:var(--btn-hover-border-color);--btn-hover-border-l-color:var(--btn-hover-border-color);--btn-hover-border-color:var(--btn-border-color);--btn-hover-text-color:var(--btn-text-color);--btn-hover-text-font-weight:var(--btn-text-font-weight);--btn-hover-text-decoration:var(--btn-text-decoration);--btn-hover-text-font-style:var(--btn-text-font-style)}}@media (min-width:0px) and (max-width:767px){:root{--btn-text-font-size:18px}}#dm .dmWidget:not([data-buttonstyle]){background-clip:border-box;border-radius:0}#dm .dmWidget:not([data-buttonstyle]) input{padding:10px 7px}#dm div.dmInner #site_content .dmWidget{background-color:var(--btn-bg-color);border-color:var(--btn-border-color);border-bottom-color:var(--btn-border-b-color);border-left-color:var(--btn-border-l-color);border-right-color:var(--btn-border-r-color);border-top-color:var(--btn-border-t-color);border-radius:var(--btn-border-radius);border-bottom-left-radius:var(--btn-border-bl-radius);border-bottom-right-radius:var(--btn-border-br-radius);border-top-left-radius:var(--btn-border-tl-radius);border-top-right-radius:var(--btn-border-tr-radius);border-width:var(--btn-border-width);border-bottom-width:var(--btn-border-b-width);border-left-width:var(--btn-border-l-width);border-right-width:var(--btn-border-r-width);border-top-width:var(--btn-border-t-width);direction:var(--btn-text-direction);text-align:var(--btn-text-align)}#dm .dmBody div.u_1336878130 .dmformsubmit,#dm .dmInner div.u_fcontainer{border-style:solid!important;border-color:#1d07f5!important}#dm div.dmInner #site_content .dmformsubmit input{color:var(--btn-text-color);font-size:var(--btn-text-font-size);text-decoration:var(--btn-text-decoration)}#dm .p_hfcontainer div.u_1581090362{max-width:100%!important;display:block!important}#dm .p_hfcontainer div.u_1092480819 hr{color:grey!important;background:0 0!important;height:0!important;background-size:initial!important;min-height:0!important;border-color:currentColor!important;border-width:1px!important;border-top-style:solid!important}#dm .p_hfcontainer nav.u_1456307130.main-navigation.unifiednav .unifiednav__container:not([data-depth])>.unifiednav__item-wrap>.unifiednav__item{font-weight:700!important}#dm .p_hfcontainer img.u_1581598016{width:100%!important;max-height:none!important;max-width:none!important;height:auto!important}#dm .p_hfcontainer div.u_1709485542{float:none!important;top:auto!important;max-width:960px!important;text-align:center!important;height:auto!important;padding:0!important;margin:0 auto!important}#dm .p_hfcontainer h1.u_1945548768{margin-bottom:8px!important;margin-top:28px!important}#dm .p_hfcontainer hr.u_1588900271{margin-bottom:5px!important;margin-top:10px!important}#dm .p_hfcontainer div.u_1607626902{margin-left:auto!important;margin-right:45px!important}#dm .p_hfcontainer div.u_1424577298{top:auto!important;max-width:960px!important;text-align:left!important;height:auto!important;padding:83.88px 40px!important;margin:0 auto!important}#dm .p_hfcontainer div.u_1581090362{width:73%!important;max-height:1000px!important;height:auto!important;margin:19px auto 0 45px!important}#dm .p_hfcontainer div.u_1587255911,#dm .p_hfcontainer nav.u_1456307130{float:none!important;top:0!important;left:0!important;width:100%!important;position:relative!important;height:auto!important;min-width:0!important;text-align:center!important;margin:0 auto!important}#dm .p_hfcontainer div.u_1587255911{max-width:960px!important;padding:0 0 1px!important}#dm .p_hfcontainer nav.u_1456307130{display:block!important;max-width:100%!important;padding:6.8px 15px!important}#dm .dmBody div.u_1336878130 .dmformsubmit{color:#1d07f5!important;background-color:#1d07f5!important}.size-48{font-size:48px!important}#\31 033248163,#\31 337181383,#\31 527896906,#\31 779991426,#\31 883949547{order:0;flex-direction:row} #dm .dmPhotoGallery.newPhotoGallery .dmPhotoGalleryHolder {display: none;} @media (max-width:767px){ [data-hidden-on-mobile] {display:none!important}}
+    .dmDesktopBody [data-anim-desktop]:not([data-anim-desktop='none']) {
+        visibility: hidden;
+    }
+
+    
+</style>
+
+
+
+<style id="fontFallbacks">
+    @font-face {
+  font-family: "Roboto Slab Fallback";
+  src: local('Arial');
+  ascent-override: 97.7562%;
+  descent-override: 25.2818%;
+  size-adjust: 107.1903%;
+  line-gap-override: 0%;
+ }@font-face {
+  font-family: "Roboto Fallback";
+  src: local('Arial');
+  ascent-override: 92.6709%;
+  descent-override: 24.3871%;
+  size-adjust: 100.1106%;
+  line-gap-override: 0%;
+ }
+</style>
+
+
+<!-- End render the required css and JS in the head section -->
+
+
+
+
+
+
+
+
+
+  <link type="application/rss+xml" rel="alternate" href="https://www.barge.org//feed/rss2"/>
+  <link type="application/atom+xml" rel="alternate" href="https://www.barge.org//feed/atom"/>
+  <meta property="og:type" content="website"/>
+  <title>
+    
+    BARGE
+  
+  </title>
+  <meta name="google-site-verification" content="P-H4V6Q5dkJWeZHSS8douzMdxOtx0YCi9KVgdmRfy9g"/>
+  <script type="text/javascript">
+
+
+
+
+
+
+
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.;c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'ab7bccc237ad2d60fdc3aebf0940ab63fafb4f60');
+    
+  
+
+  
+
+  
+
+  </script>
+  <meta name="msvalidate.01" content="17F806856C83EF4DE81D42EFC79911D0"/>
+
+  <meta name="twitter:card" content="summary"/>
+  <meta name="twitter:title" content="BARGE"/>
+  <meta property="og:title" content="BARGE"/>
+
+
+
+
+<!-- SYS- VVNfRElSRUNUX1BST0RVQ1RJT04= -->
+</head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<body id="dmRoot" data-page-alias="contact"  class="dmRoot dmDesktopBody fix-mobile-scrolling addCanvasBorder dmResellerSite dmLargeBody responsiveTablet "
+      style="padding:0;margin:0;"
+      
+    >
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========= Site Content ========= -->
+<div id="dm" class='dmwr'>
+    
+    <div class="dm_wrapper standard-var5 widgetStyle-3 standard">
+         <div dmwrapped="true" id="1237496725"> <div dmtemplateid="StandardLayoutMultiD" class="standardHeaderLayout dm-bfs dm-layout-sec dmPageBody d-page-1316449524 dmFreeHeader" id="dm-outer-wrapper" data-page-class="1316449524" data-soch="true"> <div id="dmStyle_outerContainer" class="dmOuter"> <div id="dmStyle_innerContainer" class="dmInner"> <div class="dmLayoutWrapper standard-var dmStandardDesktop"> <div> <div id="iscrollBody"> <div id="site_content"> <div class="dmHeaderContainer fHeader d-header-wrapper"> <div id="hcontainer" class="dmHeader p_hfcontainer" freeheader="true"> <div dm:templateorder="75" class="dmHeaderResp dmHeaderStack" id="1013626179"> <div class="u_1709485542 dmRespRow" style="text-align: center;" id="1709485542"> <div class="dmRespColsWrapper" id="1883949547"> <div class="dmRespCol small-12 medium-4 large-4" id="1035172894"> <div class="u_1581090362 imageWidget" data-widget-type="image" id="1581090362" data-element-type="image"><img src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/barge_logo_undated-1024x694-267w.png" id="1581598016" dm_changed="true" class="u_1581598016" onerror="handleImageLoadError(this)" height="151.1875" width="223.078125"/></div> 
+</div> 
+ <div class="u_1337507390 dmRespCol small-12 large-1 medium-1 empty-column" id="1337507390"></div> 
+ <div class="u_1024636728 dmRespCol small-12 large-7 medium-7" id="1024636728"> <h1 class="dmNewParagraph u_1945548768" id="1945548768" style="" data-element-type="paragraph"><div style="text-align: center;"><span class="m-size-36 lh-1 size-48" style="font-weight:400;font-family:Impact;">BARGE</span></div><div style="text-align: center;">Big August Rec.Gambling Excursion</div></h1> <div class="u_1607626902 dmNewParagraph" id="1607626902"><div style="text-align: right;">&quot;There are no strangers here, just friends you haven't met yet&quot;</div><div style="text-align: right;">- Peter &quot;Foldem&quot; Secor</div></div></div> 
+</div> 
+</div> 
+ <div class="u_1587255911 dmRespRow dmHeaderContent freeHeaderRow2" id="1587255911"> <div class="dmRespColsWrapper clearfix" id="1337181383"> <div class="dmRespCol large-12 medium-12 small-12" id="1225943982"> <nav class="u_1456307130 effect-bottom2 main-navigation unifiednav dmLinksMenu" role="navigation" layout-main="horizontal_nav_layout_1" layout-sub="submenu_horizontal_1" data-show-vertical-sub-items="HOVER" id="1456307130" dmle_extension="onelinksmenu" data-element-type="onelinksmenu" data-nav-structure="HORIZONTAL" wr="false" icon="true" surround="false" adwords="" navigation-id="unifiedNav"> <ul role="menubar" class="unifiednav__container  " data-auto="navigation-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/" class="unifiednav__item  dmUDNavigationItem_00  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         HOME
+        " data-auto="page-text-style">HOME<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/barge" class="unifiednav__item  dmUDNavigationItem_01  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BARGE
+        " data-auto="page-text-style">BARGE<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://barge.regfox.com/barge-2024" class="unifiednav__item  dmUDNavigationItem_010101370753  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Registration
+          " data-auto="page-text-style">BARGE Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-2024-schedule" class="unifiednav__item  dmUDNavigationItem_010101370726  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE 2024 Schedule
+          " data-auto="page-text-style">BARGE 2024 Schedule<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-results" class="unifiednav__item  dmUDNavigationItem_010101443267  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Results
+          " data-auto="page-text-style">BARGE Results<span class="icon icon-angle-right" data-hidden-on-mobile="" data-hidden-on-desktop="" data-hidden-on-tablet=""></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="0"> <a href="/embargo-info" class="unifiednav__item  dmUDNavigationItem_02  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         EMBARGO
+        " data-auto="page-text-style">EMBARGO<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://barge.regfox.com/embargo-2024" class="unifiednav__item  dmUDNavigationItem_010101419050  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Registration
+          " data-auto="page-text-style">EMBARGO Registration<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/schedule1" class="unifiednav__item  dmUDNavigationItem_010101739308  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Schedule
+          " data-auto="page-text-style">EMBARGO Schedule<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/embargo-results" class="unifiednav__item  dmUDNavigationItem_010101122191  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           EMBARGO Results
+          " data-auto="page-text-style">EMBARGO Results<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="1" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/embargo-2024" class="unifiednav__item  dmUDNavigationItem_010101312641  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             EMBARGO 2024
+            " data-auto="page-text-style">EMBARGO 2024<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="#" class="unifiednav__item  dmUDNavigationItem_010101870070  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         RESOURCES
+        " data-auto="page-text-style">RESOURCES<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://ts4z.net/tmp/book/" class="unifiednav__item  dmUDNavigationItem_010101112743  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Rule Book
+          " data-auto="page-text-style">BARGE Rule Book<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-unified-payout-structures" class="unifiednav__item  dmUDNavigationItem_010101683781  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Unified Payout Structures
+          " data-auto="page-text-style">BARGE Unified Payout Structures<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/baap-points-table" class="unifiednav__item  dmUDNavigationItem_01010149354  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BAAP Points Table
+          " data-auto="page-text-style">BAAP Points Table<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/all-around-baap-points-database" class="unifiednav__item  dmUDNavigationItem_010101249217  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="All-Around BAAP Points Database" data-auto="page-text-style">All-Around BAAP Points Database<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="https://secure.barge.org/bargerulebooks/BARGETrivia-20190716.pdf" class="unifiednav__item  dmUDNavigationItem_010101778398  " target="_blank" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Trivia
+          " data-auto="page-text-style">BARGE Trivia<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/barge-welcoming-committee" class="unifiednav__item  dmUDNavigationItem_010101720847  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Welcoming Committee
+          " data-auto="page-text-style">BARGE Welcoming Committee<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="1" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/what-i-wish-id-known" class="unifiednav__item  dmUDNavigationItem_010101675687  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             What I wish I'd known
+            " data-auto="page-text-style">What I wish I'd known<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="2"> <a href="/how-not-to-feel-like-an-outsider" class="unifiednav__item  dmUDNavigationItem_010101901399  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+             How not to feel like an outsider
+            " data-auto="page-text-style">How not to feel like an outsider<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/code-of-conduct" class="unifiednav__item  dmUDNavigationItem_010101337280  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Code of Conduct
+          " data-auto="page-text-style">Code of Conduct<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/mailing-lists" class="unifiednav__item  dmUDNavigationItem_010101451892  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Mailing Lists
+          " data-auto="page-text-style">Mailing Lists<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="1"> <a href="/in-memoriam" class="unifiednav__item  dmUDNavigationItem_010101610099  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           In Memoriam
+          " data-auto="page-text-style">In Memoriam<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/glossary" class="unifiednav__item  dmUDNavigationItem_010101414966  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Glossary
+          " data-auto="page-text-style">Glossary<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-history" class="unifiednav__item  dmUDNavigationItem_010101989200  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE History
+          " data-auto="page-text-style">BARGE History<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/barge-virgin-queen-history" class="unifiednav__item  dmUDNavigationItem_010101238156  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           BARGE Virgin Queen History
+          " data-auto="page-text-style">BARGE Virgin Queen History<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" aria-haspopup="true" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/inc" class="unifiednav__item  dmUDNavigationItem_04  unifiednav__item_has-sub-nav" target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BARGE, INC.
+        " data-auto="page-text-style">BARGE, INC.<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+ <ul role="menu" aria-expanded="false" class="unifiednav__container unifiednav__container_sub-nav" data-depth="0" data-auto="sub-pages"> <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/bylaws" class="unifiednav__item  dmUDNavigationItem_010101142010  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Bylaws
+          " data-auto="page-text-style">Bylaws<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/committees" class="unifiednav__item  dmUDNavigationItem_010101680834  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Organizers and Committees
+          " data-auto="page-text-style">Organizers and Committees<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap dmCoreImg" data-auto="more-pages" data-depth="1"> <a href="/officers" class="unifiednav__item  dmUDNavigationItem_010101602952  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+           Board of Directors
+          " data-auto="page-text-style">Board of Directors<span class="icon icon-angle-right"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/contact" class="unifiednav__item  dmNavItemSelected  dmUDNavigationItem_06  " target="" data-target-page-alias="" data-auto="selected-page"> <span class="nav-item-text " data-link-text="
+         CONTACT
+        " data-auto="page-text-style">CONTACT<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+ <li role="menuitem" class=" unifiednav__item-wrap " data-auto="more-pages" data-depth="0"> <a href="/blog" class="unifiednav__item  dmUDNavigationItem_010101628779  " target="" data-target-page-alias=""> <span class="nav-item-text " data-link-text="
+         BLOG
+        " data-auto="page-text-style">BLOG<span class="icon icon-angle-down"></span> 
+</span> 
+</a> 
+</li> 
+</ul> 
+</nav> 
+ <div class="dmCustomHtml" id="1372194028" data-element-type="html"> <script type="text/javascript">
+
+
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.;c.src='https://rec.smartlook.com/recorder.js';h.appendChild(c);
+    })(document);
+    smartlook('init', 'ab7bccc237ad2d60fdc3aebf0940ab63fafb4f60');
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+
+            </script> 
+</div> 
+ <div class="dmDividerWrapper clearfix u_1092480819" id="1092480819" layout="divider-style-1" data-element-type="dDividerId"><hr class="u_1588900271 dmDivider" style="min-height: 2px; border:none; background:grey" id="1588900271"/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmRespRow dmRespRowStable dmRespRowNoPadding dmPageTitleRow "> <div class="dmRespColsWrapper"> <div class="large-12 dmRespCol"> <div id="innerBar" class="innerBar lineInnerBar dmDisplay_None"> <div class="titleLine display_None"><hr/></div> 
+<!-- Page title is hidden in css for new responsive sites. It is left here only so we don't break old sites. Don't copy it to new layouts --> <div id="pageTitleText"> <div class="innerPageTitle">Contact</div> 
+</div> 
+ <div class="titleLine display_None"><hr/></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div dmwrapped="true" id="dmFirstContainer" class="dmBody u_dmStyle_template_contact"> <div id="allWrapper" class="allWrapper"><!-- navigation placeholders --> <div id="dm_content" class="dmContent"> <div dm:templateorder="101" class="dmContactUsRespTmpl" id="1316449524"> <div class="innerPageTmplBox dmRespRowsWrapper" id="1926643113"> <div class="dmRespRow dmContactFormRow" id="1194736784"> <div class="dmRespColsWrapper" id="1779991426"> <div class="large-12 medium-12 small-12 dmRespCol" id="1018220456"> <div class="u_1336878130 dmform default dmContactDefaultForm native-inputs" id="1336878130" data-element-type="dContactUsRespId"> <h3 class="dmform-title dmwidget-title" id="1275242100">Send us a message</h3> 
+ <div class="dmform-wrapper" id="1672221914" captcha-lang="en"> <form method="post" class="dmRespDesignRow" locale="ENGLISH" id="1705406514"> <div class="dmforminput required small-12 medium-4 large-4 dmRespDesignCol" id="1469938928"> <label for="1977395987" id="1410258971" data-dm-for="dmform-0">Name:</label> 
+<input type="text" name="dmform-0" id="1977395987"/><input type="hidden" name="label-dmform-0" value="Name" id="1679263228"/></div> 
+ <div class="dmforminput required small-12 medium-4 large-4 dmRespDesignCol" id="1253701609"> <label for="1924130642" id="1334086772" data-dm-for="dmform-1">Email:</label> 
+<input type="email" name="dmform-1" id="1924130642"/><input type="hidden" name="label-dmform-1" value="Email" id="1861982219"/></div> 
+ <div class="dmforminput required small-12 medium-4 large-4 dmRespDesignCol" id="1906978770"> <label for="1957410582" id="1530522255" data-dm-for="dmform-2">Phone:</label> 
+<input type="tel" name="dmform-2" id="1957410582"/><input type="hidden" name="label-dmform-2" value="Phone" id="1851280520"/></div> 
+ <div class="dmforminput large-12 medium-12 dmRespDesignCol" id="1799130012"> <label for="1549890780" id="1880996864" data-dm-for="dmform-3">Message:</label> 
+ <textarea name="dmform-3" id="1549890780"></textarea> 
+<input type="hidden" name="label-dmform-3" value="Message" id="1473778960"/></div> 
+ <div class="dmformsubmit dmWidget R" id="1417192280"><input class="" name="submit" type="submit" value="Send Message" id="1491190876"/></div> 
+<input name="dmformsendto" type="hidden" value="O0wrseIfFLveC5sRVkFcO+MC9A45bDAtHuKAsiiEk6//2iZ+cXjCLo+UQE/B82JXuLcvUbpsAUA=" id="1706686110" data-success-page="home" data-dec="true"/><input class="dmActionInput" type="hidden" name="action" value="/_dm/s/rt/widgets/dmform.submit.jsp" id="1334701497"/><input name="dmformsubject" type="hidden" value="BARGE Form Message" id="1698920212" data-success-page="home"/><input name="dmformsubmitparams" type="hidden" value="8mpKnCSiNQXK/d9M7IDrS0Hahh0tGT3jnKaRwntrpXVNqLxejUOAw728L5BJDtXtFWNtX/G0hNK8fTejXlUywi72dx/SvqwE8UoCMjJ9dTcJH0QP0/k3ThQa8NB2jlvn5az5NHcF7x9NxuuQvvxrnvbFLAj+vvzVrIQIHcLaZF2dDm8UzT+7GS011gELkb1WCYZeJYTmqfmkOToz/Cc3Ug==" data-dec="true"/><input type="hidden" name="page_uuid" value="04dbf9ae47774952baa521e67f5598e5"/></form> 
+</div> 
+ <div class="dmform-success" style="display:none" id="1734423873" data-success-page="home">Thank you for contacting us.<br id="1904236103"/>We will get back to you as soon as possible</div> 
+ <div class="dmform-error" style="display:none" id="1188241109">Oops, there was an error sending your message.<br id="1594936224"/>Please try again later</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+ <div class="dmFooterContainer"> <div id="fcontainer" class="u_fcontainer f_hcontainer dmFooter p_hfcontainer"> <div dm:templateorder="14" class="dmFooterResp dmFullFooterResp" id="1111073452"> <div class="dmRespRow dmDividerRow" id="1503735893"> <div class="dmRespColsWrapper" id="1033248163"> <div class="large-12 medium-12 small-12 dmRespCol" id="1142567420"> <div class="dmDividerWrapper clearfix" id="1560217446" data-element-type="dDividerId"><hr class="dmDivider defaultDivider" id="1292223076"/></div> 
+</div> 
+</div> 
+</div> 
+ <div class="u_1424577298 dmRespRow dmFooterContent" id="1424577298"> <div class="dmRespColsWrapper" id="1527896906"> <div class="dmRespCol large-12 medium-12 small-12 dmFooterCol content-removed" id="1624182295"> <h3 class="dmFooterDefaultH3" id="1489236914">Follow Us</h3> 
+</div> 
+</div> 
+</div> 
+ <div id="1409248432" dmle_extension="powered_by" data-element-type="powered_by" icon="true" surround="false"></div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+</div> 
+
+    </div>
+</div>
+<!--  Add full CSS and Javascript before the close tag of the body if needed -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Google Fonts Include -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- loadCSS function fonts.jsp-->
+
+
+
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700;1,900&amp;subset=latin-ext&amp;display=swap"  as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+
+
+
+
+<!-- RT CSS Include d-css-runtime-desktop-one-package-structured-global-->
+<link rel="preload" as="style" fetchpriority="low" onload="loadCSS(this)" href="https://static.cdn-website.com/mnlt/production/4934/_dm/s/rt/dist/css/d-css-runtime-desktop-one-package-structured-global.min.css" />
+
+<!-- End of RT CSS Include -->
+
+<link rel="preload" href="https://irp.cdn-website.com/WIDGET_CSS/c079c2f8b2f98505d6bfe1a4ea05f4e0.css" id="widgetCSS" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+<!-- Support `img` size attributes -->
+<style>img[width][height] {
+    height: auto;
+}</style>
+
+<!-- Support showing sticky element on page only -->
+<style>
+    body[data-page-alias="contact"] #dm [data-show-on-page-only="contact"] {
+        display: block !important;
+    }
+</style>
+
+<!-- This is populated in Ajax navigation -->
+<style id="pageAdditionalWidgetsCss" type="text/css">
+</style>
+
+
+
+
+<!-- Site CSS -->
+<link rel="preload" href="https://irp.cdn-website.com/7fa840da/files/7fa840da_1.min.css?v=1124" id="siteGlobalCss" as="style" fetchpriority="low" onload="loadCSS(this)" />
+
+
+
+<style id="customWidgetStyle" type="text/css">
+    
+</style>
+<style id="innerPagesStyle" type="text/css">
+    
+</style>
+
+
+<style
+        id="additionalGlobalCss" type="text/css"
+>
+</style>
+
+<style id="pagestyle" type="text/css">
+    *#dm *.dmBody div.u_1336878130 *.dmformsubmit {
+ color: rgb(29, 7, 245) !important;
+ background-color: rgb(29, 7, 245) !important;
+ border-style: solid !important;
+ border-color: rgb(29, 7, 245) !important;
+ }
+
+</style>
+
+<style id="pagestyleDevice" type="text/css">
+    
+</style>
+
+<!-- Flex Sections CSS -->
+
+
+
+
+
+<style id="globalFontSizeStyle" type="text/css">
+    .font-size-48, .size-48, .size-48 > font { font-size: 48px !important; }
+</style>
+<style id="pageFontSizeStyle" type="text/css">
+</style>
+
+<!-- ========= JS Section ========= -->
+<script>
+    var isWLR = true;
+
+    window.customWidgetsFunctions = {};
+    window.customWidgetsStrings = {};
+    window.collections = {};
+    window.currentLanguage = "ENGLISH"
+    window.isSitePreview = false;
+</script>
+<script type="text/javascript">
+
+    var d_version = "production_4934";
+    var build = "2024-11-17T13_49_44";
+    window['v' + 'ersion'] = d_version;
+
+    function buildEditorParent() {
+        window.isMultiScreen = true;
+        window.editorParent = {};
+        window.previewParent = {};
+        window.assetsCacheQueryParam = "?version=2024-11-17T13_49_44";
+        try {
+            var _p = window.parent;
+            if (_p && _p.document && _p.$ && _p.$.dmfw) {
+                window.editorParent = _p;
+            } else if (_p.isSitePreview) {
+                window.previewParent = _p;
+            }
+        } catch (e) {
+
+        }
+    }
+
+    buildEditorParent();
+</script>
+
+<!-- Load jQuery -->
+<script type="text/javascript" id='d-js-jquery'
+        src="https://static.cdn-website.com/libs/jquery/jquery-3.7.0.min.js"></script>
+<!-- End Load jQuery -->
+<!-- Injecting site-wide before scripts -->
+<!-- End Injecting site-wide to the head -->
+
+
+<script>
+    var _jquery = window.$;
+
+    var jqueryAliases = ['$', 'jquery', 'jQuery'];
+
+    jqueryAliases.forEach((alias) => {
+        Object.defineProperty(window, alias, {
+            get() {
+                return _jquery;
+            },
+            set() {
+                console.warn("Trying to over-write the global jquery object!");
+            }
+        });
+    });
+    window.jQuery.migrateMute = true;
+</script>
+<script>
+    window.cookiesNotificationMarkupPreview = 'null';
+</script>
+
+<!-- HEAD RT JS Include -->
+<script id='d-js-params'>
+    window.INSITE = window.INSITE || {};
+    window.INSITE.device = "desktop";
+
+    window.rtCommonProps = {};
+    rtCommonProps["rt.ajax.ajaxScriptsFix"] =true;
+    rtCommonProps["rt.pushnotifs.sslframe.encoded"] = 'aHR0cHM6Ly97c3ViZG9tYWlufS5wdXNoLW5vdGlmcy5jb20=';
+    rtCommonProps["runtimecollector.url"] = 'https://rtc.multiscreensite.com';
+    rtCommonProps["performance.tabletPreview.removeScroll"] = 'false';
+    rtCommonProps["inlineEditGrid.snap"] =true;
+    rtCommonProps["popup.insite.cookie.ttl"] = '0.5';
+    rtCommonProps["rt.pushnotifs.force.button"] =true;
+    rtCommonProps["common.mapbox.token"] = 'pk.eyJ1IjoiZGFubnliMTIzIiwiYSI6ImNqMGljZ256dzAwMDAycXBkdWxwbDgzeXYifQ.Ck5P-0NKPVKAZ6SH98gxxw';
+    rtCommonProps["common.mapbox.js.override"] =false;
+    rtCommonProps["common.here.appId"] = 'iYvDjIQ2quyEu0rg0hLo';
+    rtCommonProps["common.here.appCode"] = '1hcIxLJcbybmtBYTD9Z1UA';
+    rtCommonProps["isCoverage.test"] =false;
+    rtCommonProps["ecommerce.ecwid.script"] = 'https://app.multiscreenstore.com/script.js';
+    rtCommonProps["feature.flag.mappy.kml"] =false;
+    rtCommonProps["common.resources.dist.cdn"] =true;
+    rtCommonProps["common.build.dist.folder"] = 'production/4934';
+    rtCommonProps["common.resources.cdn.host"] = 'https://static.cdn-website.com';
+    rtCommonProps["common.resources.folder"] = 'https://static.cdn-website.com/mnlt/production/4934';
+    rtCommonProps["feature.flag.runtime.backgroundSlider.preload.slowly"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.respectCssAnimationProps.enabled"] =true;
+    rtCommonProps["feature.flag.runtime.newAnimation.jitAnimation.enabled"] =true;
+    rtCommonProps["feature.flag.sites.google.analytics.gtag"] =true;
+    rtCommonProps["feature.flag.runOnReadyNewTask"] =true;
+    rtCommonProps["isAutomation.test"] =false;
+
+    
+    rtCommonProps['common.mapsProvider'] = 'mapbox';
+    
+    rtCommonProps['common.mapsProvider.version'] = '0.52.0';
+    rtCommonProps['common.geocodeProvider'] = 'mapbox';
+    rtCommonProps['common.map.defaults.radiusSize'] = '1500';
+    rtCommonProps['common.map.defaults.radiusBg'] = 'rgba(255, 255, 255, 0.4)';
+    rtCommonProps['common.map.defaults.strokeColor'] = 'rgba(255, 255, 255, 1)';
+    rtCommonProps['common.map.defaults.strokeSize'] = '2';
+    rtCommonProps['server.for.resources'] = '';
+    rtCommonProps['feature.flag.lazy.widgets'] = true;
+    rtCommonProps['feature.flag.single.wow'] = false;
+    rtCommonProps['feature.flag.disallowPopupsInEditor'] = true;
+    rtCommonProps['feature.flag.mark.anchors'] = true;
+    rtCommonProps['captcha.public.key'] = '6LffcBsUAAAAAMU-MYacU-6QHY4iDtUEYv_Ppwlz';
+    rtCommonProps['captcha.invisible.public.key'] = '6LeiWB8UAAAAAHYnVJM7_-7ap6bXCUNGiv7bBPME';
+    rtCommonProps["images.sizes.small"] =160;
+    rtCommonProps["images.sizes.mobile"] =640;
+    rtCommonProps["images.sizes.tablet"] =1280;
+    rtCommonProps["images.sizes.desktop"] =1920;
+    rtCommonProps["modules.resources.cdn"] =true;
+    rtCommonProps["import.images.storage.imageCDN"] = 'https://lirp.cdn-website.com/';
+    rtCommonProps["facebook.api.version"] = '7.0';
+    rtCommonProps["feature.flag.runtime.inp.threshold"] =150;
+    rtCommonProps["feature.flag.performance.logs"] =true;
+    rtCommonProps["site.widget.form.captcha.type"] = 'g_recaptcha';
+    rtCommonProps["friendly.captcha.site.key"] = 'FCMGSQG9GVNMFS8K';
+    rtCommonProps["cookiebot.mapbox.consent.category"] = 'marketing';
+    rtCommonProps["platform.monolith.personalization.dateTimeCondition.popupMsgAction.moveToclient.enabled"] =true;
+
+    // feature flags that's used out of runtime module (in  legacy files)
+    rtCommonProps["site.runtime.video.background.ssr"] =true;
+
+    window.rtFlags = {};
+    rtFlags["unsuspendEcwidStoreOnRuntime.enabled"] =true;
+    rtFlags["scripts.widgetCount.enabled"] =true;
+    rtFlags["ecom.ecwid.categoryPage.modifyLinks"] = true;
+    rtFlags["ecom.ecwid.delegateNavigationToEcwid.enabled"] = false;
+    rtFlags["ecom.ecwidNewUrlStructure.enabled"] = false;
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.enabled"] = true;
+    rtFlags["ecom.ecwid.old.store.fix.facebook.share"] = true;
+    rtFlags["ecom.ecwid.fallBackInCaseLinksNotFound.enabled"] = true;
+    rtFlags["feature.flag.photo.gallery.exact.size"] =true;
+    rtFlags["new.store.fix.ecwid.back.bug"] =true;
+    rtFlags["facebook.runtime.widgets.upgrade"] =true;
+    rtFlags["ecom.ecwid.solve.url.modifications"] = true;
+    rtFlags["ecom.ecwid.configOptions"] = true;
+    rtFlags["geocode.search.localize"] =false;
+    rtFlags["feature.flag.runtime.newAnimation.asyncInit.setTimeout.enabled"] =false;
+    rtFlags["site.contact.form.fix.for.attribute"] =true;
+    rtFlags["contact.form.date.format.enabled"] = true;
+    rtFlags["twitter.heightLimit.enabled"] = true;
+    rtFlags["ecom.ecwid.fixTranslations.enabled"] = true;
+    rtFlags["runtime.load.script.native"] =true;
+    rtFlags["editor.classicHybrid.photogallery.fix"] =true;
+    rtFlags["runtime.lottieOverflow"] =false;
+    rtFlags["runtime.monitoring.sentry.ignoreErrors"] = "";
+    rtFlags["ecom.ecwid.old.store.fix.scrolling.detect.enable"] =true;
+    rtFlags["contact.form.browserValidation.enabled"] =true;
+</script>
+<script src="https://static.cdn-website.com/mnlt/production/4934/_dm/s/rt/dist/scripts/d-js-one-runtime-unified-desktop.min.js"  id="d-js-core"></script>
+<!-- End of HEAD RT JS Include -->
+<script src="https://static.cdn-website.com/mnlt/production/4934/_dm/s/rt/dist/scripts/d-js-jquery-migrate.min.js" ></script>
+<script>
+    
+    $(window).bind("orientationchange", function (e) {
+        $.layoutManager.initLayout();
+        
+    });
+    $(document).resize(function () {
+        
+    });
+</script>
+<script type="text/javascript" id="d_track_campaign">
+(function() {
+	const queryParams = new URLSearchParams(window.location.search);
+
+	const expires = 'expires=' + new Date().getTime() + 24 * 60 * 60 * 1000;
+	const domain = 'domain=' + window.location.hostname;
+	const path = "path=/";
+
+	queryParams.forEach((value, key) => {
+		if (key.startsWith('utm_')) {
+			const cookieName = "_dm_rt_" + key.substring(4);
+			const cookie = cookieName + "=" + value;
+			const joined = [cookie, expires, domain, path].join(";");
+			document.cookie = joined;
+		}
+	});
+}());
+</script>
+<script type="text/javascript" >
+  var _dm_gaq = {};
+  var _gaq = _gaq || [];
+  var _dm_insite = [];
+</script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-71695070-1"></script>
+<script type="text/javascript" id="d_track_ga">
+  _dm_gaq.siteAlias = '7fa840da';
+  _dm_gaq.systemAggregatedGaqID = '';
+  _dm_gaq.externalGaqID = 'UA-71695070-1';
+  _dm_gaq.gaAggregatedEventAttributes = {
+	  'site_alias':  _dm_gaq.siteAlias,
+	  'product': 'DM_DIRECT',
+	  'plan': 'BUSINESS_PLUS',
+	  'dfooter': 'false',
+	  'sitetype': '1',
+	  'pwaEnabled': 'false'
+  }
+
+  _dm_gaq.pushEvent = function(trackingId, event, category, label, value, additionalParams = {}) {
+	  const eventProps = {
+		  send_to: trackingId,
+		  event_category: category,
+		  event_label: label,
+		  value,
+		  ...additionalParams,
+		  ...(trackingId === _dm_gaq.systemAggregatedGaqID
+				  ? _dm_gaq.gaAggregatedEventAttributes : {})
+	  };
+	  gtag('event', event, eventProps);
+  }
+
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+  function pushInsiteImpressions(id) {
+	  _dm_insite.forEach((rule) => {
+		  _dm_gaq.pushEvent(id, 'insite_impression', 'insite', rule.ruleType + '__' + rule.ruleId);
+	  });
+  }
+
+if(_dm_gaq.systemAggregatedGaqID){
+	// track aggregated account
+	gtag('config', '', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'custom_map': {'dimension1': 'site_alias', 'dimension2': 'product', 'dimension3': 'dFooter', 'dimension4': 'sitetype'}
+	});
+	gtag('set', 'developer_id.dMDU5Nj', true);
+
+	_dm_gaq.pushEvent('', 'page_view');
+	pushInsiteImpressions(_dm_gaq.systemAggregatedGaqID);
+}
+
+if(_dm_gaq.externalGaqID && _dm_gaq.externalGaqID!= '') {
+	gtag('config', 'UA-71695070-1', {
+		'send_page_view': false,
+		'anonymize_ip': true,
+		'transport_type': 'beacon',
+		'linker': {
+			'domains': ['barge.org']
+		}
+	});
+	_dm_gaq.pushEvent('UA-71695070-1', 'page_view');
+	pushInsiteImpressions(_dm_gaq.externalGaqID);
+}
+</script>
+<script type="text/javascript" id="d_track_sp">
+;(function(p,l,o,w,i,n,g){if(!p[i]){p.GlobalSnowplowNamespace=p.GlobalSnowplowNamespace||[];
+p.GlobalSnowplowNamespace.push(i);p[i]=function(){(p[i].q=p[i].q||[]).push(arguments)
+};p[i].q=p[i].q||[];n=l.createElement(o);g=l.getElementsByTagName(o)[0];n.async=1;
+n.src=w;g.parentNode.insertBefore(n,g)}}(window,document,"script","//d32hwlnfiv2gyn.cloudfront.net/sp-2.0.0-dm-0.1.min.js","snowplow"));
+window.dmsnowplow  = window.snowplow;
+
+dmsnowplow('newTracker', 'cf', 'd32hwlnfiv2gyn.cloudfront.net', { // Initialise a tracker
+  appId: '7fa840da'
+});
+
+// snowplow queries element styles so we wait until CSS calculations are done.
+requestAnimationFrame(() => {
+	dmsnowplow('trackPageView');
+	_dm_insite.forEach((rule) => {
+		// Specifically in popup only the client knows if it is shown or not so we don't always want to track its impression here
+		// the tracking is in popup.js
+		if (rule.actionName !== "popup") {
+			dmsnowplow('trackStructEvent', 'insite', 'impression', rule.ruleType, rule.ruleId);
+		}
+		window?.waitForDeferred?.('dmAjax', () => {
+			$.DM.events.trigger('event-ruleTriggered', {value: rule});
+		});
+	});
+});
+</script>
+   <div style="display:none;" id="P6iryBW0Wu"></div>
+
+<!-- photoswipe markup -->
+
+
+
+
+
+
+
+
+
+<!-- Root element of PhotoSwipe. Must have class pswp. -->
+<div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+    <!-- Background of PhotoSwipe. 
+         It's a separate element as animating opacity is faster than rgba(). -->
+    <div class="pswp__bg"></div>
+
+    <!-- Slides wrapper with overflow:hidden. -->
+    <div class="pswp__scroll-wrap">
+
+        <!-- Container that holds slides. 
+            PhotoSwipe keeps only 3 of them in the DOM to save memory.
+            Don't modify these 3 pswp__item elements, data is added later on. -->
+        <div class="pswp__container">
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+            <div class="pswp__item"></div>
+        </div>
+
+        <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+        <div class="pswp__ui pswp__ui--hidden">
+
+            <div class="pswp__top-bar">
+
+                <!--  Controls are self-explanatory. Order can be changed. -->
+
+                <div class="pswp__counter"></div>
+
+                <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                <!-- element will get class pswp__preloader--active when preloader is running -->
+                <div class="pswp__preloader">
+                    <div class="pswp__preloader__icn">
+                      <div class="pswp__preloader__cut">
+                        <div class="pswp__preloader__donut"></div>
+                      </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                <div class="pswp__share-tooltip"></div> 
+            </div>
+
+            <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+            </button>
+
+            <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+            </button>
+
+            <div class="pswp__caption">
+                <div class="pswp__caption__center"></div>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+<div id="fb-root"
+        data-locale="en"></div>
+<!-- Alias: 7fa840da -->
+<div class="dmPopupMask" id="dmPopupMask"></div>
+<div id="dmPopup" class="dmPopup">
+	<div class="dmPopupCloseWrapper"> <div class="dmPopupClose dm-common-icons-close oneIcon" onclick="dmHidePopup(event);"></div> </div>
+ 	<div class="dmPopupTitle"> <span></span> Share by:</div> 
+	<div class="data"></div>
+</div><script id="d_track_personalization">
+	window?.waitForDeferred?.('dmAjax', () => {
+		// Collects client data and updates cookies used by smart sites
+		window.expireDays = 365;
+		window.visitLength = 30 * 60000;
+		$.setCookie("dm_timezone_offset", (new Date()).getTimezoneOffset(), window.expireDays);
+			setSmartSiteCookiesInternal("dm_this_page_view","dm_last_page_view","dm_total_visits","dm_last_visit");
+	});
+</script>
+<script type="text/javascript">
+    
+    Parameters.NavigationAreaParams.MoreButtonText = 'MORE';
+    
+    Parameters.NavigationAreaParams.LessButtonText = 'LESS';
+    Parameters.HomeLinkText = 'Home';
+    </script>
+<!--  End Script tags -->
+<!--  Site Wide Html Markup -->
+<!--  Site Wide Html Markup -->
+</body>
+</html>

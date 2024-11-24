@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:g-custom="http://base.google.com/cns/1.0" version="2.0">
+  <channel>
+    <title>barge</title>
+    <link>https://www.barge.org</link>
+    <description />
+    <atom:link href="https://www.barge.org/feed/rss2" type="application/rss+xml" rel="self" />
+    <item>
+      <title>Why I Love Going To BARGE</title>
+      <link>https://www.barge.org/why-i-love-going-to-barge</link>
+      <description />
+      <pubDate>Tue, 18 Jul 2017 17:38:42 GMT</pubDate>
+      <author>bkornspan@wsinolimit.com (Barry Kornspan)</author>
+      <guid>https://www.barge.org/why-i-love-going-to-barge</guid>
+      <g-custom:tags type="string" />
+    </item>
+    <item>
+      <title>Strategizing Moves Ahead</title>
+      <link>https://www.barge.org/blog/strategizing-moves-ahead</link>
+      <description>Great chess players are legendary for their ability to think many moves ahead. But in poker, forward thinking is undervalued by most players.</description>
+      <pubDate>Thu, 24 Nov 2016 02:40:23 GMT</pubDate>
+      <author>roycooke123@gmail.com (Roy Cooke)</author>
+      <guid>https://www.barge.org/blog/strategizing-moves-ahead</guid>
+      <g-custom:tags type="string" />
+    </item>
+    <item>
+      <title>Playing the ABC Loose-Passive</title>
+      <link>https://www.barge.org/blog/playing-the-abc-loose-passive</link>
+      <description>ABC loose-passive’s are the easiest opponents to play against, and you generally have the largest edge against them. Most lowstakes players are ABC loose-passive. On the flop they tend to be fit or fold. Meaning, if they hit the flop, they continue, if not, they’ll fold.  The good news is they’re easily exploitable.</description>
+      <pubDate>Wed, 07 Sep 2016 02:37:14 GMT</pubDate>
+      <author>roycooke123@gmail.com (Roy Cooke)</author>
+      <guid>https://www.barge.org/blog/playing-the-abc-loose-passive</guid>
+      <g-custom:tags type="string" />
+    </item>
+    <item>
+      <title>A Better You!</title>
+      <link>https://www.barge.org/blog/cooke/a-better-you</link>
+      <description>Much is written about poker psychology; mostly it’s about analyzing how your opponents react. But seldom discussed and of much greater importance is your own psychology. Being real and in tune with yourself has huge value, and those that aren’t never correct their leaks as they’re unaware they even exist.</description>
+      <pubDate>Mon, 29 Aug 2016 18:29:15 GMT</pubDate>
+      <author>roycooke123@gmail.com (Roy Cooke)</author>
+      <guid>https://www.barge.org/blog/cooke/a-better-you</guid>
+      <g-custom:tags type="string" />
+    </item>
+    <item>
+      <title>Equity and Implied Odds</title>
+      <link>https://www.barge.org/equity-and-implied-odds</link>
+      <description>Many players calculate the equity of their hand at the current moment, compare it to the size of the pot, and base their decision solely on that calculation. Those decisions are correct if there is no future betting.
+But when there is future betting...</description>
+      <pubDate>Tue, 16 Aug 2016 03:08:02 GMT</pubDate>
+      <author>roycooke123@gmail.com (Roy Cooke)</author>
+      <guid>https://www.barge.org/equity-and-implied-odds</guid>
+      <g-custom:tags type="string">equity,implied,odds,cooke</g-custom:tags>
+    </item>
+    <item>
+      <title>Understanding Equity and EV</title>
+      <link>https://www.barge.org/understanding-equity-and-ev</link>
+      <description>Many people don’t know the exact difference between equity and EV. In fact, some people use the terms as if they were identical.  Equity is the percentage chance that a hand will win after all the cards are dealt. The percentage chance includes splits and is utilized when comparing your holding against opponent’s hand(s) or range(s).</description>
+      <pubDate>Tue, 16 Aug 2016 03:08:01 GMT</pubDate>
+      <author>roycooke123@gmail.com (Roy Cooke)</author>
+      <guid>https://www.barge.org/understanding-equity-and-ev</guid>
+      <g-custom:tags type="string">equity,ev,value</g-custom:tags>
+    </item>
+  </channel>
+</rss>
