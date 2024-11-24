@@ -9,7 +9,7 @@ draft: false
 &ldquo;There are no strangers here, just friends you haven't met yet&rdquo;
 <div align="right">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash;Peter Secor
-</div align="right">
+</div>
 {{< /rawhtml >}}
 
 BARGE is the most fun you can have while playing poker...
@@ -56,8 +56,6 @@ Here's a video montage from ATLARGE 2019 (courtesy of Dilligaf)!  Enjoy!
 {{< youtube id="ZP7sEpPKBgA" >}}
 
 
-
-
 Our Other Events
 ---------------
 
@@ -93,4 +91,4 @@ EMBARGO 2025 will take place at Resorts World from January 16-19, 2025!
 
 EMBARGO 2024 took place at Resorts World in Las Vegas from February 1-3, 2024.
 
-_____
+----

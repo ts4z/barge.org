@@ -21,6 +21,15 @@ Some content (old rulebooks) is missing.
 How-To
 ------
 
+To set up, clone this repository, and also get a recent Go version installed.
+Install hugo.  Get the submodules (for the theme).
+
+```sh
+brew install hugo   # if on mac
+go install gohugoio/hugo@latest   # if on debian
+git submodule update --init --recursive
+```
+
 To run a local server that shows edits:
 
 ```sh
