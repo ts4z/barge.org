@@ -48,7 +48,7 @@ BARGE was held at the Orleans this year for the first and only time (to date.) T
 
 ## 2000
 
-The year 2000 marked BARGE's return to the Horseshoe. Jeff Bartoszewicz won the NL hold'em tournament, John &quot;JRX&quot; Reed finished second, and Stephen &quot;Bozo&quot; Blackstock finished 3rd. Chris &quot;Jesus&quot; Ferguson was the banquet speaker and winner of the chip castle building contest. No video poker or blackjack tournament was held this year, this was the first year for the Tournament of Champions-style event, in honor of BARGEr and ToC winner, Spencer &quot;Zorak&quot; Sun. The winner of this event was Tony &quot;Karma&quot; Goldstein. Peter &quot;Fold'em&quot; Secor finished second, and Jeff Siegel finished third. I believe the History of Poker event was first played at this BARGE, featuring alternating rounds of 5-card stud, 5-card draw high, and 5-card draw lowball. After the early rounds, 5-card stud was removed and the other games were played no-limit. In the final rounds, only lowball was played. Michael Hunter, Stephen Landrum, and Bill Chen chopped the prize pool when it got to 3-handed.&nbsp;
+The year 2000 marked BARGE's return to the Horseshoe. Jeff Bartoszewicz won the NL hold'em tournament, John &quot;JRX&quot; Reed finished second, and Stephen &quot;Bozo&quot; Blackstock finished 3rd. Chris &quot;Jesus&quot; Ferguson was the banquet speaker and winner of the chip castle building contest. No video poker or blackjack tournament was held this year, this was the first year for the Tournament of Champions-style event, in honor of BARGEr and ToC winner, Spencer &quot;Zorak&quot; Sun. The winner of this event was Tony &quot;Karma&quot; Goldstein. Peter &quot;Fold'em&quot; Secor finished second, and Jeff Siegel finished third. I believe the History of Poker event was first played at this BARGE, featuring alternating rounds of 5-card stud, 5-card draw high, and 5-card draw lowball. After the early rounds, 5-card stud was removed and the other games were played no-limit. In the final rounds, only lowball was played. Michael Hunter, Stephen Landrum, and Bill Chen chopped the prize pool when it got to 3-handed. 
 
 ## 2001
 
@@ -119,42 +119,47 @@ Don Rieck finished second and third. Maria Caldes won the significant others'
 hold'em tournament. In the no-limit hold'em championship, David Lawful was
 victorious, followed by Bob Lauria in second and Gerland Peterson in
 third. This year at BARGE we held a Binion's dealer appreciation
-tournament. George Kouselas won. &nbsp; &nbsp;
+tournament. George Kouselas won.
 [Complete results for BARGE 2013](/barge/results/2013)
 
 ## 2014
 
-This year's expanded BARGE was held at Binion's Casino.&nbsp;
+This year's expanded BARGE was held at Binion's Casino.
 [Complete results for BARGE 2014](/barge/results/2014)
 
 ## 2015
 
-This year's expanded BARGE was held at Binion's Casino.&nbsp;
+This year's expanded BARGE was held at Binion's Casino.
 [Complete results for BARGE 2015](/barge/results/2015)
 
 ## 2016
 
-This year's expanded BARGE was held at Binion's Casino.&nbsp;
-[Complete results for BARGE 2015](/barge/results/2016)
+This year's expanded BARGE was held at Binion's Casino.
+[Complete results for BARGE 2016](/barge/results/2016)
 
 ## 2017
 
-This year's expanded BARGE was held at Binion's Casino.&nbsp;
+This year's expanded BARGE was held at Binion's Casino.
+[Complete results for BARGE 2017](/barge/results/2017)
 
 ## 2018
 
-This year's expanded BARGE was held at Binion's Casino.&nbsp;
+This year's expanded BARGE was held at Binion's Casino.
+[Complete results for BARGE 2018](/barge/results/2018)
 
 ## 2019
 
-This year's expanded BARGE was held at Green Valley Ranch, as Binion's no
-longer had a poker room that was large enough.
+This year's BARGE was held at Green Valley Ranch, as Binion's shrank their poker room.
+[Complete results for BARGE 2019](/barge/results/2019)
 
 ## 2020
 
 In 2020, the COVID pandemic kept BARGE out of Las Vegas for the first and only time to date.
 BARGE returned to its roots, the Internet, and our tournaments were held on Cliff Matthews' poker site,
 now known as [Craft Poker](https://www.craftpoker.com/).
+
+Russ Fox became the first two-time winner of the BARGE Main Event.
+Historians will argue if a zero-dollar virtual tournament win counts (it does).
 
 [Complete results at BARGE 2020.](/barge/results/2020)
 
@@ -165,15 +170,19 @@ Las Vegas was still closed.  COVID's Delta variant hit just before BARGE
 and Nevada required staff to mask up.  Then, on Thursday, the players had to mask up, too.
 We still played a lot of poker.
 
-[Complete results at BARGE 2023.](/barge/results/2021)
+[Complete results at BARGE 2021.](/barge/results/2021)
 
 ## 2022
 
-This year's BARGE was at Westgate.  [Complete results at BARGE 2023.](/barge/results/2022)
+This year's BARGE was at Westgate.  [Complete results at BARGE 2022.](/barge/results/2022)
 
 ## 2023
 
-This year's BARGE was at Westgate. [Complete results at BARGE 2023.](/barge/results/2023)
+This year's BARGE was at Westgate.
+
+Rich Bremer becomes the second repeat winner of the Main Event.
+
+[Complete results at BARGE 2023.](/barge/results/2023)
 
 ## 2024
 
