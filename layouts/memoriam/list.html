@@ -1,0 +1,38 @@
+{{ define "main" }}
+  <!-- list.html -->
+  <style>
+.memoriam-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.memoriam-card {
+  text-align: center;
+  border: 1px solid #ddd;
+  padding: 5px;
+  border-radius: 8px;
+  background-color: #f9f9f9;
+  width: 200px;
+  height: 250px;
+  object-fit: cover;
+  float: left;
+}
+  </style>
+  
+  <h1>{{ .Title }}</h1>
+  <p>{{ .Content }}</p>
+  <div class="memoriam-gallery">
+    {{ range .Pages }}
+    {{ $remote := resources.GetRemote .Params.image }}
+    {{ $image := $remote.Process "fill 200x225" }}
+    <div class="memoriam-card">
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" class="friend-image"/>
+          <p>{{ .Title }}</p> 
+        </a>
+        <p>{{ .Params.bio | plainify }}</p>
+      </div>
+    {{ end }}
+  </div>
+{{ end }}
