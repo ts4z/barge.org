@@ -2,7 +2,8 @@
 title: In Memoriam
 date: 2024-11-24
 draft: false
-alias: /in-memoriam
+aliases:
+ - /in-memoriam
 type: memoriam
 ---
 

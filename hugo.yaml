@@ -1,7 +1,7 @@
 # TODO hack for experimental site
 # baseURL: https://w.bjrge.org/
 languageCode: en-us
-title: BARGE
+title: BARGE.org
 theme: ["PaperMod"]
 sectionPagesMenu: main
 params:
@@ -10,7 +10,7 @@ params:
 
 menu:
   main:
-    - name: Register for EMBARGO 2024
+    - name: Register Now!
       url: "https://barge.regfox.com/embargo-2024"
       weight: 0
       params:
