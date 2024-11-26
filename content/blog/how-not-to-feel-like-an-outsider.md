@@ -1,5 +1,5 @@
 ---
-title: How not to feel like an outsider
+title: How Not to Feel Like an Outsider
 draft: false
 author: Mike "ADB Howler" McBride
 date: 2016-05-26

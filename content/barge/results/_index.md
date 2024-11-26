@@ -4,7 +4,10 @@ draft: false
 aliases:
  - /barge-results
 date: 2024-08-01
+summary: BARGE results by year.
 ---
+
+We don't have complete results prior to 2001.
 
 | | | |
 |----|---|---|---|
@@ -15,4 +18,3 @@ date: 2024-08-01
 | [2008]({{< relref 2008 >}}) | [2007]({{< relref 2007 >}}) | [2006]({{< relref 2006 >}}) | [2005]({{< relref 2005 >}}) |
 | [2004]({{< relref 2004 >}}) | [2003]({{< relref 2003 >}}) | [2002]({{< relref 2002 >}}) | [2001]({{< relref 2001 >}}) |
 
-We don't have complete results prior to 2001.
