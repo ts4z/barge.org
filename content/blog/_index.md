@@ -1,8 +1,9 @@
 ---
-aliases: ["/blogs"]
 title: Blog
 draft: false
 author: Tim Showalter
+aliases: 
+ - /blogs
 ---
 
 BARGE has been around longer than the World Wide Web itself, and in that time
