@@ -3,6 +3,8 @@ title: What I wish I'd Known Before Coming to my First BARGE
 author: Diana Mercer
 aliases:
  - /what-i-wish-id-known
+tags:
+ - welcome
 ---
 
 _Diana Mercer was a 2008 BARGE virgin._

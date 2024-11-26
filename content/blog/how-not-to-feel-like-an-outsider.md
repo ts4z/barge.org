@@ -1,10 +1,12 @@
 ---
 title: How not to feel like an outsider
 draft: false
-author: Mike &quot;ADB Howler&quot; McBride
+author: Mike "ADB Howler" McBride
 date: 2016-05-26
 aliases:
  - /how-not-to-feel-like-an-outsider
+tags:
+ - welcome
 ---
 
 Let&rsquo;s first examine the meaning of OUTSIDER shall we?

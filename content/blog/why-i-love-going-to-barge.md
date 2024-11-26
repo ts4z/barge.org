@@ -5,6 +5,8 @@ author: Barry Kornspan
 draft: false
 aliases:
  - /why-i-love-going-to-barge
+tags:
+ - welcome
 ---
 
 ## A newbie's first impression of BARGE...
