@@ -3,6 +3,8 @@ title: BARGE History
 draft: false
 aliases:
  - /barge-history
+tags:
+ - history
 ---
  
 This page provides a brief history and time line of the BARGE event, held
