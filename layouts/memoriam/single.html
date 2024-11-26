@@ -1,9 +1,51 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-  <img src="{{ .Params.image }}" alt="{{ .Title }}" class="friend-image"/>
-  <!--
-  <div class="bio">
-    <p>{{ .Params.bio }}</p>
+
+<article>
+  {{ partial "breadcrumbs.html" . }}
+  <div class="next-post" style="float: left;">
+    {{ if .Page.NextInSection }}
+    <a class="link-reverse" href="{{ .Page.NextInSection.Permalink }}?ref=footer">« {{ .Page.NextInSection.Title | truncate 50 "..." }}</a>
+    {{ end }}
   </div>
-  -->
+
+  <div class="previous-post" style="float: right;">
+    {{ if .Page.PrevInSection }}
+    <a class="link-reverse" href="{{ .Page.PrevInSection.Permalink }}?ref=footer">{{ .Page.PrevInSection.Title | truncate 50 "..."}} »</a>
+    {{ end }}
+  </div>
+  </div>
+
+  <hr style="clear: both;">
+
+  <h1>{{ .Title }}</h1>
+
+  {{- if .Params.special }}
+  <div>{{ .Params.special }}</div>
+  {{ end }}
+  <div>
+  {{- if and .Params.born .Params.died }}
+  {{- .Params.born }}&mdash;{{- .Params.died }}
+  {{- else if .Params.died }}
+  {{- .Params.died }}
+  {{- else }}
+  {{- .Params.date | time.Format "2006" }}
+  {{- end }}
+  </div>
+  {{- if .Params.location }}
+  <div>{{ .Params.location }}</div>
+  {{ end }}
+  {{- if .Params.mainEventChamp }}
+  <div>BARGE Main Event Winner {{ .Params.mainEventChamp }}</div>
+  {{- end }}
+
+  <img src="{{ .Params.image }}" alt="{{ .Title }}" class="friend-image"/>
+
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
+  {{- end }}
+</article>
 {{ end }}

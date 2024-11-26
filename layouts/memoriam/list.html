@@ -14,7 +14,7 @@
   border-radius: 8px;
   background-color: #f9f9f9;
   width: 200px;
-  height: 250px;
+  height: 335px;
   object-fit: cover;
   float: left;
 }
@@ -28,10 +28,21 @@
     {{ $image := $remote.Process "fill 200x225" }}
     <div class="memoriam-card">
         <a href="{{ .RelPermalink }}">
-          <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}" class="friend-image"/>
-          <p>{{ .Title }}</p> 
+          <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
+          <p>{{ .Title }}</p>
+          <div>
+            {{- if and .Params.born .Params.died }}
+            {{- .Params.born }}&mdash;{{- .Params.died }}
+            {{- else if .Params.died }}
+            {{- .Params.died }}
+            {{- else }}
+            {{- .Params.date | time.Format "2006" }}
+            {{- end }}
+          </div>
+          {{- if .Params.location }}
+          <div>{{ .Params.location }}</div>
+          {{ end }}
         </a>
-        <p>{{ .Params.bio | plainify }}</p>
       </div>
     {{ end }}
   </div>

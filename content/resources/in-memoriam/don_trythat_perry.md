@@ -1,17 +1,11 @@
 ---
+type: memoriam
 title: Don "Trythat" Perry
 date: 2009-12-30
 image: https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/070don-perry-1920w.jpg
 draft: false
+born: 1951
+died: 2009
+location: New Suffolk, NY
+mainEventChamp: 2005
 ---
-
-![](https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/070don-perry-1920w.jpg)
-
-Don &quot;Trythat&quot; Perry
-
-1951-2009
-
-New Suffolk, NY
-
-BARGE Main Event Champion 2005
-

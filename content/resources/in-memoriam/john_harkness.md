@@ -1,16 +1,11 @@
 ---
+type: memoriam
 title: John Harkness
 date: 2007-11-30
 image: https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/040john-harkness-1920w.jpg
 draft: false
+born: 1954
+died: 2007
+location: Toronto, Ontario, Canada
+mainEventChamp: 1999
 ---
-
-![](https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/040john-harkness-1920w.jpg)
-
-John Harkness
-
-1954-2007
-
-Toronto, ON, Canada
-
-BARGE Main Event Champion 1999
