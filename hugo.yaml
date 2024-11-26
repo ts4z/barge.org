@@ -8,6 +8,7 @@ params:
   showShareButtons: true
   ShareButtons: ["facebook", "linkedin", "reddit", "whatsapp", "x"]
   ShowBreadcrumbs: true
+  ShowPostNavLinks: true
 
 menu:
   main:
