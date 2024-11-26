@@ -15,8 +15,16 @@ params:
     appendFilePath: true # to append file path to Edit link
 menu:
   main:
+    - name: "🔍"
+      url: "/search"
+      weight: 1000
     - name: Register Now!
       url: "https://barge.regfox.com/embargo-2024"
-      weight: 0
+      weight: 999
       params:
         external: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

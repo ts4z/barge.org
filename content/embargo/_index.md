@@ -2,7 +2,7 @@
 title: EMBARGO
 draft: false
 aliases: /embargo-info
-weight: 1
+weight: -5
 ---
 
 Registration

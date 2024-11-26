@@ -1,7 +1,7 @@
 ---
 title: BARGE
 draft: false
-weight: 1
+weight: -10
 ---
 
 ![BARGE presto wordmark](https://irp-cdn.multiscreensite.com/7fa840da/import/base/barge.png)

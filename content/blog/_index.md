@@ -4,6 +4,7 @@ draft: false
 author: Tim Showalter
 aliases: 
  - /blogs
+weight: 20
 ---
 
 BARGE has been around longer than the World Wide Web itself, and in that time
