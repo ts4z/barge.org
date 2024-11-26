@@ -31,7 +31,7 @@ at Resorts World in Las Vegas. This is the twelfth edition of our
 off-season complement to our long-running BARGE event.
 
 * [View Schedule]({{< relref schedule >}})
-* [View Structures](https://irp.cdn-website.com/7fa840da/files/uploaded/2024+2+EMBARGO Structures.pdf)
+* [View Structures](https://irp.cdn-website.com/7fa840da/files/uploaded/2024+2+EMBARGO+Structures.pdf)
                                         
 ### Who is Eligible to Register for EMBARGO?
 
