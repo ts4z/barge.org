@@ -9,7 +9,10 @@ params:
   ShareButtons: ["facebook", "linkedin", "reddit", "whatsapp", "x"]
   ShowBreadcrumbs: true
   ShowPostNavLinks: true
-
+  editPost:
+    URL: "https://github.com/ts4z/barge.org/tree/main/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
 menu:
   main:
     - name: Register Now!
