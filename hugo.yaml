@@ -13,6 +13,8 @@ params:
     URL: "https://github.com/ts4z/barge.org/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
+  label:
+    icon: /barge_logo_undated-1024x694-1920w.png
 menu:
   main:
     - name: "🔍"
