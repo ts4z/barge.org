@@ -3,13 +3,7 @@ title: BARGE.org
 draft: false
 ---
 
-![BARGE logo](/barge_logo_undated-1024x694-1920w.png)
-
-&ldquo;There are no strangers here, just friends you haven't met yet&rdquo;
-{{< right >}}
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&mdash;Peter Secor
-{{< /right >}}
-
+{{< barge-banner >}}
 
 BARGE is the most fun you can have while playing poker...
 ===============
