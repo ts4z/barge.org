@@ -1,6 +1,6 @@
 ---
 title: Virgin Queen History
-date: 
+date: 2022-07-11T23:18:57-0000
 author: Beth Even
 draft: false
 aliases:
