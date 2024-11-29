@@ -1,5 +1,5 @@
 ---
-title: "BARGE Trivia" book
+title: "\"BARGE Trivia\" book"
 date: 2019-07-16
 author: Christopher J. Mecklin
 draft: false
