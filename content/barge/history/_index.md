@@ -8,7 +8,7 @@ tags:
 ---
  
 This page provides a brief history and time line of the BARGE event, held
-annually in Las Vegas, NV. There are some omissions, especially in data
+annually in Las Vegas, NV. <!--more--> There are some omissions, especially in data
 regarding the early years, and missing text in later years.. Any efforts to
 fill in these gaps would be greatly appreciated.
 

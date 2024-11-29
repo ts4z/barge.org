@@ -4,6 +4,8 @@ draft: false
 weight: -10
 ---
 
+Quick Links: [Previous BARGE Results](results/) &mdash; [Next Event Registration](/register)
+
 ![BARGE presto wordmark](https://irp-cdn.multiscreensite.com/7fa840da/import/base/barge.png)
 
 ____

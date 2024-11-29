@@ -5,11 +5,7 @@ aliases: /embargo-info
 weight: -5
 ---
 
-Registration
--------
-
-[Register for EMBARGO 2024 here.](https://barge.regfox.com/embargo-2024)
-It may help if you have a time machine.
+Quick Links: [Previous EMBARGO Results](results/) &mdash; [Next Event Registration](/register)
 
 __________
 
@@ -32,6 +28,7 @@ off-season complement to our long-running BARGE event.
 
 * [View Schedule]({{< relref schedule >}})
 * [View Structures](https://irp.cdn-website.com/7fa840da/files/uploaded/2024+2+EMBARGO+Structures.pdf)
+* [View Results](results/)
                                         
 ### Who is Eligible to Register for EMBARGO?
 
