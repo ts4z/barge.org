@@ -3,6 +3,7 @@ title: Code of Conduct
 draft: false
 aliases:
  - /code-of-conduct
+date: 2024-11-25
 ---
 
 At this time, there is no formal Code of Conduct, but at a minimum it is
