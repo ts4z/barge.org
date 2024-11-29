@@ -1,6 +1,7 @@
 {{ define "main" }}
 
-<article>
+<article class="post-single">
+  <header class="post-header">
   {{ partial "breadcrumbs.html" . }}
   <div class="next-post" style="float: left;">
     {{ if .Page.NextInSection }}
@@ -17,7 +18,17 @@
 
   <hr style="clear: both;">
 
-  <h1>{{ .Title }}</h1>
+    {{- if not (.Param "hideMeta") }}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+      {{- partial "translation_list.html" . -}}
+      {{- partial "edit_post.html" . -}}
+      {{- partial "post_canonical.html" . -}}
+    </div>
+    {{- end }}
+  </header>
+
+  <h1 class="post-title entry-hint-parent">{{ .Title }}</h1>
 
   {{- if .Params.special }}
   <div>{{ .Params.special }}</div>

@@ -3,45 +3,53 @@
   <style>
 .memoriam-gallery {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 5px;
 }
 
 .memoriam-card {
-  text-align: center;
-  border: 1px solid #ddd;
+  /*border: 1px solid #ddd;*/
   padding: 5px;
   border-radius: 8px;
-  background-color: #f9f9f9;
-  width: 200px;
-  height: 335px;
+  /*background-color: #f9f9f9;*/
+  width: 160px;
+  height: 320px;
   object-fit: cover;
   float: left;
+}
+
+.memoriam-text {
+  text-align: center;
   font-size: 1.53vh;
 }
+
   </style>
   
   <h1>{{ .Title }}</h1>
   <p>{{ .Content }}</p>
+
+  <hr>
+  
   <div class="memoriam-gallery">
     {{ range .Pages }}
     {{ $remote := resources.GetRemote .Params.image }}
-    {{ $image := $remote.Process "fill 200x225" }}
+    {{ $image := $remote.Process "fill 160x180" }}
     <div class="memoriam-card">
         <a href="{{ .RelPermalink }}">
           <img src="{{ $image.RelPermalink }}" alt="{{ .Title }}">
-          <p>{{ .Title }}</p>
-          <div>
+          <div class="post-description memoriam-text">{{ .Title }}</div>
+          <div class="post-description memoriam-text">
             {{- if and .Params.born .Params.died }}
             {{- .Params.born }}&mdash;{{- .Params.died }}
             {{- else if .Params.died }}
             {{- .Params.died }}
-            {{- else }}
+            {{- else if .Params.date }}
             {{- .Params.date | time.Format "2006" }}
+            {{- else }}
             {{- end }}
           </div>
           {{- if .Params.location }}
-          <div>{{ .Params.location }}</div>
+          <div class="post-description memoriam-text">{{ .Params.location }}</div>
           {{ end }}
         </a>
       </div>
