@@ -1,17 +1,40 @@
-{{/* the classic BARGE banner, slightly tweaked for style. */}}
-{{/* I added the bugs. */}}
+<style>
+  .banner-wrapper {
+    display: grid;
+  }
+  grid-auto-rows: minmax(100px, auto);
 
-<span style="float: left; width: 30vw;">
-  <img src="/barge_logo_undated-1024x694-1920w.png">
-</span> 
-<span>
-  <span style="text-align: center;">
-    <h1 style="font-weight: 400; font-family:Impact;">BARGE</h1>
-  </span>
-    <div style="text-align: center;">
+  .left {
+      grid-column: 1;
+      grid-row: 1;
+      width: min(200px, 20vw);
+  }
+  .center {
+      grid-column: 2;
+      grid-row: 1;
+  }
+  .right {
+      grid-column: 3;
+      grid-row: 1;
+      text-align: center;
+      margin: auto;
+  }
+</style>
+
+<span class="banner-wrapper">
+  <img class="left" src="/barge_logo_undated-1024x694-1920w.png">
+  <div class="center">&nbsp;&nbsp;&nbsp;</div>
+  <span class="right">
+    <div style="font-size: xx-large; font-weight: 400; font-family:Impact;">BARGE</div>
+    <div> Big
+      <span style="a:link { text-decoration: none; }"><a href="/what-does-the-a-stand-for/">Annual</a></span>
+      Rec.Gambling Excursion </div>
+    <div> ♠♥♦♣ </div>
+    <div>
       "There&nbsp;are no strangers&nbsp;here,
       just&nbsp;friends you haven't&nbsp;met&nbsp;yet"
     </div>
     <div style="text-align: right;">&mdash; Peter "Foldem" Secor</div>
-</span> 
-<span style="clear: both;">&nbsp;</span>
+  </span>
+</span>
+
