@@ -1,7 +1,7 @@
 ---
 type: memoriam
 title: John Harkness
-date: 2007-11-30
+#date: 2007-11-30
 image: https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/040john-harkness-1920w.jpg
 draft: false
 born: 1954
