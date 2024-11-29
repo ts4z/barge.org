@@ -8,6 +8,7 @@ aliases:
 tags:
  - history
  - virgin
+summary: By the next year, I had already gone to my first RGP event (ESCARGOT '99) and was eager to attend my first BARGE.
 ---
 
 *Written by ADV Beth, posted &amp; emailed to the BARGE mailing list.*
@@ -18,7 +19,7 @@ newbie that I didn't feel comfortable taking a spontaneous trip to Vegas to
 join the group, but I read the threads with interest.
 
 By the next year, I had already gone to my first RGP event (ESCARGOT '99) and
-was eager to attend my first BARGE.  After registering and signing up for the
+was eager to attend my first BARGE.  <!--more--> After registering and signing up for the
 mailing list, I read lots of discussion about a Calcutta.  Well, I had never
 heard of a Calcutta and didn't have a clue.  Someone suggested that newcomers
 form their own syndicate to pool their limited knowledge of the players.  I
