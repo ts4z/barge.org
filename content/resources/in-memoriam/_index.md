@@ -1,9 +1,9 @@
 ---
 title: In Memoriam
-date: 2024-11-24
 draft: false
 aliases:
  - /in-memoriam
+weight: 0
 type: memoriam
 weight: 2000
 ---
