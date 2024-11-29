@@ -14,9 +14,8 @@ Forms are broken.
 Image galleries are missing.  Images currently live on the CDN.  These need to
 be brought over.
 
-Navigation is poor.  We need breadcrumbs to make pages more discoverable.
-
-Some content (old rulebooks) is missing.
+A lot of files that could be statically hosted (images and rulebooks) still
+live on the old server.
 
 How-To
 ------
@@ -76,3 +75,33 @@ frontmatter header.
 
 Avoid TOML, which is permitted in configs and frontmatter.  Write either YAML
 or JSON.  Actually, forget I said anything about JSON.
+
+If you find yourself repeating something, or having trouble styling something in Markdown,
+make a "shortcode" for it.  See layouts/shortcodes.  Note that this is currently used
+only for tournament headlines.
+
+If you find you need a different layout for a directory, see
+layouts/title-gallery for an example.
+
+_Don't_ write a lot of custom HTML, or depend on the details of Markdown.  If
+you can't do it with the structure of the documents, make new structure with a
+shortcode.
+
+Gotchas
+-------
+
+### Tables
+
+Tables are something of a black magic in Markdown, and not all Markdown
+processors handle them the same way.  Here are the rules that I have found
+relevant for Hugo:
+
+1.  A table must start with a heading (it can be empty).
+2.  A table is divided from its body with a bunch of horizontal lines, like
+    this: `|---|---|---|`.  This makes Hugo see it as a table.  You may specify
+    left- or right-justification of the rows, like this: `|--:|---|---|` This
+    right-justifies all data in the first column, but the other columns will be
+    left-justified.
+3.  No merging rows or columns is permitted.
+
+Some editors will see things as tables that Hugo won't.
