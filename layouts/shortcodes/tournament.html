@@ -1,0 +1,54 @@
+{{- /*
+
+Declare a tournament heading.  Every event *must* have an 'event'.
+Every event will produce an anchor based on its name; these are links and
+we should avoid changing them, as people can link directly to them.
+
+The following fields are optional:
+
+- special-event: a prefix to event that will not be part of the anchor
+- buyin: optional, specify buyin
+- prize-pool: optional, specify prize pool
+- prizepool: optional, specify prize pool (TODO: replace with prize-pool)
+- entries, entrants, players: number of punters.  Only one will be emitted.
+- parentheticals: event modifiers, part of event title but not event anchor
+- donated: amount donated for charity tournament
+
+The presentation of the link can change over time as we re-theme the site.
+
+The varying descriptions of things reflects the inconsistency with which we
+have presented events.  Note that there is a subtle difference between
+"entries" and "players" in rebuy events.
+
+*/ -}}
+<h2 id="{{- .Get "event" | strings.ToLower | replaceRE " +" "-" | replaceRE "[^a-z0-9-]+" "" | safeHTML -}}">
+  {{- if .Get "special-event" }}{{- .Get "special-event" -}} <br> {{- end -}}
+  {{- if .Get "buyin" }}  {{- .Get "buyin" }}  {{- end }} {{- .Get "event" }}
+  {{- if .Get "parentheticals" }}<br>{{- .Get "parentheticals" -}}  {{- end -}}
+</h2>
+<p>
+{{- if .Get "date" }}
+  {{- .Get "date" }} <br>
+{{- end }}
+{{- if .Get "buyin" }}
+  {{- .Get "buyin" }} buyin <br>
+{{- end }}
+{{- if .Get "entries" }}
+  {{- .Get "entries" }} entries <br>
+{{- else if .Get "players" }}
+  {{- .Get "players" }} players <br>
+{{- else if .Get "entrants" }}
+  {{- .Get "entrants" }} entrants <br>
+{{- end }}
+{{- if .Get "after-entries" }}
+  {{-  .Get "after-entries" }} <br>
+{{- end }}
+{{- if .Get "donated" }}
+  {{-  .Get "donated" }} donated <br>
+{{- end }}
+{{- if .Get "prize-pool" }}
+  {{-  .Get "prize-pool" }} prize pool <br>
+{{- else if .Get "prizepool" }}
+  {{-  .Get "prizepool" }} prize pool <br>
+{{- end }}
+</p>

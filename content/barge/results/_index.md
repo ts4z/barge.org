@@ -6,6 +6,8 @@ aliases:
 date: 2024-08-01
 summary: BARGE results by year.
 type: title-gallery
+tags:
+ - results
 ---
 
 We don't have complete results prior to 2001.

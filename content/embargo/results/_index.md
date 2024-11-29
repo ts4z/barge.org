@@ -1,10 +1,9 @@
 ---
-title: EMBARGO Tournament Results
+title: Results
 draft: false
 aliases:
  - /embargo-results
 type: title-gallery
+tags:
+ - embargo
 ---
-
-Pick a year.
-

@@ -1,11 +1,13 @@
 ---
+tags:
+ - embargo
 title: EMBARGO
 draft: false
 aliases: /embargo-info
 weight: -5
 ---
 
-Quick Links: [Previous EMBARGO Results](results/) &mdash; [Next Event Registration](/register)
+Quick Links for EMBARGO: [Schedule](/schedule1) &mdash; [Results](results/) &mdash; [Next Event Registration](/register)
 
 __________
 
@@ -58,10 +60,10 @@ When held live, all EMBARGO events are non-smoking.
 ### So Who Are the &quot;Organizers&quot; Anyway?
 
 EMBARGO 2024 is being organized by
-[Russ Fox](russ@barge.org)
-[Rich Bremer](omaholic@barge.org)
-[Jeff Deitch](blofeld@barge.org)
-[Stevan Goldman](goldie@barge.org)
+[Russ Fox](russ@barge.org),
+[Rich Bremer](omaholic@barge.org),
+[Jeff Deitch](blofeld@barge.org),
+[Stevan Goldman](goldie@barge.org),
 and
 [Sharon Goldman](sharon@barge.org),
 with more than occasional advice and emergency help from Chuck Weinstock and
