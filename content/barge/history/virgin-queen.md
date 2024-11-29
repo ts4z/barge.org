@@ -11,7 +11,19 @@ tags:
 summary: By the next year, I had already gone to my first RGP event (ESCARGOT '99) and was eager to attend my first BARGE.
 ---
 
-*Written by ADV Beth, posted &amp; emailed to the BARGE mailing list.*
+```
+Path: archiver1.google.com!news1.google.com!newsfeed.stanford.edu!news-spur1.maxwell.syr.edu!news.maxwell.syr.edu!newsfeed1.cidera.com!Cidera!ngpeer.news.aol.com!audrey05.news.aol.com!not-for-mail
+Lines: 33
+X-Admin: n...@aol.com
+From: eae...@aol.comhatespam (ADV Beth)
+Newsgroups: rec.gambling.poker
+Date: 11 Jul 2002 23:18:57 GMT
+Organization: AOL http://www.aol.com
+Subject: A Brief History of the BARGE Virgins
+Message-ID: <20020711191857.02004.00000076@mb-mv.aol.com>
+```
+
+[posted & emailed to the BARGE mailing list]
 
 I started playing poker in 1998 and discovered RGP shortly thereafter.  Since
 it was summer, RGP was filled with threads regarding BARGE.  I felt like such a
@@ -63,3 +75,8 @@ Scottro and the 2001 Virgins led by North Shore Mike.
 * Mordecai Schwartz, 2006
 * Andreas Wolfram, 2014
 * Jennifer Shahade, 2015
+
+-----
+
+This message has been on the BARGE site for a long time, but I sourced the details from
+[Zbigniew's collection](https://zbigniew.pyrzqxgl.com/bargevirginhistory.html). --ts4z
