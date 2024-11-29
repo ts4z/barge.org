@@ -5,6 +5,13 @@ title: BARGE.org
 theme: ["PaperMod"]
 sectionPagesMenu: main
 params:
+  mainSections:
+    - barge
+    - barge/results
+    - embargo
+    - embargo/results
+    - blog
+    - news
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
@@ -29,9 +36,9 @@ params:
   disableSpecial1stPost: true
 menu:
   main:
-    - name: Tags
-      url: tags
-      weight: 900
+    # - name: Tags
+    #   url: tags
+    #   weight: 900
     - name: "🔍"
       url: "/search"
       weight: 1000
