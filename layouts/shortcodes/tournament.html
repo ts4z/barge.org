@@ -13,6 +13,8 @@ The following fields are optional:
 - entries, entrants, players: number of punters.  Only one will be emitted.
 - parentheticals: event modifiers, part of event title but not event anchor
 - donated: amount donated for charity tournament
+- inline-image: (TODO: remove, redundant)
+- image: image to link to (TODO: use as inline-image after resize)
 
 The presentation of the link can change over time as we re-theme the site.
 
@@ -21,12 +23,14 @@ have presented events.  Note that there is a subtle difference between
 "entries" and "players" in rebuy events.
 
 */ -}}
+{{- if .Get "image" -}}
+<a style="float: left; padding: 10px;" href="{{- .Get "image" }}"><img style="width: min(200px, 20vw); "; src="{{- .Get "inline-image" -}}"></a>
+{{- end -}}
 <h2 id="{{- .Get "event" | strings.ToLower | replaceRE " +" "-" | replaceRE "[^a-z0-9-]+" "" | safeHTML -}}">
   {{- if .Get "special-event" }}{{- .Get "special-event" -}} <br> {{- end -}}
   {{- if .Get "buyin" }}  {{- .Get "buyin" }}  {{- end }} {{- .Get "event" }}
   {{- if .Get "parentheticals" }}<br>{{- .Get "parentheticals" -}}  {{- end -}}
 </h2>
-<p>
 {{- if .Get "date" }}
   {{- .Get "date" }} <br>
 {{- end }}
@@ -50,5 +54,8 @@ have presented events.  Note that there is a subtle difference between
   {{-  .Get "prize-pool" }} prize pool <br>
 {{- else if .Get "prizepool" }}
   {{-  .Get "prizepool" }} prize pool <br>
+{{- end }}
+{{- if .Get "bonus" }}
+  {{-  .Get "bonus" }} <br>
 {{- end }}
 </p>
