@@ -48,10 +48,10 @@ Here's a video montage from ATLARGE 2019 (courtesy of Dilligaf)!  Enjoy!
 
 {{< youtube id="ZP7sEpPKBgA" >}}
 
-And...
-------
+Can't Get to Las Vegas?
+-----------------------
 
 Is Las Vegas inconvenient?  There are [more rec.gambling events](/other-events)
 all over the country!  If they're all inconvenient, check out our mailing
-lists.  Some of us play daily on [craftpoker.com](https://craftpoker.com/),
-too.
+lists.  Some of us play daily for free, and for fun, on
+[craftpoker.com](https://craftpoker.com/), too.
