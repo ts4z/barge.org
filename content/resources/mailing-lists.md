@@ -9,6 +9,7 @@ tags:
 ---
 
 BARGE maintains three mailing lists. Members can select which lists they wish to read.
+<!--more-->
 
 ## BARGE-announce
 
