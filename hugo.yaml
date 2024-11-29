@@ -5,6 +5,10 @@ title: BARGE.org
 theme: ["PaperMod"]
 sectionPagesMenu: main
 params:
+  selfHosted: true
+  socialShare: true
+  showRelatedPosts: true
+  # PaperMod stuff:
   showShareButtons: true
   ShareButtons: ["facebook", "linkedin", "reddit", "whatsapp", "x"]
   ShowBreadcrumbs: true
@@ -15,13 +19,22 @@ params:
     appendFilePath: true # to append file path to Edit link
   label:
     icon: /barge_logo_undated-1024x694-1920w.png
+  footer:
+    hideCopyright: true
 menu:
   main:
+    - name: Tags
+      url: tags
+      weight: 900
+    # This works for PaperMod; it does not work for beautifulhugo
     - name: "🔍"
       url: "/search"
       weight: 1000
     - name: Register Now!
-      url: "https://barge.regfox.com/embargo-2024"
+      # external register like this:
+      # url: "https://barge.regfox.com/embargo-2024"
+      # local registration (i.e., closed) like this:
+      url: /register
       weight: 999
       params:
         external: true
@@ -29,4 +42,5 @@ outputs:
   home:
     - HTML
     - RSS
+    # PaperMod's search needs this
     - JSON
