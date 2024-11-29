@@ -12,7 +12,9 @@ summary: By the next year, I had already gone to my first RGP event (ESCARGOT '9
 ---
 
 ```
-Path: archiver1.google.com!news1.google.com!newsfeed.stanford.edu!news-spur1.maxwell.syr.edu!news.maxwell.syr.edu!newsfeed1.cidera.com!Cidera!ngpeer.news.aol.com!audrey05.news.aol.com!not-for-mail
+Path: archiver1.google.com!news1.google.com!newsfeed.stanford.edu
+    !news-spur1.maxwell.syr.edu!news.maxwell.syr.edu!newsfeed1.cidera.com
+    !Cidera!ngpeer.news.aol.com!audrey05.news.aol.com!not-for-mail
 Lines: 33
 X-Admin: n...@aol.com
 From: eae...@aol.comhatespam (ADV Beth)
