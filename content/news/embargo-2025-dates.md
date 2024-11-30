@@ -1,7 +1,7 @@
 ---
 date: '2024-11-23T00:47:21-08:00'
 draft: false
-title: 'Embargo 2025 Dates'
+title: 'EMBARGO 2025 Dates'
 ---
 
 The Organizers are pleased to announce that EMBARGO 2025 will be held at
