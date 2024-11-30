@@ -28,7 +28,7 @@ have presented events.  Note that there is a subtle difference between
 {{- end -}}
 <h2 id="{{- .Get "event" | strings.ToLower | replaceRE " +" "-" | replaceRE "[^a-z0-9-]+" "" | safeHTML -}}">
   {{- if .Get "special-event" }}{{- .Get "special-event" -}} <br> {{- end -}}
-  {{- if .Get "buyin" }}  {{- .Get "buyin" }}  {{- end }} {{- .Get "event" }}
+  {{- if .Get "buyin" }}  {{- .Get "buyin" }}&nbsp; {{- end }} {{- .Get "event" }}
   {{- if .Get "parentheticals" }}<br>{{- .Get "parentheticals" -}}  {{- end -}}
 </h2>
 {{- if .Get "date" }}
