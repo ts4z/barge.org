@@ -10,7 +10,7 @@ The following fields are optional:
 - buyin: optional, specify buyin
 - prize-pool: optional, specify prize pool
 - prizepool: optional, specify prize pool (TODO: replace with prize-pool)
-- entries, entrants, players: number of punters.  Only one will be emitted.
+- entries, entrants, players, teams: number of punters.  Only one will be emitted.
 - parentheticals: event modifiers, part of event title but not event anchor
 - donated: amount donated for charity tournament
 - inline-image: (TODO: remove, redundant)
@@ -43,6 +43,8 @@ have presented events.  Note that there is a subtle difference between
   {{- .Get "players" }} players <br>
 {{- else if .Get "entrants" }}
   {{- .Get "entrants" }} entrants <br>
+{{- else if .Get "teams" }}
+  {{- .Get "teams" }} teams <br>
 {{- end }}
 {{- if .Get "after-entries" }}
   {{-  .Get "after-entries" }} <br>
