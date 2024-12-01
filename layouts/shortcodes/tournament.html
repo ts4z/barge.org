@@ -29,13 +29,6 @@ have presented events.  Note that there is a subtle difference between
 {{- end -}}
 <h2 id="{{- .Get "event" | strings.ToLower | replaceRE " +" "-" | replaceRE "[^a-z0-9-]+" "" | safeHTML -}}">
   {{- if .Get "special-event" }}{{- .Get "special-event" -}} <br> {{- end -}}
-  {{/*
-  In some lists for other tournaments, the buyin is here before the event; we
-  don't do it that way... but we could.  just uncomment this next line.  Older
-  iterations of the web site did it this way, but I find it makes the titles
-  cluttered.
-  */}}
-  {{/* {{- if .Get "buyin" }}  {{- .Get "buyin" }}&nbsp; {{- end }} */}}
   {{- .Get "event" }}
   {{- if .Get "parentheticals" }}<br>{{- .Get "parentheticals" -}}  {{- end -}}
 </h2>
