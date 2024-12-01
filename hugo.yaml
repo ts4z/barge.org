@@ -5,6 +5,10 @@ title: BARGE.org
 theme: ["PaperMod"]
 sectionPagesMenu: main
 params:
+  description: >-
+    This is the home page for the BARGE event in Las Vegas, the EMBARGO event
+    in Las Vegas, and BARGE, Inc., which is a tax exempt Nevada corporation
+    operating as a 501(c)(7) not-for-profit social club.
   mainSections:
     - barge
     - barge/results
@@ -32,6 +36,9 @@ params:
   label:
     icon: /barge_logo_undated-1024x694-1920w.png
   footer:
+    text: >-
+      There&nbsp;are no strangers here,
+      just friends you haven't met yet &mdash;Peter&nbsp;Secor
     hideCopyright: true
   disableSpecial1stPost: true
 menu:
