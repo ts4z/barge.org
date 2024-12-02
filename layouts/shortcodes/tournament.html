@@ -47,6 +47,9 @@ have presented events.  Note that there is a subtle difference between
 {{- else if .Get "teams" }}
   {{- .Get "teams" }} teams <br>
 {{- end }}
+{{- if .Get "rebuys" }}
+  {{- .Get "rebuys" }} rebuys <br>
+{{- end }}
 {{- if .Get "after-entries" }}
   {{-  .Get "after-entries" }} <br>
 {{- end }}
