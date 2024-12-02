@@ -24,13 +24,21 @@ __________
 
 EMBARGO is the
 **Extraordinary Mid-Winter Big Annual Rec.Gambling Outing**
-(also known as&quot;winter BARGE&quot; or &quot;mini-BARGE&quot;), and was held February 1-3, 2024
-at Resorts World in Las Vegas. This is the twelfth edition of our
+(also known as&quot;winter BARGE&quot; or &quot;mini-BARGE&quot;).
+EMBARGO 2025 
+will be held at Resorts World Las Vegas from January 16-19, 2025.  The event
+schedule, hotel details, and registration information will follow soon.
+
+This is the fourteenth) edition of our
 off-season complement to our long-running BARGE event.
+
+2025 information is not yet available.
+
+#### 2024 information
 
 * [View Schedule]({{< relref schedule >}})
 * [View Structures](https://irp.cdn-website.com/7fa840da/files/uploaded/2024+2+EMBARGO+Structures.pdf)
-* [View Results](results/)
+* [View Results](results/2024)
                                         
 ### Who is Eligible to Register for EMBARGO?
 
