@@ -5,6 +5,7 @@ title: BARGE.org
 theme: ["PaperMod"]
 sectionPagesMenu: main
 params:
+  env: production
   description: >-
     This is the home page for the BARGE event in Las Vegas, the EMBARGO event
     in Las Vegas, and BARGE, Inc., which is a tax exempt Nevada corporation
