@@ -51,7 +51,7 @@ have presented events.  Note that there is a subtle difference between
   {{- .Get "rebuys" }} rebuys <br>
 {{- end }}
 {{- if .Get "after-entries" }}
-  {{-  .Get "after-entries" }} <br>
+  {{-  .Get "after-entries" | safeHTML }} <br>
 {{- end }}
 {{- if .Get "donated" }}
   {{-  .Get "donated" }} donated <br>
