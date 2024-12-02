@@ -87,6 +87,13 @@ _Don't_ write a lot of custom HTML, or depend on the details of Markdown.  If
 you can't do it with the structure of the documents, make new structure with a
 shortcode.
 
+### House style 
+
+All results are listed in tables.  All tables are rank, name, amount.  If there is a tie,
+we list the rank multiple times prefixed by "tie".
+
+All tournament headers for events except ToGa are done with the "tournament" shortcode.
+
 Gotchas
 -------
 
@@ -105,3 +112,10 @@ relevant for Hugo:
 3.  No merging rows or columns is permitted.
 
 Some editors will see things as tables that Hugo won't.
+
+To Do
+-----
+
+The "tournament" shortcode has a lot of flexibility to allow for transition
+from older results.  I'd like to get rid of this.  (Sometimes we say "players",
+sometimes we say "entries", sometimes we say "entrants".  We should pick one.)
