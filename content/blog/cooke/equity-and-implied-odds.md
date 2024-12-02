@@ -61,8 +61,9 @@ you for a big mitt. Obviously, your potential for payoff is greater the less of
 a threat you appear to your opponent(s). So, if when you hit your card(s), and
 you think your opponent(s) won&rsquo;t read the card as strengthening your
 hand, your implied odds will be greater than if the card is an obvious
-threat. For example, hitting the straight on an Kd-8s-4d board with 7d6d will
-Usually get stronger action than hitting the flush.
+threat. For example, hitting the straight on an K&#9830;-8&#9830;-4&#9830;
+board with 7&#9830;6&#9830; will Usually get stronger action than hitting the
+flush.
 
 You should always try to predict what your hand is worth when drawing. What
 size of bet(s) and with what regularity do you think your opponent will call if
