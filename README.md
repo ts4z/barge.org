@@ -119,3 +119,6 @@ To Do
 The "tournament" shortcode has a lot of flexibility to allow for transition
 from older results.  I'd like to get rid of this.  (Sometimes we say "players",
 sometimes we say "entries", sometimes we say "entrants".  We should pick one.)
+
+The tournament shortcode allows multiple levels of h-headings, but some
+of the results don't use this.  Fix.

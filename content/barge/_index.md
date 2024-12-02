@@ -6,10 +6,6 @@ weight: -10
 
 Quick Links for BARGE: [Schedule](2024-schedule) &mdash; [Results](results/) &mdash; [Next Event Registration](/register)
 
-![BARGE presto wordmark](https://irp-cdn.multiscreensite.com/7fa840da/import/base/barge.png)
-
-____
-
              
 ![group picture](https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/BARGE%202013-815x302-1920w.jpg)
 

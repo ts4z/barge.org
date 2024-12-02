@@ -14,6 +14,7 @@ The following fields are optional:
 - parentheticals: event modifiers, part of event title but not event anchor
 - donated: amount donated for charity tournament
 - image: image to display inline, and link to original version
+- level: heading level, by default 2
 
 The presentation of the link can change over time as we re-theme the site.
 
@@ -22,16 +23,18 @@ have presented events.  Note that there is a subtle difference between
 "entries" and "players" in rebuy events.
 
 */ -}}
+
 {{- if .Get "image" -}}
 {{ $remote := resources.GetRemote .Params.image }}
 {{ $inline := $remote.Process "fill 300x300" }}
 <a style="float: left; padding: 10px;" href="{{- .Get "image" }}"><img style="width: min(200px, 20vw); "; src="{{ $inline.RelPermalink -}}"></a>
 {{- end -}}
-<h2 id="{{- .Get "event" | strings.ToLower | replaceRE " +" "-" | replaceRE "[^a-z0-9-]+" "" | safeHTML -}}">
+<h{{- if .Get "level" -}}{{- .Get "level" -}}{{- else -}}2{{- end }}
+     id="{{- .Get "event" | strings.ToLower | replaceRE " +" "-" | replaceRE "[^a-z0-9-]+" "" | safeHTML -}}">
   {{- if .Get "special-event" }}{{- .Get "special-event" -}} <br> {{- end -}}
   {{- .Get "event" }}
   {{- if .Get "parentheticals" }}<br>{{- .Get "parentheticals" -}}  {{- end -}}
-</h2>
+</h{{- if .Get "level" -}}{{- .Get "level" -}}{{- else -}}2{{- end }}>
 {{- if .Get "date" }}
   {{- .Get "date" }} <br>
 {{- end }}
