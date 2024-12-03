@@ -1,0 +1,12 @@
+
+{{- if .Get "link" -}}
+<a href="{{- .Get "link" -}}">
+{{- end -}}
+<span class="cta-wrapper">
+  <div class="cta-wrapper cta-text">
+    {{ .Inner }}
+  </div>
+</cta>
+{{- if .Get "link" -}}
+</a>
+{{- end -}}

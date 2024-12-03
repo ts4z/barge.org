@@ -3,6 +3,10 @@ title: BARGE.org
 draft: false
 ---
 
+{{< cta link="news/embargo-2025-hotel" >}}
+    EMBARGO 2025 &mdash; Reserve hotel now!
+{{< /cta >}}
+
 {{< barge-banner >}}
 
 BARGE is the most fun you can have while playing poker...
