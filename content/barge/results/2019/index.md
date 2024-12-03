@@ -39,7 +39,7 @@ aliases:
 (craps and roulette were cancelled)
 
 {{< tournament
-    image="https://irp-cdn.multiscreensite.com/7fa840da/dms3rep/multi/TESLA.jpg"
+    image="TESLA.jpg"
     event="TESLA"
     entries=27
     prize-pool="$1,539" >}}
@@ -54,7 +54,7 @@ aliases:
 | 6 | Scott &quot;Samarai&quot; Samarel        | $74                  |
  
 {{< tournament
-    image="https://irp-cdn.multiscreensite.com/7fa840da/dms3rep/multi/Dealers+Choice+Deron.jpg"
+    image="Dealers+Choice+Deron.jpg"
     event="Dealers Choice"
     entries=48
     prize-pool="$4,800" >}}
@@ -85,7 +85,7 @@ aliases:
 
 
 {{< tournament
-    image="https://irp-cdn.multiscreensite.com/7fa840da/dms3rep/multi/oklahoma+deitch.jpg"
+    image="oklahoma+deitch.jpg"
     event=Oklahoma
     entries=15
     prize-pool="$855" >}}
