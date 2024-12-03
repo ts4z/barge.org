@@ -12,3 +12,8 @@ We hope to see you there!
 
 Rich,
 on behalf of the Organizers
+
+-----
+
+Update: [Schedule of Events now available.](/embargo/schedule).
+
