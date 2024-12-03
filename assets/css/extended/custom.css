@@ -1,11 +1,11 @@
 
 @font-face {
-    font-family: "GoblinOne";
-    src: url(/fonts/GoblinOne-Regular.ttf) format("truetype");
+    font-family: "Gravitas";
+    src: url(/fonts/GravitasOne-Regular.ttf) format("truetype");
 }
 
 h1 {
-    font-family: GoblinOne, Georgia, serif;
+    font-family: Gravitas, Georgia, serif;
 }
 
 h2,
