@@ -11,13 +11,15 @@ World from January 16-19, 2025.  Registration will open later this month.
 **Remember that our room block is only available until December 15, so please
 book now if you want to take advantage of our group rate!**
 
-Thurs 6 pm	Stud/8
-Fri 11 am	Chowaha
-Fri 6 pm	SHESHE
-Sat 11 am	Chaos NLHE
-Sat 6 pm	SHORT
-Sun 11 am	Mystery Bounty PLO 6 Max
-Sun 6 pm	Triple Draw Quick Quads
+|            |                          |
+|------------|--------------------------|
+| Thurs 6 pm | Stud/8                   |
+| Fri 11 am  | Chowaha                  |
+| Fri 6 pm   | SHESHE                   |
+| Sat 11 am  | Chaos NLHE               |
+| Sat 6 pm   | SHORT                    |
+| Sun 11 am  | Mystery Bounty PLO 6 Max |
+| Sun 6 pm   | Triple Draw Quick Quads  |
 
 **SHESHE** is Simultaneous Hold'em and Super Hold'em.  Each player is dealt 5 cards and separates them into a regular Hold'em hand and a Super Hold'em hand (3 cards, play 0 1 or 2).  The pot is split between the best Hold'em and the best Super Hold'em hand.  This game will be played limit.
 
