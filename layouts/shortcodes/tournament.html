@@ -25,9 +25,13 @@ have presented events.  Note that there is a subtle difference between
 */ -}}
 
 {{- if .Get "image" -}}
-{{ $remote := resources.GetRemote .Params.image }}
+{{ $local := .Page.Resources.Get .Params.image }}
+{{ $inline := $local.Process "fill 300x300" }}
+<a style="float: left; padding: 10px;" href="{{- $local -}}"><img style="width: min(200px, 20vw); "; src="{{ $inline.RelPermalink -}}"></a>
+{{- else if .Get "remoteImage" -}}
+{{ $remote := resources.GetRemote .Params.remoteImage }}
 {{ $inline := $remote.Process "fill 300x300" }}
-<a style="float: left; padding: 10px;" href="{{- .Get "image" }}"><img style="width: min(200px, 20vw); "; src="{{ $inline.RelPermalink -}}"></a>
+<a style="float: left; padding: 10px;" href="{{- .Get "remoteImage" }}"><img style="width: min(200px, 20vw); "; src="{{ $inline.RelPermalink -}}"></a>
 {{- end -}}
 <h{{- if .Get "level" -}}{{- .Get "level" -}}{{- else -}}2{{- end }}
      id="{{- .Get "event" | strings.ToLower | replaceRE " +" "-" | replaceRE "[^a-z0-9-]+" "" | safeHTML -}}">
