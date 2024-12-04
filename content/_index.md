@@ -39,7 +39,7 @@ backgrounds or poker accomplishments.
 Why Join Us?
 -----
 
-{{< figure class="floatright40" src="mybarge-truck.jpg" >}}
+{{< figure class="floatright40" src="/mybarge-truck.jpg" >}}
 
 Because you enjoy playing poker and want to be part of a diverse community of
 fun-loving people. We all enjoy the game of poker. We claim several WSOP

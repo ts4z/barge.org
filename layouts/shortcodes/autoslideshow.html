@@ -1,7 +1,6 @@
 {{ $classID := hash.FNV32a .Params.resourcePattern }}
 
 {{- if not ($.Page.Store.Get "autoslideshowCount") -}}
-<link rel="stylesheet" href="/css/autoslideshow.css" />
 <script src="/autoslideshow.js"></script>
 {{- $.Page.Store.Add "autoslideshowCount" 1 }}
 {{- else -}}
@@ -10,15 +9,15 @@
 
 <div class="slideshow-container">
   {{ range resources.Match (.Get "resourcePattern") }}
-    <div class="slideshow-slide ss{{- $classID }} fade">
+    <div class="slideshow-slide ss{{- $classID }} ss-fade">
       {{ $img := .Process "fill 350x200" }}
       <img src="{{- $img.RelPermalink -}}">
     </div>
   {{ end }}
   
   <!-- Next and previous buttons -->
-  <a class="prev" onclick="stepSlide('ss{{- $classID -}}', -1)">&#10094;</a>
-  <a class="next" onclick="stepSlide('ss{{- $classID -}}', 1)">&#10095;</a>
+  <a style="box-shadow:none;" class="ss-ctrl ss-prev" onclick="stepSlide('ss{{- $classID -}}', -1)">&#10094;</a>
+  <a style="box-shadow:none;" class="ss-ctrl ss-next" onclick="stepSlide('ss{{- $classID -}}', 1)">&#10095;</a>
 
   <script> initSlides("ss{{- $classID -}}",
             {{- if .Params.time -}}
