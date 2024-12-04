@@ -4,7 +4,9 @@ draft: false
 ---
 
 {{< cta link="news/embargo-2025-hotel" >}}
-    EMBARGO 2025 &mdash; Reserve hotel now!
+    EMBARGO 2025 &mdash; Reserve a room at Resorts World now! <br>
+    Hotel block will be available only through December 15! <br>
+    (click me for details)
 {{< /cta >}}
 
 {{< barge-banner >}}
