@@ -20,8 +20,25 @@ live on the old server.
 How-To
 ------
 
-To set up, clone this repository, and also get a recent Go version installed.
-Install hugo.  Get the submodules (for the theme).
+### You probably want a GitHub account.
+
+You'll need a GitHub account to get write access to the repository.
+
+### You'll need a system with git and hugo installed.
+
+#### Mac
+
+If you're on a Mac, you can get git and hugo via homebrew.
+
+```
+brew install git hugo
+```
+
+#### Linux
+
+If you're on Debian Linux, you'll need hugo.  The Debian build of hugo is too
+old, so you'll need to get it and build it with Go.
+
 
 ```sh
 brew install hugo   # if on mac
@@ -29,11 +46,20 @@ go install gohugoio/hugo@latest   # if on debian
 git submodule update --init --recursive
 ```
 
+### Clone this repository
+
+On GitHub, just above and to the right of this text area, go to the Code
+dropdown and pick "ssh".
+
+### Test your edits
+
 To run a local server that shows edits:
 
 ```sh
 hugo serve -D --disableFastRender --renderToMemory
 ```
+
+### Deploying the site
 
 To produce a set of files suitable for copying to a web server:
 
@@ -41,18 +67,51 @@ To produce a set of files suitable for copying to a web server:
 hugo
 ```
 
+The files are in the `public` directory and are suitable for putting on a web
+server.
+
 To copy those files to a web server:
 
 ```sh
 ssh ssh.some.server.org rm -rf /path/to/destination/\*
-scp -v -r public/* ssh.some.server.org:/path/to/destination/
+rsync -r public/ ssh.some.server.org:/path/to/destination/
 ```
 
 (OK, that command is imperfect, but you get the idea.)
 
+File Format
+-----------
+
+Hugo supports a few file formats.  Let's stick to Markdown and HTML.
+
 All files are supposed to have front matter.  This is bracketed at the top with
-dashes, in YAML format.  Some files migrated from the old barge.org are lacking
-this.  Feel free to help clean them up.
+dashes, in YAML format.  This works best if it includes the document title,
+the document date (`YYYY-MM-DD` format), and maybe a summary field.
+
+If you write Markdown, it is naturally restricted to a reasonable subset.  You
+*cannot* include HTML in general, and Hugo will *omit* it ... but you can
+bracket a section like this:
+
+```
+    {{< rawhtml }}}
+    this<br>
+    supports<br>
+    any<br>
+    markup<br>
+    {{< /rawhtml }}}
+```
+
+If you write HTML, you are writing only the "body" portion of the document.
+Hugo will supply the head portion and will wrap your text in the standard page
+framework.  But this does allow using stylesheets, br tags, etc.
+
+
+How Hugo Works
+--------------
+
+Hugo manages CSS and the decoration on the outside of the page (navigation bar,
+tags cross-links, etc).  Without getting into the details, try to follow what
+other documents in that directory are doing.
 
 
 Guidelines
@@ -121,4 +180,5 @@ from older results.  I'd like to get rid of this.  (Sometimes we say "players",
 sometimes we say "entries", sometimes we say "entrants".  We should pick one.)
 
 The tournament shortcode allows multiple levels of h-headings, but some
-of the results don't use this.  Fix.
+of the results don't use this (relevant for ToGa).  Fix.
+
