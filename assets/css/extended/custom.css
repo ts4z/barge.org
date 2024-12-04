@@ -1,11 +1,6 @@
 
-@font-face {
-    font-family: "Gravitas";
-    src: url(/fonts/GravitasOne-Regular.ttf) format("truetype");
-}
-
 h1 {
-    font-family: Gravitas, Georgia, serif;
+    font-family: Georgia, serif;
 }
 
 h2,
@@ -22,7 +17,7 @@ body {
 }
 
 .logo {
-    font-family: Impact, Georgia;
+    font-family: Georgia;
 }
 
 .cta-wrapper {
