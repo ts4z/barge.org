@@ -11,6 +11,9 @@ draft: false
 
 {{< barge-banner >}}
 
+{{< autoslideshow resourcePattern="images/home/left/*" >}}
+{{< autoslideshow resourcePattern="images/home/right/*" delay=2000 >}}
+
 BARGE is the most fun you can have while playing poker...
 ===============
 
@@ -35,10 +38,10 @@ backgrounds or poker accomplishments.
 
 BARGE Inc. is a 501(c)7 corporation registered in the State of Nevada.
 
-{{< figure src="https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/20200203_122511-424w.jpg" >}}
-
 Why Join Us?
 -----
+
+{{< figure class="floatright40" src="mybarge-truck.jpg" >}}
 
 Because you enjoy playing poker and want to be part of a diverse community of
 fun-loving people. We all enjoy the game of poker. We claim several WSOP
@@ -49,10 +52,7 @@ enhanced their poker skills via BARGE. But the most important reason to join
 is: it's the most fun you will ever have playing poker! BARGE is what poker
 should be!
 
-Here's a video montage from ATLARGE 2019 (courtesy of Dilligaf)!  Enjoy!
-----
 
-{{< youtube id="ZP7sEpPKBgA" >}}
 
 Other Ways to Play and Keep in Touch 
 ------------------------------------

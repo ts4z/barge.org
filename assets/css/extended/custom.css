@@ -30,3 +30,8 @@ body {
     font-size: large;
     text-align: center;
 }
+
+.floatright40 {
+    float: right;
+    width: 40%
+}
