@@ -113,6 +113,13 @@ Hugo manages CSS and the decoration on the outside of the page (navigation bar,
 tags cross-links, etc).  Without getting into the details, try to follow what
 other documents in that directory are doing.
 
+Files that are called "_index.md" mean that the page is a literal index of the
+other things that are in that directory. This is good for a blog or for the
+in-memoriam page.
+
+Files that are called "index.md" do not show the pages under that subdirectory.
+
+(These files can also be _index.html and index.html.)
 
 Guidelines
 ----------
