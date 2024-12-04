@@ -30,16 +30,17 @@ params:
     # - "x"
   ShowBreadcrumbs: true
   ShowPostNavLinks: true
-  editPost:
-    URL: "https://github.com/ts4z/barge.org/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/ts4z/barge.org/tree/main/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
   label:
     icon: /barge_logo_undated-1024x694-1920w.png
   footer:
     text: >-
       There&nbsp;are no strangers here,
-      just friends you haven't met yet &mdash;Peter&nbsp;Secor
+      just friends you haven't met yet &mdash;Peter&nbsp;Secor ·
+      BARGE Inc. is a 501(c)7 corporation registered in the State of Nevada.
     hideCopyright: true
   disableSpecial1stPost: true
 menu:

@@ -36,8 +36,6 @@ find that many of our members have backgrounds in technology, science and the
 law, we welcome and encourage people to join regardless of their professional
 backgrounds or poker accomplishments.
 
-BARGE Inc. is a 501(c)7 corporation registered in the State of Nevada.
-
 Why Join Us?
 -----
 
