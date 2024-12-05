@@ -1,3 +1,8 @@
+{{- /* Automatic slideshow carousel bit.
+
+If you use this, you must also arrange to have the autoslideshow-js shortcode
+invoked on the same page once.  */ -}}
+
 {{ $classID := hash.FNV32a .Params.resourcePattern }}
 
 {{- if not ($.Page.Store.Get "autoslideshowCount") -}}

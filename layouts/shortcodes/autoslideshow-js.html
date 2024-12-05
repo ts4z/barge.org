@@ -1,0 +1,12 @@
+{{- /* If a page uses autoslideshow, it should also do this ONCE on the
+page. Doing this will cause the slideshow to start up; if you don't do this,
+all slides will remain hidden.
+
+Perhaps you think that hugo should have a facility for doing thsi
+automatically.  Perhaps it does.  And it almost works, except in debug mode,
+where it only works once (because the Page structure carries over across
+regenerations, that's why).  Better to just do it by hand and write a long
+snarky comment about it, then try to remember why I put the hack in later.
+--ts4z */ -}}
+
+<script src="/autoslideshow.js"></script>

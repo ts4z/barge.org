@@ -13,6 +13,7 @@ draft: false
 
 {{< autoslideshow resourcePattern="images/home/left/*" >}}
 {{< autoslideshow resourcePattern="images/home/right/*" delay=2000 >}}
+{{< autoslideshow-js >}}
 
 BARGE is the most fun you can have while playing poker...
 ===============
