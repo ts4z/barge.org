@@ -11,14 +11,11 @@ Quick Links for EMBARGO: [Schedule](/schedule1) &mdash; [Results](results/) &mda
 
 __________
 
+{{< figure src=EMBARGO+2020+Attendee+Photo-1920w.jpg
+    caption="EMBARGO 2020 Group Photo" >}}
 
-![EMBARGO 2020 Group Photo](https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/EMBARGO+2020+Attendee+Photo-1920w.jpg)
-
-**EMBARGO 2020 Group Photo**
-
-![EMBARGO 2016 Group Photo](https://irp-cdn.multiscreensite.com/7fa840da/dms3rep/multi/EMBARGO-202016-20Group-20Photo-800x533.jpg)
-
-**EMBARGO 2016 Group Photo**
+{{< figure src=EMBARGO-202016-20Group-20Photo-800x533.jpg
+    caption="EMBARGO 2016 Group Photo" >}}
 
 ## EMBARGO Details
 
@@ -67,13 +64,7 @@ When held live, all EMBARGO events are non-smoking.
 
 ### So Who Are the &quot;Organizers&quot; Anyway?
 
-EMBARGO 2024 is being organized by
-[Russ Fox](russ@barge.org),
-[Rich Bremer](omaholic@barge.org),
-[Jeff Deitch](blofeld@barge.org),
-[Stevan Goldman](goldie@barge.org),
-and
-[Sharon Goldman](sharon@barge.org),
+EMBARGO 2024 is being organized by {{% organizers %}},
 with more than occasional advice and emergency help from Chuck Weinstock and
 Peter Secor, BARGE Organizers Emeritus. We also wish to give a &quot;shout
 out&quot; to BARGE elder statesman and former organizer, Mike Zimmers.
