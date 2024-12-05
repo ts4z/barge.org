@@ -19,11 +19,31 @@ How-To
 
 ### You probably want a GitHub account.
 
-You'll need a GitHub account to get write access to the repository.
+You'll need a GitHub account to get write access to the repository or make pull
+requests.  If you aren't currently working in software, this process will seem
+cumbersome.  If you are working in software, this process will seem cumbersome,
+like a familiar, comfortable straitjacket.
 
-### You'll need a system with git and hugo installed.
+### And that's enough to get you to edit Markdown.
 
-#### Mac
+If you aren't working on the templating bits or the deployment bits, and you
+are just writing articles in Markdown, you might be able to get by with just
+making changes on GitHub and redeploying.  Editing Markdown is reasonably safe.
+
+If this is you, _and_ you are just adding/editing files under content/...,
+yeah, you probably don't need to do setup or testing.
+
+(Nobody is in this category yet because we have not yet made it so the site
+auto-deploys.  Soon, though.)
+
+### Installation, Testing, and Deploying
+
+#### You'll need a system with git and hugo installed.
+
+https://gohugo.io/installation/linux/ might help.  We aren't using any of the
+fancypants deployment features so the "extended" edition is fine.
+
+##### Mac
 
 If you're on a Mac, you can get git and hugo via homebrew.
 
@@ -31,24 +51,23 @@ If you're on a Mac, you can get git and hugo via homebrew.
 brew install git hugo
 ```
 
-#### Linux
+##### Linux
 
 If you're on Debian Linux, you'll need hugo.  The Debian build of hugo is too
-old, so you'll need to get it and build it with Go.
-
+old, so you'll need to get it and build it with Go.  Of course this means
+getting Go, too.
 
 ```sh
-brew install hugo   # if on mac
 go install gohugoio/hugo@latest   # if on debian
 git submodule update --init --recursive
 ```
 
-### Clone this repository
+#### Clone this repository
 
 On GitHub, just above and to the right of this text area, go to the Code
 dropdown and pick "ssh".
 
-### Test your edits
+#### Test your edits
 
 To run a local server that shows edits:
 
@@ -56,7 +75,7 @@ To run a local server that shows edits:
 hugo serve -D --disableFastRender --renderToMemory
 ```
 
-### Deploying the site
+#### Deploying the site
 
 To produce a set of files suitable for copying to a web server:
 
@@ -75,6 +94,13 @@ rsync -r public/ ssh.some.server.org:/path/to/destination/
 ```
 
 (OK, that command is imperfect, but you get the idea.)
+
+Hugo is a static site generator.  Its output is fully static content.
+We do expect links to be relative to the current site, so it does need to be in the
+domain it's aware of, and at the correct level of the hierarchy.
+
+But no databases, user management, cookies.  Just web pages.  Like it's 1994
+again.  But with @#&#^*! CSS.
 
 File Format
 -----------
@@ -100,7 +126,7 @@ bracket a section like this:
 
 If you write HTML, you are writing only the "body" portion of the document.
 Hugo will supply the head portion and will wrap your text in the standard page
-framework.  But this does allow using stylesheets, br tags, etc.
+framework.  This allows using stylesheets, br tags, etc.
 
 
 How Hugo Works
@@ -112,11 +138,20 @@ other documents in that directory are doing.
 
 Files that are called "_index.md" mean that the page is a literal index of the
 other things that are in that directory. This is good for a blog or for the
-in-memoriam page.
+in-memoriam page.  In general, other pages in that directory will be enumerated
+at the bottom of the index page.
 
-Files that are called "index.md" do not show the pages under that subdirectory.
+Files that are called "index.md" do not show the pages under that subdirectory,
+but let you put multiple components in that directory.  I believe this is a "page bundle".
 
-(These files can also be _index.html and index.html.)
+Files that are not indexes are just flat files.  These can't have more
+components.
+
+(These files can also be `_index.html` and `index.html` and behave the same
+way.)
+
+It is OK to reorganize the site, but please provide aliases so the old links
+continue to work.
 
 Guidelines
 ----------
