@@ -8,9 +8,6 @@ A scrape of barge.org, taken on 23-nov-2024, is in the OLD directory.
 
 TODOs
 -----
-
-Forms are broken.
-
 Image galleries are missing.  Images currently live on the CDN.  These need to
 be brought over.
 

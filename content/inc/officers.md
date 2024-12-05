@@ -13,8 +13,3 @@ aliases:
 |Rebecca Kerl                            | term ends 2026 |
 |[Ken Kubey](mailto:kenkubey@gmail.com)  | term ends 2026 |
 |[Christian Jones](ohm@swiftkickinc.com) | term ends 2026 |
-
-Contact the Board of Directors
-------------------------------
-
-TODO: This needs to be fixed.
