@@ -11,7 +11,7 @@
   {{ range resources.Match (.Get "resourcePattern") }}
     <div class="slideshow-slide ss{{- $classID }} ss-fade">
       {{ $img := .Process "fill 350x200" }}
-      <img src="{{- $img.RelPermalink -}}">
+      <img loading="lazy" src="{{- $img.RelPermalink -}}">
     </div>
   {{ end }}
   
