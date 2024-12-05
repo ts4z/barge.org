@@ -5,6 +5,10 @@ title: BARGE 2019 Results
 draft: false
 aliases:
  - /barge-2019
+tags:
+ - barge
+ - 2019
+ - results
 ---
 
 {{< tournament

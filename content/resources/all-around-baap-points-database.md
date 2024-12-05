@@ -5,6 +5,7 @@ aliases: /all-around-baap-points-database
 draft: false
 tags:
  - crunchypoints
+ - baap
 authors:
  - Steve "Crunch" Daniel
  - Rich Bremer
