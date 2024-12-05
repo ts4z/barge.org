@@ -4,6 +4,7 @@
 
 let slideDecks = {};
 let slideClassToIndex = {};
+let lastUpdate = {};
 
 /* Class the members of each slideshow group with different CSS classes */
 
@@ -29,8 +30,8 @@ function setSlideIndex(clazz, i) {
   return slideClassToIndex[clazz];
 }
 
-
 function stepSlide(k, step) {
+  lastUpdate[k] = Date.now();
   let was = getSlideIndex(k);
   let is = setSlideIndex(k, was + step);
   let slides = document.getElementsByClassName(k);
@@ -39,8 +40,9 @@ function stepSlide(k, step) {
 }
 
 function autoRotate(k, interval) {
-  stepSlide(k, 1);
-  setTimeout(() => autoRotate(k, interval), interval);
+  if (Date.now() - lastUpdate[k] > (0.9 * interval)) {
+    stepSlide(k, 1);
+  }
 }
 
 function initSlides(k, interval, delay) {
@@ -48,6 +50,6 @@ function initSlides(k, interval, delay) {
   let start = Math.floor(Math.random() * slides.length);
   stepSlide(k, start);
   setTimeout(() =>
-    setTimeout(() => autoRotate(k, interval), interval),
+    setInterval(() => autoRotate(k, interval), interval),
     delay);
 }
