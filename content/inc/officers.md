@@ -4,6 +4,8 @@ draft: false
 aliases: 
  - /officers
  - /officers/
+tags:
+ - inc
 ---
 
 |                Officer                 |     Term       |

@@ -1,5 +1,5 @@
 ---
-title: Rulebook
+title: BARGE Rulebook
 draft: false
 ---
 

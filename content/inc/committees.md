@@ -2,7 +2,9 @@
 title: BARGE Committees
 draft: false
 aliases:
-- /committees
+ - /committees
+tags:
+ - inc
 ---
 
 BARGE has a few committees to help the events happen.
