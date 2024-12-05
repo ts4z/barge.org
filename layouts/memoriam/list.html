@@ -1,6 +1,5 @@
 {{ define "main" }}
-  <!-- list.html -->
-  <style>
+<style>
 .memoriam-gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
@@ -29,11 +28,11 @@
   <p>{{ .Content }}</p>
 
   <hr>
-  
+
   <div class="memoriam-gallery">
     {{ range .Pages }}
-    {{ $remote := resources.GetRemote .Params.image }}
-    {{ $image := $remote.Process "fill 160x180" }}
+    {{ $resource := resources.Get (print "images/memoriam/" .Params.image) }}
+    {{ $image := $resource.Process "fill 160x180" }}
     <div class="memoriam-card">
       <a href="{{ .RelPermalink }}">
         <figure>
