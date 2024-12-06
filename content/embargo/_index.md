@@ -7,7 +7,9 @@ aliases: /embargo-info
 weight: -5
 ---
 
-Quick Links for EMBARGO: [Schedule](/schedule1) &mdash; [Results](results/) &mdash; [Next Event Registration](/register)
+Quick Links for EMBARGO: [Schedule](/schedule1) &mdash; [Results](results/) 
+&mdash; [Next Event Registration](https://barge.regfox.com/embargo-2025) &mdash;
+[View Registrations](https://secure.barge.org/embargo2025review.php)
 
 __________
 
@@ -29,14 +31,18 @@ schedule, hotel details, and registration information will follow soon.
 This is the fourteenth) edition of our
 off-season complement to our long-running BARGE event.
 
-2025 information is not yet available.
+#### 2025 information
+
+* [Register now!]({{}})
+* [View Schedule]({{< relref schedule >}})
+* [View Registrations](https://secure.barge.org/embargo2025review.php)
 
 #### 2024 information
 
 * [View Schedule]({{< relref schedule >}})
 * [View Structures](https://irp.cdn-website.com/7fa840da/files/uploaded/2024+2+EMBARGO+Structures.pdf)
 * [View Results](results/2024)
-                                        
+
 ### Who is Eligible to Register for EMBARGO?
 
 Registrations are available to anyone who wishes to join our community.

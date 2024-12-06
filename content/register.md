@@ -1,6 +1,6 @@
 ---
-title: Register for BARGE/EMBARGO
-date: 2024-11-25
+title: Register for EMBARGO
+date: 2025-12-06
 weight: 99
 draft: false
 aliases:
@@ -13,7 +13,8 @@ aliases:
   
 ---
 
-Registration for EMBARGO 2025 is not yet open.
+Registration for EMBARGO 2025 is now open!
 
-Dates have not yet been announced for BARGE 2025, so you can't register for that, either.
+[Register for EMBARGO 2025 here!](https://barge.regfox.com/embargo-2025)
 
+* [View Registrations](https://secure.barge.org/embargo2025review.php)

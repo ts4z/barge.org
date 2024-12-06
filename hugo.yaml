@@ -52,8 +52,7 @@ menu:
       url: "/search"
       weight: 1000
     - name: Register Now!
-      # url: "https://barge.regfox.com/embargo-2024"
-      url: /register
+      url: https://barge.regfox.com/embargo-2025
       weight: 999
 outputs:
   home:
