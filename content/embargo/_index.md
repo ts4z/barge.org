@@ -33,7 +33,7 @@ off-season complement to our long-running BARGE event.
 
 #### 2025 information
 
-* [Register now!]({{}})
+* [Register now!](https://barge.regfox.com/embargo-2025)
 * [View Schedule]({{< relref schedule >}})
 * [View Registrations](https://secure.barge.org/embargo2025review.php)
 

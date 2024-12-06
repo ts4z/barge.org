@@ -3,6 +3,10 @@ title: BARGE.org
 draft: false
 ---
 
+{{< cta link="https://barge.regfox.com/embargo-2025" >}}
+    EMBARGO 2025 &mdash; registration is now open!
+{{< /cta >}}
+
 {{< cta link="news/embargo-2025-hotel" >}}
     EMBARGO 2025 &mdash; Reserve a room at Resorts World now! <br>
     Hotel block will be available only through December 15! <br>
