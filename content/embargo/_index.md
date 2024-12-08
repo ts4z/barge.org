@@ -40,7 +40,7 @@ off-season complement to our long-running BARGE event.
 #### 2024 information
 
 * [View Schedule]({{< relref schedule >}})
-* [View Structures](https://irp.cdn-website.com/7fa840da/files/uploaded/2024+2+EMBARGO+Structures.pdf)
+* [View Structures](2024+2+EMBARGO+Structures.pdf)
 * [View Results](results/2024)
 
 ### Who is Eligible to Register for EMBARGO?
