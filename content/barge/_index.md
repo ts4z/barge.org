@@ -6,10 +6,9 @@ weight: -10
 
 Quick Links for BARGE: [Schedule](2024-schedule) &mdash; [Results](results/) &mdash; [Next Event Registration](/register)
 
-             
-![group picture](https://lirp.cdn-website.com/7fa840da/dms3rep/multi/opt/BARGE%202013-815x302-1920w.jpg)
 
-____
+{{< figure src=BARGE-2013-815x302-1920w.jpg
+    caption="BARGE 2013 Group Picture" >}}
 
               
 BARGE is the
