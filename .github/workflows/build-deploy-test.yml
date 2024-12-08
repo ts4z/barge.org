@@ -1,4 +1,4 @@
-name: Build and Deploy HTML to Production
+name: Build and Deploy HTML to Test
 
 on:
   push:
@@ -8,10 +8,9 @@ on:
   workflow_dispatch:
     branches: [ "main" ]
 
-jobs:
   build-and-deploy-to-barge-dot-org:
     runs-on: ubuntu-latest
-    environment: barge.org
+    environment: test.bjrge.org
     permissions:
       contents: write
     concurrency:
@@ -24,15 +23,14 @@ jobs:
         with:
           hugo-version: 0.139.2
       - name: build site with hugo
-        run: hugo
-      - name: rsync 'public' to production host
-        if: ${{ github.ref == 'refs/heads/main' }}
+        run: hugo --environment staging
+      # Note: Deploy _all_ changes, last one wins I guess?
+      - name: rsync 'public' to test host
         uses: burnett01/rsync-deployments@7.0.1
         with:
           path: public
           remote_host: ${{ secrets.HOST }}
           remote_key: ${{ secrets.SSH_KEY }}
-          remote_path: /var/www/newbarge/
-          remote_port: ${{ secrets.PORT }}
-          remote_user: ${{ secrets.USERNAME }}
+          remote_path: /home/timshow/test.bjrge.org
+          remote_user: ${{ secrets.USER }}
           switches: -avzr --delete --exclude=".??*,*~"
