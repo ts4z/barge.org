@@ -29,7 +29,7 @@ jobs:
       - name: rsync 'public' to test host
         uses: burnett01/rsync-deployments@7.0.1
         with:
-          path: public
+          path: public/
           remote_host: ${{ secrets.HOST }}
           remote_key: ${{ secrets.SSH_KEY }}
           remote_path: /home/timshow/test.bjrge.org
