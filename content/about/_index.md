@@ -7,8 +7,12 @@ This site is the online home for BARGE and EMBARGO, and a pointer to several
 other similar events.
 
 [BARGE](/barge) is the Big [August](/blog/what-does-the-a-stand-for)
-Rec.Gambling Excursion, which has been occurring annually since 1991.
-[EMBARGO](/embargo) is a companion event occurring in the winter since 2011.
+Rec.Gambling Excursion, a group of gambling enthusiasts that spun off of the
+rec.gambling newsgroup, which has been occurring annually since 1991.
+
+[EMBARGO](/embargo), the Extraordinary Mid-winter Big Annual Rec.Gambling
+Outing, is a smaller companion event occurring in the winter since 2011.
+
 Several [other events](/other-events) exist, hosted in other places in the
 U.S., but they have different web sites.
 
