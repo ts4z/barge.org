@@ -25,7 +25,7 @@ jobs:
           hugo-version: 0.139.2
       - name: build site with hugo
         run: hugo --environment staging
-      - name list public
+      - name: list public directory
         run: find public -type f
       # Note: Deploy _all_ changes, last one wins I guess?
       - name: rsync 'public' to test host
