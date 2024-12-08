@@ -19,6 +19,9 @@ jobs:
     steps:
       - name: checkout source
         uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
       - name: Hugo setup
         uses: peaceiris/actions-hugo@v3.0.0
         with:
@@ -36,4 +39,4 @@ jobs:
           remote_key: ${{ secrets.SSH_KEY }}
           remote_path: /home/timshow/test.bjrge.org
           remote_user: ${{ secrets.USER }}
-          switches: -avzr --delete
+          switches: -vzr --delete
