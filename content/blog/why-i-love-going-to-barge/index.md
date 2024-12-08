@@ -11,7 +11,7 @@ tags:
 
 ## A newbie's first impression of BARGE...
 
-![](https://lirp.cdn-website.com/7fa840da/import/base/dms3rep/multi/opt/banner-1920w.jpg)
+![](banner-1920w.jpg)
 
 Originally published at [http://www.pokertelegraph.com/blog/2014/07/17/love-going-barge/](https://web.archive.org/web/20140728081408/pokertelegraph.com/blog/2014/07/17/love-going-barge/)
  

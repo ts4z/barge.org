@@ -19,4 +19,4 @@ both the % paid and the extra beyond the percent.
 
 The spreadsheet can be downloaded by clicking on the link.
 
-[Download BAAP Points Calculator](https://irp-cdn.multiscreensite.com/7fa840da/files/uploaded/BAAP%20Points%20Table.xlsx)
+[Download BAAP Points Calculator](BAAP%20Points%20Table.xlsx)
