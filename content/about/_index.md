@@ -1,6 +1,7 @@
 ---
 title: About
 draft: false
+hidden: true
 ---
 
 This site is the online home for BARGE and EMBARGO, and a pointer to several
