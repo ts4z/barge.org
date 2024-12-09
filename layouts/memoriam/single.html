@@ -49,7 +49,8 @@
   <div>BARGE Main Event Winner {{ .Params.mainEventChamp }}</div>
   {{- end }}
 
-  <img src="{{ .Params.image }}" alt="{{ .Title }}" class="friend-image"/>
+  <img src="{{ (resources.Get (print "images/memoriam/" .Params.image)).RelPermalink }}"
+       alt="{{ .Title }}" class="friend-image"/>
 
   {{- if .Content }}
   <div class="post-content">
