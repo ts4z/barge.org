@@ -1,5 +1,5 @@
 # TODO hack for experimental site
-baseURL: https://barge.org/
+baseURL: https://mirror.barge.org/
 languageCode: en-us
 title: BARGE.org
 theme: ["PaperMod"]
