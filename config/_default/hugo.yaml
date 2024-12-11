@@ -4,6 +4,7 @@ languageCode: en-us
 title: BARGE.org
 theme: ["PaperMod"]
 sectionPagesMenu: main
+enableRobotsTXT: true
 params:
   env: production
   description: >-
@@ -17,6 +18,13 @@ params:
     - embargo/results
     - blog
     - news
+  ctas:
+    - link: https://barge.regfox.com/embargo-2025
+      text: EMBARGO 2025 registration is now open!
+    - link: https://barge.regfox.com/embargo-2025
+      text: >-
+        Reserve a room at Resorts World now! <br>
+        EMBARGO 2025 hotel block will be available only through December 15!
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
