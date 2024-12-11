@@ -70,7 +70,7 @@ When held live, all EMBARGO events are non-smoking.
 
 ### So Who Are the &quot;Organizers&quot; Anyway?
 
-EMBARGO 2024 is being organized by {{% organizers %}},
+EMBARGO 2024 is being organized by {{% organizers %}}
 with more than occasional advice and emergency help from Chuck Weinstock and
 Peter Secor, BARGE Organizers Emeritus. We also wish to give a &quot;shout
 out&quot; to BARGE elder statesman and former organizer, Mike Zimmers.
