@@ -1,4 +1,8 @@
 {{- /*
+
+Most of this is lifted from the PaperMod version of this file.
+Some of the rest is lifted from single.html.
+
 MIT License
 
 Copyright (c) 2020 nanxiaobei and adityatelange
@@ -118,8 +122,9 @@ SOFTWARE.
 </article>
 {{- end }}
 
-{{- if gt $paginator.TotalPages 1 }}
-<footer class="page-footer">
+<footer>
+  <span class="page-footer">
+  {{- if gt $paginator.TotalPages 1 }}
   <nav class="pagination">
     {{- if $paginator.HasPrev }}
     <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
@@ -137,9 +142,26 @@ SOFTWARE.
       {{- end }}&nbsp;»
     </a>
     {{- end }}
+
   </nav>
+  {{- end }}
+  </span>
+ 
+  <span class="post-footer">
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    <ul class="post-tags">
+      {{- range ($.GetTerms $tags) }}
+      <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+    {{- partial "share_icons.html" . -}}
+    {{- end }}
+  </span>
 </footer>
-{{- end }}
 
 {{- end }}{{/* end profileMode */}}
 
