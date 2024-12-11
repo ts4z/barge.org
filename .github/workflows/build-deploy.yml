@@ -27,7 +27,7 @@ jobs:
         with:
           hugo-version: 0.139.2
       - name: build site with hugo
-        run: hugo --environment staging
+        run: hugo --environment production
       - name: rsync 'public' to production host
         if: ${{ github.ref == 'refs/heads/main' }}
         uses: burnett01/rsync-deployments@7.0.1
