@@ -24,7 +24,7 @@ params:
   showShareButtons: true
   ShareButtons:
     - "facebook"
-    - "linkedin"
+    # - "linkedin"
     - "reddit"
     - "whatsapp"
     # - "x"
