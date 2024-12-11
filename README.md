@@ -6,14 +6,6 @@ I've chosen Hugo, with the PaperMod theme.
 
 A scrape of barge.org, taken on 23-nov-2024, is in the OLD directory.
 
-TODOs
------
-Image galleries are missing.  Images currently live on the CDN.  These need to
-be brought over.
-
-A lot of files that could be statically hosted (images and rulebooks) still
-live on the old server.
-
 How-To
 ------
 
@@ -30,11 +22,8 @@ If you aren't working on the templating bits or the deployment bits, and you
 are just writing articles in Markdown, you might be able to get by with just
 making changes on GitHub and redeploying.  Editing Markdown is reasonably safe.
 
-If this is you, _and_ you are just adding/editing files under content/...,
+If you are just adding/editing files under content/...,
 yeah, you probably don't need to do setup or testing.
-
-(Nobody is in this category yet because we have not yet made it so the site
-auto-deploys.  Soon, though.)
 
 ### Installation, Testing, and Deploying
 
@@ -77,20 +66,24 @@ hugo serve -D --disableFastRender --renderToMemory
 
 #### Deploying the site
 
+This is now automatic.
+
+##### But I really want to do it by hand
+
 To produce a set of files suitable for copying to a web server:
 
 ```sh
 hugo
 ```
 
-The files are in the `public` directory and are suitable for putting on a web
+The files are in the `public` directory and are suitable for copying to a web
 server.
 
 To copy those files to a web server:
 
 ```sh
 ssh ssh.some.server.org rm -rf /path/to/destination/\*
-rsync -r public/ ssh.some.server.org:/path/to/destination/
+rsync -avzr public/ ssh.some.server.org:/path/to/destination/
 ```
 
 (OK, that command is imperfect, but you get the idea.)
@@ -213,6 +206,8 @@ Some editors will see things as tables that Hugo won't.
 
 To Do
 -----
+
+Improve README.md further.
 
 The "tournament" shortcode has a lot of flexibility to allow for transition
 from older results.  I'd like to get rid of this.  (Sometimes we say "players",
