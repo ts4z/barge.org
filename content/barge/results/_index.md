@@ -7,6 +7,7 @@ date: 2024-08-01
 summary: BARGE results by year.
 type: title-gallery
 tags:
+ - barge
  - results
 ---
 
