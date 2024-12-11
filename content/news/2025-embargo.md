@@ -9,6 +9,4 @@ tags:
 
 [EMBARGO 2025 Registration is open!](https://barge.regfox.com/embargo-2025)
 
-[Schedule of Events now available.](/embargo/schedule).
-
-
+[Schedule of Events now available.](/embargo/schedule)
