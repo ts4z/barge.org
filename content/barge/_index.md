@@ -2,8 +2,9 @@
 title: BARGE
 draft: false
 weight: -10
+tags:
+ - barge
 ---
-
 Quick Links for BARGE: [Schedule](2024-schedule) &mdash; [Results](results/) &mdash; [Next Event Registration](/register)
 
 
