@@ -5,6 +5,7 @@ aliases:
  - /committees
 tags:
  - inc
+summary: BARGE has a few committees to help the events happen.
 ---
 
 BARGE has a few committees to help the events happen.
