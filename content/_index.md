@@ -1,14 +1,9 @@
 ---
 title: BARGE.org
 draft: false
+cover:
+  image: /barge_logo_undated-1024x694-1920w.png
 ---
-{{< cta link="https://barge.regfox.com/embargo-2025" >}}
-    EMBARGO 2025 registration is now open!
-{{< /cta >}} {{< cta link="news/embargo-2025-hotel" >}}
-    Reserve a room at Resorts World now! <br>
-    EMBARGO 2025 hotel block will be available only through December 15!
-{{< /cta >}}
-
 {{< barge-banner >}}
 
 {{< autoslideshow resourcePattern="images/home/left/*" >}}
