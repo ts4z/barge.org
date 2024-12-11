@@ -81,7 +81,7 @@ All BARGE events are non-smoking.
 
 ### So Who Are the &quot;Organizers&quot; Anyway?
 
-BARGE is organized by {{% organizers %}},
+BARGE is organized by {{% organizers %}}
 with more than occasional advice and emergency help from 
 Chuck Weinstock and Peter Secor, BARGE organizers emeritus.  We also wish to
 give a &quot;shout out&quot; to BARGE elder statesman and former organizer,
