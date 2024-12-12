@@ -1,7 +1,6 @@
 ---
 title: Mailing Lists
 draft: false
-weight: 100
 aliases:
  - /mailing-lists
 tags:
