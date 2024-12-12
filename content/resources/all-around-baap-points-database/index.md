@@ -21,6 +21,7 @@ points/cashes/money won, which can be filtered by year and/or game type. You
 can also generate reports of total finishes for any paying place (i.e., 1st,
 8th, 17th, etc.) (also filterable by year and/or game type).
 
-You can [download the database here](All_ARGE_All_Years_BAAP_Results_through_BARGE_2024.xlsm)
-or you can just click on the link below. The current database is
-updated through BARGE 2024 and will be periodically updated.  Enjoy!
+You can [download the database
+here](All_ARGE_All_Years_BAAP_Results_through_BARGE_2024.xlsm). The current
+database is updated through BARGE 2024 and will be periodically updated.
+Enjoy!
