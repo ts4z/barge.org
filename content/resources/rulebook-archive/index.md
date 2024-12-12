@@ -1,5 +1,5 @@
 ---
-title: BARGE Rulebook
+title: BARGE Rulebook Archive
 draft: false
 ---
 
