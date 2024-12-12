@@ -4,9 +4,10 @@ draft: false
 tags:
  - history
 type: directory
+summary: BARGE 2025 will be our 35th event...
 ---
  
-BARGE 2025 will be our 35th event, <!--more--> so lots of things have happened,
+BARGE 2025 will be our 35th event, so lots of things have happened,
 chronicled haphazardly over this site.
 
 We've split this page into a [year-by-year](by-year) page as well as a few
