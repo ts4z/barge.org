@@ -1,5 +1,5 @@
 ---
-title: BARGE Rulebook (as web page)
+title: BARGE Rulebook
 href: /rulebook/
 draft: false
 ---
