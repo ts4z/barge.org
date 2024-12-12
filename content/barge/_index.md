@@ -5,7 +5,7 @@ weight: -10
 tags:
  - barge
 ---
-Quick Links for BARGE: [Schedule](2024-schedule) &mdash; [Results](results/) &mdash; [Next Event Registration](/register)
+Quick Links for BARGE: [Schedule](2024-schedule) &mdash; [Results](results/)
 
 
 {{< figure src=BARGE-2013-815x302-1920w.jpg
@@ -81,11 +81,10 @@ All BARGE events are non-smoking.
 
 ### So Who Are the &quot;Organizers&quot; Anyway?
 
-BARGE is organized by {{% organizers %}}
-with more than occasional advice and emergency help from 
-Chuck Weinstock and Peter Secor, BARGE organizers emeritus.  We also wish to
-give a &quot;shout out&quot; to BARGE elder statesman and former organizer,
-Mike Zimmers.
+BARGE is organized by {{% organizers %}} with more than occasional advice and
+emergency help from Chuck Weinstock and Peter Secor, BARGE organizers emeritus.
+We also wish to give a &quot;shout out&quot; to BARGE elder statesman and
+former organizer, Mike Zimmers.
 
 ### I have a question, complaint, or gripe? Who should I contact?
 
