@@ -5,6 +5,8 @@ author: Roy Cooke
 draft: false
 aliases:
  - /understanding-equity-and-ev
+tags:
+- cooke
 ---
 
 Many people don&rsquo;t know the exact difference between equity and EV. In

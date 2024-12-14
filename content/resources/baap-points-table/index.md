@@ -5,6 +5,7 @@ aliases:
  - /baap-points-table
 tags:
  - crunchypoints
+ - baap
 ---
 
 Per Stephen &quot;Crunch&quot; Daniel, the creator of the BAAP (BARGE All-Around Player) calculation, otherwise known as &quot;Crunchy&quot; points:

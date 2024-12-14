@@ -6,6 +6,8 @@ date: 2016-08-16T03:08:02
 aliases:
 - /equity-and-implied-odds
 - /blog/equity-and-implied-odds
+tags:
+- cooke
 ---
 
 Many players calculate the equity of their hand at the current moment, compare
