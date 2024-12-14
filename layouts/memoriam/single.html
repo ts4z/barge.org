@@ -34,13 +34,13 @@
   <div>{{ .Params.special }}</div>
   {{ end }}
   <div>
-  {{- if and .Params.born .Params.died }}
-  {{- .Params.born }}&mdash;{{- .Params.died }}
-  {{- else if .Params.died }}
-  {{- .Params.died }}
-  {{- else }}
-  {{- .Params.date | time.Format "2006" }}
-  {{- end }}
+  {{- if and .Params.born .Params.died -}}
+    {{- .Params.born }}&mdash;{{- .Params.died -}}
+  {{- else if .Params.died -}}
+    {{- .Params.died -}}
+  {{- else -}}
+    {{- .Params.date | time.Format "2006" -}}
+  {{- end -}}
   </div>
   {{- if .Params.location }}
   <div>{{ .Params.location }}</div>
@@ -49,7 +49,7 @@
   <div>BARGE Main Event Winner {{ .Params.mainEventChamp }}</div>
   {{- end }}
 
-  <img src="{{ (resources.Get (print "images/memoriam/" .Params.image)).RelPermalink }}"
+  <img src="{{ (.Resources.Get .Params.image).RelPermalink }}"
        alt="{{ .Title }}" class="friend-image"/>
 
   {{- if .Content }}

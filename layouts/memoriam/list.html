@@ -31,7 +31,7 @@
 
   <div class="memoriam-gallery">
     {{ range .Pages }}
-    {{ $resource := resources.Get (print "images/memoriam/" .Params.image) }}
+    {{ $resource := .Resources.Get .Params.image }}
     {{ $image := $resource.Process "fill 160x180" }}
     <div class="memoriam-card">
       <a href="{{ .RelPermalink }}">
@@ -40,14 +40,15 @@
           <figcaption>
             <div class="post-description memoriam-text">{{ .Title }}</div>
             <div class="post-description memoriam-text">
-              {{- if and .Params.born .Params.died }}
-                {{- .Params.born }}&mdash;{{- .Params.died }}
-              {{- else if .Params.died }}
+              {{- if and .Params.born .Params.died -}}
+                {{- .Params.born }}&mdash;{{- .Params.died -}}
+              {{- else if .Params.died -}}
                 {{- .Params.died }}
-              {{- else if .Params.date }}
-                {{- .Params.date | time.Format "2006" }}
-              {{- else }}
-              {{- end }}
+              {{- else if .Params.date -}}
+                {{- .Params.date | time.Format "2006" -}}
+              {{- else -}}
+                &mdash;
+              {{- end -}}
             </div>
             {{- if .Params.location }}
               <div class="post-description memoriam-text">{{ .Params.location }}</div>
