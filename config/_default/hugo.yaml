@@ -17,6 +17,7 @@ params:
     - embargo
     - embargo/results
     - blog
+    - blog/trip-reports
     - news
   ctas:
     - link: https://barge.regfox.com/embargo-2025

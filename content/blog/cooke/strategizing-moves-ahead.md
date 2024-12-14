@@ -6,6 +6,8 @@ title: Strategizing Moves Ahead
 aliases:
   - /strategizing-moves-ahead
   - /blog/strategizing-moves-ahead
+tags:
+- cooke
 ---
 
 Great chess players are legendary for their ability to think
