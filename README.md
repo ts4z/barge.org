@@ -9,6 +9,13 @@ A scrape of barge.org, taken on 23-nov-2024, is in the OLD directory.
 How-To
 ------
 
+### Required reading
+
+Read some tutorial on Markdown.  We're using Goldmark, a variant of
+GitHub-Flavored Markdown, but any tutorial will work.
+
+Listen to Moose Turd Pie and consider the implications: https://www.youtube.com/watch?v=Q1ajLnuw2oo
+
 ### You probably want a GitHub account.
 
 You'll need a GitHub account to get write access to the repository or make pull
@@ -44,7 +51,7 @@ brew install git hugo
 
 If you're on Debian Linux, you'll need hugo.  The Debian build of hugo is too
 old, so you'll need to get it and build it with Go.  Of course this means
-getting Go, too.
+getting Go, and the Debian build of that is too old, too.
 
 ```sh
 go install gohugoio/hugo@latest   # if on debian
@@ -54,7 +61,7 @@ git submodule update --init --recursive
 #### Clone this repository
 
 On GitHub, just above and to the right of this text area, go to the Code
-dropdown and pick "ssh".
+dropdown and pick "ssh".  Run that.
 
 #### Test your edits
 
@@ -104,9 +111,10 @@ All files are supposed to have front matter.  This is bracketed at the top with
 dashes, in YAML format.  This works best if it includes the document title,
 the document date (`YYYY-MM-DD` format), and maybe a summary field.
 
-If you write Markdown, it is naturally restricted to a reasonable subset.  You
-*cannot* include HTML in general, and Hugo will *omit* it ... but you can
-bracket a section like this:
+If you write Markdown (`some_filename.md`), you will not have access to the
+full scope of HTML (and this is a feature).  Unlike Markdown in some other
+contexts, you *cannot* include HTML in general, and Hugo will *omit* it ... but
+you can bracket a section like this:
 
 ```
     {{< rawhtml }}}
@@ -117,9 +125,12 @@ bracket a section like this:
     {{< /rawhtml }}}
 ```
 
-If you write HTML, you are writing only the "body" portion of the document.
-Hugo will supply the head portion and will wrap your text in the standard page
-framework.  This allows using stylesheets, br tags, etc.
+... but please avoid doing this, especially for complex elements.  Do _not_ use
+this to modify CSS.
+
+If you write HTML (`some_filename.html`), you are writing only the "body" portion of
+the document.  Hugo will supply the head portion and will wrap your text in the
+standard page framework.  This allows using stylesheets, br tags, etc.
 
 
 How Hugo Works
@@ -146,6 +157,10 @@ way.)
 It is OK to reorganize the site, but please provide aliases so the old links
 continue to work.
 
+All files may have a "type".  We have a few different types which render
+slightly differently (in particular, in-memoriam, the resources page, and the
+results pages are all different).  See the Hugo documentation for layouts.
+
 Guidelines
 ----------
 
@@ -164,8 +179,7 @@ un-migrated pages, and they don't render well as a result.
 Make sure every page has a "title" field and sets "draft: false" in the
 frontmatter header.
 
-Avoid TOML, which is permitted in configs and frontmatter.  Write either YAML
-or JSON.  Actually, forget I said anything about JSON.
+Write all frontmatter in YAML.  Avoid TOML.  JSON is kind of OK.
 
 If you find yourself repeating something, or having trouble styling something in Markdown,
 make a "shortcode" for it.  See layouts/shortcodes.  Note that this is currently used
