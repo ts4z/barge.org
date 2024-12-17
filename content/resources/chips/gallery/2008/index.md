@@ -1,5 +1,5 @@
 ---
-title: "2007 chips: Pickle Magic"
+title: "2008 chips: Pickle Magic"
 date: 2008-08-01
 tags:
  - 2008
