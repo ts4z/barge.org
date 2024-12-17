@@ -1,22 +1,18 @@
 ---
-title: 1993 chips
+title: "1993 chips: Presto! Irwin?"
 date: 1993-08-01
-small: 93_pair.jpg
-set: 93_set.jpg
 author: Patrick Milligan
 type: chip-gallery
 tags:
  - 1993
  - chips
+detail: 93_pair.jpg
+large: 93_set.jpg
 ---
-
-{{< figure src="93_pair.jpg" >}}
 
 This was the very first BARGE chip set, created by Steve Jacobs. A 300 chip
 home set of these chips was presented to the 1993 BARGE NLHE Champ, Roy
 Hashimoto. Each attendee at BARGE 1993 also received a purple chip.
-
-{{< figure src="93_set.jpg" >}}
 
 A few of the chips came in the form of refrigerator magnets or on key
 chains. In addition, Michael &#8220;kidZee&#8221; Zimmers used the artwork to
