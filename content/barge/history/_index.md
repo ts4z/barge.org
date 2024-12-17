@@ -4,6 +4,9 @@ draft: false
 tags:
  - history
 type: directory
+aliases:
+ - /barge-history
+ - /history
 summary: BARGE 2025 will be our 35th event...
 ---
  
@@ -13,4 +16,3 @@ chronicled haphazardly over this site.
 We've split this page into a [year-by-year](by-year) page as well as a few
 other articles.  We also have [results](/barge/results) for each year.
 
-Here are the articles in this section:
