@@ -7,6 +7,7 @@ aliases:
  - /how-not-to-feel-like-an-outsider
 tags:
  - welcome
+summary: Remember that you are ALWAYS WELCOME.
 ---
 
 Let&rsquo;s first examine the meaning of OUTSIDER shall we?
