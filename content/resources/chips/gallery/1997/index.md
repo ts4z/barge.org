@@ -1,5 +1,5 @@
 ---
-title: "1996 chips: Horeseshoe"
+title: "1997 chips: BARGE Champions"
 date: 1997-08-01
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/97_pair-1.jpg
 large: https://www.bargechips.org/wp-content/uploads/2024/08/97_set.jpg
