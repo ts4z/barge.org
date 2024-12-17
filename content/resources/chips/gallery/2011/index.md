@@ -1,0 +1,22 @@
+---
+title: "2011 chips: Reindeer Games"
+date: 2011-08-01
+tags:
+ - 2011
+ - chips
+ - bcc
+type: chip-gallery
+detail: https://www.bargechips.org/wp-content/uploads/2024/08/2001_detail.jpg
+large: https://www.bargechips.org/wp-content/uploads/2024/08/2011_set.gif
+pdf: https://www.bargechips.org/wp-content/uploads/2024/08/2011_chips.pdf
+---
+
+This year, the theme is &#8220;Reindeer Games.&#8221; Each chip in the chip set
+has a common obverse showing a reindeer in a sleigh being pulled by a set of
+cards. Standard chip colors are used. The BARGE 2010 NLHE Champion, Chuck
+Humphrey, came up with the theme.
+
+This year&#8217;s chip set pays homage to the wide variety of poker games that
+are played during BARGE. &nbsp;Saturday night after the banquet is the prime
+time to sign up for these games, but they are often in play throughout BARGE
+week.

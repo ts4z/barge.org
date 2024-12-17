@@ -1,5 +1,5 @@
 ---
-title: 1994 chips
+title: "1994 chips: Rainbow"
 author: Patrick Milligan
 date: 1994-08-01
 tags:
