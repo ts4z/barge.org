@@ -3,6 +3,7 @@ title: Mailing Lists
 draft: false
 aliases:
  - /mailing-lists
+ - /mailman/private/barge
 tags:
  - lists
 ---
