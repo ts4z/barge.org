@@ -6,9 +6,10 @@ tags:
  - chips
  - bcc
 type: chip-gallery
+detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012_details.png
+large: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012.jpg
+pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012.pdf
 ---
-
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012_details.png" >}}
 
 From the announcement for the 2012 chips:
 
@@ -23,8 +24,3 @@ From the announcement for the 2012 chips:
 > * Step 7. Socialization
 > * Step 8. True Enlightenment
 > * Step 9. Achieve Nirvana (on the special purple chip)
-
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012.jpg"  >}}
-
-[A PDF version of these chips is available here.](https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012.pdf)
-

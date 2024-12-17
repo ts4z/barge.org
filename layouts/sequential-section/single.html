@@ -63,41 +63,14 @@ SOFTWARE.
   {{- partial "toc.html" . }}
   {{- end }}
 
-  {{- if .Param "detail" }}
-    <figure>
-      <img src="{{.Param "detail"}}">
-    </figure>
+  {{- if .Content }}
+  <div class="post-content">
+    {{- if not (.Param "disableAnchoredHeadings") }}
+    {{- partial "anchored_headings.html" .Content -}}
+    {{- else }}{{ .Content }}{{ end }}
+  </div>
   {{- end }}
 
-  <div class="post-content">
-    {{- if .Content }}
-      {{- if not (.Param "disableAnchoredHeadings") }}
-      {{- partial "anchored_headings.html" .Content -}}
-      {{- else }}{{ .Content }}{{ end }}
-    {{- end }}
-
-    {{- if .Param "large" }}
-    <div>
-      <figure>
-        <img src="{{.Param "large"}}">
-      </figure>
-    </div>
-    {{- end }}
-    {{- if .Param "edges" }}
-    <div>
-      <figure>
-        <img src="{{.Param "edges"}}">
-      </figure>
-    </div>
-    {{- end }}
-    
-    {{- if .Param "pdf" }}
-      <p>
-        <a href="{{ .Param "pdf" }}">Download the color brochure of this set.</a>
-      </p>
-    {{- end }}
-  </div>
-    
   <footer class="post-footer">
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     <ul class="post-tags">
