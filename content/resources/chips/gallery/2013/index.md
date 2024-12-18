@@ -35,5 +35,5 @@ From the announcement for the 2013 chips:
 >
 > Patti up early for CHORSE?
 
-<p>(Despite the diss in the announcement, Scottro did win the Main Event in
-2019––and did not make a deal. He didn&#8217;t make his chips, though.)</p>
+(Despite the diss in the announcement, Scottro did win the Main Event in
+2019––and did not make a deal. He didn&#8217;t make his chips, though.)
