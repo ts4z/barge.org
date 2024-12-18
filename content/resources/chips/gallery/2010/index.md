@@ -6,7 +6,6 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-detail: 
 large: https://www.bargechips.org/wp-content/uploads/2024/08/2010_set.gif
 edges: https://www.bargechips.org/wp-content/uploads/2024/08/2010_edges.gif
 ---

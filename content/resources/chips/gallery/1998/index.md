@@ -2,6 +2,8 @@
 title: "1998 chips: Horeseshoe"
 date: 1998-08-01
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/98_pair-1.jpg
+cover:
+    image: https://www.bargechips.org/wp-content/uploads/2024/08/98_pair-1.jpg
 large: https://www.bargechips.org/wp-content/uploads/2024/08/98_set-1.jpg
 type: chip-gallery
 ---

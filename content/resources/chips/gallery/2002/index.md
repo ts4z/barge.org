@@ -7,6 +7,8 @@ tags:
  - bcc
 type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/2002_detail.jpg
+cover:
+    image: https://www.bargechips.org/wp-content/uploads/2024/08/2002_detail.jpg
 large: https://www.bargechips.org/wp-content/uploads/2024/08/2002_set.jpg
 pdf: https://pokerart.bargechips.org/_shared/downloads/2002_chips.pdf
 ---
