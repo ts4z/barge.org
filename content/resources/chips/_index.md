@@ -7,6 +7,7 @@ alias:
 type: directory
 cover:
   image: https://www.bargechips.org/wp-content/uploads/2024/09/bargechipslogo.png
+date: 2019-08-01
 ---
 
 {{< figure class="floatright40"
