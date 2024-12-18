@@ -63,12 +63,6 @@ SOFTWARE.
   {{- partial "toc.html" . }}
   {{- end }}
 
-  {{- if .Param "detail" }}
-    <figure>
-      <img src="{{.Param "detail"}}">
-    </figure>
-  {{- end }}
-
   <div class="post-content">
     {{- if .Content }}
       {{- if not (.Param "disableAnchoredHeadings") }}
@@ -90,10 +84,11 @@ SOFTWARE.
       </figure>
     </div>
     {{- end }}
-    
-    {{- if .Param "pdf" }}
+
+    {{- if or (.Param "pdf") (.Param "detail") }}
       <p>
         <a href="{{ .Param "pdf" }}">Download the color brochure of this set.</a>
+        <a href="{{ .Param "detail" }}">Detail view of one chip.</a>
       </p>
     {{- end }}
   </div>

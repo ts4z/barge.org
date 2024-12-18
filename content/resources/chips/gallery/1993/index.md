@@ -6,6 +6,8 @@ type: chip-gallery
 tags:
  - 1993
  - chips
+cover:
+ image: 93_pair.jpg
 detail: 93_pair.jpg
 large: 93_set.jpg
 ---

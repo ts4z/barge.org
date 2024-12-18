@@ -7,6 +7,8 @@ tags:
  - bcc
 type: chip-gallery
 pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2018.pdf
+cover:
+  image: https://www.bargechips.org/wp-content/uploads/2024/08/2018_black-1024x426.png
 ---
 
 (Most of this text was likely from Michael Brennan, and it was liberated from a

@@ -9,6 +9,8 @@ type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2017_detail.png
 large: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2017.jpg
 pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2017.pdf
+cover:
+  image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2017_detail.png
 ---
 
 From the 2017 announcement that made the sampler sets available:
