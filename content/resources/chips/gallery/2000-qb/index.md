@@ -7,6 +7,8 @@ tags:
  - chips
 type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/00_single-1.jpg
+cover:
+    image: https://www.bargechips.org/wp-content/uploads/2024/08/00_single-1.jpg
 large: https://www.bargechips.org/wp-content/uploads/2024/08/00_set-1.jpg
 ---
 

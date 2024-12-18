@@ -5,9 +5,14 @@ alias:
  - /chips
  - /barge-chips
 type: directory
+cover:
+  image: https://www.bargechips.org/wp-content/uploads/2024/09/bargechipslogo.png
 ---
 
-You're probably here for the  [the gallery](gallery/).
+{{< figure class="floatright40"
+    src="https://www.bargechips.org/wp-content/uploads/2024/09/bargechipslogo.png" >}}
+
+You're probably here for [the gallery](gallery/).
 
 It is a tradition of BARGE that each Main Event winner wins a custom
 chipset... that they have to design.  These chips are sold as sample sets as well
@@ -16,10 +21,7 @@ as made available to the BARGE community.
 We've got images of each of the chip sets and a little bit of information on
 them.
 
-Then we realized we already *had* a web site, so we moved it all here.
-Please excuse the dust.
-
-If you're brave, [start with the gallery](gallery/)!
+Gallery starts in [1993](gallery/1993/) and ends in [2019](gallery/2019/).
 
 Thanks to Patrick Milligan, 
 [BR Pro Poker](https://brpropoker.com/)
