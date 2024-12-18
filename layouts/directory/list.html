@@ -84,11 +84,9 @@ SOFTWARE.
         {{- else -}}
           {{- .RelPermalink -}}
         {{- end -}}
-      ">
-      {{ .Title }}
-      </a>
+      ">{{- .Title -}}</a>
       {{- if (findRE "://" .Params.href) -}}
-        (external site)
+        &nbsp;(external site)
       {{- end -}}
 
       {{- if .Params.moreInfo -}}
