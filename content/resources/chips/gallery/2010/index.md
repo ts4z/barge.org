@@ -1,12 +1,11 @@
 ---
-title: "2010 chips: Poker Archetypes"
-date: 2010-08-01
+title: "2010: Poker Archetypes"
 tags:
  - 2010
  - chips
  - bcc
 type: chip-gallery
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2010_set.gif
+large: barge_2010.jpg
 edges: https://www.bargechips.org/wp-content/uploads/2024/08/2010_edges.gif
 ---
 

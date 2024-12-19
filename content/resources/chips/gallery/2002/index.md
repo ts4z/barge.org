@@ -1,6 +1,5 @@
 ---
-title: "2002 chips: Rocks"
-date: 2002-08-01
+title: "2002: Rocks"
 tags:
  - 2002
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/2002_detail.jpg
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/2002_detail.jpg
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2002_set.jpg
+large: barge_2002.jpg
 pdf: https://pokerart.bargechips.org/_shared/downloads/2002_chips.pdf
 ---
 

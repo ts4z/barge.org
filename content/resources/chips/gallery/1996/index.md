@@ -1,6 +1,5 @@
 ---
-title: "1996 chips: Horeseshoe + Presto"
-date: 1996-08-01
+title: "1996: Horeseshoe + Presto"
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/96_pair-1.jpg
 large: https://www.bargechips.org/wp-content/uploads/2024/08/96_set-1.jpg
 type: chip-gallery

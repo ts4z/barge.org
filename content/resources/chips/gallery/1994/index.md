@@ -1,7 +1,6 @@
 ---
-title: "1994 chips: Rainbow"
+title: "1994: Rainbow"
 author: Patrick Milligan
-date: 1994-08-01
 tags:
  - 1994
  - chips
@@ -9,7 +8,6 @@ type: chip-gallery
 author: Patrick Milligan
 cover:
   image: 94_pair-1.jpg
-detail: 94_pair-1.jpg
 large: 94_set.jpg
 ---
 

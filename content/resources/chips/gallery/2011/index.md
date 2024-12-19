@@ -1,6 +1,5 @@
 ---
-title: "2011 chips: Reindeer Games"
-date: 2011-08-01
+title: "2011: Reindeer Games"
 tags:
  - 2011
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 cover:
   image: https://www.bargechips.org/wp-content/uploads/2024/08/2001_detail.jpg
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/2001_detail.jpg
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2011_set.gif
+large: barge_2011.jpg
 pdf: https://www.bargechips.org/wp-content/uploads/2024/08/2011_chips.pdf
 ---
 

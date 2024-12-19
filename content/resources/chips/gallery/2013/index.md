@@ -1,6 +1,5 @@
 ---
 title: "2013 Chips: Unlikely Events"
-date: 2013-08-01
 tags:
  - 2013
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 cover:
   image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2013_details.png
 detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2013_details.png
-large: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2013.jpg
+large: barge_2013.jpg
 pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2013.pdf
 ---
 

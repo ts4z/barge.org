@@ -1,12 +1,11 @@
 ---
-title: "2007 chips: Presto in Everyday Life"
-date: 2007-08-01
+title: "2007: Presto in Everyday Life"
 tags:
  - 2007
  - chips
  - bcc
 type: chip-gallery
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2007_set.gif
+large: barge_2007.jpg
 edges: https://www.bargechips.org/wp-content/uploads/2024/08/2007_edges.gif
 ---
 
