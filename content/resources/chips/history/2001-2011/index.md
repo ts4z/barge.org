@@ -53,4 +53,5 @@ their chip sets.
 * the [Chip Vendors](Chip_Vendors.jpg) image referred to there
 * [PrestoScape](PrestoScape.jpg) from the 2001 chipset
 * 2002 proofs: [part 1](2002_CHIPCO_proofs_1v2.jpg) [part 2](2002_CHIPCO_proofs_2v2.jpg)
+* [2005 idea that wasn't used](bcc_02.pdf)
 * 2011 ideas: [v1](barge_2011_ideas_v1.pdf) [v2](barge_2011_ideas_v2.pdf)
