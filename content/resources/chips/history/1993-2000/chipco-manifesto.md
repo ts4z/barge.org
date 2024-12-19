@@ -1,14 +1,20 @@
 ---
-title: Tom Sims "Chipco Manifesto"
+title: Tom Sims "CHIPCO Manifesto"
 author: Tom Sims
 ---
 
-Tom was one of the people who did a lot of work on chips even before the BCC.
-He was an active participant on rec.gambling.poker, and every year, he'd share
-this, having been burned by quality issues with Chipco chips.
+Tom Sims was one of the people who did a lot of work on chips even before the
+BCC.  He was an active participant on rec.gambling.poker, and every year, he'd
+share this, having been burned by quality issues with Chipco chips.
 
 BARGE switched to Paulson as our vendor for the next few chipsets, then back to
-Chipco, when Paulson proved difficult to work with.
+Chipco, when Paulson proved difficult to work with.  Paulson no longer sells to
+non-casino customers.  Chipco International has gone out of business.[^1]
+For the past several years, BARGE chips have been produced by 
+[BRPro Poker](https://brpropoker.com), who have been excellent to work with and
+produced a high quality product.
+
+[^1]: [Russ Fox: Poker Chips and Tax Evasion](http://www.taxabletalk.com/2015/03/22/a-break-in-my-hiatus-poker-chips-and-tax-evasion/)
 
 *This has been lightly edited for presentation.*
 
