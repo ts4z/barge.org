@@ -1,4 +1,5 @@
 ---
+pdf: barge_2006.pdf
 cover:
   image: barge_2006_detail.png
 title: "2006: Memorial Chips and Don \"Gump\" Images "

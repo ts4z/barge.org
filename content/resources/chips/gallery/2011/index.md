@@ -8,7 +8,7 @@ type: chip-gallery
 cover:
   image: barge_2011_detail.png
 large: barge_2011.jpg
-pdf: https://www.bargechips.org/wp-content/uploads/2024/08/2011_chips.pdf
+pdf: barge_2011.pdf
 ---
 
 This year, the theme is &#8220;Reindeer Games.&#8221; Each chip in the chip set

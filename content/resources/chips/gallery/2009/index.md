@@ -1,4 +1,5 @@
 ---
+pdf: barge_2009.pdf
 cover:
   image: barge_2009_detail.png
 title: "2009: IRC Poker"

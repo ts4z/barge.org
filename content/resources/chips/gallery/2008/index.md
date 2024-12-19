@@ -1,4 +1,5 @@
 ---
+pdf: barge_2008.pdf
 cover:
   image: barge_2008_detail.png
 title: "2008: Pickle Magic"

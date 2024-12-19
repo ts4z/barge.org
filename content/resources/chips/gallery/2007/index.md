@@ -1,4 +1,5 @@
 ---
+pdf: barge_2007.pdf
 cover:
   image: barge_2007_detail.png
 title: "2007: Presto in Everyday Life"

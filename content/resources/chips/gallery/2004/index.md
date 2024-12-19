@@ -1,4 +1,5 @@
 ---
+pdf: barge_2004.pdf
 title: "2004: BARGE Memories"
 tags:
  - 2004
