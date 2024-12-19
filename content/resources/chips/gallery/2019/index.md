@@ -14,3 +14,6 @@ cover:
 > cocktail for each letter. There is also an Easter egg on the sides. I invite
 > you to order your sample chipsets and accept a challenge: drink the chipset
 > at BARGE! Ribbons will be waiting!
+
+Of course, these chips look especially great stacked up!  [part 1](side1.jpg) 
+[part 2](side2.jpg)
