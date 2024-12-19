@@ -1,5 +1,5 @@
 ---
-title: BARGE Chip Gallery
+title: Chip Gallery
 draft: false
 weight: 1
 type: chip-gallery
