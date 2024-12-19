@@ -25,3 +25,8 @@ next year, and paired well with the [2001 set](../../gallery/2001).
 * [1998: No Suck-Outs](../../gallery/1998)
 * [1999: Fish](../../gallery/1999)
 
+---
+
+## Artifacts
+
+* [Proof image for 1999 chips](1999_chips.jpg)
