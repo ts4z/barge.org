@@ -38,6 +38,7 @@ have presented events.  Note that there is a subtle difference between
   {{- if .Get "special-event" }}{{- .Get "special-event" -}} <br> {{- end -}}
   {{- .Get "event" }}
   {{- if .Get "parentheticals" }}<br>{{- .Get "parentheticals" -}}  {{- end -}}
+<a hidden class="anchor" aria-hidden="true" href="{{ .Page.Permalink }}#{{- .Get "event" | strings.ToLower | replaceRE " +" "-" | replaceRE "[^a-z0-9-]+" "" | safeHTML -}}">#</a>
 </h{{- if .Get "level" -}}{{- .Get "level" -}}{{- else -}}2{{- end }}>
 {{- if .Get "date" }}
   {{- .Get "date" }} <br>
