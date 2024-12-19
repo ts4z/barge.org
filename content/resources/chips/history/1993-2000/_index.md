@@ -12,7 +12,7 @@ For the first few events, the chipset was presented at BARGE, but starting
 with [1997](../../gallery/1997), the winner started designing their own chips.
 
 In 2000, the main event winner did not make the chips.  Ken &#8220;QB&#8221;
-Kubey [made a set](../../gallery/2000-qb) made aset> for distribution at
+Kubey [made a set](../../gallery/2000-qb) for distribution at
 BARGE 2000. A few BARGErs formed the [BARGE Chip Committee](../../bcc) which
 produced the [2000 make-up set](../../gallery/2000) which was available the
 next year, and paired well with the [2001 set](../../gallery/2001).
