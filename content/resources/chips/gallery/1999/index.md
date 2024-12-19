@@ -1,7 +1,5 @@
 ---
-title: "1999 chips: Fish"
-date: 1999-08-01
-detail: "https://www.bargechips.org/wp-content/uploads/2024/08/99_pair.jpg"
+title: "1999: Fish"
 cover:
     image: "https://www.bargechips.org/wp-content/uploads/2024/08/99_pair.jpg"
 large: "https://www.bargechips.org/wp-content/uploads/2024/08/99_set.jpg"

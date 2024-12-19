@@ -1,7 +1,5 @@
 ---
-title: "1995 chips: Presto! for Blackjack and Poker"
-date: 1995-08-01
-detail: "95_pair.jpg"
+title: "1995: Presto! for Blackjack and Poker"
 large: "95_set.jpg"
 type: chip-gallery
 cover:

@@ -77,18 +77,10 @@ SOFTWARE.
       </figure>
     </div>
     {{- end }}
-    {{- if .Param "edges" }}
-    <div>
-      <figure>
-        <img src="{{.Param "edges"}}">
-      </figure>
-    </div>
-    {{- end }}
 
-    {{- if or (.Param "pdf") (.Param "detail") }}
+    {{- if .Param "pdf" }}
       <p>
         <a href="{{ .Param "pdf" }}">Download the color brochure of this set.</a>
-        <a href="{{ .Param "detail" }}">Detail view of one chip.</a>
       </p>
     {{- end }}
   </div>

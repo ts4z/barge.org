@@ -1,10 +1,9 @@
 ---
-title: "2019 chips: ADB BINGO"
-date: 2019-08-01
+title: "2019: ADB BINGO"
 draft: false
 type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2019_detail.png
-large: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2019.jpg
+large: barge_2019.jpg
 pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2019.pdf
 cover:
   image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2019_detail.png

@@ -1,6 +1,5 @@
 ---
 title: "2012 Chips: Omaholic's 8 (or better) Steps To Achieving True BARGE Enlightenment"
-date: 2012-08-01
 tags:
  - 2012
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012_details.png
 cover:
   image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012_details.png
-large: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012.jpg
+large: barge_2012.jpg
 pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012.pdf
 ---
 

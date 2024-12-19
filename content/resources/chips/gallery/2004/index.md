@@ -1,6 +1,5 @@
 ---
-title: "2004 chips: BARGE Memories"
-date: 2004-08-01
+title: "2004: BARGE Memories"
 tags:
  - 2004
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/2004_detail.jpg
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/2004_detail.jpg
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2004_ss_set.jpg
+large: barge_2004.jpg
 edges: https://www.bargechips.org/wp-content/uploads/2024/08/2004_edges.jpg
 ---
 		

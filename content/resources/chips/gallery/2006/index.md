@@ -1,12 +1,11 @@
 ---
-title: "2006 chips: Memorial Chips and Don \"Gump\" Images "
-date: 2006-08-01
+title: "2006: Memorial Chips and Don \"Gump\" Images "
 tags:
  - 2006
  - chips
  - bcc
 type: chip-gallery
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2006_set.gif
+large: barge_2006.jpg
 edges: https://www.bargechips.org/wp-content/uploads/2024/08/2006_edges.gif
 ---
 

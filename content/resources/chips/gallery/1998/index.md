@@ -1,6 +1,5 @@
 ---
-title: "1998 chips: Horeseshoe"
-date: 1998-08-01
+title: "1998: Horeseshoe"
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/98_pair-1.jpg
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/98_pair-1.jpg

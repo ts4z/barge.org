@@ -1,6 +1,5 @@
 ---
-title: "2009 chips: IRC Poker"
-date: 2009-08-01
+title: "2009: IRC Poker"
 tags:
  - 2009
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/2009_tn.gif
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/2009_tn.gif
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2009_set.gif
+large: barge_2009.jpg
 edges: https://www.bargechips.org/wp-content/uploads/2024/08/2009_edges.gif
 ---
 

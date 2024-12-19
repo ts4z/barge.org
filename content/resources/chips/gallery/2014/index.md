@@ -1,6 +1,5 @@
 ---
 title: "2014 Chips: Bicycle"
-date: 2014-08-01
 tags:
  - 2014
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2014_details.png
 cover:
   image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2014_details.png
-large: https://www.bargechips.org/wp-content/uploads/2024/08/barge_chips_2014.png
+large: barge_2014.jpg
 pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2014.pdf
 ---
 
@@ -29,9 +28,10 @@ last year. So this year&#8217;s theme is The Wheel. I am grateful to a number
 of people especially the members of the BARGE chip committee for making the
 2014 chips a reality. I hope you like the design; in later posts I will tell
 the story of each chip in the collection and highlight the contributions of
-these friends.</p>
+these friends.
 
-&mdash;Dave &#8220;sam_6&#8221; Lawful<br>BARGE 2013 No Limit Hold&#8217;em Champion
+&mdash;Dave &#8220;sam_6&#8221; Lawful {{< br >}}
+BARGE 2013 No Limit Hold&#8217;em Champion
 
 ### A SPECIAL CONTEST, CAN YOU CRACK THE S00PER SEKRIT CODE?
 

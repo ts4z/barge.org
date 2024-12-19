@@ -1,6 +1,5 @@
 ---
-title: "2003 chips: A Poker Odyssey"
-date: 2003-08-01
+title: "2003: A Poker Odyssey"
 tags:
  - 2001
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/2003_detail.jpg
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/2003_detail.jpg
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2003_set.jpg
+large: barge_2003.jpg
 ---
 
 These chips were created by BARGE 2002 NLHE Champion Mike &#8220;Howler&#8221;

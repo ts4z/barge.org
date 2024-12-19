@@ -1,6 +1,5 @@
 ---
-title: "2000 chips: The Year of RGP (BCC)"
-date: 2001-07-01
+title: "2000: The Year of RGP (BCC)"
 aliases:
  - 2000
 tags:
@@ -11,7 +10,7 @@ type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/2000_detail.jpg
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/2000_detail.jpg
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2000_set.jpg
+large: barge_2000.jpg
 pdf: https://pokerart.bargechips.org/_shared/downloads/2000_chips.pdf
 ---
 

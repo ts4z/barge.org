@@ -1,6 +1,5 @@
 ---
-title: "2001 chips: A Poker Odyssey"
-date: 2001-08-01
+title: "2001: A Poker Odyssey"
 tags:
  - 2001
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/2001_detail.jpg
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/2001_detail.jpg
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2001_set.jpg
+large: barge_2001.jpg
 ---
 
 All chips in the **2001: A Poker Odyssey** set have a common obverse (Buzz
