@@ -18,4 +18,5 @@ Stuff that is missing includes:
 * multiple sets of Missed Cocktail and Missed Straddle lammers
 * quite a few coins
 
-If you have other pictures of BARGE paraphernalia, email pictures to one of the site admins.
+If you have other pictures of BARGE memorabilia, paraphernalia, souvenirs, or just plain
+_stuff_, email pictures to one of the site admins.
