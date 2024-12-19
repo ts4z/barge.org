@@ -1,5 +1,5 @@
 ---
-title: "1998: Horeseshoe"
+title: "1998: No Suck Outs"
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/98_pair-1.jpg
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/98_pair-1.jpg
