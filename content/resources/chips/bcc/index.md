@@ -17,3 +17,11 @@ fun.
 
 More details of the BCC are available on the [2001-2011](../history/2001-2011/) and 
 [2012-2019](../history/2012-2019) history pages.
+
+## 2001 BCC Team
+
+In 2001, the BCC fielded a [CHORSE team](Team_BCC.jpg), complete with
+[hats](BCC_hat_design.jpg) ([modeled by Patrick](Team_BCC_hat.jpg)), 
+[badges](all_badges.jpg),
+and [chips](./BCC_Chips.jpg) and one more [chip](Scottro.jpg).
+
