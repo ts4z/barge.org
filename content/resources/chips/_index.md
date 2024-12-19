@@ -32,7 +32,7 @@ and
 [Internet](https://web.archive.org/web/20120623142829/http://www.pokerart.com/)
 [Archive](https://web.archive.org/web/20180902101041/https://bargechips.org/).
 
-There is even more [BARGE paraphernalia](../paraphernalia/) that we will add in the future. 
+There is even more [BARGE memorabilia](../memorabilia//) that we will add in the future. 
 
 Please [contact us](mailto:tim.showalter@gmail.com) if you have images or
 corrections. We&#8217;re missing some Purple Chips, and probably others, and
