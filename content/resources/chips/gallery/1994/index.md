@@ -5,7 +5,6 @@ tags:
  - 1994
  - chips
 type: chip-gallery
-author: Patrick Milligan
 cover:
   image: 94_pair-1.jpg
 large: 94_set.jpg

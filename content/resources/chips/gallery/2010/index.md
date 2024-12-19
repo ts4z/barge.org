@@ -1,4 +1,6 @@
 ---
+cover:
+  image: barge_2010_detail.png
 title: "2010: Poker Archetypes"
 tags:
  - 2010

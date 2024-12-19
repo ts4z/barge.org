@@ -1,4 +1,6 @@
 ---
+cover:
+  image: barge_2009_detail.png
 title: "2009: IRC Poker"
 tags:
  - 2009
@@ -6,10 +8,7 @@ tags:
  - bcc
 type: chip-gallery
 detail: https://www.bargechips.org/wp-content/uploads/2024/08/2009_tn.gif
-cover:
-    image: https://www.bargechips.org/wp-content/uploads/2024/08/2009_tn.gif
 large: barge_2009.jpg
-edges: https://www.bargechips.org/wp-content/uploads/2024/08/2009_edges.gif
 ---
 
 This year, the theme is &#8220;IRC Poker.&#8221; Each chip in the chip set has a common obverse with a different r00lbot saying on the reverse (&#8220;tails&#8221;) side. Standard chip colors are used.

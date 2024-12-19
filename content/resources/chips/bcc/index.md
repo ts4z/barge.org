@@ -1,6 +1,9 @@
 ---
 title: BARGE Chip Committee
 date: 2019-08-01
+tags:
+ - chips
+ - bcc
 ---
 
 For twenty [BARGE](/) events,
