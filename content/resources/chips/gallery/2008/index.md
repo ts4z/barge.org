@@ -1,4 +1,6 @@
 ---
+cover:
+  image: barge_2008_detail.png
 title: "2008: Pickle Magic"
 tags:
  - 2008

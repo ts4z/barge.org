@@ -6,8 +6,7 @@ tags:
  - bcc
 type: chip-gallery
 cover:
-  image: https://www.bargechips.org/wp-content/uploads/2024/08/2001_detail.jpg
-detail: https://www.bargechips.org/wp-content/uploads/2024/08/2001_detail.jpg
+  image: barge_2011_detail.png
 large: barge_2011.jpg
 pdf: https://www.bargechips.org/wp-content/uploads/2024/08/2011_chips.pdf
 ---
