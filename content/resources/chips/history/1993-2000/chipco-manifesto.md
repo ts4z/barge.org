@@ -1,6 +1,7 @@
 ---
 title: Tom Sims "CHIPCO Manifesto"
 author: Tom Sims
+summary: What goes around comes around, and I believe/hope that the Poker God will get them in the long run.
 ---
 
 Tom Sims was one of the people who did a lot of work on chips even before the
