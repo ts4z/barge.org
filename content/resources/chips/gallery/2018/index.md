@@ -1,14 +1,14 @@
 ---
-title: "2018 chips: The Poker Curriculum"
-date: 2018-08-01
+title: "2018: The Poker Curriculum"
 tags:
  - 2018
  - chips
  - bcc
 type: chip-gallery
-pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2018.pdf
+pdf: barge_2018.pdf
+large: barge_2018.jpg
 cover:
-  image: https://www.bargechips.org/wp-content/uploads/2024/08/2018_black-1024x426.png
+  image: barge_2018_detail.png
 ---
 
 (Most of this text was likely from Michael Brennan, and it was liberated from a
@@ -24,15 +24,6 @@ throat singing) and a full checkers set of just two chips &#8211; red and
 black. Thankfully, the ghost of Tom Bayes spoke to Chris in a dream or a bar
 (he is not sure which) and inspired his theme of &#8220;The Poker
 Curriculum&#8221; &#8211; coming to a university lecture hall near you soon!
-
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/08/2018_white-1024x425.png" >}}
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/08/2018_blue-1024x429.png" >}}
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/08/2018_orange-1024x426.png" >}}
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/08/2018_pink-1024x426.png" >}} 
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/08/2018_yellow-1024x426.png" >}}
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/08/2018_black-1024x426.png" >}}
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/08/2018_red-1024x425.png" >}}
-{{< figure src="https://www.bargechips.org/wp-content/uploads/2024/08/2018_green-1024x426.png" >}}
 
 ### 2018 Chris &#8220;Bayz&#8221; Mecklin Sample Chip Sets
 

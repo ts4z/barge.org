@@ -1,8 +1,8 @@
 ---
 title: BARGE Chip Gallery
 draft: false
-date: 2019-08-01
 weight: 1
+type: chip-gallery
 ---
 
 The gallery here has something for every BARGE chipset: always pictures,

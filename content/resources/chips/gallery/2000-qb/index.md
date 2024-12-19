@@ -1,12 +1,10 @@
 ---
 title: 2000 chips, QB Edition
-date: 2000-08-01
 tags:
  - 2000
  - qb
  - chips
 type: chip-gallery
-detail: https://www.bargechips.org/wp-content/uploads/2024/08/00_single-1.jpg
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/00_single-1.jpg
 large: https://www.bargechips.org/wp-content/uploads/2024/08/00_set-1.jpg

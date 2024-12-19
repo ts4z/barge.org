@@ -1,6 +1,5 @@
 ---
-title: "1993 chips: Presto! Irwin?"
-date: 1993-08-01
+title: "1993: Presto! Irwin?"
 author: Patrick Milligan
 type: chip-gallery
 tags:
@@ -8,7 +7,6 @@ tags:
  - chips
 cover:
  image: 93_pair.jpg
-detail: 93_pair.jpg
 large: 93_set.jpg
 ---
 

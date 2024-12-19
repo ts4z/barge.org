@@ -1,12 +1,11 @@
 ---
-title: "2008 chips: Pickle Magic"
-date: 2008-08-01
+title: "2008: Pickle Magic"
 tags:
  - 2008
  - chips
  - bcc
 type: chip-gallery
-large: https://www.bargechips.org/wp-content/uploads/2024/08/2008_set.gif
+large: barge_2008.jpg
 edges: https://www.bargechips.org/wp-content/uploads/2024/08/2008_edges.gif
 ---
 

@@ -1,6 +1,5 @@
 ---
-title: "2015 chips: Virgin Experience"
-date: 2015-08-01
+title: "2015: Virgin Experience"
 tags:
  - 2015
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 cover:
   image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2015_details.png
 detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2015_details.png
-large: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2015.jpg
+large: barge_2015.jpg
 pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2015.pdf
 ---
 		

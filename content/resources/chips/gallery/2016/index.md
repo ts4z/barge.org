@@ -1,6 +1,5 @@
 ---
-title: "2016 chips: Chess Set"
-date: 2016-08-01
+title: "2016: Chess Set"
 tags:
  - 2016
  - chips
@@ -9,7 +8,7 @@ type: chip-gallery
 cover:
   image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2016_detail.png
 detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2016_detail.png
-large: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2016.jpg
+large: barge_2016.jpg
 pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2016.pdf
 ---
 
