@@ -1,6 +1,5 @@
 ---
 title: "1994: Rainbow"
-author: Patrick Milligan
 tags:
  - 1994
  - chips
