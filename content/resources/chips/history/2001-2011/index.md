@@ -1,5 +1,5 @@
 ---
-title: 2001-2011 BARGE Chips
+title: 2001-2011 BCC Chips
 type: sequential-section
 tags:
  - chips
@@ -44,3 +44,13 @@ Stine as a member.
 
 Russell Fox and Mike "Howler" McBride joined the BCC after helping to make
 their chip sets.
+
+---
+
+## Artifacts
+
+* [Possible change of BARGE chip vendors](Possible%20change%20of%20BARGE%20chip%20vendors.pdf) from Patrick Milligan
+* the [Chip Vendors](Chip_Vendors.jpg) image referred to there
+* [PrestoScape](PrestoScape.jpg) from the 2001 chipset
+* 2002 proofs: [part 1](2002_CHIPCO_proofs_1v2.jpg) [part 2](2002_CHIPCO_proofs_2v2.jpg)
+* 2011 ideas: [v1](barge_2011_ideas_v1.pdf) [v2](barge_2011_ideas_v2.pdf)
