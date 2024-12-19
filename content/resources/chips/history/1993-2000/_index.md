@@ -30,3 +30,4 @@ next year, and paired well with the [2001 set](../../gallery/2001).
 ## Artifacts
 
 * [Proof image for 1999 chips](1999_chips.jpg)
+* Tom Sims' [Annual Chipco Manifesto](chipco-manifesto)
