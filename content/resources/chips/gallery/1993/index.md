@@ -1,6 +1,5 @@
 ---
 title: "1993: Presto! Irwin?"
-author: Patrick Milligan
 type: chip-gallery
 tags:
  - 1993

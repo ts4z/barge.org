@@ -22,7 +22,7 @@ as made available to the BARGE community.
 We've got images of each of the chip sets and a little bit of information on
 them.
 
-Gallery starts in [1993](gallery/1993/) and ends in [2019](gallery/2019/).
+[The gallery](gallery/) starts in [1993](gallery/1993/) and ends in [2019](gallery/2019/).
 
 Thanks to Patrick Milligan, 
 [BR Pro Poker](https://brpropoker.com/)
