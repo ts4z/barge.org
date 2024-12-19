@@ -1,4 +1,5 @@
 ---
+pdf: barge_2005.pdf
 cover:
   image: barge_2005_detail.png
 title: "2005: Las Vegas Neon"

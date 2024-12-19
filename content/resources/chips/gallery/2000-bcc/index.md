@@ -7,11 +7,10 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-detail: https://www.bargechips.org/wp-content/uploads/2024/08/2000_detail.jpg
 cover:
     image: https://www.bargechips.org/wp-content/uploads/2024/08/2000_detail.jpg
 large: barge_2000.jpg
-pdf: https://pokerart.bargechips.org/_shared/downloads/2000_chips.pdf
+pdf: barge_2000.pdf
 ---
 
 The chips in the&nbsp; **2000: The Year of RGP** &nbsp;set celebrate two RGPers

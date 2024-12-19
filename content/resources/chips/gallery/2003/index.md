@@ -1,4 +1,5 @@
 ---
+pdf: barge_2003.pdf
 title: "2003: A Poker Odyssey"
 tags:
  - 2001
