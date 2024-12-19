@@ -1,8 +1,11 @@
 ---
-title: BARGE Paraphernalia
+title: BARGE Memorabilia
 draft: false
 type: directory
 itemsOnTop: true
+aliases:
+ - paraphernalia
+ - stuff
 ---
 
 Sometimes, people make stuff and share it at BARGE. Sometimes we take
