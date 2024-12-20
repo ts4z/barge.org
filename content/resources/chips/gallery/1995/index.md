@@ -8,3 +8,4 @@ cover:
 
 This set was designed by Dave Hughes. A 300 chip home set of these chips was presented to the 1995 BARGE NLHE Champ, Tom Sims.
 
+Chip images provided from the collection of Tom Sims.

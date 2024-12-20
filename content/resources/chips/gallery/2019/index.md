@@ -15,4 +15,4 @@ cover:
 > at BARGE! Ribbons will be waiting!
 
 Of course, these chips look especially great stacked up!  [part 1](side1.jpg) 
-[part 2](side2.jpg)
+[part 2](side2.jpg)  Stack photos by Ken Kubey.
