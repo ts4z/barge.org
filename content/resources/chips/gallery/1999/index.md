@@ -1,9 +1,10 @@
 ---
 title: "1999: Fish"
-cover:
-    image: "https://www.bargechips.org/wp-content/uploads/2024/08/99_pair.jpg"
-large: "https://www.bargechips.org/wp-content/uploads/2024/08/99_set.jpg"
 type: chip-gallery
+cover:
+ image: barge_1999_detail.png
+large: barge_1999.jpg
+pdf: barge_1999.pdf
 ---
 
 This set was created by Lee Jones, the 1998 NLHE winner. The fish photographs

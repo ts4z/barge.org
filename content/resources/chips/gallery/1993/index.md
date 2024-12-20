@@ -5,8 +5,9 @@ tags:
  - 1993
  - chips
 cover:
- image: 93_pair.jpg
-large: 93_set.jpg
+ image: barge_1993_detail.png
+large: barge_1993.jpg
+pdf: barge_1993.pdf
 ---
 
 This was the very first BARGE chip set, created by Steve Jacobs. A 300 chip

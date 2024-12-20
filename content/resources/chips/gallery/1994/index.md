@@ -5,8 +5,9 @@ tags:
  - chips
 type: chip-gallery
 cover:
-  image: 94_pair-1.jpg
-large: 94_set.jpg
+ image: barge_1994_detail.png
+large: barge_1994.jpg
+pdf: barge_1994.pdf
 ---
 
 This set was designed by Roy Hashimoto. A 300 chip home set of these chips was presented to the 1994 BARGE NLHE Champ, Dave Hughes.
