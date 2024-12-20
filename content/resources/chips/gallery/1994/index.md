@@ -13,3 +13,4 @@ This set was designed by Roy Hashimoto. A 300 chip home set of these chips was p
 
 We don&#8217;t have pictures of other chips in this design, but we have seen a white chip with triple edge spots. There may be others.
 
+Chip images provided from the collection of Tom Sims.

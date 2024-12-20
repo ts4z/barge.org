@@ -21,3 +21,5 @@ produce decks of
 After BARGE was over, Steve Jacobs predicited: &#8220;Sorry to say I
 don&#8217;t think any more BARGE chips will ever be made. They were simply too
 much trouble.&#8221; Good thing he was&nbsp; *wrong*!
+
+Photos provided by Bob Herlien.
