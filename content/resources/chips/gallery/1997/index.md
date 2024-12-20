@@ -1,10 +1,10 @@
 ---
 title: "1997: BARGE Champions"
-detail: https://www.bargechips.org/wp-content/uploads/2024/08/97_pair-1.jpg
-large: https://www.bargechips.org/wp-content/uploads/2024/08/97_set.jpg
-cover:
-    image: https://www.bargechips.org/wp-content/uploads/2024/08/97_pair-1.jpg
 type: chip-gallery
+cover:
+ image: barge_1997_detail.png
+large: barge_1997.jpg
+pdf: barge_1997.pdf
 ---
 
 This set was designed by Mike Zimmers. Since Mike forgot to order enough chips

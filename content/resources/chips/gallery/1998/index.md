@@ -1,10 +1,10 @@
 ---
 title: "1998: No Suck Outs"
-detail: https://www.bargechips.org/wp-content/uploads/2024/08/98_pair-1.jpg
-cover:
-    image: https://www.bargechips.org/wp-content/uploads/2024/08/98_pair-1.jpg
-large: https://www.bargechips.org/wp-content/uploads/2024/08/98_set-1.jpg
 type: chip-gallery
+cover:
+ image: barge_1998_detail.png
+large: barge_1998.jpg
+pdf: barge_1998.pdf
 ---
 
 This set was designed by Tom Sims, acting on behalf of the 1997 NLHE winner,

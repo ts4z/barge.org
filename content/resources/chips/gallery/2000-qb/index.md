@@ -6,8 +6,9 @@ tags:
  - chips
 type: chip-gallery
 cover:
-    image: https://www.bargechips.org/wp-content/uploads/2024/08/00_single-1.jpg
-large: https://www.bargechips.org/wp-content/uploads/2024/08/00_set-1.jpg
+ image: barge_QB2000_detail.png
+large: barge_QB2000.jpg
+pdf: barge_QB2000.pdf
 ---
 
 This set was created by Ken Kubey, using the artwork from the BARGE 2000 lapel
