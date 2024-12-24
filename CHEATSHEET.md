@@ -180,6 +180,8 @@ support tables or footnotes.  Ask Tim if he finds this annoying.[^1]
 |                                      are easy |                                                                        |
 |                this column is right-justified | this column is left-justified                                          |
 | (note the colon in the divider controls this) | (all columns are left-justified by default)                            |
+|              this heading is left justfied... | this one is centered...                                                |
+|               ... because the whole column is | ... which is the default, even though the data is left-justified       |
 |                                               | (but you can make this more explicit with a colon in the divider line) |
 |                                               | GFM Markdown tables are not as                                         |
 |                                               | general as HTML tables                                                 |
