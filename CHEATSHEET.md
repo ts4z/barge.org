@@ -49,7 +49,7 @@ avoid using `#` and `===`-underlined titles, because Hugo will add that.
 This title is an h3-type title labeled with hash marks in column 0.
 
 Alternatively, a leading `# ` sequence makes a first-level title (equal-line),
-and "## " makes a second level (dash-line) title.  I prefer `=` and `-`
+and `## ` makes a second level (dash-line) title.  I prefer `=` and `-`
 underlined titles, but these are fine, too.
 
 Note that you must put the `#` followed by a space.  Otherwise some tools will
@@ -92,10 +92,14 @@ Backticks generate `fixed width` text.
 Hugo does not support raw HTML in Markdown, for reasons.  So do not use HTML in
 our Markdown.
 
-You _can_ put HTML in Markdown with the rawhtml shortcode, but please avoid
+You _can_ put HTML in Markdown with the rawhtml shortcode[^2], but please avoid
 this.  It is preferred to use a shortcode for semantic markup, and then we can
 turn that into the specific HTML we want.  See the "tournament" shortcode for
 an interesting example of this.
+
+[^2]: This is a feature of our theme, PaperMod, and not a Hugo feature.  It is
+    easy to add to other themes, but we should avoid it because it leads to
+    ugly pages filled with syntactic markup.
 
 The original Markdown spec assumes one can escape to HTML for anything that
 Markdown omits.  Since we do _not_ have that out, we use shortcodes. See below,
