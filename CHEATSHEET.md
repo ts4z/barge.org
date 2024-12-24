@@ -173,18 +173,19 @@ conveneient standard.
 Note that the BARGE rulebook currently uses a different parser that does not
 support tables or footnotes.  Ask Tim if he finds this annoying.[^1]
 
-|                       tables... | are a common extension         |
-|--------------------------------:|:-------------------------------|
-|                        are easy |                                |
-|                                 |                                |
-|  this column is right-justified | this column is                 |
-|                                 | left-justified                 |
-| (note the colon in the divider) |                                |
-|                                 | GFM Markdown tables are not as |
-|                                 | general as HTML tables         |
-
-
 [^1]: He does.
+
+|                                     tables... | are a common extension                                                 |
+|----------------------------------------------:|------------------------------------------------------------------------|
+|                                      are easy |                                                                        |
+|                this column is right-justified | this column is left-justified                                          |
+| (note the colon in the divider controls this) | (all columns are left-justified by default)                            |
+|                                               | (but you can make this more explicit with a colon in the divider line) |
+|                                               | GFM Markdown tables are not as                                         |
+|                                               | general as HTML tables                                                 |
+|                                               | ... you can't merge cells, for instance                                |
+|                                               | ... for very complicated tables, we might have to use raw HTML,        |
+|                                               | but it hasn't come up yet.                                             |
 
 ## Shortcodes
 
