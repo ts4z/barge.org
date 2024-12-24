@@ -66,27 +66,48 @@ This is a small issue.  Markdown is designed to be easier to read than HTML,
 but the original Markdown spec assumes one can escape to HTML.  Since we do
 _not_ have that out, we use shortcodes. See below, especially the one about br.
 
+# Quotations
+
+> > > A greater-than in column 0 leads to an indent.
+
+> > More than one quote leads to more than one indent.
+
+> Just like email from the old days.
+
+Before top-posting.
+
 # Special characters
 
 If you don't want to have bold and italic, you have to "escape" the \* with a
 backslash, \\\* \<- like this.
 
-Emashes are very useful---Markdown has a special syntax for them: \-\-\-
+Two hyphens make an endash--like that.  You can also use the HTML entity, which is
+&amp;ndash;.
+
+Emashes are very useful---three hyphens, that is, `---`, should do it.  In HTML,
+it's &amp;mdash;.
+
+(It's not clear if GitHub renders these correctly, but I believe they're in the spec.)
 
 In general, Unicode characters are well-supported.  Just use them.  (Characters
 are encoded in UTF-8, which is pretty standard, and easy to confuse with ASCII
 text.)
 
-|            | code    | description         |
-|------------|:--------|---------------------|
-| &amp;amp;  | &amp;   | ampersand           |
-| &amp;9828; | &#9830; | white spade         |
-| &amp;9829; | &#9829; | black (red) heart   |
-| &amp;9830; | &#9830; | black (red) diamond |
-| &amp;9831; | &#9831; | black spade         |
-| &amp;9832; | &#9832; | white heart         |
-| &amp;9832; | &#9833; | white diamond       |
-| &amp;9832; | &#9834; | black club          |
+Another interesting one is that three perioids make an ellipsis...
+
+Some other codes can be typed using HTML entities if you can't remember how to type the Unicode character:
+
+|            | code    | description           |
+|------------|:--------|-----------------------|
+| &amp;amp;  | &amp;   | ampersand             |
+| &amp;9824; | &#9824; | black spade           |
+| &amp;9825; | &#9825; | white heart (avoid)   |
+| &amp;9826; | &#9826; | white diamond (avoid) |
+| &amp;9827; | &#9827; | black spade           |
+| &amp;9828; | &#9828; | white spade  (avoid)  |
+| &amp;9829; | &#9829; | black (red) heart     |
+| &amp;9830; | &#9830; | black (red) diamond   |
+| &amp;9831; | &#9831; | white club (avoid)    |
 
 # Section Dividers
 
