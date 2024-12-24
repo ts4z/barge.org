@@ -128,7 +128,8 @@ Two hyphens make an endash--like that.  You can also use the HTML entity, which 
 Emashes are very useful---three hyphens, that is, `---`, should do it.  In HTML,
 it's &amp;mdash;.
 
-(It's not clear if GitHub renders these correctly, but I believe they're in the spec.)
+(It's not clear if GitHub renders these correctly, but I believe they're in the spec.
+If Hugo doesn't do them, delete this section.)
 
 In general, Unicode characters are well-supported.  Just use them.  (Characters
 are encoded in UTF-8, which is pretty standard, and easy to confuse with ASCII
@@ -204,4 +205,4 @@ since everyone writes poems <br>
 that are very bad
 
 This page is _not_ part of the BARGE site, so we render with raw BR tags.
-If we put this onto a BARGE page, we would want to change `<br>` to `{{< br >}}`.
+If we put this onto a Hugo page, we would want to change `<br>` to `{{< br >}}`.
