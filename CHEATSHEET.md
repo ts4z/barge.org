@@ -19,19 +19,34 @@ Theory of Operation
 HTML is hard to read.  Markdown is easy to read.  More people will help maintain
 documents if they are easy to read.
 
-(It is possible to generate nice human-readable HTML.  Tools don't, they always
-make it look terrible.  See the contents of the OLD directory.  It is harder to
-make ugly Markdown, because Markdown doesn't let you hide your sins so easily.)
+(It is possible to generate nice human-readable HTML, but tools don't.  It is
+harder to make ugly Markdown, because Markdown doesn't let you hide your sins
+so easily.)
+
+Front Matter
+------------
+
+Hugo supports "front matter" on all pages.  This is _required_ on all pages.
+(Note this is not a Hugo page.)  Front matter is not a Markdown thing, it's a
+Hugo thing (I suspect Hugo learned about it from Jekyll).  See README.md for
+some pointers, but if you have `title` and `date` in YYYY-MM-DD format, that's
+a good start.
 
 Titles, headings, and subheadings
 ---------------------------------
 
 Equal-underlined makes big titles.  Dash-underline makes small titles.
 
-The number of dashes don't have to be the same as the text, but if they are,
-isn't it pretty?
+The number of dashes don't have to be the same as the text, but if they are, it
+looks nicer.  Four of either is enough to convince the parser.
+
+Pages have exactly one title, so only the first thing is a title.  After that,
+use subheadings.  Since the title of our documents lives in the frontmatter,
+avoid using `#` and `===`-underlined titles, because Hugo will add that.
 
 ### Other titles
+
+This title is an h3-type title labeled with hash marks in column 0.
 
 Alternatively, a leading `# ` sequence makes a first-level title (equal-line),
 and "## " makes a second level (dash-line) title.  I prefer `=` and `-`
@@ -42,7 +57,7 @@ think it's a hashtag.
 
 #### Other other titles
 
-The title above is a h4.
+The title above is h4.
 
 ##### This is a still smaller title
 
@@ -72,21 +87,21 @@ Backticks generate `fixed width` text.
     this kind of thing.
 ```
 
-# HTML in the Markdown
+## HTML in the Markdown
 
-Hugo does not support raw HTML in Markdown, for reasons.
-
-So, in general, do not use HTML in our Markdown.
+Hugo does not support raw HTML in Markdown, for reasons.  So do not use HTML in
+our Markdown.
 
 You _can_ put HTML in Markdown with the rawhtml shortcode, but please avoid
-this.  It is more useful to use a shortcode for semantic markup, and then we
-can turn that into the specific HTML we want.
+this.  It is preferred to use a shortcode for semantic markup, and then we can
+turn that into the specific HTML we want.  See the "tournament" shortcode for
+an interesting example of this.
 
 The original Markdown spec assumes one can escape to HTML for anything that
 Markdown omits.  Since we do _not_ have that out, we use shortcodes. See below,
 especially the one about br.  You'll need it for haiku.
 
-# Quotations
+## Quotations
 
 > > > A greater-than in column 0 leads to an indent.
 
@@ -98,7 +113,7 @@ especially the one about br.  You'll need it for haiku.
 
 Before top-posting.
 
-# Special characters
+## Special characters
 
 If you don't want to have bold and italic, you have to "escape" the \* with a
 backslash, \\\* \<- like this.
@@ -131,18 +146,19 @@ Some other codes can be typed using HTML entities if you can't remember how to t
 | &amp;9830; | &#9830; | black (red) diamond   |
 | &amp;9831; | &#9831; | white club (avoid)    |
 
-If you find others, extend this list.  A lot of things use the decimal
-representation for the Unicode character number; some stuff will use hex.  Both
-work fine.  (Ask Tim about the iPod 9829 story in person and why he knows this
-number by...heart.)
+If you find others particularly useful, extend this list.
 
-# Section Dividers
+A lot of things use the decimal representation for the Unicode character
+number; some stuff will use hex.  Both work fine.  (Ask Tim about the iPod 9829
+story in person and why he knows this number by...heart.)
+
+## Section Dividers
 
 Three dashes in the left column turn into an \<hr\>.
 
 ---
 
-# Github-Flavored Markdown features
+## Github-Flavored Markdown features
 
 Github has a common Markdown variant called (get this) Github-flavored
 Markdown, or GFM.
@@ -165,7 +181,7 @@ support tables or footnotes.  Ask Tim if he finds this annoying.[^1]
 
 [^1]: He does.
 
-# Shortcodes
+## Shortcodes
 
 Hugo supports "shortcodes".  The details of this are not here.  The
 implementations are in layouts/shortcodes/
