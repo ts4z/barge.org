@@ -199,9 +199,9 @@ In general, we use these for semantic marking that gets turned into HTML.
 One exception is the "br" shortcode, which puts in a line break.  Without it,
 Markdown doesn't represent paragraphs well.
 
-Haiku are needed <br>
-Everyone writes poetry <br>
-That is very bad. 
+BRs are needed <br>
+since everyone writes poems <br>
+that are very bad
 
 This page is _not_ part of the BARGE site, so we render with raw BR tags.
-If we put this onto a BARGE page, we would want to change `\<br\>` to `{{\< br \>}}`.
+If we put this onto a BARGE page, we would want to change `<br>` to `{{< br >}}`.
