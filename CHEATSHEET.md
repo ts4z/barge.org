@@ -13,6 +13,16 @@ is VERY easy to write invalid HTML that _looks_ like it works.)
 
 Feel free to edit this, especially on a branch, and view it in GitHub.
 
+Theory of Operation
+-------------------
+
+HTML is hard to read.  Markdown is easy to read.  More people will help maintain
+documents if they are easy to read.
+
+(It is possible to generate nice human-readable HTML.  Tools don't, they always
+make it look terrible.  See the contents of the OLD directory.  It is harder to
+make ugly Markdown, because Markdown doesn't let you hide your sins so easily.)
+
 Titles, headings, and subheadings
 ---------------------------------
 
@@ -23,14 +33,24 @@ isn't it pretty?
 
 ### Other titles
 
-Alternatively, a leading "# " sequence makes a first-level title (equal-line),
-and "## " makes a second level (dash-line) title
+Alternatively, a leading `# ` sequence makes a first-level title (equal-line),
+and "## " makes a second level (dash-line) title.  I prefer `=` and `-`
+underlined titles, but these are fine, too.
+
+Note that you must put the `#` followed by a space.  Otherwise some tools will
+think it's a hashtag.
 
 #### Other other titles
 
+The title above is a h4.
+
 ##### This is a still smaller title
 
-###### This is for the severely OCD
+The title above is h5.
+
+###### Level 6 headings are fun for the very well-organized
+
+Remember, anal-retentive is spelled with a hyphen.
 
 ## Italics and bold
 
@@ -38,7 +58,7 @@ Either marked with *asterisks* or _underline_ makes italics.
 
 Anything marked with **two stars** is bold.
 
-Of course, _**bold italic**_ is a thing, I think.
+And, of course, there is always _**bold italic**_.
 
 ## Fixed-width
 
@@ -54,23 +74,25 @@ Backticks generate `fixed width` text.
 
 # HTML in the Markdown
 
-(This is like getting peanut butter in the chocolate.)
+Hugo does not support raw HTML in Markdown, for reasons.
 
-In general, do not use HTML in Markdown.  Hugo won't tolerate it.
+So, in general, do not use HTML in our Markdown.
 
-You can put HTML in Markdown with the rawhtml shortcode, but please avoid this.
-It is more useful to use a shortcode for semantic markup and then we can turn that
-into the specific HTML we want.
+You _can_ put HTML in Markdown with the rawhtml shortcode, but please avoid
+this.  It is more useful to use a shortcode for semantic markup, and then we
+can turn that into the specific HTML we want.
 
-This is a small issue.  Markdown is designed to be easier to read than HTML,
-but the original Markdown spec assumes one can escape to HTML.  Since we do
-_not_ have that out, we use shortcodes. See below, especially the one about br.
+The original Markdown spec assumes one can escape to HTML for anything that
+Markdown omits.  Since we do _not_ have that out, we use shortcodes. See below,
+especially the one about br.  You'll need it for haiku.
 
 # Quotations
 
 > > > A greater-than in column 0 leads to an indent.
 
 > > More than one quote leads to more than one indent.
+> > Naturally, these can span multiple lines,
+> > but will be paragrah-breaked in the usual way.
 
 > Just like email from the old days.
 
@@ -108,6 +130,11 @@ Some other codes can be typed using HTML entities if you can't remember how to t
 | &amp;9829; | &#9829; | black (red) heart     |
 | &amp;9830; | &#9830; | black (red) diamond   |
 | &amp;9831; | &#9831; | white club (avoid)    |
+
+If you find others, extend this list.  A lot of things use the decimal
+representation for the Unicode character number; some stuff will use hex.  Both
+work fine.  (Ask Tim about the iPod 9829 story in person and why he knows this
+number by...heart.)
 
 # Section Dividers
 
@@ -153,4 +180,4 @@ Everyone writes poetry <br>
 That is very bad. 
 
 This page is _not_ part of the BARGE site, so we render with raw BR tags.
-If we put this onto a BARGE page, we would want to change \<br\> to {{\< br \>}}.
+If we put this onto a BARGE page, we would want to change `\<br\>` to `{{\< br \>}}`.
