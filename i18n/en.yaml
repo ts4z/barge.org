@@ -1,0 +1,5 @@
+- id: older_page
+  translation: "Older"
+
+- id: newer_page
+  translation: "Newer"
