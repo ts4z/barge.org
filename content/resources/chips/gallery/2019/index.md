@@ -2,10 +2,10 @@
 title: "2019: ADB BINGO"
 draft: false
 type: chip-gallery
-large: barge_2019.jpg
-pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2019.pdf
+large: barge_2019.png
+pdf: barge_2019.pdf
 cover:
-  image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2019_detail.png
+  image: barge_2019_detail.png
 ---
 
 > On behalf of our 2018 champion, Don Rieck Don “BINGO” Rieck, I’m pleased to

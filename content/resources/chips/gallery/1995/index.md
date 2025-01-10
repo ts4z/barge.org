@@ -3,7 +3,7 @@ title: "1995: Presto! for Blackjack and Poker"
 type: chip-gallery
 cover:
  image: barge_1995_detail.png
-large: barge_1995.jpg
+large: barge_1995.png
 pdf: barge_1995.pdf
 ---
 

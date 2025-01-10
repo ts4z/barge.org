@@ -6,10 +6,9 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-detail: https://www.bargechips.org/wp-content/uploads/2024/08/2003_detail.jpg
 cover:
-    image: https://www.bargechips.org/wp-content/uploads/2024/08/2003_detail.jpg
-large: barge_2003.jpg
+    image: barge_2003_detail.png
+large: barge_2003.png
 ---
 
 These chips were created by BARGE 2002 NLHE Champion Mike &#8220;Howler&#8221;

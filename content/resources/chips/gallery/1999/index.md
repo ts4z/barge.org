@@ -3,7 +3,7 @@ title: "1999: Fish"
 type: chip-gallery
 cover:
  image: barge_1999_detail.png
-large: barge_1999.jpg
+large: barge_1999.png
 pdf: barge_1999.pdf
 ---
 

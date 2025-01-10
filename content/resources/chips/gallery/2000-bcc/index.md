@@ -8,8 +8,8 @@ tags:
  - bcc
 type: chip-gallery
 cover:
-    image: https://www.bargechips.org/wp-content/uploads/2024/08/2000_detail.jpg
-large: barge_2000.jpg
+    image: barge_2000_detail.png
+large: barge_2000.png
 pdf: barge_2000.pdf
 ---
 

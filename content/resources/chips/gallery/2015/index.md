@@ -6,10 +6,9 @@ tags:
  - bcc
 type: chip-gallery
 cover:
-  image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2015_details.png
-detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2015_details.png
-large: barge_2015.jpg
-pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2015.pdf
+  image: barge_2015_detail.png
+large: barge_2015.png
+pdf: barge_2015.pdf
 ---
 		
 From the 2015 annoucement for the sampler sets:

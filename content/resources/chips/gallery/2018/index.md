@@ -6,13 +6,13 @@ tags:
  - bcc
 type: chip-gallery
 pdf: barge_2018.pdf
-large: barge_2018.jpg
+large: barge_2018.png
 cover:
   image: barge_2018_detail.png
 ---
 
 (Most of this text was likely from Michael Brennan, and it was liberated from a
-previous iteration of bargechips.org held by the Internet Archive. Some small
+snapshot of bargechips.org held by the Internet Archive. Some small
 edits have been made to make it match the rest of this site.)
 
 ## Introducing the 2018 BARGE Chips

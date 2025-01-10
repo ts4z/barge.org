@@ -8,8 +8,7 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-large: barge_2005.jpg
-edges: https://www.bargechips.org/wp-content/uploads/2024/08/2005_edges.gif
+large: barge_2005.png
 ---
 
 This year, the theme is Las Vegas Neon. Each chip in the chip set has a common

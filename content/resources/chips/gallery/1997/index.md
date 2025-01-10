@@ -3,7 +3,7 @@ title: "1997: BARGE Champions"
 type: chip-gallery
 cover:
  image: barge_1997_detail.png
-large: barge_1997.jpg
+large: barge_1997.png
 pdf: barge_1997.pdf
 ---
 

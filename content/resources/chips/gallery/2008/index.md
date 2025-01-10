@@ -8,8 +8,9 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-large: barge_2008.jpg
-edges: https://www.bargechips.org/wp-content/uploads/2024/08/2008_edges.gif
+large: barge_2008.png
+cover:
+  image: barge_2008_detail.png
 ---
 
 This year, the theme is &#8220;Pickle Magic.&#8221; Each chip in the chip set

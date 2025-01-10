@@ -8,7 +8,7 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-large: barge_2007.jpg
+large: barge_2007.png
 ---
 
 This year, the theme is &#8220;Presto in Everyday Life.&#8221; Each chip in the

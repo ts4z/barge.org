@@ -7,7 +7,7 @@ tags:
 type: chip-gallery
 cover:
   image: barge_2011_detail.png
-large: barge_2011.jpg
+large: barge_2011.png
 pdf: barge_2011.pdf
 ---
 

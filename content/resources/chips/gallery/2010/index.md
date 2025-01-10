@@ -7,7 +7,7 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-large: barge_2010.jpg
+large: barge_2010.png
 pdf: barge_2010.pdf
 ---
 

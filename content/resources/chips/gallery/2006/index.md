@@ -8,7 +8,7 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-large: barge_2006.jpg
+large: barge_2006.png
 ---
 
 The first five chips in this set are dedicated to recently departed

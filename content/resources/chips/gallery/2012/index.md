@@ -5,11 +5,10 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012_details.png
 cover:
-  image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012_details.png
-large: barge_2012.jpg
-pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2012.pdf
+  image: barge_2012_detail.png
+large: barge_2012.png
+pdf: barge_2012.pdf
 ---
 
 From the announcement for the 2012 chips:
