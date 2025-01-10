@@ -3,7 +3,7 @@ title: "1996: Horeseshoe + Presto"
 type: chip-gallery
 cover:
  image: barge_1996_detail.png
-large: barge_1996.jpg
+large: barge_1996.png
 pdf: barge_1996.pdf
 
 ---

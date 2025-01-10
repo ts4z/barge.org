@@ -7,7 +7,7 @@ tags:
 type: chip-gallery
 cover:
  image: barge_QB2000_detail.png
-large: barge_QB2000.jpg
+large: barge_QB2000.png
 pdf: barge_QB2000.pdf
 ---
 

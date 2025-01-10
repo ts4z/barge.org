@@ -5,11 +5,10 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-detail: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2014_details.png
 cover:
-  image: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2014_details.png
-large: barge_2014.jpg
-pdf: https://www.bargechips.org/wp-content/uploads/2024/09/barge_2014.pdf
+  image: barge_2014_detail.png
+large: barge_2014.png
+pdf: barge_2014.pdf
 ---
 
 (This text was recovered from a previous Barge chip site and has been lightly edited, if at all.)
@@ -113,5 +112,3 @@ THE RED CHIP: Yes I know that the wheel was believed to have been invented in an
 THE YELLOW CHIP: When you are climbing a long steep hill (like one of our Colorado mountain passes) on a bicycle the most welcome sign you see is the one of a truck on a triangle indicating a down grade is starting. There are actually signs using bikes not trucks and Michael Brennan has faithfully copied that graphic for the yellow chip. If I catch a fairly straight 8% downgrade on my road bike I am good for top speeds in excess of 40 mph, the pros go much faster. Of course if I have a bicycle and all you have is a pair. You aren&#8217;t catching me.
 
 THE PINK CHIP: We had to do something about the big wheel you see at the entrance to nearly every casino in Las Vegas. Generally this is a very negative EV bet. I figured if BARGE had such a wheel it would look like this and be positive EV because it is still OK to have fun in Las Vegas.
-
-[A smaller image of the nine chips and the edges is available here.](https://www.bargechips.org/wp-content/uploads/2024/09/barge_2014.jpg)

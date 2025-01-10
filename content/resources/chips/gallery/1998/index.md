@@ -3,7 +3,7 @@ title: "1998: No Suck Outs"
 type: chip-gallery
 cover:
  image: barge_1998_detail.png
-large: barge_1998.jpg
+large: barge_1998.png
 pdf: barge_1998.pdf
 ---
 

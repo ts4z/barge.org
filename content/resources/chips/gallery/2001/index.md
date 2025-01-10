@@ -6,10 +6,9 @@ tags:
  - chips
  - bcc
 type: chip-gallery
-detail: https://www.bargechips.org/wp-content/uploads/2024/08/2001_detail.jpg
 cover:
-    image: https://www.bargechips.org/wp-content/uploads/2024/08/2001_detail.jpg
-large: barge_2001.jpg
+    image: https://www.bargechips.org/wp-content/uploads/2024/08/barge_2001_detail.png
+large: barge_2001.png
 ---
 
 All chips in the **2001: A Poker Odyssey** set have a common obverse (Buzz
