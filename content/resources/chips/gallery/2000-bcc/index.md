@@ -27,4 +27,4 @@ Las Vegas, Nevada.
 All 8 chips have a common obverse. There are 4 chips with Chris and 4 chips with Spencer on the face.
 
 This is the first chip produced by the BARGE Chip Committee, and was actually produced in 2001.
-[QB's 2000 chips](2000-qb) were actually available at BARGE in 2000.
+[QB's 2000 chips](../2000-qb) were actually available at BARGE in 2000.
