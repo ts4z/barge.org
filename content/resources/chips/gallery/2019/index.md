@@ -14,5 +14,11 @@ cover:
 > you to order your sample chipsets and accept a challenge: drink the chipset
 > at BARGE! Ribbons will be waiting!
 
-Of course, these chips look especially great stacked up!  [part 1](side1.jpg) 
-[part 2](side2.jpg)  Stack photos by Ken Kubey.
+Of course, these chips look especially great stacked up!
+
+{{< figure src="side1.jpg"
+  link="side1.jpg"
+  caption="Photo by Ken Kubey" >}}
+{{< figure src="side2.jpg"
+  link="side2.jpg"
+  caption="Photo by Ken Kubey" >}}
