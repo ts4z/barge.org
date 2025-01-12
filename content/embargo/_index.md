@@ -8,7 +8,7 @@ weight: -5
 ---
 
 Quick Links for EMBARGO: [Schedule](/schedule1) &mdash; [Results](results/) 
-&mdash; [Next Event Registration](https://barge.regfox.com/embargo-2025) &mdash;
+&mdash;
 [View Registrations](https://secure.barge.org/embargo2025review.php)
 
 __________
