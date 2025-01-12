@@ -20,8 +20,11 @@ params:
     - blog/trip-reports
     - news
   ctas:
-    - link: https://barge.regfox.com/embargo-2025
-      text: EMBARGO 2025 registration is now open!
+  # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
+  # Each CTA should be made of a link and a display text.  Any number of CTAs
+  # are supported, but try to limit yourself to one or two.
+  #   - link: /embargo/
+  #     text: EMBARGO 2025 is January 16-19 at Resorts World!
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
@@ -51,3 +54,4 @@ outputs:
   home:
     - HTML
     - RSS
+Local Variables:
