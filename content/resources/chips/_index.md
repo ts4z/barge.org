@@ -1,8 +1,7 @@
 ---
 title: BARGE Chips
 draft: false
-alias: 
- - /chips
+aliases: 
  - /barge-chips
 type: directory
 cover:
@@ -25,7 +24,7 @@ them.
 [The gallery](gallery/) starts in [1993](gallery/1993/) and ends in [2019](gallery/2019/).
 
 Thanks to Patrick Milligan, 
-[BR Pro Poker](https://brpropoker.com/)
+[BR Pro Poker](https://brpropoker.com/),
 Michael Brennan,
 and 
 [the](https://web.archive.org/web/20120811021227/http://bargechips.acesquared.com/)
