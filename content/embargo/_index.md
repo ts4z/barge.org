@@ -81,5 +81,5 @@ Well, if you know who to praise, you can use the organizer emails above and
 send them lots of love. However, if you have a complaint, gripe, or other issue
 with anything you see above about EMBARGO (the event), remember that it is
 organized by the organizers under the direction of the [BARGE,
-Inc. directors](/inc/officers)&mdash;you should be talking to them
+Inc.](/inc/) [directors](/inc/officers)&mdash;you should be talking to them
 rather than the organizers.
