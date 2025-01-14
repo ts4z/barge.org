@@ -90,6 +90,6 @@ former organizer, Mike Zimmers.
 
 If you have a complaint, gripe, or other issue with anything you see above
 about BARGE (the event), remember that it is organized by the organizers under
-the direction of the BARGE Inc. directors &mdash; the directors are probably
+the direction of the [BARGE, Inc.](/inc/) directors &mdash; the directors are probably
 who you want to work with.  A list of directors can be found
 [here](/inc/officers).
