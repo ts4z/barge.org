@@ -6,6 +6,8 @@ itemsOnTop: true
 aliases:
  - /paraphernalia
  - /stuff
+params:
+ notInMainMenu: true
 ---
 
 Sometimes, people make stuff and share it at BARGE. Sometimes we take

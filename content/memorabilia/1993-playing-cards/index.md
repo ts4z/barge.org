@@ -8,7 +8,9 @@ tags:
 ---
 
  
-Michael &#8220;kidZee&#8221; Zimmers used the [1993 chip](/resources/chips/1993/) artwork to produce decks of&nbsp;playing cards.
+Michael &#8220;kidZee&#8221; Zimmers used the 
+[1993 chip](../../chips/gallery/1993/) artwork to produce decks of&nbsp;playing
+cards.
 
 {{< figure src="93_cards-1.jpg" 
 caption="Photo supplied by Scott Burrington" >}}
