@@ -10,6 +10,6 @@ tags:
 
 Enjoy! <!--more--> 
 
-[ATLARGE has its own site here.](https://www.atlargepoker.com/)
+[ATLARGE has its own site here.](https://atlargepoker.com/)
 
 {{< youtube id="ZP7sEpPKBgA" >}}
