@@ -4,8 +4,8 @@ draft: false
 type: directory
 itemsOnTop: true
 aliases:
- - paraphernalia
- - stuff
+ - /paraphernalia
+ - /stuff
 ---
 
 Sometimes, people make stuff and share it at BARGE. Sometimes we take
