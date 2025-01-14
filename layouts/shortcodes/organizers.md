@@ -1,6 +1,6 @@
-[Russ Fox](russ@barge.org),
-[Rich Bremer](omaholic@barge.org),
-[Jeff Deitch](blofeld@barge.org),
-[Stevan Goldman](goldie@barge.org),
+[Russ Fox](mailto:russ@barge.org),
+[Rich Bremer](mailto:omaholic@barge.org),
+[Jeff Deitch](mailto:blofeld@barge.org),
+[Stevan Goldman](mailto:goldie@barge.org),
 and
-[Sharon Goldman](sharon@barge.org)
+[Sharon Goldman](mailto:sharon@barge.org)
