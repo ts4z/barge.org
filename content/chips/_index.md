@@ -25,15 +25,20 @@ them.
 
 [The gallery](gallery/) starts in [1993](gallery/1993/) and ends in [2019](gallery/2019/).
 
-Thanks to Patrick Milligan, 
+Special thanks to Patrick Milligan for reaching out to many folks who were
+able to share images of chips from their collections.  Patrick also re-scanned and
+edited a lot of these to get the best quality images we could.
+
+Thanks also to
 [BR Pro Poker](https://brpropoker.com/),
 Michael Brennan,
 and 
 [the](https://web.archive.org/web/20120811021227/http://bargechips.acesquared.com/)
 [Internet](https://web.archive.org/web/20120623142829/http://www.pokerart.com/)
-[Archive](https://web.archive.org/web/20180902101041/https://bargechips.org/).
+[Archive](https://web.archive.org/web/20180902101041/https://bargechips.org/)
+for the opportunity to dig through their archives.
 
-There is even more [BARGE memorabilia](../memorabilia//) that we will add in the future. 
+There is even more [BARGE memorabilia](../memorabilia/) that we will add in the future.
 
 Please [contact us](mailto:tim.showalter@gmail.com) if you have images or
 corrections. We&#8217;re missing some Purple Chips, and probably others, and
