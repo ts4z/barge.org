@@ -14,13 +14,17 @@ This set was designed by Roy Hashimoto. A 300 chip home set of these chips was
 presented to the 1994 BARGE NLHE Champ, Dave Hughes.
 
 There were four chips sold in the sample set: blue, red, green, and black.
-Purple chips were given out for special reasons.  We also have seen a white
-chip, pictured below, but this wasn't part of the original set.  Roy tells us:
+Purple chips were given out for special reasons.  We also have a white chip
+pictured below, but this wasn't part of the original set.  In 2025, Roy told us
+this:
 
 > Your white BARGE 1994 chip is a bit of a mystery. [...]
 > There was someone who ordered a full usable set of several hundred
 > chips. My best guess is that I allowed them to choose whatever colors
 > they wanted and the chip you have somehow comes from that set.
+
+We eventually figured out that someone ordered a large set of chips with whites
+instead of blues and sometimes gave away a white chip.
 
 These chips also look suspiciously like the cover of [Winning Low Limit
 Hold'em](https://www.amazon.com/Winning-Low-Limit-Holdem-Lee-Jones/dp/1886070237)
