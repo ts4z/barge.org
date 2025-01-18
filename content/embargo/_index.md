@@ -33,15 +33,14 @@ off-season complement to our long-running BARGE event.
 
 #### 2025 information
 
-* [Register now!](https://barge.regfox.com/embargo-2025)
 * [View Schedule]({{< relref schedule >}})
 * [View Registrations](https://secure.barge.org/embargo2025review.php)
+* [View Structures](2025_EMBARGO_Structures.pdf)
+* [View Results](results/2025/)
 
 #### 2024 information
 
-* [View Schedule]({{< relref schedule >}})
 * [View Structures](2024+2+EMBARGO+Structures.pdf)
-* [View Results](results/2024)
 
 ### Who is Eligible to Register for EMBARGO?
 
@@ -70,10 +69,10 @@ When held live, all EMBARGO events are non-smoking.
 
 ### So Who Are the &quot;Organizers&quot; Anyway?
 
-EMBARGO 2024 is being organized by {{% organizers %}}
-with more than occasional advice and emergency help from Chuck Weinstock and
-Peter Secor, BARGE Organizers Emeritus. We also wish to give a &quot;shout
-out&quot; to BARGE elder statesman and former organizer, Mike Zimmers.
+EMBARGO 2024 is being organized by {{% organizers %}} with more than
+occasional advice and emergency help from Chuck Weinstock and Peter Secor,
+BARGE Organizers Emeritus. We also wish to give a &quot;shout out&quot; to
+BARGE elder statesman and former organizer, Mike Zimmers.
 
 ### But I have a question/complaint/praise/gripe? Who should I contact?
 
@@ -81,5 +80,5 @@ Well, if you know who to praise, you can use the organizer emails above and
 send them lots of love. However, if you have a complaint, gripe, or other issue
 with anything you see above about EMBARGO (the event), remember that it is
 organized by the organizers under the direction of the [BARGE,
-Inc.](/inc/) [directors](/inc/officers)&mdash;you should be talking to them
+Inc.](/inc/) [directors](/inc/officers/)&mdash;you should be talking to them
 rather than the organizers.
