@@ -11,7 +11,6 @@ pdf: barge_1993.pdf
 ---
 
 {{< figure src="1993_chip_case_thumbnail.png"
-    height="200px"
     link="1993_chip_case.png"
     class="floatright40" 
     caption="The first chip set. Picture provided by Roy Hashimoto." >}}
