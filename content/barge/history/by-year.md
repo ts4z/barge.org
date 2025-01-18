@@ -240,7 +240,7 @@ now known as [Craft Poker](https://www.craftpoker.com/).
 Russ Fox became the first two-time winner of the BARGE Main Event.
 Historians will argue if a zero-dollar virtual tournament win counts (it does).
 
-[Complete results at BARGE 2020.](/barge/results/2020)
+[Complete results at BARGE 2020](/barge/results/2020)
 
 ## 2021
 
