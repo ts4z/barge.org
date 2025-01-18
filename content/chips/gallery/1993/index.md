@@ -27,5 +27,9 @@ After BARGE was over, Steve Jacobs predicited: &#8220;Sorry to say I
 don&#8217;t think any more BARGE chips will ever be made. They were simply too
 much trouble.&#8221; Good thing he was&nbsp; *wrong*!
 
+We have the text of [the original annoucement](original-announcement.txt) (reformatted
+somewhat due to being mangled by various Usenet archviers).
+
 Photo of the green chip at the top and the complete 7-chip set provided by Bob
 Herlien.
+
