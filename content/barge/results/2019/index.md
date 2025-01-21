@@ -222,7 +222,7 @@ tags:
 |  6 | Doug &quot;snoop&quot; Grismore      | $1,029 |
 |  7 | Jim Anderson                         | $686   |
 |  8 | Paul &quot;prm&quot; McMullin        | $514   |
-|  9 | Roy Cooke $343                       | $343   |
+|  9 | Roy Cooke                            | $343   |
 | 10 | David &quot;sam_6&quot; Lawful       | $343   |
 | 11 | Kenny &quot;QB&quot; Kubey           | $257   |
 | 12 | Patti Beadles                        | $257   |
