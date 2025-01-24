@@ -2,7 +2,6 @@
 title: BARGE, Inc.
 href: /inc/
 draft: false
+type: pointer
 ---
 
-This page exists to make the [BARGE, Inc.](/inc/) accessible
-on the [Resources](/resources/) page.

@@ -2,7 +2,6 @@
 title: BARGE Chips
 href: /chips/
 draft: false
+type: pointer
 ---
 
-This page exists to make the [Chips page](/chips/) accessible
-on the [Resources](../resources/) page.
