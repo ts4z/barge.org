@@ -5,7 +5,7 @@ weight: -10
 tags:
  - barge
 ---
-Quick Links for BARGE: [Schedule](2024-schedule) &mdash; [Results](results/)
+Quick Links for BARGE: [Schedule](2025/schedule) &mdash; [Results](results/)
 
 
 {{< figure src=BARGE-2013-815x302-1920w.jpg
