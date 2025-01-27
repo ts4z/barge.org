@@ -41,6 +41,4 @@ for the opportunity to dig through their archives.
 There is even more [BARGE memorabilia](../memorabilia/) that we will add in the future.
 
 Please [contact us](mailto:tim.showalter@gmail.com) if you have images or
-corrections. We&#8217;re missing some Purple Chips, and probably others, and
-there are many other things that have been made that we haven&#8217;t yet
-collected images of.
+corrections.
