@@ -26,7 +26,7 @@ params:
   #   - link: /embargo/
   #     text: EMBARGO 2025 is January 16-19 at Resorts World!
     - link: /barge/
-      text: BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casino in Las Vegas!
+      text: BARGE 2025 will be held July 28 through August 2 <br> at the Orleans Hotel &amp; Casino in Las Vegas!
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
