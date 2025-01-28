@@ -4,9 +4,6 @@ draft: false
 tags:
  - history
 type: directory
-aliases:
- - /barge-history
- - /history
 summary: BARGE 2025 will be our 35th event...
 ---
  
