@@ -6,6 +6,9 @@ aliases:
  - /barge-2024-schedule
  - /history/2024
 summary: 2024 Schedule of events.
+tags:
+ - barge
+ - 2024
 ---
 
 |       Day | Date    | Time    | Event                                                                                                            | Entry Fee            | Notes      |
