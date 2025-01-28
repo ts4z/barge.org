@@ -11,8 +11,7 @@ params:
   notInMainMenu: true
 ---
 
-{{< figure class="floatright40"
-    src="https://www.bargechips.org/wp-content/uploads/2024/09/bargechipslogo.png" >}}
+{{< figure class="floatright40" src="bargechipslogo.png" >}}
 
 You're probably here for [the gallery](gallery/).
 
