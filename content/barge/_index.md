@@ -5,24 +5,28 @@ weight: -10
 tags:
  - barge
 ---
-Quick Links for BARGE: [Schedule](2025/schedule) &mdash; [Results](results/)
+Quick Links for BARGE: [Schedule](2025/schedule/) &mdash; [Results](results/)
 
 
 {{< figure src=BARGE-2013-815x302-1920w.jpg
     caption="BARGE 2013 Group Picture" >}}
 
               
-BARGE is the
-**Big Annual Rec.Gambling Excursion**
-(to Las Vegas). This is our annual venture out of cyberspace into the Real World in which we get together to meet each other face-to-face, participate in several BARGE-private events, and generally blow off steam (not hard to do in Las Vegas in July/August).
+BARGE is the **Big Annual Rec.Gambling Excursion** (to Las Vegas). This is our
+annual venture out of cyberspace into the Real World in which we get together
+to meet each other face-to-face, participate in several BARGE-private events,
+and generally blow off steam (not hard to do in Las Vegas in July/August).
 
 In order to participate in BARGE: you must register via the Internet.
 
 ### Location
 
 BARGE is held at a Las Vegas resort/casino that can accomidate 100-200 poker
-players doing shenanigans. BARGE 2024 was held at the Westgate just off of the
-Las Vegas Strip!
+players doing shenanigans. 
+
+[BARGE 2025](2025/schedule/) will be held at the Orleans Hotel & Casino
+
+[BARGE 2024](2024/) was held at the Westgate just off of the Las Vegas Strip.
 
 ### Registration
 
@@ -90,6 +94,6 @@ former organizer, Mike Zimmers.
 
 If you have a complaint, gripe, or other issue with anything you see above
 about BARGE (the event), remember that it is organized by the organizers under
-the direction of the [BARGE, Inc.](/inc/) directors &mdash; the directors are probably
-who you want to work with.  A list of directors can be found
+the direction of the [BARGE, Inc.](/inc/) directors &mdash; the directors are
+probably who you want to work with.  A list of directors can be found
 [here](/inc/officers).
