@@ -11,19 +11,18 @@ tags:
 summary: By the next year, I had already gone to my first RGP event (ESCARGOT '99) and was eager to attend my first BARGE.
 ---
 
-```
-Path: archiver1.google.com!news1.google.com!newsfeed.stanford.edu
-    !news-spur1.maxwell.syr.edu!news.maxwell.syr.edu!newsfeed1.cidera.com
-    !Cidera!ngpeer.news.aol.com!audrey05.news.aol.com!not-for-mail
-Lines: 33
-X-Admin: n...@aol.com
-From: eae...@aol.comhatespam (ADV Beth)
-Newsgroups: rec.gambling.poker
-Date: 11 Jul 2002 23:18:57 GMT
-Organization: AOL http://www.aol.com
-Subject: A Brief History of the BARGE Virgins
-Message-ID: <20020711191857.02004.00000076@mb-mv.aol.com>
-```
+For your first BARGE, you're a Virgin.  Traditionally, there's a "virgin queen"
+nominated from the virgins, typically the first one who posts to the mailing
+list in a given batch.
+
+Here's some more context.
+
+## The Beginning of the Virgin Tradition
+
+`From: eae...@aol.comhatespam (ADV Beth)` {{< br >}}
+`Newsgroups: rec.gambling.poker` {{< br >}}
+`Date: 11 Jul 2002 23:18:57 GMT` {{< br >}}
+`Subject: A Brief History of the BARGE Virgins` {{< br >}}
 
 [posted & emailed to the BARGE mailing list]
 
@@ -80,5 +79,3 @@ Scottro and the 2001 Virgins led by North Shore Mike.
 
 -----
 
-This message has been on the BARGE site for a long time, but I sourced the details from
-[Zbigniew's collection](https://zbigniew.pyrzqxgl.com/bargevirginhistory.html). --ts4z
