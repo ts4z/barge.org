@@ -4,6 +4,7 @@ date: 2024-07-01
 draft: false
 aliases:
  - /barge-2024-schedule
+ - /2024-schedule
 summary: 2024 Schedule of events.
 tags:
  - barge
