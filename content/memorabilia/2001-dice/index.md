@@ -3,10 +3,10 @@ title: 2001 BARGE YO 11 Dice
 date: 2001-08-01
 draft: false
 tags:
- - dice
- - yo
  - 2001
+ - dice
  - qb
+ - yo
 cover:
   image: IMG_6432.jpg
 summary: Dice made for the 11th BARGE in 2001.
