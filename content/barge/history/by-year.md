@@ -240,7 +240,7 @@ now known as [Craft Poker](https://www.craftpoker.com/).
 Russ Fox became the first two-time winner of the BARGE Main Event.
 Historians will argue if a zero-dollar virtual tournament win counts (it does).
 
-[Complete results at BARGE 2020](/barge/results/2020)
+[Complete results for BARGE 2020](/barge/results/2020)
 
 ## 2021
 
@@ -249,13 +249,13 @@ Las Vegas was still closed.  COVID's Delta variant hit just before BARGE
 and Nevada required staff to mask up.  Then, on Thursday, the players had to mask up, too.
 We still played a lot of poker.
 
-[Complete results at BARGE 2021](/barge/results/2021)
+[Complete results for BARGE 2021](/barge/results/2021)
 
 ## 2022
 
 This year's BARGE was at Westgate.
 
-[Complete results at BARGE 2022](/barge/results/2022)
+[Complete results for BARGE 2022](/barge/results/2022)
 
 ## 2023
 
@@ -265,10 +265,10 @@ Rich Bremer becomes the second repeat winner of the Main Event.
 
 The Saturday night PL Binglaha ran until about 8AM on Sunday.
 
-[Complete results at BARGE 2023](/barge/results/2023)
+[Complete results for BARGE 2023](/barge/results/2023)
 
 ## 2024
 
 This year's BARGE was at Westgate. 
 
-[Complete results at BARGE 2024](/barge/results/2024)
+[Complete results for BARGE 2024](/barge/results/2024)
