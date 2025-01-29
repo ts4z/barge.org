@@ -13,11 +13,7 @@ Quick Links for EMBARGO: [Schedule](/schedule1) &mdash; [Results](results/)
 
 __________
 
-{{< figure src=EMBARGO+2020+Attendee+Photo-1920w.jpg
-    caption="EMBARGO 2020 Group Photo" >}}
-
-{{< figure src=EMBARGO-202016-20Group-20Photo-800x533.jpg
-    caption="EMBARGO 2016 Group Photo" >}}
+![](/images/EMBARGO-202016-20Group-20Photo-800x533.jpg)
 
 ## EMBARGO Details
 
