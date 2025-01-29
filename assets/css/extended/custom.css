@@ -37,6 +37,20 @@ body {
     box-shadow: 0 1px 0 0;
 }
 
+.next-event-wrapper {
+    color: #000000;
+    padding: 2px;
+    text-align: center;
+}
+
+.next-event-wrapper-wrapper {}
+
+.next-event-text {
+    font-size: large;
+    text-align: center;
+    box-shadow: 0 1px 0 0;
+}
+
 .floatright40 {
     float: right;
     width: 40%
