@@ -7,11 +7,8 @@ tags:
 ---
 Quick Links for BARGE: [Schedule](2025/schedule/) &mdash; [Results](results/)
 
-
-{{< figure src=BARGE-2013-815x302-1920w.jpg
-    caption="BARGE 2013 Group Picture" >}}
-
-              
+![](/images/BARGE-2013-815x302-1920w.jpg)
+             
 BARGE is the **Big Annual Rec.Gambling Excursion** (to Las Vegas). This is our
 annual venture out of cyberspace into the Real World in which we get together
 to meet each other face-to-face, participate in several BARGE-private events,
