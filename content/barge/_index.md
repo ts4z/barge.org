@@ -5,7 +5,7 @@ weight: -10
 tags:
  - barge
 ---
-Quick Links for BARGE: [Schedule](2025/schedule/) &mdash; [Results](results/)
+Quick Links for BARGE: [2025 Schedule](2025/schedule/) &mdash; [Results](results/)
 
 ![](/images/BARGE-2013-815x302-1920w.jpg)
              
@@ -21,7 +21,7 @@ In order to participate in BARGE: you must register via the Internet.
 BARGE is held at a Las Vegas resort/casino that can accomidate 100-200 poker
 players doing shenanigans. 
 
-[BARGE 2025](2025/schedule/) will be held at the Orleans Hotel & Casino
+[BARGE 2025](2025/schedule/) will be held at the Orleans Hotel &amp; Casino!
 
 [BARGE 2024](2024/) was held at the Westgate just off of the Las Vegas Strip.
 
