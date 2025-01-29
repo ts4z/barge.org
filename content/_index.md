@@ -13,7 +13,7 @@ cover:
 BARGE is the most fun you can have while playing poker...
 ===============
 
-This is the home of BARGE, the Big August Rec.Gambling Excursion. BARGE is an
+This is the home of [BARGE](barge/), the Big August Rec.Gambling Excursion. BARGE is an
 online community of poker enthusiasts that hosts an annual event (of the same
 name) in Las Vegas, NV typically during the week leading up to the first
 Saturday in August. The event features several poker tournaments, as well as a
@@ -21,14 +21,14 @@ wide variety of non-poker related activities including dinners, karaoke, a golf
 outing, a sushi outing, a fun run, room escapes, shows, and
 shopping. Activities can vary from year to year and are based on whatever
 people choose to organize. In recent years, we have also hosted a winter event,
-known as EMBARGO.
+known as [EMBARGO](embargo/).
 
 Our members communicate throughout the year via email, Facebook, Twitter and
 other means (including in person).  BARGE began in 1991 and membership has
 grown significantly over the years.  Our members come from all professions and
 ages.  The poker accomplishments of our members include over 20 WSOP bracelet
 winners as well as other major tournaments (WPT, WSOP Circuit). Although we do
-find that many of our members have backgrounds in technology, science and the
+find that many of our members have backgrounds in technology, science, and the
 law, we welcome and encourage people to join regardless of their professional
 backgrounds or poker accomplishments.
 
