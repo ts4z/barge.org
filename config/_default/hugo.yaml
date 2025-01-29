@@ -20,11 +20,11 @@ params:
     - blog/trip-reports
     - news
   ctas:
-  # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
-  # Each CTA should be made of a link and a display text.  Any number of CTAs
-  # are supported, but try to limit yourself to one or two.
-  #   - link: /embargo/
-  #     text: EMBARGO 2025 is January 16-19 at Resorts World!
+    # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
+    # Each CTA should be made of a link and a display text.  Any number of CTAs
+    # are supported, but try to limit this to just one or two.
+    # - link: /embargo/
+    #   text: EMBARGO 2025 is January 16-19 at Resorts World!
     - link: https://argempoker.com/
       text: ARGEM VI &mdash; June 20-22, 2025
     - link: /barge/2025/
