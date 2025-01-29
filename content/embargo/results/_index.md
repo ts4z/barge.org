@@ -1,5 +1,5 @@
 ---
-title: Results
+title: EMBARGO Results
 draft: false
 aliases:
  - /embargo-results

@@ -7,3 +7,4 @@ tags:
 date: 2018-03-01
 ---
 
+* [View Results](../results/2018/)
