@@ -19,7 +19,6 @@ params:
     - blog
     - blog/trip-reports
     - news
-    - calendar
   # Keep these short so they're one line on a phone.
   nextEvents:
     - link: https://argempoker.com/
