@@ -29,6 +29,7 @@ SOFTWARE.
 {{- define "main" }}
 
 <article class="post-single">
+  {{ partial "next-events.html" . }}
   {{ partial "ctas.html" . }}
   <header class="post-header">
     {{ partial "breadcrumbs.html" . }}
