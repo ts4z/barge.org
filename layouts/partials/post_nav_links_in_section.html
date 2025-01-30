@@ -2,7 +2,7 @@
   {{- if .Page.PrevInSection -}}
   {{- with .Page.PrevInSection }}
   <a class="prev" href="{{ .Permalink }}">
-    <span class="title">☜</span>
+    <span class="title">☜ {{ i18n "newer_page" }}</span>
     <br>
     <span>{{- .Name -}}</span>
   </a>
@@ -11,7 +11,7 @@
   {{- if .Page.NextInSection -}}
   {{- with .Page.NextInSection }}
   <a class="next" href="{{ .Permalink }}">
-    <span class="title">☞</span>
+    <span class="title">{{ i18n "older_page" }} ☞</span>
     <br>
     <span>{{- .Name -}}</span>
   </a>
