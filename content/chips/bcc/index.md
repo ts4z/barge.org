@@ -18,10 +18,43 @@ fun.
 More details of the BCC are available on the [2001-2011](../history/2001-2011/) and 
 [2012-2019](../history/2012-2019) history pages.
 
+## BCC History
+
+In March 2001, the [BCC](../../bcc/) was formed. At that time, it appeared that the BARGE
+2000 NLHE champion was unlikely to participate in the creation of BARGE chips,
+so a group of RGPers took the reigns and formed the BCC. The founding members
+were Randy Collack, Scott Harker, Andy Hughes, David Lawful, Patrick Milligan,
+Tom Sims and Paul Stine.
+
+The BCC mission in 2001 was to get the process back on track and to make sure
+that a set of BARGE chips is produced every year, with or without participation
+from the current NLHE champion. They created, marketed, and distributed the
+chips sets for 2000 and 2001.
+
+Tom Sims left the BCC shortly after the initial chip designs were completed in
+late April 2001. During his short time as a member, he provided the perspective
+on how the BARGE chips were made in the early years. He was replaced by Tim
+Stine as a member.
+
+Russell Fox and Mike "Howler" McBride joined the BCC after helping to make
+their chip sets.
+
+Starting from the 2012 BARGE, chips continued to be produced by the BCC but
+were now usually designed by Michael Brennan.
+
+The members of the BCC continued to evolve.  David Lawful took over as Chairman
+somewhere around 2017.
+
+### End of the BCC
+
+A lot of things didn’t happen in 2020.  For instance, for several months, you
+were not allowed to have fun in Las Vegas, or pretty much anywhere else. BARGE
+even happened virtually.  The BCC stalled out through this time, and no chips
+were produced in time for any BARGEs through 2024.
+
 ## 2001 BCC Team
 
 In 2001, the BCC fielded a [CHORSE team](Team_BCC.jpg), complete with
 [hats](BCC_hat_design.jpg) ([modeled by Patrick](Team_BCC_hat.jpg)), 
 [badges](Team_BCC.jpg),
-and [chips](BCC_chips.jpg) and one more [chip](Scottro.jpg).
-
+and [team](BCC_chips.jpg) [chips](Scottro.jpg).
