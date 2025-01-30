@@ -6,6 +6,7 @@ aliases:
  - /mailman/private/barge
 tags:
  - lists
+weight: -10
 ---
 
 BARGE maintains three mailing lists. Members can select which lists they wish to read.
