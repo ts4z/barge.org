@@ -1,0 +1,20 @@
+<nav class="paginav">
+  {{- if .Page.NextInSection -}}
+  {{- with .Page.NextInSection }}
+  <a class="prev" href="{{ .Permalink }}">
+    <span class="title">☜ {{ i18n "newer_page" }}</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- end }}
+  {{- if .Page.PrevInSection -}}
+  {{- with .Page.PrevInSection }}
+  <a class="next" href="{{ .Permalink }}">
+    <span class="title">{{ i18n "older_page" }} ☞</span>
+    <br>
+    <span>{{- .Name -}}</span>
+  </a>
+  {{- end }}
+  {{- end }}
+</nav>
