@@ -5,9 +5,9 @@ draft: false
 ---
 
 During the time Patrick Milligan was the designer for BCC chips, he also worked
-for a company called Home Poker Chips (HPC). Home Poker Chips produced the chips for
-BARGE. We have some of their brochures and reference material available below,
-reproduced here with their kind permission.
+for a company called Home Poker Chips (HPC).  We have some of HPC's brochures
+and reference material available below, reproduced here with their kind
+permission.
 
 HPC was using Chipco as a manufacturer. While Chipco&#8217;s product was
 well-regarded, <a href=""> [state and federal tax authorities had
