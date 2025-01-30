@@ -22,9 +22,9 @@ params:
   # Keep these short so they're one line on a phone.
   nextEvents:
     - link: https://argempoker.com/
-      text: "ARGEM: June 20-22, 2025 at Maryland Live!"
+      text: "ARGEM 2025: Jun 20-22 @ Maryland Live!"
     - link: /barge/2025/
-      text: "BARGE: July 28-August 2, 2025 @ Orleans"
+      text: "BARGE 2025: Jul 28-Aug 2 @ Orleans"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.
