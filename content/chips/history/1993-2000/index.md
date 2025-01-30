@@ -4,6 +4,7 @@ type: sequential-section
 tags:
  - chips
  - bcc
+type: sequential-section
 ---
 
 Starting with [1993](../../gallery/1993), and through

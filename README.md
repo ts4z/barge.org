@@ -1,10 +1,13 @@
 barge.org web site
 ==================
 
-This is an attempt to re-build the BARGE website with a static site generator.
-I've chosen Hugo, with the PaperMod theme.
+This is the source for the BARGE website.  It utilizes Hugo, with the PaperMod
+theme.
 
 A scrape of barge.org, taken on 23-nov-2024, is in the OLD directory.
+
+Any changes to this repo on the `main` branch will be built (via with GitHub
+Actions) and pushed to [www.barge.org](https://www.barge.org/).
 
 How-To
 ------

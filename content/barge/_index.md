@@ -4,6 +4,7 @@ draft: false
 weight: -10
 tags:
  - barge
+type: sequential-section
 ---
 Quick Links for BARGE: [2025 Schedule](2025/schedule/) &mdash; [Results](results/)
 

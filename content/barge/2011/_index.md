@@ -5,6 +5,7 @@ tags:
  - barge
  - 2011
 date: 2011-09-01
+type: sequential-section
 ---
 
 Once again, the entirety of BARGE 2011 occurred at Binion's Casino in beautiful
