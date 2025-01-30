@@ -7,9 +7,9 @@ aliases: /embargo-info
 weight: -5
 ---
 
-Quick Links for EMBARGO: [EMBARGO 2025](2025/)
+Quick Links for EMBARGO: [EMBARGO 2025](/embargo/2025/)
 &mdash;
-[Results](results/) 
+[Results](/embargo/results/) 
 &mdash;
 [View Registrations](https://secure.barge.org/embargo2025review.php)
 
@@ -20,7 +20,7 @@ __________
 EMBARGO is the
 **Extraordinary Mid-Winter Big Annual Rec.Gambling Outing**
 (also known as &quot;winter BARGE&quot; or &quot;mini-BARGE&quot;).
-[EMBARGO 2025](2025/)
+[EMBARGO 2025](/embargo/2025/)
 was held at Resorts World Las Vegas from January 16-19, 2025.  The event
 schedule, hotel details, and registration information will follow soon.
 
