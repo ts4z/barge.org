@@ -15,4 +15,4 @@ summary: Our Board of Directors directs the Organizers to organize.
 |Deron Brod                              | term ends 2025 |
 |Rebecca Kerl                            | term ends 2026 |
 |[Ken Kubey](mailto:kenkubey@gmail.com)  | term ends 2026 |
-|[Christian Jones](ohm@swiftkickinc.com) | term ends 2026 |
+|[Christian Jones](mailto:ohm@swiftkickinc.com) | term ends 2026 |
