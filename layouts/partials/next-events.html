@@ -5,14 +5,12 @@ Include call-to-action buttons.
 */}}
 {{- if and site.Params.nextEvents -}}
 <div class="next-event-wrapper">
-  ·
   {{- range site.Params.nextEvents -}}
       <a href="{{ .link }}">
         <span class="next-event-text">
           {{- .text | safeHTML -}}
         </span>
       </a>
-      ·
   {{- end -}}
 </div>
 {{- end -}}
