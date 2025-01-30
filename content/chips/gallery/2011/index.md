@@ -20,3 +20,7 @@ This year&#8217;s chip set pays homage to the wide variety of poker games that
 are played during BARGE. &nbsp;Saturday night after the banquet is the prime
 time to sign up for these games, but they are often in play throughout BARGE
 week.
+
+## Development Notes
+
+Some early versions of the art are available: [v1](barge_2011_ideas_v1.pdf) [v2](barge_2011_ideas_v2.pdf)

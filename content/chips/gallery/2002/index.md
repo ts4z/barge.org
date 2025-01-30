@@ -17,3 +17,9 @@ BARGE Chip Committee. All chips in the&nbsp;**Rocks**&nbsp;set
 have a common obverse (the &#8220;Welcome to Fabulous BARGE&#8221; sign) with a
 different &#8220;rock&#8221; sample for each face. The colors used are the
 standard &#8220;Southern California&#8221; set.
+
+## Development Notes
+
+Images of the proofs for these chips are available: [part
+1](2002_CHIPCO_proofs_1v2.jpg) and [part 2](2002_CHIPCO_proofs_2v2.jpg).
+

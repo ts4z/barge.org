@@ -24,3 +24,8 @@ From the announcement for the 2012 chips:
 > * Step 7. Socialization
 > * Step 8. True Enlightenment
 > * Step 9. Achieve Nirvana (on the special purple chip)
+
+---
+
+These were the last BARGE chips produced by [Chipco
+International](https://www.pressherald.com/2015/05/29/president-of-closed-falmouth-poker-chip-company-sentenced-for-tax-evasion/).

@@ -15,3 +15,6 @@ chip. The common obverse shows an &#8220;Art Deco&#8221; style magician
 presenting aces. The Presto! codeword is hidden on the magician&#8217;s collar.
 
 Chip images provided from the collection of Tom Sims.
+
+### Artifacts
+* [Proof image](1999_chips_proof.jpg) for the 1999 chips from Paulson.
