@@ -33,6 +33,7 @@ SOFTWARE.
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
 
+{{- partial "next-events.html" . }}
 {{- partial "ctas.html" . }}
 
 {{- if not .IsHome | and .Title }}
