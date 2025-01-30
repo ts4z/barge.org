@@ -20,11 +20,12 @@ params:
     - blog/trip-reports
     - news
     - calendar
+  # Keep these short so they're one line on a phone.
   nextEvents:
     - link: https://argempoker.com/
-      text: "NEXT EVENT: ARGEM &mdash; June 20-22, 2025 at Maryland Live!"
+      text: "ARGEM: June 20-22, 2025 at Maryland Live!"
     - link: /barge/2025/
-      text: "BARGE will be July 28-August 2, 2025 @ the Orleans"
+      text: "BARGE: July 28-August 2, 2025 @ Orleans"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.
