@@ -21,6 +21,8 @@ params:
     - news
   # Keep these short so they're one line on a phone.
   nextEvents:
+    - link: https://atlargepoker.com/
+      text: "ATLARGE 2025: Apr 4-6"
     - link: https://argempoker.com/
       text: "ARGEM 2025: Jun 20-22 @ Maryland Live!"
     - link: /barge/2025/
