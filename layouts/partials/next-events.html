@@ -1,0 +1,20 @@
+{{/*
+
+Include call-to-action buttons.
+
+*/}}
+{{- if and site.Params.nextEvents -}}
+<div class="next-event-wrapper-wrapper">
+  {{- range site.Params.nextEvents -}}
+    <div>
+      <a href="{{ .link }}">
+        <div class="next-event-wrapper">
+          <span class="next-event-text">
+            {{- .text | safeHTML -}}
+          </span>
+        </div>
+      </a>
+    </div>
+  {{- end -}}
+</div>
+{{- end -}}
