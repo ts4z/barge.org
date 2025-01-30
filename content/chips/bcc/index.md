@@ -15,12 +15,9 @@ The BCC was one of the more consistent parts of BARGE, and predates the
 founding of [BARGE, Inc.](/inc), the 501(c)(7) corporation that organizes our
 fun.
 
-More details of the BCC are available on the [2001-2011](../history/2001-2011/) and 
-[2012-2019](../history/2012-2019) history pages.
-
 ## BCC History
 
-In March 2001, the [BCC](../../bcc/) was formed. At that time, it appeared that the BARGE
+In March 2001, the Barge Chip Committee was formed. At that time, it appeared that the BARGE
 2000 NLHE champion was unlikely to participate in the creation of BARGE chips,
 so a group of RGPers took the reigns and formed the BCC. The founding members
 were Randy Collack, Scott Harker, Andy Hughes, David Lawful, Patrick Milligan,
