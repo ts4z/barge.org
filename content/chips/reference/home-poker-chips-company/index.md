@@ -18,6 +18,6 @@ company](https://www.chipco.com/) that we do not have experience with.
 Many of the documents have specific comments that only apply to Chipco.
 
  * [HomePokerChips brochure](homepokerchipsbrochure.pdf)
- * [Bonus Book of Chip Designs](Bonus Book of Chip Designs)
+ * [Bonus Book of Chip Designs](bonus_book_3r3.pdf)
  * [Chip Design Process](chip_design_process_v5.pdf)
  * [How many chips do I need?](how_many_chips.pdf)
