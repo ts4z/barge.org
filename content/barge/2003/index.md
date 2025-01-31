@@ -1,4 +1,5 @@
 ---
+type: sequential-section
 title: BARGE 2003
 draft: false
 tags:
