@@ -19,7 +19,7 @@ event in Las Vegas!
 ATLARGE 2025 will take place April 4-6 at the Borgata in Atlantic City, NJ.
 
 For more information about ATLARGE, including our email list registration link,
-please visit [www.atlargepoker.com](https://www.atlargepoker.com)!
+please visit [www.atlargepoker.com](https://www.atlargepoker.com/)!
 
 {{< hr-clear >}}
 
