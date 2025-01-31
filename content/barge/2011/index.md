@@ -32,6 +32,6 @@ The winner of the BARGE main event, the no-limit hold'em tournament, was Rich
 Dave Tahajian.
 
 This was the last BARGE as organizer for Peter Secor, who continues as
-organizer emeritus.
+an honored organizer emeritus.
 
 [Complete results for BARGE 2011](/barge/results/2011)
