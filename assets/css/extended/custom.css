@@ -53,7 +53,22 @@ body {
 
 .floatright40 {
     float: right;
-    width: 40%
+    width: 40%;
+    clear: right;
+}
+
+.logoright {
+    float: right;
+    width: 40%;
+    clear: right;
+    backdrop-filter: blur(10%);
+    background-color: rgba(80, 80, 80, 0.4);
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.post-footer {
+    clear: both;
 }
 
 /* -- */
