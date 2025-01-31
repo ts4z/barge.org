@@ -1,4 +1,5 @@
 ---
+type: sequential-section
 title: EMBARGO 2025
 draft: false
 tags:

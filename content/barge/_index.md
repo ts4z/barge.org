@@ -2,11 +2,13 @@
 title: BARGE
 draft: false
 weight: -10
-tags:
- - barge
 type: sequential-section
+params:
+  orderByTitle: true
+  reverseOrder: true
 ---
-Quick Links for BARGE: [2024 Schedule]({{< relref "2024/schedule/" >}}) &mdash; 
+Quick Links for BARGE: [2025]({{< relref "2025/" >}}) &mdash;
+[2025 Schedule]({{< relref "2025/schedule/" >}}) &mdash; 
 [Results]({{< relref "results/" >}})
 
 ![](/images/BARGE-2013-815x302-1920w.jpg)
@@ -20,12 +22,7 @@ In order to participate in BARGE: you must register via the Internet.
 
 ### Location
 
-BARGE is held at a Las Vegas resort/casino that can accomidate 100-200 poker
-players doing shenanigans. 
-
 [BARGE 2025]({{< relref "2025/" >}}) will be held at the Orleans Hotel &amp; Casino!
-
-[BARGE 2024]({{< relref "2024/" >}}) was held at the Westgate just off of the Las Vegas Strip.
 
 ### Registration
 
@@ -84,10 +81,7 @@ All BARGE events are non-smoking.
 
 ### So Who Are the &quot;Organizers&quot; Anyway?
 
-BARGE is organized by {{% organizers %}} with more than occasional advice and
-emergency help from Chuck Weinstock and Peter Secor, BARGE organizers emeritus.
-We also wish to give a &quot;shout out&quot; to BARGE elder statesman and
-former organizer, Mike Zimmers.
+{{% current-organizers event="BARGE" year="2025" %}}
 
 ### I have a question, complaint, or gripe? Who should I contact?
 

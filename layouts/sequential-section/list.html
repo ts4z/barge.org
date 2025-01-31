@@ -77,6 +77,14 @@ SOFTWARE.
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
 {{- end }}
 
+{{- if .Param "orderByTitle" }}
+{{- $pages = $pages.ByTitle }}
+{{- end }}
+
+{{- if .Param "reverseOrder" }}
+{{- $pages = $pages.Reverse }}
+{{- end }}
+
 {{- $paginator := .Paginate $pages }}
 
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}

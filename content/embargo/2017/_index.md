@@ -1,4 +1,5 @@
 ---
+type: sequential-section
 title: EMBARGO 2017
 draft: false
 tags:

@@ -6,10 +6,9 @@ tags:
  - barge
  - 2013
 date: 2013-09-01
+cover:
+  image: BARGE-2013-815x302-1920w.jpg
 ---
-
-{{< figure src=BARGE-2013-815x302-1920w.jpg
-    caption="BARGE 2013 Group Picture" >}}
 
 This year's expanded BARGE was held at Binion's Casino. This year's speaker was
 Stanford Wong, who gave his talk at the Symposium on Friday night. The lowball
