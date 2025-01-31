@@ -1,0 +1,9 @@
+{{ $local := resources.Get .Params.src }}
+{{ $inline := $local.Fit "500x500" }}
+
+<a href="{{ .Get "href" }}">
+  <span class="logo-pad">
+    <img class="logo-left"
+         src="{{- $inline.RelPermalink -}}">
+  </span>
+</a>

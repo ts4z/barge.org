@@ -12,26 +12,29 @@ tags:
 We also organize events in Atlantic City, Connecticut, Maryland, and a second
 event in Las Vegas!
 
-{{< figure src="/logos/AtLarge_v5.png" class="logoright" >}}
+{{< logo-left href="https://www.atlargepoker.com/" src="/logos/AtLarge_v5.png" >}}
 
 ## ATLARGE
 
-For more information about ATLARGE, including our email list registration link, please visit [www.atlargepoker.com](https://www.atlargepoker.com)!
+ATLARGE 2025 will take place April 4-6 at the Borgata in Atlantic City, NJ.
+
+For more information about ATLARGE, including our email list registration link,
+please visit [www.atlargepoker.com](https://www.atlargepoker.com)!
 
 {{< hr-clear >}}
 
-{{< figure src="/logos/fargo_logo_v1.png" class="logoright" >}}
+{{< logo-left href=http://www.fargopoker.org/ src=/logos/fargo_logo_v1.png >}} 
 
 ## FARGO
 
-FARGO 2025 will be October 16-19.
+FARGO takes place each fall in Connecticut.  FARGO 2025 will be October 16-19.
 
-Visit [www.fargopoker.org](https://www.fargopoker.org) for additional
+Visit [www.fargopoker.org](http://www.fargopoker.org/) for additional
 information.
 
 {{< hr-clear >}}
 
-{{< figure src="/logos/argem+logo-504w.jpg" class="logoright" >}}
+{{< logo-left href=https://argempoker.com src="/logos/argem.png" >}}
 
 ## ARGEM
 
@@ -42,10 +45,13 @@ information...hope to see you in the future!
 
 {{< hr-clear >}}
 
-{{< figure src="/logos/embargo_logo_2025.png" class="logoright" >}}
+{{< logo-left src="/logos/embargo_logo_2025.png" href=/embargo/ >}}
 
 ## EMBARGO
 
-[EMBARGO](/embargo/) is held in January or February.  [EMBARGO 2025](/embargo/2025/) is already in the books.
-[Results are here](/embargo/results/2025/).
+[EMBARGO](/embargo/) is held in January or February in or around Las Vegas.
 
+[EMBARGO 2025](/embargo/2025/) is already in the books.  [Results are
+here](/embargo/results/2025/).
+
+{{< hr-clear >}}

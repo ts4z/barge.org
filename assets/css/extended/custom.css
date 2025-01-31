@@ -57,13 +57,17 @@ body {
     clear: right;
 }
 
-.logoright {
-    float: right;
+.logo-pad {
+    float: left;
+    padding-right: 20px;
     width: 40%;
-    clear: right;
-    backdrop-filter: blur(10%);
-    background-color: rgba(80, 80, 80, 0.4);
+}
+
+.logo-left {
+    background-color: #ffffff;
     padding: 10px;
+    border: solid;
+    border-width: 1px;
     border-radius: 20px;
 }
 
