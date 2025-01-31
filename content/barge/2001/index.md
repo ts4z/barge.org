@@ -17,3 +17,5 @@ held at the Golden Nugget, the speaker was Phil Hellmuth. The NL winner was
 Russ Fox who outlasted John Fleming and Don &quot;ADB Bingo&quot; Rieck. The
 [BARGE Chip Committee](/chips/bcc/) was formed and created this year's
 set. Eventual organizer Michael Patterson's first BARGE.
+
+[Complete results for BARGE 2001](/barge/results/2001)
