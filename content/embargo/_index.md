@@ -1,10 +1,12 @@
 ---
-tags:
- - embargo
 title: EMBARGO
 draft: false
 aliases: /embargo-info
 weight: -5
+type: sequential-section
+params:
+  orderByTitle: true
+  reverseOrder: true
 ---
 
 Quick Links for EMBARGO: [EMBARGO 2025](/embargo/2025/)
@@ -54,10 +56,7 @@ When held live, all EMBARGO events are non-smoking.
 
 ### So Who Are the &quot;Organizers&quot; Anyway?
 
-EMBARGO 2024 is being organized by {{% organizers %}} with more than
-occasional advice and emergency help from Chuck Weinstock and Peter Secor,
-BARGE Organizers Emeritus. We also wish to give a &quot;shout out&quot; to
-BARGE elder statesman and former organizer, Mike Zimmers.
+{{% current-organizers event="EMBARGO" year="2025" %}}
 
 ### But I have a question/complaint/praise/gripe? Who should I contact?
 

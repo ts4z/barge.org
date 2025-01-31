@@ -1,20 +1,18 @@
+{{ $pages := (union .Page.Parent.RegularPages .Parent.Sections).ByTitle.Reverse }}
+
 <nav class="paginav">
-  {{- if .Page.NextInSection -}}
-  {{- with .Page.NextInSection }}
+  {{- with $pages.Next . }}
   <a class="prev" href="{{ .Permalink }}">
     <span class="title">☜ {{ i18n "newer_page" }}</span>
     <br>
     <span>{{- .Name -}}</span>
   </a>
   {{- end }}
-  {{- end }}
-  {{- if .Page.PrevInSection -}}
-  {{- with .Page.PrevInSection }}
+  {{- with $pages.Prev . }}
   <a class="next" href="{{ .Permalink }}">
     <span class="title">{{ i18n "older_page" }} ☞</span>
     <br>
     <span>{{- .Name -}}</span>
   </a>
-  {{- end }}
   {{- end }}
 </nav>

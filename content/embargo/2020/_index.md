@@ -1,4 +1,5 @@
 ---
+type: sequential-section
 title: EMBARGO 2020
 draft: false
 tags:
