@@ -10,7 +10,7 @@ date: 2012-09-01
 
 ## 2012
 
-Again, BARGE returned to its natural home, Binion's Casino. The banquet speaker
+BARGE returned to its most frequent venue, Binion's Casino. The banquet speaker
 was Karina Jett. The lowball tournament moved to Tuesday this year and was won
 by Keith Fichtemaier with Ryan Troll in second and Rich Strauss in 3rd. The
 Tuesday tournament moved to Wednesday. This year it was pot-limit

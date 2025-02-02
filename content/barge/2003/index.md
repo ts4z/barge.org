@@ -8,7 +8,7 @@ tags:
 date: 2003-09-01
 ---
 
-After 2003, BARGE would still have a home at Binion's, but this is the last
+After 2003, BARGE would still be at Binion's, but this is the last
 year the building would bear the &quot;Horseshoe&quot; name (and be run by a
 Binion). Keith Fichtemaier won the limit hold'em event. Tiger came in second
 and Mike &quot;ADB Howler&quot; McBride finished third. Team Chinese Poker won
