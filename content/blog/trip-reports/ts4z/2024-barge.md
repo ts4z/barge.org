@@ -63,8 +63,8 @@ The bot I have is half-baked, as I only get once a year to test it.  And
 there are always bugs because the way the horses are listed isn't
 consistent year to year.  So I was messing with something and I decided to
 jack up one horse's relative value and see what the model would do.  I
-weighted myself at 1000--par is 100, and I rated myself below that based on
-results.  Then I ran the command to see what I'd be valued at.  $97, ok,
+weighted myself at 1000&mdash;par is 100, and I rated myself below that based on
+my results.  Then I ran the command to see what I'd be valued at.  $97, ok,
 sure, that's about right...
 
 Then I noticed what I had actually done was to run the command to _enact_
@@ -185,7 +185,7 @@ a little.  I was treading water, stealing here and there, waiting for a big
 hand that would never come.
 
 A new seat 5 sits down at about 4 AM.  New seat 5 tended to peek at his
-cards bybending them way up in the middle so everyone except the dealer can
+cards by bending them way up in the middle so everyone except the dealer can
 see, which tended to show them to seats 4 and 6.  Seat 6 was repeatedly
 vocal about this.
 
