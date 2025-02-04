@@ -217,7 +217,7 @@ Ploink&rdquo; Straghalis.  Danger awaits.
 
 ---
 
-**posted Fri, 8 Aug 2003 01:43:56 -0700**
+*posted Fri, 8 Aug 2003 01:43:56 -0700*
 
 ## PART II
 
