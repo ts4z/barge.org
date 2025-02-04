@@ -273,11 +273,6 @@ A couple ADBs were at the other table.  I don't see Katie disappear, but
 when Edmund Hack goes out in 11, I'm overjoyed to get to keep the pile o'
 money.
 
-(I weaseled the ADB PLO LL as well.  There was some confusion as to whether
-or not I was in for that.  But Rich decided to pay me, and that sounded
-just fine to me.  Then I realized if I was in for the PLO LL, I was in for
-the Stud LL as well, and gave the same $10 back to Rich.)
-
 Russ starts handing me payout envelopes for my Calcutta debacle.  People
 start asking for their share.  I start having trouble dividing by 4,
 somehow math having suddenly become difficult. I think I ended up having
