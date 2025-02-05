@@ -1,9 +1,13 @@
 ---
-
 title: THE BIG SLEEP (Or Complete Lack Thereof) - North Shore Mike at BARGE 2003
 author: Mike McManus
 date: 2003-08-06
 summary: Two long, painful years since losing my BARGE virginity, and, unlike most virgins, I can&rsquo;t wait for my next experience.  My anticipation and excitement rival that I felt awaiting the final Police Academy sequel.
+tags:
+ - barge
+ - 2003
+ - nsm
+ - tripreport
 ---
 
 *This has been copied from [Jeff Okamoto's
@@ -128,11 +132,11 @@ Hunt, and a host of others.  I played through the night, cashed out at
 hourly rate), realizing I must shower so I stink better for the noon
 BARGE limit hold&rsquo;em tournament.  I stumble across Fremont, successfully
 avoiding the Golden Nugget&rsquo;s crack security team, then shower and have
-breakfast with Murray in the Carson Street Caf.  He bores me with tales
+breakfast with Murray in the Carson Street Café.  He bores me with tales
 of how much fun BARGE is.  (Yawn.)
 
 
-I SUCK, THEREFORE I&WELL·I JUST SUCK
+I SUCK, THEREFORE I…WELL…I JUST SUCK
 
 Prior to the tournament, I stop at the table (wo)manned by Eileen and
 Erin Milligan to pick up my home set of 400 BARGE chips.  This year&rsquo;s
@@ -168,7 +172,7 @@ bankroll bands!  Ingenious. I&rsquo;m sure they cost no more than a buck a
 million, but everybody talked about them all week.
 
 I must sleep.  No, I must eat, then sleep.  So Murray, Seth and I join
-the Family Milligan for dinner at the Nugget&rsquo;s Carson Street Caf, my
+the Family Milligan for dinner at the Nugget&rsquo;s Carson Street Café, my
 favorite coffee shop in Las Vegas, where I thoroughly enjoyed the best
 brisket sandwich west of the Gold Spike.  Talk ranges from poker chips,
 to Patrick&rsquo;s poker tournament clock software, to, um, some other stuff,
@@ -193,7 +197,7 @@ ever written&hellip;just ask Murray Logan) consisted entirely of Canadians:  Me
 (Razz), Ken Kubey (O/8), and virgin Ali Mohajer (Stud).  Okay, okay, Ken
 and Ali are not really Canadians, we drafted them via e-mail, but Ali
 correctly identified the Toronto hockey team as the Make Believes, and
-Ken can say &ldquo;eh&rdquo;? with the best of Īem.
+Ken can say &ldquo;eh&rdquo;? with the best of 'em.
 
 Well, I did *my* job, as our stack on the flop table increased every
 round I played but one; everybody else sort of floundered (kidding,
@@ -477,7 +481,7 @@ first time I have ever played higher than $6/12 in Las Vegas.  I am
 invincible.
 
 BARGE is the only place/event on earth at which I would leave this game,
-for any reason.  Ever.  Except maybe a fire, and even then..
+for any reason.  Ever.  Except maybe a fire, and even then...
 
 I didn't attend the Craps Crawl back in 2001, and I really can't
 remember why.  But now, as a newly-anointed ADB'er, my attendance is, at
@@ -576,12 +580,12 @@ bed, it is, as the sun begins to light the pre-dawn sky.
 A Rip Van Winkle-esque 6 hour sleep later, I grab some breakfast at the
 Nugget, and head over for the ToC-style tourney.  I am almost
 exclusively a hold'em player; I can sort of find my way around stud, but
-my Omaha/8 game..hell, I don't even have one.  As a result, my
+my Omaha/8 game...hell, I don't even have one.  As a result, my
 expectations are lower than a snake's belly.  My strategy is to lose as
 little as possible at Omaha, break even in stud, and make hay in the
 hold'em rounds.
 
-Oh, the best laid plans of mice and men..I made money every single stud
+Oh, the best laid plans of mice and men...I made money every single stud
 round, broke essentially even on the Omaha rounds, and lost money on the
 hold'em rounds.  Perhaps it's time to re-evaluate my areas of skill.  I
 don't recall if I've ever played better poker in a tournament.  I
@@ -607,7 +611,7 @@ this point.  He is also roaring drunk, and shows no signs of slowing
 down, in neither the poker nor boozing departments.
 
 From the men's room, I hear the unmistakable bellow of The Gavin:  "SEND
-IT BABY, SEND IT!",followed by loud whoops of joy, and huge laughter
+IT BABY, SEND IT!", followed by loud whoops of joy, and huge laughter
 from the large gallery.  I start to laugh out loud; I'm sure my fellow
 relievers at the other urinals instantly believed I was laughing at what
 I was holding in my hands that moment.  But they were wrong.
@@ -638,20 +642,20 @@ Holy crap.  I made the final table of a BARGE event.  Get your bets down
 now:  the Cubs just may win the Series this year.
 
 The table breaks at 5:30; the final table will commence at 8 o'clock,
-after the No-Limit Hold'em Calcutta.er, Symposium.  I curse the extra
+after the No-Limit Hold'em Calcutta&hellip;er, Symposium.  I curse the extra
 hours in which to lose what little confidence I have mustered over the
 past five hours, but, at the same time, I welcome a break from the
 bone-crushing pressure.  Man, that was hard work; any of you who have
-played in *ARG* events know that these tournaments must be the toughest
+played in \*ARG\* events know that these tournaments must be the toughest
 low-limit tournament fields in the known poker universe.  I was
 absolutely thrilled to have made it this far.
 
 Coming soon in Part IV (I know I said three parts, but I'm so goddamned
 long-winded):
 
--The Black Hole of the Calcutta
--The Search for Truffles: The Adventure Continues
--I'm Never Inviting Murray Anywhere Again
+- The Black Hole of the Calcutta
+- The Search for Truffles: The Adventure Continues
+- I'm Never Inviting Murray Anywhere Again
 
 And much, much more
 
@@ -799,8 +803,8 @@ A seven hits the flop.  I am quite displeased.
 No improvement, and I bust out in sixth place.  Although I am
 experiencing the inevitable disappointment one feels after busting out
 of any tournament, I got my money in with slightly the best of it, and
-cashed for the first time in any *ARG* event, to the tune of $860.  And
-they&rsquo;re US dollars, too:  for a Canadian, that ain&rsquo;t so bad.
+cashed for the first time in any \*ARG\* event, to the tune of $860.  And
+they&rsquo;re US dollars, too: for a Canadian, that ain&rsquo;t so bad.
 
 ADB Jester, who is also a PokerStars employee, gives me a PS golf shirt
 for making the final table.  I then fill out the requisite paperwork
@@ -811,8 +815,8 @@ many thanks to all who cheered me on; it was a huge confidence booster
 for me.  You know who you are.
 
 Torn between watching the rest of the event and my need for some quiet,
-I leave the ĪShoe, bound for the solitude of my room at the Nugget.
-Immediately upon leaving the ĪShoe, I am approached on Fremont Street by
+I leave the 'Shoe, bound for the solitude of my room at the Nugget.
+Immediately upon leaving the 'Shoe, I am approached on Fremont Street by
 a beautiful young woman, who apparently has fallen on hard times.  She
 offers me a watch, one of those vintage digital models where you have to
 press a button on the side of the case to light the LED time display.
@@ -871,12 +875,12 @@ Realizing that, if I sleep now, my chances of waking in time for the
 noon No Limit Hold&rsquo;em event are only slightly higher than zero, I return
 to the Nugget for a cold shower, listening to Murray snore while I
 dress, and set out into the hot Las Vegas morning to seek out breakfast.
-The Carson Street Caf has a long lineup.  I stroll to the Las Vegas
-Club, recalling someone telling me that their caf is a decent value.
+The Carson Street Café has a long lineup.  I stroll to the Las Vegas
+Club, recalling someone telling me that their café is a decent value.
 
 ### I&rsquo;M NEVER INVITING MURRAY ANYWHERE AGAIN
 
-Steak and eggs safely put away, I return to the ĪShoe to the tournament
+Steak and eggs safely put away, I return to the 'Shoe to the tournament
 area, where throngs of eager BARGE&rsquo;ers are milling about.  There is a
 table just outside of the tournament tables where a lineup has formed; I
 wander over to see what the commotion is about.
@@ -905,7 +909,7 @@ stay out of his way.  Murray doubles up early by cracking Bill&rsquo;s aces
 with two pair.
 
 Through three levels, I have managed to increase my T1500 starting stack
-to about T2200 (or so I thought·more on this in a moment).  Since Murray
+to about T2200 (or so I thought&mdash;more on this in a moment).  Since Murray
 doubled up, he has been uncharacteristically quiet, apparently content
 to wait for a big hand.  Blinds are 50 and 100, when he open raises
 under the gun, making it T400 to go.  It&rsquo;s folded to me on the button.
@@ -957,7 +961,7 @@ the exact same hand&hellip;).  I return the favor, consoling him by telling
 him to quit whining, just as he did for me back in September.  That&rsquo;s
 what friends are for.
 
-I shower, and we walk across Fremont to the ĪShoe.  Upon entering the
+I shower, and we walk across Fremont to the 'Shoe.  Upon entering the
 smoky haze, we run into Scott Burrington, one of my bestest BARGE
 buddies, and invite him to join us at the banquet.  His eyes dart around
 the casino, desperately seeking an out, but he finally reluctantly
@@ -1162,7 +1166,7 @@ in the past few years, Binion&rsquo;s ownership and management has shown time
 and time again that they not only understand the mayhem that is BARGE,
 they welcome and embrace it each and every year.  I can&rsquo;t think of
 another property that would even come close to treating us as well as
-the ĪShoe.  Thanks so much for your continued support of this chaotic
+the 'Shoe.  Thanks so much for your continued support of this chaotic
 yet uncontrollable event.
 
 Peter &ldquo;Foldem&rdquo; Secor, Chuck Weinstock, and Michael &ldquo;KidZee&rdquo; Zimmers:
