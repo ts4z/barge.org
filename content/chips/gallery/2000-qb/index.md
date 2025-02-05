@@ -9,6 +9,8 @@ cover:
  image: barge_QB2000_detail.png
 large: barge_QB2000.png
 pdf: barge_QB2000.pdf
+aliases:
+ - /chips/chips/2001-2011-chips/2000-chips/
 ---
 
 This set was created by Ken Kubey, using the artwork from the BARGE 2000 lapel
