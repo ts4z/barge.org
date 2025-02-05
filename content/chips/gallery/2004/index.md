@@ -9,6 +9,8 @@ type: chip-gallery
 cover:
   image: barge_2004_detail.png
 large: barge_2004.png
+aliases:
+ - /chips/chips/2001-2011-chips/2004-chips/
 ---
 		
 This year, the theme is **BARGE Memories**. Each chip in the chip set has a
