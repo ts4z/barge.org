@@ -3,6 +3,7 @@ title: BARGE Chips
 draft: false
 aliases: 
  - /barge-chips
+ - /chips/about
 type: directory
 cover:
   image: bargechipslogo.png
