@@ -9,6 +9,8 @@ type: chip-gallery
 cover:
     image: barge_2001_detail.png
 large: barge_2001.png
+aliases:
+ - /chips/chips/2001-2011-chips/2000-chips/
 ---
 
 All chips in the **2001: A Poker Odyssey** set have a common obverse (Buzz
