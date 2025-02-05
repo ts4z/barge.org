@@ -5,6 +5,8 @@ date: 1993-08-01
 tags:
  - playing-cards
  - 1993
+aliases:
+ - /memorabilia/2021-playing-cards/
 ---
 
  
