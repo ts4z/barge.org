@@ -9,6 +9,8 @@ tags:
  - bcc
 type: chip-gallery
 large: barge_2006.png
+aliases:
+ - /chips/chips/2001-2011-chips/2006-chips/
 ---
 
 The first five chips in this set are dedicated to recently departed

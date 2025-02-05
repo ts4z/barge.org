@@ -8,6 +8,8 @@ cover:
  image: barge_1993_detail.png
 large: barge_1993.png
 pdf: barge_1993.pdf
+aliases:
+ - /chips/chips/1993-2000-chips/1993-chips/
 ---
 
 {{< figure src="1993_chip_case_thumbnail.png"

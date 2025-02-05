@@ -9,6 +9,8 @@ tags:
  - bcc
 type: chip-gallery
 large: barge_2009.png
+aliases:
+ - /chips/chips/2001-2011-chips/2009-chips/
 ---
 
 This year, the theme is &#8220;IRC Poker.&#8221; Each chip in the chip set has a common obverse with a different r00lbot saying on the reverse (&#8220;tails&#8221;) side. Standard chip colors are used.

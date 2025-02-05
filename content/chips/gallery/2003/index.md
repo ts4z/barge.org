@@ -9,6 +9,8 @@ type: chip-gallery
 cover:
     image: barge_2003_detail.png
 large: barge_2003.png
+aliases:
+ - /chips/chips/2001-2011-chips/2003-chips/
 ---
 
 These chips were created by BARGE 2002 NLHE Champion Mike &#8220;Howler&#8221;

@@ -5,6 +5,8 @@ cover:
  image: barge_1998_detail.png
 large: barge_1998.png
 pdf: barge_1998.pdf
+aliases:
+ - /chips/chips/1993-2000-chips/1998-chips/
 ---
 
 This set was designed by Tom Sims, acting on behalf of the 1997 NLHE winner,

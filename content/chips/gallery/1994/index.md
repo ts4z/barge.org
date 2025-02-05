@@ -8,6 +8,8 @@ cover:
  image: barge_1994_detail.png
 large: barge_1994.png
 pdf: barge_1994.pdf
+aliases:
+ - /chips/chips/1993-2000-chips/1994-chips/
 ---
 
 This set was designed by Roy Hashimoto. A 300 chip home set of these chips was

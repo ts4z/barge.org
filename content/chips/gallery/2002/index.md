@@ -9,6 +9,8 @@ cover:
     image: barge_2002_detail.png
 large: barge_2002.png
 pdf: barge_2002.pdf
+aliases:
+ - /chips/chips/2001-2011-chips/2002-chips/
 ---
 
 These chips were created by BARGE 2001 NLHE Champion Russell Fox, with the

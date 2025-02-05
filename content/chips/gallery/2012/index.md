@@ -9,6 +9,8 @@ cover:
   image: barge_2012_detail.png
 large: barge_2012.png
 pdf: barge_2012.pdf
+aliases:
+ - /chips/chips/2012-2019-chips/2012-chips/
 ---
 
 From the announcement for the 2012 chips:
