@@ -9,6 +9,8 @@ cover:
   image: barge_2014_detail.png
 large: barge_2014.png
 pdf: barge_2014.pdf
+aliases:
+ - /chips/chips/2012-2019-chips/2014-chips/
 ---
 
 (This text was recovered from a previous Barge chip site and has been lightly edited, if at all.)

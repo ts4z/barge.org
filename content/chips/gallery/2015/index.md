@@ -9,6 +9,8 @@ cover:
   image: barge_2015_detail.png
 large: barge_2015.png
 pdf: barge_2015.pdf
+aliases:
+ - /chips/chips/2012-2019-chips/2015-chips/
 ---
 		
 From the 2015 annoucement for the sampler sets:

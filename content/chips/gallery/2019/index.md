@@ -6,6 +6,8 @@ large: barge_2019.png
 pdf: barge_2019.pdf
 cover:
   image: barge_2019_detail.png
+aliases:
+ - /chips/chips/2012-2019-chips/2019-chips/
 ---
 
 > On behalf of our 2018 champion, Don Rieck Don “BINGO” Rieck, I’m pleased to

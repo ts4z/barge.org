@@ -9,6 +9,8 @@ pdf: barge_2018.pdf
 large: barge_2018.png
 cover:
   image: barge_2018_detail.png
+aliases:
+ - /chips/chips/2012-2019-chips/2018-chips/
 ---
 
 (Most of this text was likely from Michael Brennan, and it was liberated from a

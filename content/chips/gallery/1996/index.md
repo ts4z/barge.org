@@ -5,7 +5,8 @@ cover:
  image: barge_1996_detail.png
 large: barge_1996.png
 pdf: barge_1996.pdf
-
+aliases:
+ - /chips/chips/1993-2000-chips/1996-chips/
 ---
 
 This set was designed by Tom Sims. A 300 chip home set of these chips was
