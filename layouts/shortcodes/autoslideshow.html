@@ -5,13 +5,6 @@ invoked on the same page once.  */ -}}
 
 {{ $classID := hash.FNV32a .Params.resourcePattern }}
 
-{{- if not ($.Page.Store.Get "autoslideshowCount") -}}
-<script src="/autoslideshow.js"></script>
-{{- $.Page.Store.Add "autoslideshowCount" 1 }}
-{{- else -}}
-<!-- only need stylesheet and js once -->
-{{- end -}}
-
 <div class="slideshow-container">
   {{ range resources.Match (.Get "resourcePattern") }}
     <div class="slideshow-slide ss{{- $classID }} ss-fade">
