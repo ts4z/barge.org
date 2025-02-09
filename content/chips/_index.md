@@ -4,6 +4,7 @@ draft: false
 aliases: 
  - /barge-chips
  - /chips/about
+ - /chips/chips
 type: directory
 cover:
   image: bargechipslogo.png
