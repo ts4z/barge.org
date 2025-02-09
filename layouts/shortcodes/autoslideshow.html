@@ -9,7 +9,7 @@ invoked on the same page once.  */ -}}
   {{ range resources.Match (.Get "resourcePattern") }}
     <div class="slideshow-slide ss{{- $classID }} ss-fade">
       {{ $img := .Process "fill 350x200" }}
-      <img loading="lazy" src="{{- $img.RelPermalink -}}">
+      <img loading="lazy" src="{{- $img.RelPermalink -}}" alt="Candid shot at BARGE">
     </div>
   {{ end }}
   

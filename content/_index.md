@@ -37,7 +37,7 @@ Why Join Us?
 
 {{< figure class="floatright40" 
     src="/mybarge-truck.jpg"
-    caption="We don't know whose truck this is, but we like it.">}}
+    caption="We don't know whose truck this is, but we like the license plate.">}}
 
 Because you enjoy playing poker and want to be part of a diverse community of
 fun-loving people. We all enjoy the game of poker. We claim several WSOP
