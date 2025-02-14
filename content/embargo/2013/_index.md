@@ -8,5 +8,3 @@ tags:
 date: 2013-03-01
 ---
 
-* [View Results](../results/2013/)
-
