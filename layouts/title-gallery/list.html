@@ -12,13 +12,12 @@
   border-radius: 16px;
   background-color: #0000ff;
   object-fit: cover;
-  float: left;
   color: #eeeeee;
 }
 
 .title-text {
   text-align: center;
-  /*white-space: nowrap;*/
+  width: auto;
 }
 
 </style>
@@ -65,7 +64,7 @@
     {{ range .Pages }}
     <a class="title-card" href="{{ .RelPermalink }}">
       <div class="title-card">
-        <div class="post-description title-text">{{ .Title }}</div>
+        <div class="title-text">{{ .Title }}</div>
       </div>
     </a>
     {{ end }}

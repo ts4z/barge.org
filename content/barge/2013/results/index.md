@@ -13,8 +13,8 @@ tags:
 
 {{< tournament
     event="No Limit Holdem - Draw Lowball"
-    buyin="Monday, July 29th, 2013"
-    date="$60+$10"   >}}
+    date="Monday, July 29th, 2013"
+    buyin="$60+$10"   >}}
 
 |   |                     |      |
 |--:|---------------------|------|
@@ -43,8 +43,8 @@ tags:
 
 {{< tournament
     event="Triathalon of Gambling"
-    buyin="Tuesday, July 31st, 2013"
-    date="$30+$5"  >}}
+    date="Tuesday, July 31st, 2013"
+    buyin="$30+$5"  >}}
 
 |   |                   |      |
 |--:|-------------------|------|
@@ -55,8 +55,8 @@ tags:
 
 {{< tournament
     event="Limit 6-Game"
-    buyin="Wednesday, August 1st, 2013"
-    date="$75+$20"  >}}
+    date="Wednesday, August 1st, 2013"
+    buyin="$75+$20"  >}}
 
 |    |               |        |
 |---:|---------------|--------|
@@ -74,8 +74,8 @@ tags:
 
 {{< tournament
     event="Pot Limit Omaha"
-    buyin="Thursday, August 1st, 2013"
-    date="$75+$20" >}}
+    date="Thursday, August 1st, 2013"
+    buyin="$75+$20" >}}
 
 |    |                |        |
 |---:|----------------|--------|
