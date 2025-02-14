@@ -52,6 +52,6 @@ information...hope to see you in the future!
 [EMBARGO](/embargo/) is held in January or February in or around Las Vegas.
 
 [EMBARGO 2025](/embargo/2025/) is already in the books.  [Results are
-here](/embargo/results/2025/).
+here](/embargo/2025/results/).
 
 {{< hr-clear >}}
