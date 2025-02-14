@@ -8,6 +8,7 @@ params:
   reverseOrder: true
 aliases:
  - /barge-history/
+ - /barge/history
 ---
 Quick Links for BARGE: [2025]({{< relref "2025/" >}}) &mdash;
 [2025 Schedule]({{< relref "2025/schedule/" >}}) &mdash; 
