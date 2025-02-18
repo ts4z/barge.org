@@ -313,7 +313,7 @@ course actually the _25_ chips, which was causing me considerable
 confusion, perhaps because of the fever.
 
 Sam goes out, mostly to Len G.  Now all the stacks are relatively healthy.
-I I'm short, but not by a lot.
+I'm short, but not by a lot.
 
 Len and Ben get into a huge pot.  Good for me, I stay out of the carnage.
 Len loses, then Ben busts Len G on a subsequent hand.  I'm looking at the
