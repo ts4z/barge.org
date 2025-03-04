@@ -21,8 +21,6 @@ params:
     - news
   # Keep these short so they're one line on a phone.
   nextEvents:
-    - link: https://atlargepoker.com/
-      text: "ATLARGE 2025: Apr 4-6 @ Borgata"
     - link: https://argempoker.com/
       text: "ARGEM 2025: Jun 20-22 @ Maryland Live!"
     - link: /barge/2025/
@@ -31,6 +29,8 @@ params:
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.
   ctas:
+    - link: https://atlargepoker.com/atlarge2025/atlarge2025reg.html
+      text: "Register now for ATLARGE 2025: Apr 4-6 @ Borgata"
     # - link: https://argempoker.com/
     #   text: ARGEM VI &mdash; June 20-22, 2025 at Maryland Live!
     # - link: /barge/2025/
