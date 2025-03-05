@@ -383,4 +383,3 @@ Thanks to the organizers for another great rec.gambling event.
 
 I needed to get to Vegas to see everyone and blow off some steam.{{< br >}}
 Managed to have a lot of fun in 30 hours.  Also glad I went home early.{{< br >}}
-${{< br >}}
