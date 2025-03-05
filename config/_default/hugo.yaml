@@ -1,4 +1,11 @@
-# TODO hack for experimental site
+#
+# This is the "default" (i.e., almost the only) config for barge.org.
+# We have some overrides for a staging environment.
+#
+# Most of this is pretty stable but we do consult params.nextEvents
+# and params.ctas below on most every page.
+#
+
 baseURL: https://www.barge.org/
 languageCode: en-us
 title: BARGE.org
@@ -44,7 +51,6 @@ params:
   showShareButtons: true
   ShareButtons:
     - "facebook"
-    # - "linkedin"
     - "reddit"
     - "whatsapp"
     # - "x"
@@ -66,4 +72,3 @@ outputs:
   home:
     - HTML
     - RSS
-Local Variables:
