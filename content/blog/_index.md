@@ -16,7 +16,8 @@ epic stories of degeneracy that have inspired others.  We've started collecting
 them here.
 
 [^1]: Trip reports have been modified to look better in modern web browsers and
-    use Unicode.  We have also added some typos, just to spice things up.  If
-    you find any issues, please let us know, and don't blame the author.
+    use Unicode.  We fixed some typos and left in others.  We have also added
+    some extra typos, just to spice things up.  If you find any issues,
+    particularly if you are the original author, please let us know.
 
 Our favorites are about BARGE.
