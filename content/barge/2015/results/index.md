@@ -205,7 +205,7 @@ $1375 prize pool
 |8| Stephen Blackstock| $500|
 |9| Oliver Juang| $330|
 |10| Nolan Dalla| $330|
-|11| Anthony Goldstein $245|
+|11| Anthony Goldstein| $245|
 |12| Jeanne David| $245|
 |13| Arthur Goltz| $160|
 |14| Wendy Freedman| $160|
