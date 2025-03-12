@@ -15,7 +15,7 @@ BARGE maintains three mailing lists. Members can select which lists they wish to
 ## BARGE-announce
 
 **BARGE-announce** is for major BARGE announcements, such as registration
-opening and closing, etc.. This is a low volume moderated list. Everyone
+opening and closing, etc. This is a low volume moderated list. Everyone
 interested in **BARGE or EMBARGO** should subscribe to this list.
 
 To subscribe to this list, go to 
