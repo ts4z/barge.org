@@ -1,6 +1,6 @@
 {{- /*
 
-Most of this is lifted from the PaperMod version of this file.
+Most of this is lifted from a PaperMod file.
 
 MIT License
 
@@ -27,14 +27,13 @@ SOFTWARE.
 
 ------
 
-This is the common boilerplate header for single pages.
+This is the common boilerplate header for single pages.  However, it's wrong,
+if you want a different post-nav link list.  So this file is suspect.
 
 */ -}}
   <footer class="post-footer">
     {{- partial "common-footer-tags.html" . }}
-    {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
-    {{- end }}
     {{- partial "common-share.html" . }}
   </footer>
 

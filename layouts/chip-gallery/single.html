@@ -60,7 +60,20 @@ SOFTWARE.
     {{- end }}
   </div>
 
-  {{- partial "common-single-footer.html" . }}
+  {{- /* can't use common-single-footer, we need a different page ordering */ -}}
+
+  <footer class="post-footer">
+    {{- partial "common-footer-tags.html" . }}
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links_in_section_reversed.html" . }}
+    {{- end }}
+    {{- partial "common-share.html" . }}
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
+
 </article>
 
 {{- end }}{{/* end main */}}
