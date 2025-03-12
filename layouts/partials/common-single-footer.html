@@ -24,43 +24,22 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+------
+
+This is the common boilerplate header for single pages.
+
 */ -}}
+  <footer class="post-footer">
+    {{- partial "common-footer-tags.html" . }}
+    {{- if (.Param "ShowPostNavLinks") }}
+    {{- partial "post_nav_links.html" . }}
+    {{- end }}
+    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+    {{- partial "share_icons.html" . -}}
+    {{- end }}
+  </footer>
 
-{{- define "main" }}
-
-<article class="post-single">
-
-  {{ partial "common-header.html" . }}
-
-  {{- $isHidden := (.Param "cover.hiddenInSingle") | default (.Param "cover.hidden") | default false }}
-  {{- partial "cover.html" (dict "cxt" . "IsSingle" true "isHidden" $isHidden) }}
-  {{- if (.Param "ShowToc") }}
-  {{- partial "toc.html" . }}
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
   {{- end }}
-
-  <div class="post-content">
-    {{- if .Content }}
-      {{- if not (.Param "disableAnchoredHeadings") }}
-      {{- partial "anchored_headings.html" .Content -}}
-      {{- else }}{{ .Content }}{{ end }}
-    {{- end }}
-
-    {{- if .Param "large" }}
-    <div>
-      <figure>
-        <img src="{{.Param "large"}}">
-      </figure>
-    </div>
-    {{- end }}
-
-    {{- if .Param "pdf" }}
-      <p>
-        <a href="{{ .Param "pdf" }}">View a PDF version of this set.</a>
-      </p>
-    {{- end }}
-  </div>
-
-  {{- partial "common-single-footer.html" . }}
-</article>
-
-{{- end }}{{/* end main */}}
