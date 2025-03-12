@@ -35,9 +35,7 @@ This is the common boilerplate header for single pages.
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
-    {{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
-    {{- partial "share_icons.html" . -}}
-    {{- end }}
+    {{- partial "common-share.html" . }}
   </footer>
 
   {{- if (.Param "comments") }}

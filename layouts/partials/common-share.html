@@ -1,0 +1,3 @@
+{{- if (and site.Params.ShowShareButtons (ne .Params.disableShare true)) }}
+{{- partial "share_icons.html" . -}}
+{{- end }}
