@@ -17,7 +17,6 @@
         <link rel="stylesheet" href="css/variables.css">
         <link rel="stylesheet" href="css/general.css">
         <link rel="stylesheet" href="css/chrome.css">
-        <link rel="stylesheet" href="css/print.css" media="print">
 
         <!-- Fonts -->
         <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
@@ -146,9 +145,6 @@
                     <h1 class="menu-title">BARGE Rulebook</h1>
 
                     <div class="right-buttons">
-                        <a href="print.html" title="Print this book" aria-label="Print this book">
-                            <i id="print-button" class="fa fa-print"></i>
-                        </a>
 
                     </div>
                 </div>
@@ -184,15 +180,19 @@
 </ul>
 <p>This document is written in Markdown, with a tool called
 <a href="https://rust-lang.github.io/mdBook/">mdbook</a> that makes it pretty easy to
-navigate.  mdbook produces a pretty good printed copy.</p>
+navigate.</p>
 <p>A GitHub workflow is used to build the rulebook into this version hosted in
 GitHub pages (at the web link above), and another one publishes it to
 <a href="https://www.barge.org/">barge.org</a>.</p>
-<p>The "dead tree PDF edition" of the rulebook, intended for paper and to be used
-at a poker table, is produced via a perl script that extracts the file list
-from the mdbook configuration, uses CommonMark (a Markdown library) to produce
-LaTeX, then doctors that up with a perl script.  All of the pieces are either
-common free software or included with the other pieces above.</p>
+<p>mdbook has print support in conjunction with a web browswer, but it isn't as
+usable at the poker table as the old LaTeX version, which produces a really
+nice book with a proper Table of Contents and page numbers.</p>
+<p>So we also have the "dead tree PDF edition" of the rulebook, intended for paper
+and to be used at a poker table. This is produced via a perl script that
+extracts the file list from the mdbook configuration, uses CommonMark (a
+Markdown library) to produce LaTeX, then doctors that up with a perl script.</p>
+<p>All of the tools are either common free software or included with the other
+pieces above.</p>
 
                     </main>
 
