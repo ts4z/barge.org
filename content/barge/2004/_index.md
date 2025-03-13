@@ -20,5 +20,3 @@ event. Dave Fruchter won the ToC-style event. Jim &quot;Bullbert&quot; Bullard
 finished second, Chris &quot;ADB Ploink&quot; Straghalis finished third. Peter
 &quot;Taki&quot; Caldes won the stud shootout. In second place was Sabyl
 Cohen. Perry &quot;The Baiter&quot; Friedman finished in third.
-
-[Complete results for BARGE 2004](/barge/results/2004)

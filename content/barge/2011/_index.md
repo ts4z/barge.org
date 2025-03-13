@@ -33,5 +33,3 @@ Dave Tahajian.
 
 This was the last BARGE as organizer for Peter Secor, who continues as
 an honored organizer emeritus.
-
-[Complete results for BARGE 2011](/barge/results/2011)

@@ -20,5 +20,3 @@ event was Don &quot;trythat&quot; Perry. John Miller came in second and Lenny
 Augustine finished third. Mike McBride won the NL hold'em tournament outlasting
 Andrew Prock and Gavin Smith. This was Peter Secor's first BARGE as an
 organizer.
-
-[Complete results for BARGE 2002](/barge/results/2002)

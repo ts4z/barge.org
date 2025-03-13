@@ -22,5 +22,3 @@ Sabyl Landrum. David Kluchman won the Tournament of Champions-style event with
 David Aronson finishing second and Randy Collack coming in third. The no-limit
 hold'em event ended with Chuck Humphrey victorious, followed by Stephen Winter
 and Len Greenberg.
-
-[Complete results for BARGE 2010](/barge/results/2010)
