@@ -58,23 +58,12 @@ SOFTWARE.
 {{- $pages = $pages.Reverse }}
 {{- end }}
 
-{{- $paginator := .Paginate $pages }}
-
-{{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
-{{- partial "home_info.html" . }}
-{{- end }}
-
 {{- $term := .Data.Term }}
-{{- range $index, $page := $paginator.Pages }}
+{{- range $index, $page := $pages }}
 
 {{- $class := "post-entry" }}
 
 {{- $user_preferred := or site.Params.disableSpecial1stPost site.Params.homeInfoParams }}
-{{- if (and $.IsHome (eq $paginator.PageNumber 1) (eq $index 0) (not $user_preferred)) }}
-{{- $class = "first-entry" }}
-{{- else if $term }}
-{{- $class = "post-entry tag-entry" }}
-{{- end }}
 
 <article class="{{ $class }}">
   {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
@@ -107,33 +96,8 @@ SOFTWARE.
 {{- end }}
 
 <footer>
-  <span class="page-footer">
-  {{- if gt $paginator.TotalPages 1 }}
-  <nav class="pagination">
-    {{- if $paginator.HasPrev }}
-    <a class="prev" href="{{ $paginator.Prev.URL | absURL }}">
-      «&nbsp;{{ i18n "prev_page" }}&nbsp;
-      {{- if (.Param "ShowPageNums") }}
-      {{- sub $paginator.PageNumber 1 }}/{{ $paginator.TotalPages }}
-      {{- end }}
-    </a>
-    {{- end }}
-    {{- if $paginator.HasNext }}
-    <a class="next" href="{{ $paginator.Next.URL | absURL }}">
-      {{- i18n "next_page" }}&nbsp;
-      {{- if (.Param "ShowPageNums") }}
-      {{- add 1 $paginator.PageNumber }}/{{ $paginator.TotalPages }}
-      {{- end }}&nbsp;»
-    </a>
-    {{- end }}
-
-  </nav>
-  {{- end }}
-  </span>
- 
   <span class="post-footer">
     {{- partial "common-footer-tags.html" . }}
-    {{- partial "post_nav_links_in_section_reversed.html" . }}
     {{- partial "common-share.html" . }}
   </span>
 </footer>
