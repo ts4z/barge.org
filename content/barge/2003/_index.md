@@ -21,5 +21,3 @@ hold'em tournament winner was Paul Person. Patti Beadles finished second and
 John Davis came in third. Mike Zimmers helped organize this year's BARGE event,
 but he chose not to attend, marking the end of his illustrious career as BARGE
 organizer.
-
-[Complete results for BARGE 2003](/barge/results/2003)

@@ -25,5 +25,3 @@ BARGE event. John Pickels came in second, and Rick Mombourquette was
 third. Finally, the no-limit hold'em main event was won by Paul McMullin with
 Nick Christenson finishing second and Randall Hennemuth finished third. This
 was the first BARGE as organizer for Bree Goldman.
-
-[Complete results for BARGE 2012](/barge/results/2012)

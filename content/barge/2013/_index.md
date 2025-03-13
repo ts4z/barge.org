@@ -30,5 +30,3 @@ hold'em tournament. In the no-limit hold'em championship, David Lawful was
 victorious, followed by Bob Lauria in second and Gerland Peterson in
 third. This year at BARGE we held a Binion's dealer appreciation
 tournament. George Kouselas won.
-
-[Complete results for BARGE 2013](/barge/results/2013)

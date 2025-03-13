@@ -29,5 +29,3 @@ Pappas. Barry Tanenbaum emerged victorious in the ToC-style event. Marc
 third. This was Chuck Weinstock's last BARGE as organizer, although he
 continues as honored organizer emeritus. This was also Nick Christenson's first
 BARGE as an organizer.
-
-[Complete results for BARGE 2008](/barge/results/2008)

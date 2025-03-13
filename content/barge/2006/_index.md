@@ -48,5 +48,3 @@ Baiter&quot; Friedman in the World Roshambo Championship.
 
 Rick &quot;Zbigniew&quot; Bevan was awarded
 the prize for best chip castle.
-
-[Complete results for BARGE 2006](/barge/results/2006)

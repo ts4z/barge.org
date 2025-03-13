@@ -8,6 +8,6 @@ tags:
 date: 2022-09-01
 ---
 
-This year's BARGE was at Westgate.
+BARGE returned to the Westgate again for 2022.
 
-[Complete results for BARGE 2022](/barge/results/2022)
+Jesse Capps won the Main Event.

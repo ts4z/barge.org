@@ -29,5 +29,3 @@ Wil Wheaton was the speaker.
 
 Chuck Weinstock earned the dubious distinction of missing a BARGE for which he
 was the organizer, staying home to help his wife recover from back surgery.
-
-[Complete results for BARGE 2005](/barge/results/2005)
