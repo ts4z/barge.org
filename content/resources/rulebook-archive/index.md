@@ -16,3 +16,6 @@ The current rulebook is maintained via the scripts and source here:
 We also have a collection of the old rulebooks here:
 
 * https://secure.barge.org/bargerulebooks/
+
+Before we had a PDF rulebook, we had a website that was a source for the book.
+The [Internet Archive remembers](https://web.archive.org/web/20150818161004/www.barge.org/rules/).
