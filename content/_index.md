@@ -35,10 +35,6 @@ backgrounds or poker accomplishments.
 Why Join Us?
 -----
 
-{{< figure class="floatright40" 
-    src="/mybarge-truck.jpg"
-    caption="We don't know whose truck this is, but we like the license plate.">}}
-
 Because you enjoy playing poker and want to be part of a diverse community of
 fun-loving people. We all enjoy the game of poker. We claim several WSOP
 bracelet winners among our membership. We also have novice players. We host
@@ -47,7 +43,6 @@ their bankroll. We openly exchange ideas and many of our members have greatly
 enhanced their poker skills via BARGE. But the most important reason to join
 is: it's the most fun you will ever have playing poker! BARGE is what poker
 should be!
-
 
 
 Other Ways to Play and Keep in Touch 
