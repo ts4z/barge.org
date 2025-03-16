@@ -46,7 +46,15 @@ SOFTWARE.
   </div>
   {{- end }}
 
-  {{- partial "common-single-footer.html" . }}
+  <footer class="post-footer">
+    {{- partial "common-footer-tags.html" . }}
+    {{- partial "post_nav_links_in_section.html" . }}
+    {{- partial "common-share.html" . }}
+  </footer>
+
+  {{- if (.Param "comments") }}
+  {{- partial "comments.html" . }}
+  {{- end }}
 </article>
 
 {{- end }}{{/* end main */}}
