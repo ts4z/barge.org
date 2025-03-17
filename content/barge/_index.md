@@ -6,6 +6,7 @@ type: event-root
 params:
   orderByTitle: true
   reverseOrder: true
+  noDate: true
 aliases:
  - /barge-history/
  - /barge/history
