@@ -7,6 +7,7 @@ type: event-root
 params:
   orderByTitle: true
   reverseOrder: true
+  noDate: true
 ---
 
 Quick Links for EMBARGO: [EMBARGO 2025](/embargo/2025/)
@@ -14,8 +15,6 @@ Quick Links for EMBARGO: [EMBARGO 2025](/embargo/2025/)
 [Results](/embargo/results/) 
 &mdash;
 [View Registrations](https://secure.barge.org/embargo2025review.php)
-
-__________
 
 ![](/images/EMBARGO+2020+Attendee+Photo-1920w.jpg)
 
