@@ -6,6 +6,8 @@ tags:
  - barge
  - 2023
 date: 2023-09-01
+cover:
+  image: cover.jpg
 ---
 
 This year's BARGE was at Westgate.

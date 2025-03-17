@@ -6,6 +6,8 @@ tags:
  - barge
  - 2024
 date: 2024-09-01
+cover:
+  image: cover.jpg
 ---
 
 BARGE 2024 was held at the Westgate.
