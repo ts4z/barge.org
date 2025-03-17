@@ -6,6 +6,8 @@ tags:
  - barge
  - 2000
 date: 2000-09-01
+cover:
+  image: cover.jpg
 ---
 
 The year 2000 marked BARGE's return to the Horseshoe. Jeff Bartoszewicz won the
@@ -22,3 +24,9 @@ high, and 5-card draw lowball. After the early rounds, 5-card stud was removed
 and the other games were played no-limit. In the final rounds, only lowball was
 played. Michael Hunter, Stephen Landrum, and Bill Chen chopped the prize pool
 when it got to 3-handed.
+
+-----
+
+Cover image: Ken Kubey's chip animal during the chip castle contest.  [Picture
+courtesy of Ken Kubey from Andy Hughes'
+site.](http://nevadacasinochips.com/BARGE00.htm)

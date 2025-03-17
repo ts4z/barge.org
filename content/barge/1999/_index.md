@@ -21,3 +21,9 @@ Mike Sexton was the banquet speaker.
 1999 marked the first year in which the &quot;virgin&quot; class was
 specifically called out, led by [&quot;virgin queen&quot; Beth
 Evan](/resources/virgin-queen/).
+
+---
+
+Cover image: Russell Rosenblum and John Harkness at the final table of the
+No-limit Hold'em Tournament.  Picture from [Andy Hughes'
+site](http://nevadacasinochips.com/BARGE99.htm).
