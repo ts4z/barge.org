@@ -22,6 +22,9 @@ hosts.[^1]
 In the end the Venetian stepped up and did a fabulous job hosting
 BARGE.
 
+[This year's event was written up in
+CardPlayer.](https://www.cardplayer.com/poker-news/1304-barge-invades-las-vegas-for-13th-year)
+
 The Tuesday tournament in 2006 was Lazy Pineapple, and that was
 won by Keith Troell, followed by Warren Sander in second and Claude Carlson in
 third. In the newly christene
