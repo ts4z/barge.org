@@ -6,6 +6,8 @@ tags:
  - barge
  - 2020
 date: 2020-09-01
+cover:
+  image: cover.jpg
 ---
 
 In 2020, the COVID pandemic kept BARGE out of Las Vegas for the first and only time to date.
