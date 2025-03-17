@@ -13,3 +13,7 @@ cover:
 BARGE 2024 was held at the Westgate.
 
 99 players played the main event, won by Tim Showalter.
+
+-----
+
+Cover image: A tournament in progress at BARGE 2024.  Picture from Keith Troell.
