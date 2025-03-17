@@ -6,6 +6,8 @@ tags:
  - barge
  - 2004
 date: 2004-09-01
+cover:
+  image: cover.jpg
 ---
 
 Binion's again played host to BARGE in 2004. Newly crowned WSOP main event
@@ -20,3 +22,7 @@ event. Dave Fruchter won the ToC-style event. Jim &quot;Bullbert&quot; Bullard
 finished second, Chris &quot;ADB Ploink&quot; Straghalis finished third. Peter
 &quot;Taki&quot; Caldes won the stud shootout. In second place was Sabyl
 Cohen. Perry &quot;The Baiter&quot; Friedman finished in third.
+
+-----
+
+Cover image: Buttons worn by 2004 virgins.  Pictures provided by Asya Kamsky.

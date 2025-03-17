@@ -6,6 +6,8 @@ tags:
  - barge
  - 2008
 date: 2008-09-01
+cover:
+  image: cover.jpg
 ---
 
 Once again, BARGE enjoyed the hospitality of our good friends at Binion's. And,
@@ -29,3 +31,9 @@ Pappas. Barry Tanenbaum emerged victorious in the ToC-style event. Marc
 third. This was Chuck Weinstock's last BARGE as organizer, although he
 continues as honored organizer emeritus. This was also Nick Christenson's first
 BARGE as an organizer.
+
+-----
+
+Cover image: Half-Native Chowaha being played at BARGE 2008. Waitress' arm is
+obscuring Kevin Un's shirt which reads, "The liver is evil. It must be
+punished."
