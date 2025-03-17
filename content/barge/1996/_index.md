@@ -6,6 +6,8 @@ tags:
  - barge
  - 1996
 date: 1996-09-01
+cover:
+  image: cover.jpg
 ---
 
 BARGE 1996 was held at the Horseshoe. The NL tournament was won by organizer
@@ -28,3 +30,7 @@ Chuck Weinstock offers this advice from Mike's talk:
 > “I am a lucky player. A powerful winning force surrounds me.”
 
 This was the first BARGE for eventual organizer Peter Secor.
+
+-----
+
+Cover image: Peter Secor and Patti Beadles in tuxedos.
