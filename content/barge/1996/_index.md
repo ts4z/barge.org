@@ -33,4 +33,4 @@ This was the first BARGE for eventual organizer Peter Secor.
 
 -----
 
-Cover image: Peter Secor and Patti Beadles in tuxedos.
+Cover image: Peter Secor and Patti Beadles in tuxedos at BARGE 1996.
