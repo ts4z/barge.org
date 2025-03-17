@@ -8,9 +8,10 @@ tags:
 date: 2003-09-01
 ---
 
-After 2003, BARGE would still be at Binion's, but this is the last
-year the building would bear the &quot;Horseshoe&quot; name (and be run by a
-Binion). Keith Fichtemaier won the limit hold'em event. Tiger came in second
+This is the last year our most frequent host casino would bear the
+&quot;Horseshoe&quot; name, and be run by a Binion.
+
+Keith Fichtemaier won the limit hold'em event. Tiger came in second
 and Mike &quot;ADB Howler&quot; McBride finished third. Team Chinese Poker won
 the Team CHORSE event. This was the last year for the History of Poker
 event. It was won by Michael Maurer with Perry &quot;The Baiter&quot; Friedman
