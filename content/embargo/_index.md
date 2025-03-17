@@ -3,7 +3,7 @@ title: EMBARGO
 draft: false
 aliases: /embargo-info
 weight: -5
-type: sequential-section
+type: event-root
 params:
   orderByTitle: true
   reverseOrder: true

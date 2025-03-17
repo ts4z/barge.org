@@ -2,7 +2,7 @@
 title: BARGE
 draft: false
 weight: -10
-type: sequential-section
+type: event-root
 params:
   orderByTitle: true
   reverseOrder: true
