@@ -16,3 +16,7 @@ now known as [Craft Poker](https://craftpoker.com/).
 
 Russ Fox became the first two-time winner of the BARGE Main Event.
 Historians will argue if a zero-dollar virtual tournament win counts (it does).
+
+-----
+
+Cover image: BARGE 2020 pin designed by Patrick Milligan.  Picture from Bruce Iwamoto.

@@ -13,3 +13,7 @@ cover:
 BARGE returned to the Westgate again for 2022.
 
 Jesse Capps won the Main Event.
+
+-----
+
+Cover image: Two out of three tables resuming play in NL event after dinner.  Picture from Asya Kamsky.
