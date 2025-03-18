@@ -6,6 +6,8 @@ tags:
  - barge
  - 2010
 date: 2010-09-01
+cover:
+  image: cover.jpg
 ---
 
 Not only were the gambling events at BARGE 2010 held at Binion's, but they
@@ -22,3 +24,8 @@ Sabyl Landrum. David Kluchman won the Tournament of Champions-style event with
 David Aronson finishing second and Randy Collack coming in third. The no-limit
 hold'em event ended with Chuck Humphrey victorious, followed by Stephen Winter
 and Len Greenberg.
+
+-----
+
+Cover image: From Stevan Goldman [via
+Flickr](https://flickr.com/photos/11064896@N05/4879691717).
