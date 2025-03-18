@@ -28,6 +28,3 @@ third. Finally, the no-limit hold'em main event was won by Paul McMullin with
 Nick Christenson finishing second and Randall Hennemuth finished third. This
 was the first BARGE as organizer for Bree Goldman.
 
------
-
-Cover image: Team CHORSE NL. Deadheads take the trophy this year.
