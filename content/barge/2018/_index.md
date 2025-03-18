@@ -8,10 +8,11 @@ tags:
 date: 2018-09-01
 cover:
   image: cover.jpg
+summary: This year's BARGE was the last one held at Binion's Casino.
 ---
 
-This year's BARGE was held at Binion's Casino for the last time to date.
-(After BARGE, Binion's reduced its poker room to a smaller size.)
+This year's BARGE was the last one held at Binion's Casino.
+After BARGE, Binion's reduced its poker room to a smaller size.
 
 -----
 
