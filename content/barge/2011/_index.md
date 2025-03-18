@@ -7,6 +7,8 @@ tags:
  - 2011
 date: 2011-09-01
 type: sequential-section
+cover:
+  image: cover.jpg
 ---
 
 Once again, the entirety of BARGE 2011 occurred at Binion's Casino in beautiful
@@ -33,3 +35,7 @@ Dave Tahajian.
 
 This was the last BARGE as organizer for Peter Secor, who continues as
 an honored organizer emeritus.
+
+-----
+
+Cover image: 2011 no-limit final table.
