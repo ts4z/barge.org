@@ -17,7 +17,8 @@ tags:
     event="Charity Pot Limit Omaha High"
     date="Tuesday, August 2, 2005"
     entries=50
-    prize-pool="$2,500 Prize Pool" >}}
+    prize-pool="$2,500 Prize Pool" 
+    image="GrizzBARGE2005.jpg" >}}
 
 Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
 
@@ -38,7 +39,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     event="Blackjack"
     date="Wednesday, August 3, 2005"
     entries=29
-    prize-pool="$1,450 Prize Pool" >}}
+    prize-pool="$1,450 Prize Pool" 
+    image="StevenBARGE2005.jpg" >}}
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
@@ -53,7 +55,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     event="Video Poker"
     date="Wednesday, August 3, 2005"
     entries=27
-    prize-pool="$1,080 Prize Pool" >}}
+    prize-pool="$1,080 Prize Pool" 
+    image="ConnieBarge2005.jpg" >}}
 
 |   |                                       |              |
 |--:|---------------------------------------|--------------|
@@ -67,7 +70,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     event="Lowball"
     date="Wednesday, August 3, 2005"
     entries=71
-    prize-pool="$4,260 Prize Pool" >}}
+    prize-pool="$4,260 Prize Pool" 
+    image="AlexBARGE2005.jpg" >}}
 
 |   |                                            |        |
 |--:|--------------------------------------------|--------|
@@ -83,7 +87,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
 
 {{< tournament event="Team CHORSE"
     date="Thursday, August 4, 2005"
-    entries=17 >}}
+    entries=17 
+    image="CHORSEWinnerBARGE2005.jpg" >}}
 
 |    |                                                       |        |
 |---:|-------------------------------------------------------|--------|
@@ -119,7 +124,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     event="Significant Others Holdem"
     date="Thursday, August 4, 2005"
     entries=11
-    prize-pool="$100 Prize Pool" >}}
+    prize-pool="$100 Prize Pool" 
+    image="KerryBARGE2005.jpg" >}}
 
 |   |                   |     |
 |--:|-------------------|-----|
@@ -132,7 +138,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     event="Stud Shootout"
     date="Thursday, August 4, 2005"
     entries=80
-    prize-pool="$6,000 Prize Pool" >}}
+    prize-pool="$6,000 Prize Pool" 
+    image="SabylBARGE2005.jpg" >}}
 
 |       |                                        |          |
 |------:|----------------------------------------|----------|
@@ -152,7 +159,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     event="Tournament Of Champions Style"
     date="Friday, August 5, 2005"
     entries=159
-    prize-pool="$11,925 Prize Pool" >}}
+    prize-pool="$11,925 Prize Pool" 
+    image="MikeBARGE2005.jpg" >}}
 
 |   |                                     |        |
 |--:|-------------------------------------|--------|
@@ -171,7 +179,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     event="No Limit Holdem"
     date="Saturday, August 6, 2005"
     entries=219
-    prize-pool="$21,900 Prize Pool" >}}
+    prize-pool="$21,900 Prize Pool" 
+    image="DonBarge2005.jpg" >}}
     
 |    |                                     |        |
 |---:|-------------------------------------|--------|
@@ -198,3 +207,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
 ## 2004-2005 RGP Best All Around Player at *ARG Events
 
 Jerrod Ankenman
+
+-------
+
+Images taken from [Andy Hughes'
+site](http://nevadacasinochips.com/BARGE05.htm).
