@@ -6,6 +6,8 @@ tags:
  - barge
  - 2005
 date: 2005-09-01
+cover:
+  image: cover.jpg
 ---
 
 In 2005, downtown Las Vegas was again host to BARGE. This time, though, the
@@ -29,3 +31,9 @@ Wil Wheaton was the speaker.
 
 Chuck Weinstock earned the dubious distinction of missing a BARGE for which he
 was the organizer, staying home to help his wife recover from back surgery.
+
+-----
+
+Cover image: Don Perry's bustout gift, which he failed to give to anyone by
+inadvertently winning the main event.  Taken from [Andy Hughes'
+site](http://nevadacasinochips.com/BARGE05.htm).

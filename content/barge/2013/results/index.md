@@ -44,7 +44,8 @@ tags:
 {{< tournament
     event="Triathalon of Gambling"
     date="Tuesday, July 31st, 2013"
-    buyin="$30+$5"  >}}
+    buyin="$30+$5"
+    image="MPHShoe.jpg" >}}
 
 |   |                   |      |
 |--:|-------------------|------|
@@ -75,7 +76,8 @@ tags:
 {{< tournament
     event="Pot Limit Omaha"
     date="Thursday, August 1st, 2013"
-    buyin="$75+$20" >}}
+    buyin="$75+$20" 
+    image="RS2013PLO.jpg" >}}
 
 |    |                |        |
 |---:|----------------|--------|
@@ -113,7 +115,8 @@ tags:
 {{< tournament
     event="No Limit Holdem Championship"
     buyin="$100 + $20"
-    date="Saturday, August 3rd, 2013" >}}
+    date="Saturday, August 3rd, 2013" 
+    image="DavidLaw.jpg" >}}
 
 |    |                    |        |
 |---:|--------------------|--------|
@@ -172,3 +175,8 @@ Team&quot; since only half of their members were actually virgins.
 | 1 | Steven Eisenstein |
 | 2 | Scott Byron       |
 | 3 | Bob Lauria        |
+
+-------
+
+Images taken from [Andy Hughes'
+site](http://nevadacasinochips.com/BARGE13.htm).

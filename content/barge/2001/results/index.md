@@ -14,7 +14,8 @@ tags:
 {{< tournament
     date="Thursday, August 2, 2001"
     event="History of Poker Tournament"
-    parentheticals="(5 card draw, lowball)" >}}
+    parentheticals="(5 card draw, lowball)" 
+    image="andybloch.jpg" >}}
 
 |   |                    |        |
 |--:|--------------------|--------|
@@ -30,7 +31,8 @@ tags:
 
 {{< tournament
     date="Friday, August 3, 2001"
-    event="Tournament of Champions™-style Poker Tournament" >}}
+    event="Tournament of Champions™-style Poker Tournament" 
+    image="frankjerome.jpg" >}}
 
 Alternating limit hold'em, Omaha/8, and seven-card stud, followed by No-Limit
 Hold'em at the later levels.
@@ -69,7 +71,8 @@ Friday, August 3, 2001
 {{< tournament
     date="Saturday, August 4, 2001"
     buyin="$70" 
-    event="No-Limit Hold'em" >}}
+    event="No-Limit Hold'em" 
+    image="russ-nlhe.jpg" >}}
 
 |    |                                   |        |
 |---:|-----------------------------------|--------|
@@ -84,3 +87,8 @@ Friday, August 3, 2001
 |  9 | Dave Roemer                       | $335   |
 | 10 | Gerry Petersen                    | $280   |
 | 11 | Bob Wilson                        | $280   |
+
+-----
+
+Images taken from [Andy Hughes'
+site](http://nevadacasinochips.com/BARGE01.htm).

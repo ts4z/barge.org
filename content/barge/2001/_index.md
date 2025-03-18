@@ -6,6 +6,8 @@ tags:
  - barge
  - 2001
 date: 2001-09-01
+cover:
+  image: cover.jpg
 ---
 
 In 2001, BARGE was again at Binion's Horseshoe. Events included the NL
@@ -17,3 +19,9 @@ held at the Golden Nugget, the speaker was Phil Hellmuth. The NL winner was
 Russ Fox who outlasted John Fleming and Don &quot;ADB Bingo&quot; Rieck. The
 [BARGE Chip Committee](/chips/bcc/) was formed and created this year's
 set. Eventual organizer Michael Patterson's first BARGE.
+
+-----
+
+Cover image: Michael Maurer, Stephan Landrum, and Andy Hughes at one of the
+final two tables of the TOC.  Picture courtesy of Harry Baldwin, via [Andy's
+site](http://nevadacasinochips.com/BARGE01.htm).
