@@ -6,6 +6,8 @@ tags:
  - barge
  - 2014
 date: 2014-09-01
+cover:
+  image: cover.jpg
 ---
 
 This year's expanded BARGE was held at Binion's Casino. <!--more-->
