@@ -16,7 +16,7 @@ This year's expanded BARGE was held at Binion's Casino.
 
 -----
 
-Cover image: Organizer Emeritus Peter "Foldem" Secor takes the lead in the
+Cover image: Organizer Emeritus Peter "Foldem" Secor takes the lead (with Presto!) in the
 TOC-Style event on his way to winning it.  He won again in 2018 as well.
 Picture from Ken Kubey.
 
