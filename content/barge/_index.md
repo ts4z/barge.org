@@ -95,7 +95,12 @@ the direction of the [BARGE, Inc.](/inc/) directors &mdash; the directors are
 probably who you want to work with.  A list of directors can be found
 [here](/inc/officers).
 
----
+-----
+
+Cover image: TOC in progress at BARGE 2024.
+[Photo by Rodney Chen.](https://flickr.com/photos/beakertehmuppet/53926920712/in/album-72177720319591018/)
+
+-----
 
 ## BARGE History
 
@@ -103,7 +108,3 @@ We have a little bit of history split up by year.  (If you have any memories to
 share, please contact us!)  Start from the most recent, [2024](/barge/2024/) or the beginning,
 [1991](/barge/1991/).
 
------
-
-Cover image: TOC in progress at BARGE 2024.
-[Photo by Rodney Chen.](https://flickr.com/photos/beakertehmuppet/53926920712/in/album-72177720319591018/)
