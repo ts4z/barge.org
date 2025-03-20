@@ -19,4 +19,5 @@ Historians will argue if a zero-dollar virtual tournament win counts (it does).
 
 -----
 
-Cover image: BARGE 2020 pin designed by Patrick Milligan.  Picture from Bruce Iwamoto.
+Cover image: BARGE 2020 pin produced by Diana Mercer and designed by Patrick
+Milligan.  Picture from Bruce Iwamoto.
