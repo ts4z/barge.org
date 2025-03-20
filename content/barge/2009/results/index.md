@@ -85,7 +85,8 @@ tags:
     date="Thursday, July 30, 2009"
     event="Team CHORSE"
     buyin=$400
-    entries=17 >}}
+    entries=17 
+    image="chorse-winners.jpg" >}}
 
 |    |                                                        |      |
 |---:|--------------------------------------------------------|------|

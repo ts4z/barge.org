@@ -38,4 +38,5 @@ an honored organizer emeritus.
 
 -----
 
-Cover image: 2011 no-limit final table.
+Cover image: Peter Secor trying to get a word in at the Main Event on Saturday.
+[Photo by Rodney Chen.](https://flickr.com/photos/beakertehmuppet/albums/72157627468159572/)
