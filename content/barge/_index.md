@@ -10,13 +10,13 @@ params:
 aliases:
  - /barge-history/
  - /barge/history
+cover:
+  image: cover.jpg
 ---
 Quick Links for BARGE: [2025]({{< relref "2025/" >}}) &mdash;
 [2025 Schedule]({{< relref "2025/schedule/" >}}) &mdash; 
 [Results]({{< relref "results/" >}})
 
-![](/images/BARGE-2013-815x302-1920w.jpg)
-             
 BARGE is the **Big Annual Rec.Gambling Excursion** (to Las Vegas). This is our
 annual venture out of cyberspace into the Real World in which we get together
 to meet each other face-to-face, participate in several BARGE-private events,
