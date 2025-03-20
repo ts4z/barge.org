@@ -45,7 +45,7 @@ tags:
 | 7 | Guy &quot;Grizz&quot; Brentsen        | $310   |
 | 8 | Warren Sander                         | $200   |
 
-{{ tournament
+{{< tournament
     date="Thursday, August 17th"
     event="Team CHORSE" >}}
 
