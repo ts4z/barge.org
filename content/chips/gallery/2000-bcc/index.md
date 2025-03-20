@@ -30,7 +30,7 @@ All 8 chips have a common obverse. There are 4 chips with Chris and 4 chips with
 ### Development Notes
 
 This is the first chip produced by the BARGE Chip Committee, and was actually produced in 2001.
-[QB's 2000 chips](../2000-qb/) were actually available at BARGE in 2000.
+Only [QB's 2000 chips](../2000-qb/) were actually available at BARGE in 2000.
 
 The [2001](../2001/) chips were produced at the same time, so the [2001 development
 notes](../2001/#development-notes) discussion of changes to the chip vendor
