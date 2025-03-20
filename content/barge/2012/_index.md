@@ -28,3 +28,6 @@ third. Finally, the no-limit hold'em main event was won by Paul McMullin with
 Nick Christenson finishing second and Randall Hennemuth finished third. This
 was the first BARGE as organizer for Bree Goldman.
 
+-----
+
+Cover image: Karaoke at BARGE 2012.  Picture by the karaoke DJ by way of Bree Goldman.
