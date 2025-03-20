@@ -16,3 +16,6 @@ aliases:
 The first five chips in this set are dedicated to recently departed
 BARGErs. The remaining three chips show Don &#8220;TryThat&#8221; Perry in a
 variety of historic settings.
+
+The pink chip was given as a party favor for attendees Chris and Amy's wedding,
+held at BARGE.
