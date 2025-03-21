@@ -16,4 +16,5 @@ BARGE 2024 was held at the Westgate.
 
 -----
 
-Cover image: A tournament in progress at BARGE 2024.  Picture from Keith Troell.
+Cover image: Chowaha at BARGE 2024.
+[Picture from Rodney Chen](https://flickr.com/photos/beakertehmuppet/53928060708/in/album-72177720319591018).
