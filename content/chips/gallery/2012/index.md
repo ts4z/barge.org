@@ -1,5 +1,5 @@
 ---
-title: "2012 Chips: Omaholic's 8 (or better) Steps To Achieving True BARGE Enlightenment"
+title: "2012: Omaholic's 8 (or better) Steps To Achieving True BARGE Enlightenment"
 tags:
  - 2012
  - chips

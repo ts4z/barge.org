@@ -1,0 +1,14 @@
+{{- /*
+
+Of some page reference that $.Get understands, list
+all of the subpages of that page.
+
+*/ -}}
+
+<ul>
+  {{ range (.Page.GetPage ($.Get "ofPage")).Pages }}
+  <li>
+    <a href="{{ relref $ .Permalink }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
