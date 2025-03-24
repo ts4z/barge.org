@@ -1,5 +1,5 @@
 ---
-title: "2014 Chips: Bicycle"
+title: "2014: Bicycle"
 tags:
  - 2014
  - chips

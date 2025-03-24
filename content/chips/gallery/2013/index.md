@@ -1,5 +1,5 @@
 ---
-title: "2013 Chips: Unlikely Events"
+title: "2013: Unlikely Events"
 tags:
  - 2013
  - chips

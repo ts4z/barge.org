@@ -1,5 +1,5 @@
 ---
-title: 2000 chips, QB Edition
+title: "2000: QB Edition"
 tags:
  - 2000
  - qb

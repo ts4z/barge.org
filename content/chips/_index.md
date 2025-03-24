@@ -26,6 +26,7 @@ We've got images of each of the chip sets and a little bit of information on
 them.
 
 [The gallery](gallery/) starts in [1993](gallery/1993/) and ends in [2019](gallery/2019/).
+There is also a [gallery table of contents](toc/).
 
 Special thanks to Patrick Milligan for reaching out to many folks who were
 able to share images of chips from their collections.  Patrick also re-scanned and
