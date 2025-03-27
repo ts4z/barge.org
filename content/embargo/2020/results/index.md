@@ -95,15 +95,14 @@ prize-pool="$2,380" >}}
     players=58
     prize-pool="$4,060" >}}
 
-|   |                                       |            |
-|--:|---------------------------------------|------------|
-| 1 | Kirk &quot;RogueRat&quot; Oshiro      | $1,080     |
-| 2 | Scott &quot;Samarai&quot; Samarel     | $811       |
-| 3 | Kenny &quot;QB&quot; Kubey            | $618       |
-| 4 | Michael &quot;mickdog&quot; Patterson | $502       |
-| 5 | Melissa Robertson                     | $386       |
-| 6 | Ross Poppel                           | $270       |
-| 7 | Linda M &quot;Llew&quot; Lewis        | $193       |
-| 8 | Jeanne David                          | $100       |
-| 9 | Rich Korbin                           | $100&nbsp; |
-
+|   |                                       |        |
+|--:|---------------------------------------|--------|
+| 1 | Kirk &quot;RogueRat&quot; Oshiro      | $1,080 |
+| 2 | Scott &quot;Samarai&quot; Samarel     | $811   |
+| 3 | Kenny &quot;QB&quot; Kubey            | $618   |
+| 4 | Michael &quot;mickdog&quot; Patterson | $502   |
+| 5 | Melissa Robertson                     | $386   |
+| 6 | Ross Poppel                           | $270   |
+| 7 | Linda M &quot;Llew&quot; Lewis        | $193   |
+| 8 | Jeanne David                          | $100   |
+| 9 | Rich Korbin                           | $100   |
