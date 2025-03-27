@@ -44,7 +44,8 @@ tags:
 {{< tournament
     event="PLO Shootout"
     players=27
-    prize-pool=$2,700 >}}
+    prize-pool=$2,700 
+    image=bwana.jpg >}}
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
@@ -57,7 +58,8 @@ tags:
 {{< tournament
     event="8 Game Mix"
     players=41
-    prize-pool=$4.100 >}}
+    prize-pool=$4.100 
+    image=tegwin.jpg >}}
 
 |   |                                              |        |
 |--:|----------------------------------------------|--------|
@@ -73,7 +75,8 @@ tags:
     event="Mystery Bounty No Limit Holdem"
     players=34
     prize-pool=$1,680
-    bonus="plus $2,400 bounties" >}}
+    bonus="plus $2,400 bounties" 
+    image=rickm.jpg >}}
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
@@ -98,7 +101,8 @@ tags:
 |    $50 | Rick &quot;Rick M&quot; Mombourquette |
 |    $50 | Rick &quot;Rick M&quot; Mombourquette |
 
-{{< tournament event="Team CHORSE" >}}
+{{< tournament event="Team CHORSE" 
+    image=chorse.jpg >}}
 
 |   |                   |      |
 |--:|-------------------|------|
@@ -155,7 +159,8 @@ Derby winners:
 {{< tournament
     event="Mike Sexton Original TOC-Style"
     players=56
-    prize-pool=$7000 >}}
+    prize-pool=$7000 
+    image=claudia.jpg >}}
 
 |   |                                         |        |
 |--:|-----------------------------------------|--------|
