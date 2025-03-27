@@ -120,7 +120,8 @@ tags:
 {{< tournament
     event="Pot Limit Oklahoma (w/lammers)"
     players=23
-    prize-pool=$2,300 >}}
+    prize-pool=$2,300 
+    image=grizz.jpg >}}
 
 |   |                                  |      |
 |--:|----------------------------------|------|
@@ -191,7 +192,8 @@ Derby winners:
 {{< tournament
     event="No Limit Hold'em Main Event"
     players=83
-    prize-pool=$11,620 >}}
+    prize-pool=$11,620 
+    image=capps.jpg >}}
 
 |    |                                           |        |
 |---:|-------------------------------------------|--------|

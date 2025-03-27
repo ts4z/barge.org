@@ -9,6 +9,8 @@ tags:
  - results
  - 2024
 summary: Complete results for EMBARGO 2024.
+cover:
+  image: logos/embargo_2024_cover.png
 ---
 
 **Resorts World Hotel and Casino, Las Vegas**
