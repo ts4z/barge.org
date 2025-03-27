@@ -50,8 +50,8 @@ summary: Complete results for EMBARGO 2023.
     event="PLO (X OR Better)"
     date="Friday, February 10, 2023"
     players=34
-    prize-pool="$3,400" >}}
-
+    prize-pool="$3,400"
+    image="hammer.jpg" >}}
 
 |   |                                         |        |
 |--:|-----------------------------------------|--------|

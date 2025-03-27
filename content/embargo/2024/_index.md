@@ -6,6 +6,8 @@ tags:
  - embargo
  - 2024
 date: 2024-03-01
+cover:
+  image: logos/embargo_2024_cover.png
 ---
 
 EMBARGO 2024 was held at Resords World Las Vegas from Thursday, February 1,

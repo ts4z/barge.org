@@ -5,6 +5,8 @@ date: 2024-12-02
 aliases:
  - /embargo/schedule
  - /schedule1
+cover:
+  image: logos/embargo_2025_cover.png
 ---
 
 Below is the event schedule for EMBARGO 2025, which will be held at Resorts
