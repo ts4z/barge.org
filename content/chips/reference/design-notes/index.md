@@ -78,3 +78,7 @@ original ideas.
 Patrick gained some experience with another package, but it's not what the
 vendor uses, and it lacks some features that Illustrator has.
 
+Sales
+-----
+
+We're still figuring this part out.
