@@ -9,6 +9,8 @@ tags:
  - barge
  - 2019
  - results
+cover:
+  image: 2019-gvr-chips.png
 ---
 
 {{< tournament
