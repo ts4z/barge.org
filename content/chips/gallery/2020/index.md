@@ -9,11 +9,10 @@ tags:
  - scottro
  - chips
  - 2025-batch
- 
 ---
 
-Our 2020 chips were designed by Scott "Scottro" Harker with help from
-Patrick Milligan and Michael Brennan.
+Our 2020 chips were designed by 2019 Main Event winner Scott "Scottro" Harker
+with help from Patrick Milligan and Michael Brennan.
 
 Scott's chips were not produced until the [2025 batch](/tags/2025-batch/), but
 Scott had a design in mind dating back to 2020.  From his comments about these
