@@ -36,7 +36,9 @@ The 1968 Mexico City Olympics were the scene of all sorts of records because of 
 
 On June 23, 1917, Babe Ruth (then a pitcher with the Boston Red Sox) started a game against the Washington Senators at Fenway Park. He walked the first batter (Ray Morgan), argued with the home plate umpire, and was ejected.  Ernie Shore replaced him. Morgan tried to steal second, was thrown out. Shore proceeded to pitch a perfect game...but for only 26 batters.
 
-Ken Johnson of the Houston Colt 45s (which became the Houston Astros) no hit the Cincinnati Reds but lost 1-0 on April 23, 1964; he was the first pitcher to pitch a nine inning no hitter and lose.
+Ken Johnson of the Houston Colt 45s (which became the Houston Astros) no hit
+the Cincinnati Reds but lost 1-0 on April 23, 1964; he was the first pitcher to
+pitch a nine inning no-hitter and lose.
 
 Wayne Gretzky scored 894 goals in the National Hockey League...but also had 46 in the World Hockey Association that don't count.
 
