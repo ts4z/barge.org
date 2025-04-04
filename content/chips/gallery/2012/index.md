@@ -4,6 +4,7 @@ tags:
  - 2012
  - chips
  - bcc
+ - omaholic
 type: chip-gallery
 cover:
   image: barge_2012_detail.png

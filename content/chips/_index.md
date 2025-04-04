@@ -16,7 +16,7 @@ params:
 
 {{< figure class="floatright40" src="bargechipslogo.png" >}}
 
-You're probably here for [the gallery](gallery/).
+QUICK LINKS:  [the gallery](gallery/) &mdash;  [ordering information](order/)
 
 It is a tradition of BARGE that each Main Event winner wins a custom
 chipset... that they have to design.  These chips are sold as sample sets as well
@@ -25,7 +25,7 @@ as made available to the BARGE community.
 We've got images of each of the chip sets and a little bit of information on
 them.
 
-[The gallery](gallery/) starts in [1993](gallery/1993/) and ends in [2019](gallery/2019/).
+[The gallery](gallery/) starts in [1993](gallery/1993/) and ends in [2025](gallery/2025/).
 There is also a [gallery table of contents](toc/).
 
 Special thanks to Patrick Milligan for reaching out to many folks who were

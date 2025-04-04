@@ -55,6 +55,14 @@ body {
     float: right;
     width: 40%;
     clear: right;
+    padding: 10px;
+}
+
+.floatleft40 {
+    float: left;
+    width: 40%;
+    clear: left;
+    padding: 10px;
 }
 
 .logo-pad {
