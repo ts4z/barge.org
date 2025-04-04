@@ -54,7 +54,7 @@ Grismore, Bruce Kramer, and Tim's home game for many chip reviews.
 * Yellow 1000: cashews
 * Brown 5000: walnuts.
 * Pink 25K: [pink sprinkicious
-  donut](https://www.flickr.com/photos/paxtonholley/albums/72157606109687865/).
+  donut](https://www.flickr.com/photos/paxtonholley/2667879134/in/album-72157606109687865).
 * Orange 100K: circus peanuts.  Photo by Patrick Milligan.
 * White: A pina colada in an ADB coconut.  This chip features an "aligned"
   edge spot. No denomination, as ADBs are without number (that is, nobody
