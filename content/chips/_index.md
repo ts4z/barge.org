@@ -67,3 +67,11 @@ formed to ensure chipsets were produced every year. Input from the Main Event
 winners varied from very active to none at all.
 
 The BCC's last chipset was the [2019](gallery/2019/) chipset.
+
+### Chips are coming back!
+
+In [2025](gallery/2025/), chips are being made again, including make-up sets for
+[2020](gallery/2020/), 
+[2021](gallery/2021/), and
+[2023](gallery/2023/).
+
