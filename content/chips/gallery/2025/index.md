@@ -21,8 +21,8 @@ to all BARGE main event entrants, compliments of Tim.  This chip will not be
 part of the sample sets (you already got one, right?), but it will be sold
 separately.
 
-This is the second chip, chronologically, with denominations (the first is
-[2023](../2023)), something BARGE chips have traditionally eschewed, at Tim's
+This is the second chipset with denominations.  The first was [2023](../2023).
+BARGE chips have traditionally eschewed them.  They were included at Tim's
 belligerent, tiresome insistence.
 
 {{< figure src="stack1.jpg" class="floatleft40" link="stack1.jpg"
