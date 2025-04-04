@@ -30,33 +30,33 @@ belligerent, tiresome insistence.
 The edge design is intended to stack up making a repeating nut pattern. [^tell1]
 This was inspired by the [2019 chip set](../2019/).
 
-The common obverse side depicts a pinball bumper cap that also appears on Tim's
-cash game set, which Patrick also designed some years ago.
-
 [^tell1]: See [*Caro's Book of Poker
     Tells*](https://books.google.com/books?id=CNJDAgAAQBAJ&printsec=frontcover#v=onepage&q&f=false),
     tell \#1, "I like to play with blocks."
 
-Chip design and infinite patience by Patrick Milligan.  Thanks to Bruce, Doug,
-and Tim's home game for many chip reviews.
+The common obverse side depicts a pinball bumper cap that also appears on Tim's
+cash game set, which Patrick also designed some years ago.
+
+Chip design and infinite patience by Patrick Milligan.  Thanks to Doug
+Grismore, Bruce Kramer, and Tim's home game for many chip reviews.
 
 ### Reverse-side Images
 
-* blue 1: the Mad Hatter, drawn by John Tenniel from the original edition of
+* Blue 1: the Mad Hatter, drawn by John Tenniel from the original edition of
   *Alice's Adventures in Wonderland*
-* red 5: either a left- or right-handed wing nut, in appreciation for the
+* Red 5: either a left- or right-handed wing nut, in appreciation for the
   barge-relpol list.
-* green 25: Jordan almonds.
-* black 100: ⅝" nuts with a ⅜-16 thread, the correct nut for locking down leg
+* Green 25: Jordan almonds.
+* Black 100: ⅝" nuts with a ⅜-16 thread, the correct nut for locking down leg
   levellers on the finer pinball machines.  Picture by Chris Kuntz.
-* light purple 500: a blind squirrel holding Presto, drawn by
+* Light Purple 500: a blind squirrel holding Presto, drawn by
   [@dilartz on Fiverr](https://www.fiverr.com/dilartz).
-* yellow 1000: cashews
-* brown 5000: walnuts.
-* pink 25,000: [pink sprinkicious
-  donut](http://www.i-mockery.com/minimocks/kwik-e-mart/).
-* orange 100K: circus peanuts.  Photo by Patrick Milligan.
-* white: A pina colada in an ADB coconut.  This chip features an "aligned"
+* Yellow 1000: cashews
+* Brown 5000: walnuts.
+* Pink 25K: [pink sprinkicious
+  donut](https://www.flickr.com/photos/paxtonholley/albums/72157606109687865/).
+* Orange 100K: circus peanuts.  Photo by Patrick Milligan.
+* White: A pina colada in an ADB coconut.  This chip features an "aligned"
   edge spot. No denomination, as ADBs are without number (that is, nobody
   remembers how many there are).
 
