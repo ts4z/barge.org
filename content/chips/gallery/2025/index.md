@@ -13,8 +13,8 @@ tags:
  - 2025-batch
 ---
 
-The 2025 chip theme, chosen by 2024 winner Tim Showalter, is "Nuts".  The
-reverse sides of the chips depict a variety of nuts, more or less.
+The 2025 chip theme, chosen by 2024 Main Event winner Tim Showalter, is "Nuts".
+The reverse sides of the chips depict a variety of nuts, more or less.
 
 The chipset has two purple chips.  A light purple (squirrel) chip will be given
 to all BARGE main event entrants, compliments of Tim.  This chip will not be
@@ -26,13 +26,12 @@ This is the second chip, chronologically, with denominations (the first is
 belligerent, tiresome insistence.
 
 {{< figure src="stack1.jpg" class="floatleft40" link="stack1.jpg"
-  caption="Prototype black chips in a stack." >}} 
-The edge design is intended to stack up making a repeating nut pattern. [^tell1]
-This was inspired by the [2019 chip set](../2019/).
-
-[^tell1]: See [*Caro's Book of Poker
-    Tells*](https://books.google.com/books?id=CNJDAgAAQBAJ&printsec=frontcover#v=onepage&q&f=false),
-    tell \#1, "I like to play with blocks."
+  caption="Prototype black chips in a stack." >}}
+The edge design, stacked neatly, makes a repeating nut pattern.  (See [*Caro's
+Book of Poker
+Tells*](https://books.google.com/books?id=CNJDAgAAQBAJ&printsec=frontcover#v=onepage&q&f=false),
+tell \#1, "I like to play with blocks.")  This was inspired by the [2019 chip
+set](../2019/).
 
 The common obverse side depicts a pinball bumper cap that also appears on Tim's
 cash game set, which Patrick also designed some years ago.
@@ -59,5 +58,3 @@ Grismore, Bruce Kramer, and Tim's home game for many chip reviews.
 * White: A pina colada in an ADB coconut.  This chip features an "aligned"
   edge spot. No denomination, as ADBs are without number (that is, nobody
   remembers how many there are).
-
-[^1]: That is, nobody remembers how many there are.
