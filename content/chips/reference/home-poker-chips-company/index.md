@@ -9,7 +9,7 @@ for a company called Home Poker Chips (HPC).  We have some of HPC's brochures
 and reference material available below, reproduced here with their kind
 permission.
 
-HPC was using Chipco as a manufacturer. While Chipco&#8217;s product was
+Chipco manufactured chips sold by HPC. While Chipco&#8217;s product is
 generally well-regarded, state and federal tax authorities had
 [issues](https://www.forbes.com/sites/robertwood/2015/03/21/poker-chip-company-ceo-guilty-of-tax-evasion-paid-cash-now-faces-10-years/)
 with their management.
