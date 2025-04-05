@@ -9,7 +9,6 @@ aliases:
 type: directory
 cover:
   image: bargechipslogo.png
-date: 2019-08-01
 params:
   notInMainMenu: true
 ---
