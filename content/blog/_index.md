@@ -1,7 +1,6 @@
 ---
 title: Blog
 draft: false
-author: Tim Showalter
 aliases: 
  - /blogs
 weight: 20
