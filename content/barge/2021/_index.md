@@ -8,6 +8,9 @@ tags:
 date: 2021-09-01
 cover:
   image: cover.jpg
+aliases:
+ - /barge-2021-schedule
+ - /barge-2021-baag
 ---
 
 This year's BARGE was at Westgate.  COVID was still quite present, and a lot of

@@ -11,6 +11,7 @@ cover:
   image: barge_2018_detail.png
 aliases:
  - /chips/chips/2012-2019-chips/2018-chips/
+ - /chips/chip-sets/bcc-chips-by-michael-brennan-2012-2019/2018-chips 
 ---
 
 (Most of this text was likely from Michael Brennan, and it was liberated from a

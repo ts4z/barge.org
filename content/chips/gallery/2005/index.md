@@ -11,6 +11,7 @@ type: chip-gallery
 large: barge_2005.png
 aliases:
  - /chips/chips/2001-2011-chips/2005-chips/
+ - /chips/chips/gallery/2005/
 ---
 
 This year, the theme is Las Vegas Neon. Each chip in the chip set has a common
