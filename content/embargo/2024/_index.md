@@ -8,6 +8,8 @@ tags:
 date: 2024-03-01
 cover:
   image: cover.jpg
+aliaes:
+ - /embargo-2024/
 ---
 
 EMBARGO 2024 was held at Resords World Las Vegas from Thursday, February 1,

@@ -3,6 +3,9 @@ title: Chip Gallery
 draft: false
 weight: 1
 type: chip-gallery
+aliases:
+ - /chips/chip-sets/bcc-chips-by-michael-brennan-2012-2019/
+ - /chips/chips/gallery/
 ---
 
 The gallery here has something for every BARGE chipset: always pictures,

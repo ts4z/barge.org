@@ -6,6 +6,7 @@ aliases:
  - /chips/about
  - /chips/chips
  - /chips/history
+ - /chips/history/1993-2000/
 type: directory
 cover:
   image: bargechipslogo.png

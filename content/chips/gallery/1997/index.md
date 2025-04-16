@@ -7,6 +7,7 @@ large: barge_1997.png
 pdf: barge_1997.pdf
 aliases:
  - /chips/chips/1993-2000-chips/1997-chips/
+ - /chips/chip-sets/1993-2000-chips/1997-chips/
 ---
 
 This set was designed by Mike Zimmers. Since Mike forgot to order enough chips

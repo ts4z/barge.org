@@ -11,6 +11,7 @@ cover:
   image: barge_2017_detail.png
 aliases:
  - /chips/chips/2012-2019-chips/2017-chips/
+ - /chips/chips/gallery/2017/
 ---
 
 From the 2017 announcement that made the sampler sets available:
