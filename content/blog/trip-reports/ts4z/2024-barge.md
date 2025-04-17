@@ -198,7 +198,7 @@ This was so unexpected that we all couldn't remember if he had a chip cap
 on the cards.  I think his hand may even have been on them.
 
 An argument ensued.  Seat 6 maintained the guy folded, which was
-ludicrous.  We all said didn't, but it didn't matter -- if you expose even
+ludicrous.  We all said he didn't, but it didn't matter -- if you expose even
 the muck, your hand should be killed.  Arthur got Seat 6 to apologize,
 which he did; but then when the followup was that Seat 5's cards were live,
 we went back to the argument, that seat 5 had folded.  Lather, rinse,
