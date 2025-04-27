@@ -74,7 +74,8 @@ tradition, the 2025 squirrel chip is violet.)
 ### Why do the 2023 and 2025 chips have denominations?
 
 Jesse and Tim wanted denominations.  Tim uses poker chips for board games, and
-some board game players couldn't handle un-denominated chips.
+has found some board game players can't handle un-denominated chips.  (See also
+[Tim's trip report](/blog/trip-reports/ts4z/2024-barge/).)
 
 ### What about 2022 and 2024 sets?
 
