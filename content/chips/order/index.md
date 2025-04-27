@@ -16,7 +16,7 @@ with our vendor, and expect to have chips ready in time for [BARGE
 
 ## [2025 Chips](../gallery/2025/)
 
-{{< figure src="barge_2025_detail.png" >}}
+{{< figure src="sampleset_barge_2025.png" link="../gallery/2025/" caption="9 chips in sample set" >}}
 
 Tim's chips are nuts. There are 9 chips in this sample set.
 
@@ -26,19 +26,19 @@ In celebration of the return of chips, and thinking of the original 1993 special
 
 ## [2023 Chips](../gallery/2023/)
 
-{{< figure src="barge_2023_detail.png" >}}
+{{< figure src="sampleset_barge_2023.png" link="../gallery/2023/" caption="8 chips in sample set" >}}
 
 Jesse's chips feature a variety of ducks ready for a variety of holidays. There are 8 chips in the sample set.
 
 ## [2021 Chips](../gallery/2021/)
 
-{{< figure src="barge_2021_detail.png" >}}
+{{< figure src="sampleset_barge_2021.png" link="../gallery/2021/" caption="8 chips in sample set" >}}
 
 Russ' 2020 win came with an asterisk, and so do his chips. There are 8 chips in the sample set.
 
 ## [2020 Chips](../gallery/2020/)
 
-{{< figure src="barge_2020_detail.png" >}}
+{{< figure src="sampleset_barge_2020.png" link="../gallery/2020/" caption="8 chips in sample set" >}}
 
 Scott's chips feature his signature hand and a desert sunset. There are 8 chips in the sample set.
 
