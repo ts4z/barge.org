@@ -4,6 +4,8 @@ date: 2019-08-01
 tags:
  - chips
  - bcc
+aliases:
+ - /chips/bcc
 ---
 
 For twenty [BARGE](/) events,
@@ -42,12 +44,16 @@ were now usually designed by Michael Brennan.
 The members of the BCC continued to evolve.  David Lawful took over as Chairman
 somewhere around 2017.
 
-### End of the BCC
+### 2020: End of the BCC
 
 A lot of things didn’t happen in 2020.  For instance, for several months, you
 were not allowed to have fun in Las Vegas, or pretty much anywhere else. BARGE
 even happened virtually.  The BCC stalled out through this time, and no chips
 were produced in time for any BARGEs through 2024.
+
+### 2025: BCC2.0
+
+In 2025, the BCC was re-launched.  As of this writing, you can [order chips]({{% ref "chips/order" %}})!
 
 ## 2001 BCC Team
 
