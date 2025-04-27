@@ -75,3 +75,7 @@ In [2025](gallery/2025/), chips are being made again, including make-up sets for
 [2021](gallery/2021/), and
 [2023](gallery/2023/).
 
+[See the Order page for details.](order/)
+
+-----
+
