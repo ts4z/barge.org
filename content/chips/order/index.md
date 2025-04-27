@@ -14,6 +14,11 @@ Ordering will be open through June 1.  At that time, we will place the order
 with our vendor, and expect to have chips ready in time for [BARGE
 2025](/barge/2025/).
 
+Note that each set has some limited-release special chips that are not part of
+the sample set.  As is tradition, all of the sets have a special purple chip
+with the previous main event winner's picture.  These chips are not available
+as part of the sample set.
+
 ## [2025 Chips](../gallery/2025/)
 
 {{< figure src="sampleset_barge_2025.png" link="../gallery/2025/" caption="9 chips in sample set" >}}
@@ -22,7 +27,9 @@ Tim's chips are nuts. There are 9 chips in this sample set.
 
 ### Squirrel Violet Chip
 
-In celebration of the return of chips, and thinking of the original 1993 special purple chip, Tim is buying a "violet" chip for each entrant of the main event to be given out at the main event.  So no purple chips will be included with sample sets, but you can buy them in bulk if you want.
+In celebration of the return of Tim is giving a "violet" chip to each entrant
+of the main event, given out at the main event.  These chips will be included
+with sample sets, but they are availble as a bulk add-on.
 
 ## [2023 Chips](../gallery/2023/)
 
