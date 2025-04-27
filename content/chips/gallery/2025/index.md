@@ -16,10 +16,10 @@ tags:
 The 2025 chip theme, chosen by 2024 Main Event winner Tim Showalter, is "Nuts".
 The reverse sides of the chips depict a variety of nuts, more or less.
 
-The chipset has two purple chips.  A light purple (squirrel) chip will be given
-to all BARGE main event entrants, compliments of Tim.  This chip will not be
-part of the sample sets (you already got one, right?), but it will be sold
-separately.
+The chipset has two special chips.  It features the traditional "purple chip",
+but also a violet (squirrel) chip will be given to all BARGE main event
+entrants, compliments of Tim.  This chip will not be part of the sample sets
+(you already got one, right?), but it will be sold separately.
 
 This is the second chipset with denominations.  The first was [2023](../2023).
 BARGE chips have traditionally eschewed them.  They were included at Tim's
@@ -48,7 +48,7 @@ Grismore, Bruce Kramer, and Tim's home game for many chip reviews.
 * Green 25: Jordan almonds.
 * Black 100: ⅝" nuts with a ⅜-16 thread, the correct nut for locking down leg
   levellers on the finer pinball machines.  Picture by Chris Kuntz.
-* Light Purple 500: a blind squirrel holding Presto, drawn by
+* Violet 500: a blind squirrel holding Presto, drawn by
   [@dilartz on Fiverr](https://www.fiverr.com/dilartz).
 * Yellow 1000: cashews
 * Brown 5000: walnuts.
