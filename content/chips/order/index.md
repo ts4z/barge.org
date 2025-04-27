@@ -11,12 +11,12 @@ making sets for BARGE 2025, as well as make-up sets for 2020, 2021, and 2023.
 
 Orders are not yet open.
 
-{{/*
+<!--
 [Orders are now open at this link.](https://forms.gle/PMWvMKGpmuCfXC7F7)
 Ordering will be open through June 1.  At that time, we will place the order
 with our vendor, and expect to have chips ready in time for [BARGE
 2025](/barge/2025/).
-*/}}
+-->
 
 Note that each set has some limited-release special chips that are not part of
 the sample set.  As is tradition, all of the sets have a special purple chip
@@ -33,7 +33,7 @@ Tim's chips are nuts. There are 9 chips in this sample set.
 
 In celebration of the return of Tim is giving a "violet" chip to each entrant
 of the main event, given out at the main event.  These chips will *not* be
-included with sample sets, but they are availble as a bulk add-on.
+included with sample sets, but they are available as a bulk add-on.
 
 ## [2023 Chips](../gallery/2023/)
 
@@ -57,7 +57,7 @@ Scott's chips feature his signature hand and a desert sunset. There are 8 chips 
 
 Orders are not yet open.
 
-{{/* [Please place your order here.](https://forms.gle/PMWvMKGpmuCfXC7F7) */}}
+<!-- {{/* [Please place your order here.](https://forms.gle/PMWvMKGpmuCfXC7F7) */}} -->
 
 Note that:
 
@@ -138,6 +138,8 @@ If anything goes wrong, blame [Tim](mailto:tim.showalter@gmail.com?subject=[BARG
 
 -----
 
+<!--
 {{/*
 [Orders are now open at this link.](https://forms.gle/PMWvMKGpmuCfXC7F7)
 */}}
+-->
