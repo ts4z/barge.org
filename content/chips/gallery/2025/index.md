@@ -17,9 +17,9 @@ The 2025 chip theme, chosen by 2024 Main Event winner Tim Showalter, is "Nuts".
 The reverse sides of the chips depict a variety of nuts, more or less.
 
 The chipset has two special chips.  It features the traditional "purple chip",
-but also a violet (squirrel) chip will be given to all BARGE main event
+but also a violet "squirrel" chip will be given to all BARGE main event
 entrants, compliments of Tim.  This chip will not be part of the sample sets
-(you already got one, right?), but it will be sold separately.
+(you already got one, right?), but it will be sold separately as a bulk chip.
 
 This is the second chipset with denominations.  The first was [2023](../2023).
 BARGE chips have traditionally eschewed them.  They were included at Tim's
