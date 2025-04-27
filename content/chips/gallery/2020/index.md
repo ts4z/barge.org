@@ -30,6 +30,6 @@ chips (heavily edited):
 
 The purple chip is a little different:
 
-> I have two pictures to supply. One is me winning the main, the other is a pic
-> of Monte Christensen.  I promised to dedicate one chip to him, and I decided
-> I wanted to do that with the purple chip.
+> One is me winning the main, the other is a pic of Monte Christensen.  I
+> promised to dedicate one chip to him, and I decided I wanted to do that with
+> the purple chip.
