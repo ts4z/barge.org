@@ -129,3 +129,7 @@ Tim Showalter.
 ### Whose fault is this?
 
 If anything goes wrong, blame [Tim](mailto:tim.showalter@gmail.com?subject=[BARGECHIPS]).
+
+-----
+
+[Orders are now open at this link.](https://forms.gle/PMWvMKGpmuCfXC7F7)
