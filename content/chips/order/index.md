@@ -28,8 +28,8 @@ Tim's chips are nuts. There are 9 chips in this sample set.
 ### Squirrel Violet Chip
 
 In celebration of the return of Tim is giving a "violet" chip to each entrant
-of the main event, given out at the main event.  These chips will be included
-with sample sets, but they are availble as a bulk add-on.
+of the main event, given out at the main event.  These chips will *not* be
+included with sample sets, but they are availble as a bulk add-on.
 
 ## [2023 Chips](../gallery/2023/)
 
