@@ -21,7 +21,7 @@ as part of the sample set.
 
 ## [2025 Chips](../gallery/2025/)
 
-{{< figure src="sampleset_barge_2025.png" link="../gallery/2025/" caption="9 chips in sample set" >}}
+{{< figure src="barge_2025_sampler.png" link="../gallery/2025/" caption="9 chips in sample set" >}}
 
 Tim's chips are nuts. There are 9 chips in this sample set.
 
