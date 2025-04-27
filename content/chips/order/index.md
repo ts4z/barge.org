@@ -83,8 +83,9 @@ If you want to buy enough chips make a "bulk" set for you to, say, play poker wi
 
 In order to buy "bulk" chips, you must buy a sample set for the corresponding year, and you must buy at least 20 chips in any color that you want to order in bulk.
 
-Start by submitting an order for the corresponding sample set, and work with
-[Tim](mailto:tim.showalter@gmail.com?subject=[BARGECHIPS]) bulk order.
+Start by submitting an order for the corresponding sample set, and email
+[Tim](mailto:tim.showalter@gmail.com?subject=[BARGECHIPS]) with the details of
+your bulk order.
 
 Pricing will be dependent on sales of sample sets.
 
