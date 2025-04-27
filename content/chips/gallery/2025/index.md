@@ -30,7 +30,7 @@ belligerent, tiresome insistence.
 The edge design, stacked neatly, makes a repeating nut pattern.  (See [*Caro's
 Book of Poker
 Tells*](https://books.google.com/books?id=CNJDAgAAQBAJ&printsec=frontcover#v=onepage&q&f=false),
-tell \#1, "I like to play with blocks.")  This was inspired by the [2019 chip
+tell \#1, "When I was a boy, I liked to play with blocks.")  This was inspired by the [2019 chip
 set](../2019/).
 
 The common obverse side depicts a pinball bumper cap that also appears on Tim's
