@@ -35,19 +35,19 @@ with sample sets, but they are availble as a bulk add-on.
 
 {{< figure src="sampleset_barge_2023.png" link="../gallery/2023/" caption="8 chips in sample set" >}}
 
-Jesse's chips feature a variety of ducks ready for a variety of holidays. There are 8 chips in the sample set.
+Jesse's chips feature a variety of ducks ready for a variety of holidays. There are 8 chips in this sample set.
 
 ## [2021 Chips](../gallery/2021/)
 
 {{< figure src="sampleset_barge_2021.png" link="../gallery/2021/" caption="8 chips in sample set" >}}
 
-Russ' 2020 win came with an asterisk, and so do his chips. There are 8 chips in the sample set.
+Russ' 2020 win came with an asterisk, and so do his chips. There are 8 chips in this sample set.
 
 ## [2020 Chips](../gallery/2020/)
 
 {{< figure src="sampleset_barge_2020.png" link="../gallery/2020/" caption="8 chips in sample set" >}}
 
-Scott's chips feature his signature hand and a desert sunset. There are 8 chips in the sample set.
+Scott's chips feature his signature hand and a desert sunset. There are 8 chips in this sample set.
 
 ## Order Form
 
@@ -61,6 +61,11 @@ Note that:
 If you need to cancel or change an order, please let us know while orders are still open.
 
 ## FAQ
+
+### Why the markup?
+
+Chip sample set sales pay for the trophy sets for the main event winner, plus
+special purple chips for many other BARGErs.
 
 ### Why do the 2025 chips cost more?
 
@@ -89,7 +94,8 @@ The BCC had a nest egg from many years of sales of BARGE chips, which the Board 
 
 If you want to buy enough chips make a "bulk" set for you to, say, play poker with, we are happy to do so!
 
-In order to buy "bulk" chips, you must buy a sample set for the corresponding year, and you must buy at least 20 chips in any color that you want to order in bulk.
+We ask that you first buy a sample set for the corresponding year, and you buy
+a minimum of 20 chips in any color that you want to order in bulk.
 
 Start by submitting an order for the corresponding sample set, and email
 [Tim](mailto:tim.showalter@gmail.com?subject=[BARGECHIPS]) with the details of
