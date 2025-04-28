@@ -1,6 +1,5 @@
 ---
-#title: Time to Order BARGE Chips for 2025, 2023, 2021, and 2020!
-title: Ordering BARGE Chips
+title: Time to Order BARGE Chips for 2025, 2023, 2021, and 2020!
 cover:
  image: cover.png
 weight: -20
@@ -10,9 +9,6 @@ date: 2025-04-24
 We're pleased to announce that the Reformed BARGE Chip Committee (BCC2.0) is
 making sets for BARGE 2025, as well as make-up sets for 2020, 2021, and 2023.
 
-Orders are not yet open.
-
-<!--
 [Orders are now open at this link.](https://forms.gle/PMWvMKGpmuCfXC7F7)
 Ordering will be open through June 1.  At that time, we will place the order
 with our vendor, and expect to have chips ready in time for [BARGE
@@ -33,7 +29,7 @@ Tim's chips are nuts. There are 9 chips in this sample set.
 
 In celebration of the return of Tim is giving a "violet" chip to each entrant
 of the main event, given out at the main event.  These chips will *not* be
-included with sample sets, but they are available as a bulk add-on.
+included with sample sets, but they are availble as a bulk add-on.
 
 ## [2023 Chips](../gallery/2023/)
 
@@ -54,8 +50,6 @@ Russ' 2020 win came with an asterisk, and so do his chips. There are 8 chips in 
 Scott's chips feature his signature hand and a desert sunset. There are 8 chips in this sample set.
 
 ## Order Form
-
-Orders are not yet open.
 
 [Please place your order here.](https://forms.gle/PMWvMKGpmuCfXC7F7)
 
@@ -138,7 +132,4 @@ If anything goes wrong, blame [Tim](mailto:tim.showalter@gmail.com?subject=[BARG
 
 -----
 
-{{/*
 [Orders are now open at this link.](https://forms.gle/PMWvMKGpmuCfXC7F7)
-*/}}
--->
