@@ -104,8 +104,8 @@ The BCC had a stockpile of back years for sale. We plan to have an inventory of
 these soon and will make them available again.
 
 However, do *not* count on 2020, 2021, 2023, or 2025 being available in the
-future. Old chips do not sell well, so we will not be ordering extra sets.  Get
-them now while you can.
+future. Old chips do not sell well, so we will not be ordering many extra sets,
+if any.  Get them now while you can.
 
 ### Who is doing this?
 
