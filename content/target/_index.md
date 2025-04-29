@@ -1,12 +1,12 @@
 ---
 title: TARGET
-title: EMBARGO
 draft: false
 type: event-root
 params:
   orderByTitle: true
   reverseOrder: true
   noDate: true
+  notInMainMenu: true
 ---
 
 TARGET
