@@ -9,8 +9,6 @@ date: 2025-04-24
 We're pleased to announce that the Reformed BARGE Chip Committee (BCC2.0) is
 making sets for BARGE 2025, as well as make-up sets for 2020, 2021, and 2023.
 
-Orders are not yet open.
-
 [Orders are now open at this link.](https://forms.gle/PMWvMKGpmuCfXC7F7)
 Ordering will be open through June 1.  At that time, we will place the order
 with our vendor, and expect to have chips ready in time for [BARGE
@@ -72,8 +70,7 @@ special purple chips for many other BARGErs.
 ### Are the purple chips part of the chipsets?
 
 No, by tradition, they're given out as prizes.  (For our purposes, the 2025
-squirrel chip is violet, not purple; but it is also not part of the 9-chip 2025
-set.)
+squirrel chip is violet, not purple.)
 
 ### Why do the 2023 and 2025 chips have denominations?
 
