@@ -9,10 +9,19 @@ params:
   notInMainMenu: true
 ---
 
-TARGET
+TARGET 2025
 ======
 
-TARGET is just this thing, y'know?
+A reboot of the TARGET tournament is planned for Saturday, June 14, 2025.
+
+Details coming soon.
+
+What is TARGET?
+---------------
+
+TARGET is The Annual Rec.Gambling Entry Tournament.  It is a satellite
+into the World Series of Poker.  Created by Ken Kubey in 1994, it is 
+the second oldest Rec.Gambling live event (after BARGE, which began in 1991.)
 
 TARGET Champions
 ----------------
@@ -56,18 +65,22 @@ Other money winners:
 1995  Derek McClain  $240  Bill Goldman $50
 1996  Mike Chow      $540  Ken Kubey $90
 1997  David Aronson  $100  John Murphy $90
-1998  Oliver Juang   $500  Chris Colby $320      Ken Kubey $200     Bruce Kramer   $60
+1998  Oliver Juang   $500  Chris Colby $320      Ken Kubey $200     
+1998  Bruce Kramer   $60
 1999  Bruce Kramer   $350  Lee Jones $210
 2000  Paul Stine     $500  Chuck Weinstock $290  Tom Gorman $40
-2001  Tom Goodwin    $599  Charles Haynes $550   Peter Secor $500       Jeff Okamoto   $401  Rob Sadowski $300     Kevan Garrett $200
+2001  Tom Goodwin    $599  Charles Haynes $550   Peter Secor $500
+2001  Jeff Okamoto   $401  Rob Sadowski $300     Kevan Garrett $200
 2002  Russ Fox       $500  Marc Matz $350        Barry Tenenbaum $100
-2003  Sabyl Cohen    $599  Russ Fox $350         Jim Geary $285       Steve Landrum  $225  Ross Poppel $60
+2003  Sabyl Cohen    $599  Russ Fox $350         Jim Geary $285
+2003  Steve Landrum  $225  Ross Poppel $60
 2004  Jerry Gerner   $500  Peter Secor $305      Charles Haynes $80
 2005  None
 2006  DNP
 2007  Rod Chavez     $100
 2008  Dan Sammartino $260  Kevan Garrett $70
-2009  Len Marciano   $500  Steve Nissman $350    Aaron Lion $225       Russ Fox $60
+2009  Len Marciano   $500  Steve Nissman $350    Aaron Lion $225
+2009  Russ Fox $60
 2010  Rich Strauss   $425  Rod Chavez $90
 2011  DNP
 2012  Arthur Goltz   $350  Ken Kubey $230        Russ Fox $50
@@ -161,12 +174,13 @@ All-time TARGET money list thru 2018:
 TARGET History
 --------------
 
-Founded in 1994.  Ken Kubey's idea.  Named by Lee Jones.  The Annual
-Rec.Gambling Entry Tournament (TARGET) is the 2nd oldest live RG event.
-I had heard about the WSOP as early as 1975.  I never thought that
+TARGET was founded in 1994 by Ken Kubey.  Named by Lee Jones:  The Annual
+Rec.Gambling Entry Tournament (TARGET).  This event is the 2nd oldest live RG event.
+In Ken's own words:
+"I had heard about the WSOP as early as 1975.  I never thought that
 I would put up $10,000 myself, but I *did* think that someday
 I could play in a tournament with all of my friends and we could send
-one player into the WSOP.  Little did I know...
+one player into the WSOP.  Little did I know..."
 
 The original idea was to win $1010 and play in a single table satellite
 to get into the $10,000 WSOP Championship.  We also gave the TARGET winner
