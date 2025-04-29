@@ -45,8 +45,6 @@ Scott's chips feature his signature hand and a desert sunset. There are 8 chips 
 
 ## Order Form
 
-Orders are not yet open.
-
 [Please place your order here.](https://forms.gle/PMWvMKGpmuCfXC7F7)
 
 Note that:
