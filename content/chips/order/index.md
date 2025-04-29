@@ -1,6 +1,5 @@
 ---
-#title: Time to Order BARGE Chips for 2025, 2023, 2021, and 2020!
-title: Ordering BARGE Chips
+title: Time to Order BARGE Chips for 2025, 2023, 2021, and 2020!
 cover:
  image: cover.png
 weight: -20
@@ -12,7 +11,6 @@ making sets for BARGE 2025, as well as make-up sets for 2020, 2021, and 2023.
 
 Orders are not yet open.
 
-<!--
 [Orders are now open at this link.](https://forms.gle/PMWvMKGpmuCfXC7F7)
 Ordering will be open through June 1.  At that time, we will place the order
 with our vendor, and expect to have chips ready in time for [BARGE
@@ -25,15 +23,9 @@ as part of the sample set.
 
 ## [2025 Chips](../gallery/2025/)
 
-{{< figure src="barge_2025_sampler.png" link="../gallery/2025/" caption="9 chips in sample set" >}}
+{{< figure src="barge_2025_10.png" link="../gallery/2025/" caption="10 chips in sample set" >}}
 
-Tim's chips are nuts. There are 9 chips in this sample set.
-
-### Squirrel Violet Chip
-
-In celebration of the return of Tim is giving a "violet" chip to each entrant
-of the main event, given out at the main event.  These chips will *not* be
-included with sample sets, but they are available as a bulk add-on.
+Tim's chips are nuts. There are 10 chips in this sample set.
 
 ## [2023 Chips](../gallery/2023/)
 
@@ -75,7 +67,7 @@ special purple chips for many other BARGErs.
 
 ### Why do the 2025 chips cost more?
 
-9-chip set.
+10-chip set.
 
 ### Are the purple chips part of the chipsets?
 
@@ -138,7 +130,4 @@ If anything goes wrong, blame [Tim](mailto:tim.showalter@gmail.com?subject=[BARG
 
 -----
 
-{{/*
 [Orders are now open at this link.](https://forms.gle/PMWvMKGpmuCfXC7F7)
-*/}}
--->
