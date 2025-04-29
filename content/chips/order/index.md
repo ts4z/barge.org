@@ -69,8 +69,9 @@ special purple chips for many other BARGErs.
 
 ### Are the purple chips part of the chipsets?
 
-No, by tradition, they're given out as prizes.  (For our purposes, the 2025
-squirrel chip is violet, not purple.)
+No, by tradition, they're given out as prizes, and a few are given to the
+winner on the chip.  (Many of the sets have a "violet" chip.  The purple chips
+have the main event winner on them.)
 
 ### Why do the 2023 and 2025 chips have denominations?
 
