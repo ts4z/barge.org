@@ -21,8 +21,7 @@ TARGET Champions
 1994   Roy Hashimoto (a)
 1995   Ed Fernandez (a)     Mike Zimmers (b)
 1996   Jeff Siegal (a)      JP Massar (a)     Michael Buck (a)
-1997   Jeff Siegal (a)      Clark Olson (a)   Rob Fagen (a)  Ray
-DiDonato (a)
+1997   Jeff Siegal (a)      Clark Olson (a)   Rob Fagen (a)  Ray DiDonato (a)
 1998   Jeff Siegal (c)      Lee Jones (c)
 1999   Patti Beadles (d)    Russell Rosenblum (a)
 2000   Rob Sadowski (c)     Bill Chen (c)     Lee Jones (a)
@@ -41,8 +40,7 @@ DiDonato (a)
 2013   Sharon Goldman (h)   Rich Bremer (h)    Patrick Milligan (h)
 2014   Linda Lewis (h)      Paul Stine (h)     Ming Lee (h)  Joe Long (h)
 2015   DNP
-2016   Russ Fox (h)         Chris Mecklin (h)  Bill Chen (h) Kevan
-Garrett (h)
+2016   Russ Fox (h)         Chris Mecklin (h)  Bill Chen (h) Kevan Garrett (h)
 2017   Russ Fox (h)         Jim Anderson (h)   Corey Imsdahl (h)
 2018   Russ Fox             Patrick Milligan   Paul Stine  Kevan Garrett (h)
 ```
@@ -58,22 +56,18 @@ Other money winners:
 1995  Derek McClain  $240  Bill Goldman $50
 1996  Mike Chow      $540  Ken Kubey $90
 1997  David Aronson  $100  John Murphy $90
-1998  Oliver Juang   $500  Chris Colby $320      Ken Kubey $200
-       Bruce Kramer   $60
+1998  Oliver Juang   $500  Chris Colby $320      Ken Kubey $200     Bruce Kramer   $60
 1999  Bruce Kramer   $350  Lee Jones $210
 2000  Paul Stine     $500  Chuck Weinstock $290  Tom Gorman $40
-2001  Tom Goodwin    $599  Charles Haynes $550   Peter Secor $500
-       Jeff Okamoto   $401  Rob Sadowski $300     Kevan Garrett $200
+2001  Tom Goodwin    $599  Charles Haynes $550   Peter Secor $500       Jeff Okamoto   $401  Rob Sadowski $300     Kevan Garrett $200
 2002  Russ Fox       $500  Marc Matz $350        Barry Tenenbaum $100
-2003  Sabyl Cohen    $599  Russ Fox $350         Jim Geary $285
-       Steve Landrum  $225  Ross Poppel $60
+2003  Sabyl Cohen    $599  Russ Fox $350         Jim Geary $285       Steve Landrum  $225  Ross Poppel $60
 2004  Jerry Gerner   $500  Peter Secor $305      Charles Haynes $80
 2005  None
 2006  DNP
 2007  Rod Chavez     $100
 2008  Dan Sammartino $260  Kevan Garrett $70
-2009  Len Marciano   $500  Steve Nissman $350    Aaron Lion $225
-       Russ Fox $60
+2009  Len Marciano   $500  Steve Nissman $350    Aaron Lion $225       Russ Fox $60
 2010  Rich Strauss   $425  Rod Chavez $90
 2011  DNP
 2012  Arthur Goltz   $350  Ken Kubey $230        Russ Fox $50
@@ -96,64 +90,64 @@ All-time TARGET money list thru 2018:
 6.  Kevan Garrett      $3270
 7.  Bill Chen          $3070
 8.  Marc Ferguson      $3000
-     Ming Lee           $3000
+8.  Ming Lee           $3000
 10. Paul Stine         $2500
 11. Rob Sadowski       $2370
 12. Ray Klann          $2100
-     Eric Holtman       $2100
+12. Eric Holtman       $2100
 14. Steve Daniel       $2000
-     Patrick Milligan   $2000
+14. Patrick Milligan   $2000
 16. Chuck Weinstock    $1790
 17. Andy Latto         $1500
-     Paul Martino       $1500
-     Mark Rafn          $1500
-     Bryan Matindale    $1500
-     Barbara Garrett    $1500
+17. Paul Martino       $1500
+17. Mark Rafn          $1500
+17. Bryan Matindale    $1500
+17. Barbara Garrett    $1500
 22. Rob Fagen          $1390
 23. Roy Hashimoto      $1010
-     Ed Fernandez       $1010
-     JP Massar          $1010
-     Michael Buck       $1010
-     Clark Olson        $1010
-     Ray DiDonato       $1010
-     Russell Rosenblum  $1010
+23. Ed Fernandez       $1010
+23. JP Massar          $1010
+23. Michael Buck       $1010
+23. Clark Olson        $1010
+23. Ray DiDonato       $1010
+23. Russell Rosenblum  $1010
 30. Ben Imsdahl        $1000
-     George Wattman     $1000
-     Jeff Deitch        $1000
-     Sharon Goldman     $1000
-     Rich Bremer        $1000
-     Joe Long           $1000
-     Linda Lewis        $1000
-     Chris Mecklin      $1000
-     Jim Anderson       $1000
-     Corey Imsdahl      $1000
+30. George Wattman     $1000
+30. Jeff Deitch        $1000
+30. Sharon Goldman     $1000
+30. Rich Bremer        $1000
+30. Joe Long           $1000
+30. Linda Lewis        $1000
+30. Chris Mecklin      $1000
+30. Jim Anderson       $1000
+30. Corey Imsdahl      $1000
 40. Mike Zimmers        $920
 41. Peter Secor         $805
 42. Charles Haynes      $630
 43. Tom Goodwin         $599
-     Sabyl Cohen         $599
+43. Sabyl Cohen         $599
 45. Mike Chow           $540
 46. Oliver Juang        $500
-     Jerry Gerner        $500
-     Len Marciano        $500
+46. Jerry Gerner        $500
+46. Len Marciano        $500
 49. Rich Strauss        $425
-     Arthur Goltz        $425
+49. Arthur Goltz        $425
 51. Bruce Kramer        $410
 52. Jeff Okamoto        $401
 53. Paul McMullin       $400
 55. Barry Kornspan      $390
 55. Marc Matz           $350
-     Steve Nissman       $350
+55. Steve Nissman       $350
 57. Chris Colby         $320
 58. Jim Geary           $285
 59. Dan Sammartino      $260
 60. Derek McClain       $240
 61. Stephen Landrum     $225
-     Aaron Lion          $225
+61. Aaron Lion          $225
 63. Kenny Shei          $210
 64. Rod Chavez          $190
 65. David Aronson       $100
-     Barry Tenenbaum     $100
+65. Barry Tenenbaum     $100
 67. John Murphy          $90
 68. Pete Segal           $90
 69. Ross Poppel          $60
