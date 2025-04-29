@@ -33,8 +33,8 @@ params:
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.
   ctas:
-    # - link: https://forms.gle/PMWvMKGpmuCfXC7F7
-    #   text: BARGE Chips!  2025, 2023, 2021, 2020 Order Now!
+    - link: https://forms.gle/PMWvMKGpmuCfXC7F7
+      text: "BARGE Chips &mdash; Order Now &mdash; 2020, 2021, 2023, AND 2025!"
     - link: https://argempoker.com/
       text: Register for ARGEM 2025 &mdash; June 20-22 at Maryland Live!
     # - link: /barge/2025/
