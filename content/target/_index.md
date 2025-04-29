@@ -2,7 +2,6 @@
 title: TARGET
 title: EMBARGO
 draft: false
-aliases: /embargo-info
 type: event-root
 params:
   orderByTitle: true
