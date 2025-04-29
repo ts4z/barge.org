@@ -176,6 +176,7 @@ TARGET History
 
 TARGET was founded in 1994 by Ken Kubey.  Named by Lee Jones:  The Annual
 Rec.Gambling Entry Tournament (TARGET).  This event is the 2nd oldest live RG event.
+
 In Ken's own words:
 "I had heard about the WSOP as early as 1975.  I never thought that
 I would put up $10,000 myself, but I *did* think that someday
