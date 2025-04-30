@@ -15,7 +15,7 @@ We also organize events in Atlantic City, Connecticut, Maryland, and other event
 
 ## ATLARGE
 
-ATLARGE 2025 will take place April 4-6 at the Borgata in Atlantic City, NJ.
+ATLARGE is held annually in Atlantic City, NJ.  ATLARGE 2025 took take place April 4-6 at the Borgata.
 
 For more information about ATLARGE, including our email list registration link,
 please visit [www.atlargepoker.com](https://www.atlargepoker.com/)!
