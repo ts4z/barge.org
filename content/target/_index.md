@@ -7,6 +7,8 @@ params:
   reverseOrder: true
   noDate: true
   notInMainMenu: true
+cover:
+  image: logos/target-cover.png
 ---
 
 TARGET 2025
