@@ -55,3 +55,12 @@ information...hope to see you in the future!
 here](/embargo/2025/results/).
 
 {{< hr-clear >}}
+
+{{< logo-left src="/logos/target.png" href=/target/ >}}
+
+## TARGET
+
+[TARGET](/target/) is The Annual Rec.Gambling Entry Tournament.  It is a
+satellite into the World Series of Poker.  Created by Ken Kubey in 1994, it is
+the second oldest Rec.Gambling live event (after BARGE, which began in 1991.)
+It is held in Las Vegas during the World Series of Poker.
