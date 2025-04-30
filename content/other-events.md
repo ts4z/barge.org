@@ -9,8 +9,7 @@ tags:
  - embargo
 ---
 
-We also organize events in Atlantic City, Connecticut, Maryland, and a second
-event in Las Vegas!
+We also organize events in Atlantic City, Connecticut, Maryland, and other events in Las Vegas!
 
 {{< logo-left href="https://www.atlargepoker.com/" src="/logos/AtLarge_v5.png" >}}
 
