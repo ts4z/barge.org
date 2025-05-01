@@ -29,7 +29,7 @@ We have selected Saturday, June 14th as the date.  This is on the weekend before
 
 The event will be held at Patrick's new home in Henderson.  Close of escrow will be end of May.  They have their old home in Henderson as a backup.  The address will be provided to those attending.
 
-We are not planning on taking advance payments.  The buy-in will be $200.  For every 5 entries, there will a $1000 ticket awarded.  If we have 27 players, we will be awarding 5 tickets plus $400 in the left over money for the sixth place finisher.
+We are not planning on taking advance payments.  The buy-in will be $200.  For every 5 entries, there will be a $1000 ticket awarded.  If we have 27 players, we will be awarding 5 tickets plus $400 in the left over money for the sixth place finisher.
 
 We would like to know what the interest level will be for such an event.  You can reply to Patrick directly at [patrick@oakleaf-designs.com](mailto:patrick@oakleaf-designs.com), 
 or send email to [targetpoker2025@gmail.com](mailto:targetpoker2025@gmail.com).  We will be making periodic updates to the TARGET list and the new TARGET web page.
