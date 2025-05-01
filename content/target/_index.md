@@ -16,38 +16,23 @@ TARGET 2025
 
 A reboot of the TARGET tournament is planned for Saturday, June 14, 2025, starting at 12 noon.
 
-Patrick Milligan has talked to Ken Kubey and Kevan Garrett about rebooting TARGET.  
-They have given him permission to try a new approach to TARGET.
+Patrick Milligan has talked to Ken Kubey and Kevan Garrett about rebooting TARGET.  They have given him permission to try a new approach to TARGET.
 
-Rather than hosting TARGET at a Las Vegas casino, we are going to host it in Patrick's Henderson home.  
-The tournament will be run in a similar fashion to the past two PeterBARGE events.  
-For you NorCal BARGErs, this is similar to Patrick's old YACHT series of tournaments.
+Rather than hosting TARGET at a Las Vegas casino, we are going to host it in Patrick's Henderson home.  The tournament will be run in a similar fashion to the past two PeterBARGE events.  For you NorCal BARGErs, this is similar to Patrick's old YACHT series of tournaments.
 
-We have enough space and chips for a three table tournament.  
-We will be limiting the maximum number of players to 27. 
+We have enough space and chips for a three table tournament.  We will be limiting the maximum number of players to 27. 
 Our tables are 10-handed, but one seat is needed at each table for our dedicated dealer.
 
-Eileen Milligan will serve as tournament director. 
-Patrick will serve as one of the dealers.  
-Ideally, we will be about to recruit two more BARGErs to assist with dealing for the other two tables.
+Eileen Milligan will serve as tournament director. Patrick will serve as one of the dealers.  Ideally, we will be about to recruit two more BARGErs to assist with dealing for the other two tables.
 
-We have selected Saturday, June 14th as the date.  
-This is on the weekend before the WSOP $1000 Seniors event on Monday, June 16th.  
-Start time is Noon.
+We have selected Saturday, June 14th as the date.  This is on the weekend before the WSOP $1000 Seniors event on Monday, June 16th.  Start time is Noon.
 
-The address will at Patrick's new home in Henderson.  
-Close of escrow will be end of May.  
-They have their old home in Henderson as a backup.  
-The address will be provided to those attending.
+The address will at Patrick's new home in Henderson.  Close of escrow will be end of May.  They have their old home in Henderson as a backup.  The address will be provided to those attending.
 
-We are not planning on taking advance payments.  
-The buy-in will be $200.  For every 5 entries, there will a $1000 ticket awarded.  
-If we have 27 players, we will be awarding 5 tickets plus $400 in the left over money for the sixth place finisher.
+We are not planning on taking advance payments.  The buy-in will be $200.  For every 5 entries, there will a $1000 ticket awarded.  If we have 27 players, we will be awarding 5 tickets plus $400 in the left over money for the sixth place finisher.
 
-We would like to know what the interest level will be for such an event.  
-You can reply to Patrick directly at [patrick@oakleaf-designs.com](mailto:patrick@oakleaf-designs.com), 
-or send email to [targetpoker2025@gmail.com](mailto:targetpoker2025@gmail.com).  
-We will be making periodic updates to the TARGET list and the new TARGET web page.
+We would like to know what the interest level will be for such an event.  You can reply to Patrick directly at [patrick@oakleaf-designs.com](mailto:patrick@oakleaf-designs.com), 
+or send email to [targetpoker2025@gmail.com](mailto:targetpoker2025@gmail.com).  We will be making periodic updates to the TARGET list and the new TARGET web page.
 
 
 What is TARGET?
