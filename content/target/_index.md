@@ -27,7 +27,7 @@ Eileen Milligan will serve as tournament director. Patrick will serve as one of 
 
 We have selected Saturday, June 14th as the date.  This is on the weekend before the WSOP $1000 Seniors event on Monday, June 16th.  Start time is Noon.
 
-The address will at Patrick's new home in Henderson.  Close of escrow will be end of May.  They have their old home in Henderson as a backup.  The address will be provided to those attending.
+The event will be held at Patrick's new home in Henderson.  Close of escrow will be end of May.  They have their old home in Henderson as a backup.  The address will be provided to those attending.
 
 We are not planning on taking advance payments.  The buy-in will be $200.  For every 5 entries, there will a $1000 ticket awarded.  If we have 27 players, we will be awarding 5 tickets plus $400 in the left over money for the sixth place finisher.
 
