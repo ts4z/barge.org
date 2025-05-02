@@ -49,6 +49,8 @@ We will be using the structure that has been used in the past.  With a full set 
 
 The starting stack will be T3000.  This is a upgrade from past events that used T2000.
 
+Levels are 30 minutes.
+
 | **Level** | **Blinds** |
 |---|---|
 | 1 | 25–50 |
