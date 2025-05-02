@@ -42,8 +42,32 @@ TARGET is The Annual Rec.Gambling Entry Tournament.  It is a satellite
 into the World Series of Poker.  Created by Ken Kubey in 1994, it is 
 the second oldest Rec.Gambling live event (after BARGE, which began in 1991.)
 
-TARGET Champions
-----------------
+TARGET Tournament Structure
+----------------------------
+
+We will be using the structure that has been used in the past.  With a full set of 27 players, we expect the tournament to be over in 5 hours or so.
+
+The starting stack will be T3000.  This is a upgrade from past events that used T2000.
+
+| **Level** | **Blinds** |
+|---|---|
+| 1 | 25–50 |
+| 2 | 50–100 |
+| Break for 5 minutes    |
+| 3 | 100–200 |
+| 4 | 150–300 |
+| 5 | 200–400 |
+| 6 | 300–600 |
+| Break for 5 minutes   |
+| 7 | 500–1000 |
+| 8 | 800–1600 |
+| 9 | 1200–2400 |
+| 10 | 2000–4000 |
+| 11 | 4000–8000 |
+
+
+Past TARGET Champions
+---------------------
 
 |      |                   |              |
 |------|-------------------|--------------|
