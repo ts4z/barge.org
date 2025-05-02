@@ -55,12 +55,12 @@ Levels are 30 minutes.
 |---|---|
 | 1 | 25–50 |
 | 2 | 50–100 |
-| Break for 5 minutes    |
+| | Break for 5 minutes |
 | 3 | 100–200 |
 | 4 | 150–300 |
 | 5 | 200–400 |
 | 6 | 300–600 |
-| Break for 5 minutes   |
+| | Break for 5 minutes |
 | 7 | 500–1000 |
 | 8 | 800–1600 |
 | 9 | 1200–2400 |
