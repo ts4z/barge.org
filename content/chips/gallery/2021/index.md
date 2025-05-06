@@ -40,6 +40,6 @@ Ken Johnson of the Houston Colt 45s (which became the Houston Astros) no hit
 the Cincinnati Reds but lost 1-0 on April 23, 1964; he was the first pitcher to
 pitch a nine inning no-hitter and lose.
 
-Wayne Gretzky scored 894 goals in the National Hockey League...but also had 46 in the World Hockey Association that don't count.
+Wayne Gretzky scored 894 goals in the National Hockey League…but also had 46 in the World Hockey Association that don’t count. In the years between the 2021 chips design and their production, Alex Ovechkin took Gretzky's NHL record--and, surprisingly, his place on the orange chip as well. As of today, the overall (asterisked) record is still held by Wayne Gretzky.
 
 Androstenedione was the main anabolic steroid that led to the steroid era in baseball and numerous asterisks.
