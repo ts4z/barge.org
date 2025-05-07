@@ -14,7 +14,7 @@ cover:
 TARGET 2025
 -----------
 
-A reboot of the TARGET tournament is planned for Saturday, June 14, 2025, starting at 12 noon.
+A reboot of the TARGET tournament is planned for Sunday, June 15, 2025, starting at 12 noon.
 
 Patrick Milligan has talked to Ken Kubey and Kevan Garrett about rebooting TARGET.  They have given him permission to try a new approach to TARGET.
 
@@ -25,7 +25,7 @@ Our tables are 10-handed, but one seat is needed at each table for our dedicated
 
 Eileen Milligan will serve as tournament director. Patrick will serve as one of the dealers.  Ideally, we will be about to recruit two more BARGErs to assist with dealing for the other two tables.
 
-We have selected Saturday, June 14th as the date.  This is on the weekend before the WSOP $1000 Seniors event on Monday, June 16th.  Start time is Noon.
+We have selected Sunday, June 15th as the date.  This is on the Sunday before the WSOP $1000 Seniors event on Monday, June 16th.  Start time is 12 Noon.
 
 The event will be held at Patrick's new home in Henderson.  Close of escrow will be end of May.  They have their old home in Henderson as a backup.  The address will be provided to those attending.
 
@@ -41,6 +41,56 @@ What is TARGET?
 TARGET is The Annual Rec.Gambling Entry Tournament.  It is a satellite
 into the World Series of Poker.  Created by Ken Kubey in 1994, it is 
 the second oldest Rec.Gambling live event (after BARGE, which began in 1991.)
+
+TARGET Details
+--------------
+
+No-limit Hold'em tournament format (see below for structure.)
+
+$200 entry fee (100% goes towards the prize pool.)
+
+Each winner gets $1000 which *must* be used to enter a WSoP event or single table satellite(s) or
+Super satellite(s). There will be one prize awarded for every 5 entrants to TARGET.
+
+**Miracle clause #1:**
+
+If the winner wins the TARGET event, they *must* then play in a WSoP event.
+
+**Miracle clause #2:**
+
+If the winner wins any money at the WSoP using their win from TARGET, they will pay a total of 15%
+of their winnings to all of the other entrants in the original TARGET tournament. (If you win
+$1,000,000, you pay $150,000 total to the other players.) The winner must identify which WSoP
+tournament they are entering before that tournament starts. All TARGET participants are
+responsible for their own tax liabilities.
+
+**Miracle clause #3:**
+
+If the winner wins more than $10,000 in a WSoP event with a entry fee of less than $10,000,
+$10,000 of those winnings may be used to enter the WSoP $10,000 Championship with the
+TARGET players retaining a 15% stake. TARGET players also get 15% of the money not used to
+enter the main event.
+
+**Rules**
+
+* No deals are allowed involving the $1000 prize(s)&#8209;we play until we have winners.
+* Deals involving the *other* prizes are allowed.
+* There may also be cash prizes besides the $1000 prizes, depending on the number of players.
+* If the winner enters a Super satellite and does not use up all of the money in a losing effort, they
+may keep the lesser of $300 or half of the remaining money. The rest will carry over for the prize
+pool of TARGET 2026. This gives the winner incentive to try to win *and* to not waste the last $200-
+$400.
+* If the winner wins his way into the $10,000 main event through satellites, they may keep any
+remaining money from the original $1000, but the group retains 15% of the winners action in the
+main event.
+* If the winner chooses to add in their own $1000 to play in a $2000 event, they are then obligated to
+pay back 7.5% of their winnings instead of the usual 15%. If they add $2000 to play in a $3000
+event, then it's 5%.
+
+More Rules!
+
+* No smoking or vaping inside the Milligan’s home.
+* No headphones.
 
 TARGET Tournament Structure
 ----------------------------
