@@ -73,7 +73,7 @@ enter the main event.
 
 **Rules**
 
-* No deals are allowed involving the $1000 prize(s)&#8209;we play until we have winners.
+* No deals are allowed involving the $1000 prize(s)—we play until we have winners.
 * Deals involving the *other* prizes are allowed.
 * There may also be cash prizes besides the $1000 prizes, depending on the number of players.
 * If the winner enters a Super satellite and does not use up all of the money in a losing effort, they
