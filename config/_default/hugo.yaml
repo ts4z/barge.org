@@ -34,9 +34,12 @@ params:
   # are supported, but try to limit yourself to one or two.
   ctas:
     - link: /chips/order/
-      text: "BARGE Chips &mdash; Order Now &mdash; 2020, 2021, 2023, AND 2025!"
+      text: >-
+        ♣♦ BARGE Chips: Order by June 1 ♥♠
+    - link: /target/
+      text: "TARGET returns to LV! June 15"
     - link: https://argempoker.com/
-      text: Register for ARGEM 2025 &mdash; June 20-22 at Maryland Live!
+      text: "ARGEM 2025: June 20-22 @ Maryland Live!"
     # - link: /barge/2025/
     #   text: "BARGE 2025: July 28&mdash;August 2 at the Orleans in Las Vegas!"
     # - link: /embargo/
