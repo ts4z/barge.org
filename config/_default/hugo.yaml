@@ -29,6 +29,8 @@ params:
   nextEvents:
     - link: /barge/2025/
       text: "BARGE 2025: Jul 28-Aug 2 @ Orleans"
+    # - link: http://fargopoker.org/
+    #   text: "FARGO 2025: October 16-19"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.
@@ -63,7 +65,7 @@ params:
   label:
     icon: /barge_logo_undated-1024x694-1920w.png
   footer:
-    text: >-
+    text: ""
     hideCopyright: true
   disableSpecial1stPost: true
   # we do the footer by hand
