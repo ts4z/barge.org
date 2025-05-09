@@ -25,7 +25,7 @@ Our tables are 10-handed, but one seat is needed at each table for our dedicated
 
 Eileen Milligan will serve as tournament director. Patrick will serve as one of the dealers.  Ideally, we will be about to recruit two more BARGErs to assist with dealing for the other two tables.
 
-We have selected Sunday, June 15th as the date.  This is on the Sunday before the WSOP $1000 Seniors event on Monday, June 16th.  Start time is 12 Noon.
+We have selected Sunday, June 15th as the date, with a start time of 12 Noon.  This is on the Sunday before Flight A of the WSOP $1000 Seniors event on Monday, June 16th at 10 am. Flight B of the Seniors starts on Tuesday.  
 
 The event will be held at Patrick's new home in Henderson.  Close of escrow will be end of May.  They have their old home in Henderson as a backup.  The address will be provided to those attending.
 
