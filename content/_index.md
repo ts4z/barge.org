@@ -27,8 +27,8 @@ Our members communicate throughout the year via email, Facebook, Twitter and
 other means (including in person).  BARGE began in 1991 and membership has
 grown significantly over the years.  Our members come from all professions and
 ages.  The poker accomplishments of our members include over 20 WSOP bracelet
-winners as well as other major tournaments (WPT, WSOP Circuit). Although we do
-find that many of our members have backgrounds in technology, science, and the
+winners as well as other major tournaments (WPT, WSOP Circuit). Although 
+many of our members have backgrounds in technology, science, and the
 law, we welcome and encourage people to join regardless of their professional
 backgrounds or poker accomplishments.
 
