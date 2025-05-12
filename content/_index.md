@@ -49,7 +49,7 @@ Other Ways to Play and Keep in Touch
 ------------------------------------
 
 Is Las Vegas inconvenient?  There are [more rec.gambling events](/other-events/)
-all over the country!  If they're all inconvenient, you can still play with us:
+all over the country!  No matter where you are, you can still play with us:
 We play daily for free, and just for fun, on
-[craftpoker.com](https://craftpoker.com/), too.
+[craftpoker.com](https://craftpoker.com/).
 
