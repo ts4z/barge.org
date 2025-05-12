@@ -17,7 +17,7 @@ with our vendor, and expect to have chips ready in time for [BARGE
 As is tradition, all of the sets have a special purple chip
 with the previous main event winner's picture.  These chips are not available
 as part of the sample set.
-(These are not pictured below but they are in thr Gallery pages.)
+(These are not pictured below but they are in the Gallery pages.)
 
 ## [2025 Chips](../gallery/2025/)
 
