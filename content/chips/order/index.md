@@ -14,10 +14,10 @@ Ordering will be open through June 1.  At that time, we will place the order
 with our vendor, and expect to have chips ready in time for [BARGE
 2025](/barge/2025/).
 
-Note that each set has some limited-release special chips that are not part of
-the sample set.  As is tradition, all of the sets have a special purple chip
+As is tradition, all of the sets have a special purple chip
 with the previous main event winner's picture.  These chips are not available
 as part of the sample set.
+(These are not pictured below but they are in thr Gallery pages.)
 
 ## [2025 Chips](../gallery/2025/)
 
