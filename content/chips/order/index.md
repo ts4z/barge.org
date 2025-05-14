@@ -56,6 +56,10 @@ If you need to cancel or change an order, please let us know while orders are st
 
 ## FAQ
 
+### I'm not planning to attend BARGE. Can I still get chips?
+
+Sure!  We will ship for $15 (or $25 if you buy more than 6 sets).
+
 ### Why the markup?
 
 Chip sample set sales pay for the trophy sets for the main event winner, plus
