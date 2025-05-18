@@ -3,6 +3,8 @@ title: BARGE.org
 draft: false
 cover:
   image: /barge_logo_undated-1024x694-1920w.png
+aliases:
+ - /home
 ---
 {{< barge-banner >}}
 
