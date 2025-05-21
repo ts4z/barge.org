@@ -9,8 +9,7 @@ date: 1999-09-01
 ---
 
 BARGE was held at the Orleans this year for the first and only time
-(although this will change in [2025](../2025/))
-likely due to the change in ownership.
+to date (although this will change in [2025](../2025/)).
 
 The NL hold'em tournament saw 177 people enter. John Harkness won, Russ
 Rosenblum finished second, and Doug Langdon finished third. Rick Mombourquette
