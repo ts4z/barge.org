@@ -14,5 +14,5 @@ This year's expanded BARGE was held at Binion's Casino. <!--more-->
 
 -----
 
-Cover image: Bex "Redbird" Kerl busts Rodney Chen in the Main Event. Photo from
+Cover image: Bex "Redbird" Kerl busts Rodney Chen to win the Main Event. Photo from
 Ken Kubey.
