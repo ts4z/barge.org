@@ -32,7 +32,7 @@ The 2025 Purple Chip Policy is as follows.
   - the 1st place winner in second chance events
   - all Previous Main Event winners who attend BARGE
   - members of the chip production team (RBCC)
-  - each Organizer and Organizer Emeritus
+  - each Organizer
   - the Banquet Speaker
 5. At most one purple chip will be given per person, excepting the Previous
    Main Event Winner.  Any second or further chip will be given to the Previous
