@@ -33,7 +33,7 @@ information.
 
 {{< hr-clear >}}
 
-{{< logo-left href=https://argempoker.com src="/logos/argem.png" >}}
+{{< logo-left href=https://argempoker.com src="/logos/argem2.jpg" >}}
 
 ## ARGEM
 
