@@ -28,7 +28,7 @@ prize-pool=$3600 >}}
  
  
 {{< tournament
-    event="Paradise Road Pick&rsquo;em"
+    event="Paradise Road Pick'em"
 entries=42
 prize-pool=$3,360 >}}
 
