@@ -3,21 +3,23 @@ title: Purple Chip Guidelines for 2025 and make-up sets
 date: 2025-05-23
 ---
 
-In 2025, we are reviving the chip tradition.  One part of that is the Purple
-Chips.  These are given to event winners, previous main event winners, and a
-few other folks involved in running BARGE or making chips.  This includes
-trying to find people who no longer attend BARGE, sometimes months or years
-after the event, as well as associated costs with this.  This has become an
-entitlement and chore, and the RBCC team was pretty unhappy with carrying that
-forward.  So we are doing things differently.
+In 2025, we are reviving the chip tradition, including the limited-issue purple
+chips.
+
+Purple chips have become a problem.  This includes trying to find people who no
+longer attend BARGE, sometimes months or years after the event, as well as
+associated costs with this.  This has become an entitlement and chore, and the
+RBCC team was pretty unhappy with carrying that forward.  So we are doing
+things differently.
 
 The goals here are pretty straightforward:
 
 - We want to be done distributing outstanding purple chips at the end of BARGE.
 - We want to award chips to people who are still involved in BARGE,
   specifically, the people who *actually come to BARGE*.
-- We do not want to give chips to people who are no longer involved.
-- We don't want to produce wasted purple chips
+- We do not want to give chips to people who are no longer involved or who no
+  longer want chips.
+- We don't want to produce excess purple chips.
 - We want to make this easy on Organizers, future main event winners, and RBCC.
 
 For 2025, our Purple Chip Policy is:
@@ -59,14 +61,19 @@ For 2025, our Purple Chip Policy is:
 We are also distributing make-up chips for 2020, 2021, and 2023, since no chips
 were available at these events. They are being given out at BARGE 2025.
 
-* The same rules apply for who is eligible for chips.
-* We highly recommend attending BARGE and picking up chips there.  (We miss
-  you.)  If you attend BARGE, we believe we will have chips for you.  If you do
-  not attend BARGE, we will make a limited effort.
+* The same rules apply for who is eligible for chips, but not how they are
+  distributed.  We are making a limited effort to get purple chips to event
+  winners and previous main event winners.
+* If you are entitield to chips, and you attend BARGE, we will have chips for
+  you.
 * For anyone who buys a sampler set and pays for shipping, we will mail
   purple chips with sampler sets.
-* In any event, make-up chips not picked up by the dinner break of BARGE 2025
-  will be forfeit and given to the pictured main event winner as additional discretionary chips.
+* For anyone who does not buy a sampler set, please let us know how we can get
+  you your chips.  We would prefer to minimize shipping costs.
+* In any event, **make-up chips not claimed by the dinner break of BARGE 2025
+  will be forfeit** and will be given to the pictured main event
+  winner as additional discretionary chips.  We will try to make an exception
+  for chips that are arranged to be picked up later, etc.
 
-We do not know how 2022, 2024, or 2026 purple chips will be handled, or indeed
-if they will exist at all.
+These guidelines may not necessarily apply to future purple chips at future BARGEs.
+
