@@ -1,6 +1,8 @@
 ---
 title: BARGE 2020 Schedule
 date: 2020-07-03
+aliases:
+ - /barge-2020-schedule
 ---
 
 *This schedule was reconstructed several years after the event and may not be accurate with what happened, and has been edited for presentation.*
