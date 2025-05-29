@@ -6,6 +6,8 @@ tags:
  - barge
  - 2002
 date: 2002-09-01
+aliases:
+ - /barge-2002
 ---
 
 As usual, BARGE was hosted at the Horseshoe again this year. The banquet took

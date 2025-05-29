@@ -10,6 +10,7 @@ params:
 aliases:
  - /barge-history/
  - /barge/history
+ - /barge/history/by-year
 cover:
   image: cover.jpg
 ---
