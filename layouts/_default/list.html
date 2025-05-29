@@ -99,7 +99,7 @@ SOFTWARE.
 {{- end }}
 
 <footer>
-  <span class="page-footer">
+  <div class="page-footer">
   {{- if gt $paginator.TotalPages 1 }}
   <nav class="pagination">
     {{- if $paginator.HasPrev }}
@@ -121,15 +121,15 @@ SOFTWARE.
 
   </nav>
   {{- end }}
-  </span>
- 
-  <span class="post-footer">
+  </div>
+
+  <div class="post-footer">
     {{- partial "common-footer-tags.html" . }}
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
     {{- partial "common-share.html" . }}
-  </span>
+  </div>
 </footer>
 
 {{- end }}{{/* end profileMode */}}
