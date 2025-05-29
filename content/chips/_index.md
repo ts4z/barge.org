@@ -14,7 +14,7 @@ params:
   notInMainMenu: true
 ---
 
-{{< figure class="floatright40" src="bargechipslogo.png" >}}
+{{< figure class="floatright40" src="bargechipslogo.png" alt="BARGE Chips Logo" >}}
 
 QUICK LINKS:  [the gallery](gallery/) &mdash;  [ordering information](order/)
 
