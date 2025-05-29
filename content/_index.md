@@ -7,7 +7,6 @@ aliases:
  - /home
 ---
 {{< barge-banner >}}
-
 {{< autoslideshow-js >}}
 {{< autoslideshow resourcePattern="images/home/left/*" >}}
 {{< autoslideshow resourcePattern="images/home/right/*" delay=2000 >}}

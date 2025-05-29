@@ -141,3 +141,27 @@ body {
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.banner-wrapper-wrapper {
+    grid-auto-rows: minmax(100px, auto);
+}
+
+.banner-wrapper {
+    display: grid;
+}
+
+.banner-left {
+    grid-column: 1;
+    grid-row: 1;
+    width: min(300px, 50vw);
+}
+.banner-center {
+    grid-column: 2;
+    grid-row: 1;
+}
+.banner-right {
+    grid-column: 3;
+    grid-row: 1;
+    text-align: center;
+    margin: auto;
+}

@@ -4,7 +4,7 @@ Include call-to-action buttons.
 
 */}}
 {{- if and site.Params.ctas -}}
-<span>
+<div>
   {{- range site.Params.ctas -}}
     <div class="cta-wrapper-wrapper">
       <a href="{{ .link }}">
@@ -16,5 +16,5 @@ Include call-to-action buttons.
       </a>
     </div>
   {{- end -}}
-</span>
+</div>
 {{- end -}}
