@@ -1,27 +1,5 @@
 {{- define "main" }}
 
-<style>
-.title-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  gap: 8px;
-}
-
-.title-card {
-  padding: 12px;
-  border-radius: 16px;
-  background-color: #0000ff;
-  object-fit: cover;
-  color: #eeeeee;
-}
-
-.title-text {
-  text-align: center;
-  width: auto;
-}
-
-</style>
-
 {{- if (and site.Params.profileMode.enabled .IsHome) }}
 {{- partial "index_profile.html" . }}
 {{- else }} {{/* if not profileMode */}}
