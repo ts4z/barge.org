@@ -51,7 +51,7 @@ were not allowed to have fun in Las Vegas, or pretty much anywhere else. BARGE
 even happened virtually.  The BCC stalled out through this time, and no chips
 were produced in time for any BARGEs through 2024.
 
-### 2025: BCC2.0
+### 2025: Reformed BCC aka BCC2.0
 
 In 2025, the BCC was re-launched.  As of this writing, you can [order chips]({{% ref "chips/order" %}})!
 
