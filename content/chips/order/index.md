@@ -2,7 +2,6 @@
 title: Time to Order BARGE Chips for 2025, 2023, 2021, and 2020!
 cover:
  image: cover.png
-weight: -20
 date: 2025-04-24
 ---
 
