@@ -27,6 +27,8 @@ params:
     - chips
   # Keep these short so they're one line on a phone.
   nextEvents:
+    # - link: /blog/2025-poker-org-gathering-wsop/
+    #   text: poker.org mixer June 25th @ WSOP
     - link: /barge/2025/
       text: "BARGE 2025: Jul 28-Aug 2 @ Orleans"
     # - link: http://fargopoker.org/
