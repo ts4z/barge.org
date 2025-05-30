@@ -16,7 +16,7 @@ Quick Links for EMBARGO: [EMBARGO 2025](/embargo/2025/)
 &mdash;
 [View Registrations](https://secure.barge.org/embargo2025review.php)
 
-![](/images/EMBARGO+2020+Attendee+Photo-1920w.jpg)
+{{< figure src="EMBARGO+2020+Attendee+Photo-1920w.jpg" alt="EMBARGO 2020 Attendee Photo" >}}
 
 EMBARGO is the
 **Extraordinary Mid-Winter Big Annual Rec.Gambling Outing**
