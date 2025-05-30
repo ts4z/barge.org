@@ -165,3 +165,22 @@ body {
     text-align: center;
     margin: auto;
 }
+
+.title-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 8px;
+}
+
+.title-card {
+  padding: 12px;
+  border-radius: 16px;
+  background-color: #0000ff;
+  object-fit: cover;
+  color: #eeeeee;
+}
+
+.title-text {
+  text-align: center;
+  width: auto;
+}
