@@ -37,9 +37,6 @@ params:
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.
   ctas:
-    - link: /chips/order/
-      text: >-
-        ⛁⛃ BARGE Chips: Order by June 1 ⛃⛁
     - link: /target/
       text: "TARGET returns to LV! June 15"
     - link: https://argempoker.com/
