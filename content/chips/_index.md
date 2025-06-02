@@ -7,26 +7,27 @@ aliases:
  - /chips/chips
  - /chips/history
  - /chips/history/1993-2000/
+ - /chips/order
 type: directory
 cover:
-  image: bargechipslogo.png
+  image: cover.png
 params:
   notInMainMenu: true
 ---
 
 {{< figure class="floatright40" src="bargechipslogo.png" alt="BARGE Chips Logo" >}}
 
-QUICK LINKS:  [the gallery](gallery/) &mdash;  [ordering information](order/)
+QUICK LINKS:  [the gallery](gallery/)
 
 It is a tradition of BARGE that each Main Event winner wins a custom
-chipset... that they have to design.  These chips are sold as sample sets as well
-as made available to the BARGE community.
+chipset... that they "get to" design.  These chips are also sold as sample sets
+in order to fund the trophy set, and also because the BARGE community likes
+chops.
 
+[The gallery](gallery/) starts in [1993](gallery/1993/) and ends in
+[2025](gallery/2025/).  There is also a [gallery table of contents](toc/).
 We've got images of each of the chip sets and a little bit of information on
-them.
-
-[The gallery](gallery/) starts in [1993](gallery/1993/) and ends in [2025](gallery/2025/).
-There is also a [gallery table of contents](toc/).
+their history.
 
 Special thanks to Patrick Milligan for reaching out to many folks who were
 able to share images of chips from their collections.  Patrick also re-scanned and
@@ -45,6 +46,11 @@ There is even more [BARGE memorabilia](../memorabilia/) that we will add in the 
 
 Please [contact us](mailto:tim.showalter@gmail.com) if you have images or
 corrections.
+
+## Buying Old Chips
+
+We have an inventory of *some* old BARGE chips, including some complete sample
+sets.  These will be offered for sale soon.  Watch this space.
 
 ## History of BARGE Main Event Chips
 
@@ -76,7 +82,7 @@ In [2025](gallery/2025/), chips are being made again, including make-up sets for
 [2021](gallery/2021/), and
 [2023](gallery/2023/).
 
-[See the Order page for details.](order/)
+Orders for the 2025 batch of chips are now closed.
 
 -----
 
