@@ -35,6 +35,9 @@ SOFTWARE.
 
 {{- partial "common-header.html" . }}
 
+<article>
+  {{- $isHidden := (.Param "cover.hiddenInList") | default (.Param "cover.hidden") | default false }}
+  {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
 <div class="post-content">
 
   {{- if not (.Param "itemsOnTop") }}
@@ -81,6 +84,7 @@ SOFTWARE.
   {{- end }}
 
 </div>
+</article>
 
 <footer>
   <div class="post-footer">
