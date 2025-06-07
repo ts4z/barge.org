@@ -71,7 +71,7 @@ Thursday depending on what the Orleans offers.
 ### Abridged History of Poker
 
  - Levels alternate between California Lowball and 5 Card Draw (guts to open)
- - Switch to No Limit 2-7 at final table or predetermined point in structure
+ - Switch to No Limit Single Draw 2-7 at final table or predetermined point in structure
  - featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)
 
 ### TORSE
@@ -147,7 +147,7 @@ Thursday depending on what the Orleans offers.
    - [Rio Bravo](/rulebook/rio-bravo.html) – hold’em with a third down card dealt after the river
  - 5 betting rounds in each game
  - Deck includes one joker
-   - In any game if the joker is in your hole cards, you cannot win at showdown, but if you win the pot without a showdown you get an extra big bet from everyone dealt in
+   - In any game if the joker is in your hole cards, you cannot win at showdown, but if you win the pot without a showdown you win an extra big bet from everyone dealt in
    - In Courchevel and Rio Bravo, if the whammy appears on the board, the board is killed and replaced
    - In Action Razz, if the whammy appears on a player’s board, the player’s board is killed and replaced
  - featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)
