@@ -96,6 +96,7 @@ Thursday depending on what the Orleans offers.
    - 2-7 Game – players winning with 2-7 collect a big and small blind from each player dealt in the hand
    - ultra-flat payout structure – 30% of field paid
    - table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)
+ - Next year:  Savage Average NLHE!
 
 ### Bidirectional Chowaha High/Low
 
@@ -116,6 +117,7 @@ Thursday depending on what the Orleans offers.
 ### Pot Limit Omaha
 
  - Players start with 10k and get 2 lammers worth 5k each
+ - Next year:  Funbook Pot Limit Omaha!
 
 ### Mini Reindeer Games
 
