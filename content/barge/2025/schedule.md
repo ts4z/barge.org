@@ -1,7 +1,7 @@
 ---
 title: BARGE 2025 Schedule
 draft: false
-date: 2025-06-02
+date: 2025-06-06
 tags:
  - barge
  - 2025
@@ -14,13 +14,14 @@ weight: -1
 ---
 BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casino in Las Vegas!
 
-*(6/1/25 draft)*
+**Tournament fees/buy-ins are tentative as they have yet to be confirmed.**
 
-*tournament fees/buy-ins are tentative as they have yet to be negotiated*
+This schedule is not finalized, and there are two different versions for
+Thursday depending on what the Orleans offers.
 
 | Day | Date   | Time    | Event                                                                                              | Entry                 |
 |----:|:-------|:--------|:--------------------------------------------------------------------------------------------------:|:----------------------|
-| Mon | Jul 28 | 4:00pm  | BOD Meeting via Zoom - link to be announced                                                        |                       |
+| Mon | Jul 28 | 4:00pm  | BOD Meeting via Zoom {{< br >}} link to be announced                                               |                       |
 |     |        | 6:00pm  | [Mixed Big O Memorial Charity Tournament](#mixed-big-o-memorial-charity-tournament)                | $140 $60&nbsp;rebuys  |
 | Tue | Jul 29 | 11:00am | [Abridged History of Poker](#abridged-history-of-poker)                                            | $100 w/re&#8209;entry |
 |     |        | 5:00pm  | [TORSE](#torse)                                                                                    | $140 w/re&#8209;entry |
@@ -44,6 +45,7 @@ BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casi
 |     |        | 8:00pm  | TOC-Style restart                                                                                  |                       |
 |     |        | 8:15pm  | [Whammy CAR](#whammy-car) (second chance event)                                                    |                       |
 | Sat | Aug 2  | 10:30am | No Limit Holdem Main Event                                                                         | $180                  |
+|     |        | 11:00am | Significant Others’ Mixed Hold’em                                                                  | $40                   |
 |     |        | 12:00p  | Group Picture                                                                                      |                       |
 |     |        | 5:30pm  | Dinner Break                                                                                       |                       |
 |     |        | 7:30pm  | No Limit Holdem Restart                                                                            |                       |
