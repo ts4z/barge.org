@@ -11,6 +11,7 @@ aliases:
 cover:
   image: logos/barge_cover.png
 weight: -1
+summary: BARGE 2025 Schedule of Events
 ---
 BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casino in Las Vegas!
 
@@ -29,11 +30,13 @@ Thursday depending on what the Orleans offers.
 |                          | 3:00pm  | [Bidirectional Chowaha High/Low](#bidirectional-chowaha-highlow) (second chance event)             | $100 w/re&#8209;entry |
 |                          | 8:00pm  | [Team CHORSE](#team-chorse)                                                                        | $440 +$?/team         |
 | Thu{{< br >}}Jul&nbsp;31 | 10:00am | [Blackjack](#blackjack)                                                                            | $50                   |
-|                          | (A)     | (Version A) Orleans runs three casino events ...                                                   | ...                   |
+|                          | ...     | ...                                                                                                | ...                   |
+|                          | (A)     | (Version A) Orleans runs three casino events ...                                                   | (A)                   |
 |                          | 11:30am | Video Poker                                                                                        | $50                   |
 |                          | 1:00am  | third ToGa event (TBD)                                                                             | $50                   |
 |                          | 2:30pm  | [Pot Limit Omaha](#pot-limit-omaha)                                                                | $140 w/re&#8209;entry |
-|                          | (B)     | (Version B) Orleans does not run three casino events ...                                           | ...                   |
+|                          | ...     | ...                                                                                                | ...                   |
+|                          | (B)     | (Version B) Orleans does not run three casino events ...                                           | (B)                   |
 |                          | 12:00pm | [Pot Limit Omaha](#pot-limit-omaha)                                                                | $140 w/re&#8209;entry |
 |                          | 4:00pm  | TBD (second chance event)                                                                          | $100 w/re&#8209;entry |
 |                          | ...     | ...                                                                                                | ...                   |
