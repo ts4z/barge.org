@@ -2,6 +2,7 @@
 title: Purple Chip Plan for 2025 and Make-up Sets
 date: 2025-05-23
 summary: New guidelines for purple chips.
+author: Tim Showalter
 ---
 
 In [2025](../../../gallery/2025/), we are reviving the chip tradition, including the limited-issue purple
@@ -78,3 +79,4 @@ were available at these events. They are being given out at BARGE 2025.
 
 This plan may not necessarily apply to future purple chips at future BARGEs.
 
+Tim Showalter, on behalf of the Reformed BARGE Chip Committee
