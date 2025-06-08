@@ -9,7 +9,7 @@ aliases:
  - /barge/schedule
  - /schedule
 cover:
-  image: logos/barge_cover.png
+  image: logos/barge_2025_cover.png
 weight: -1
 summary: BARGE 2025 Schedule of Events
 ---

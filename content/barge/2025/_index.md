@@ -6,6 +6,8 @@ weight: -10
 tags:
  - barge
  - 2025
+cover:
+  image: logos/barge_2025_cover.png
 ---
 
 BARGE 2025 will be held at [The Orleans Hotel &
