@@ -41,6 +41,7 @@ Thursday depending on what the Orleans offers.
 |                          | 4:00pm  | TBD (second chance event)                                                                          | $100 w/re&#8209;entry |
 |                          | ...     | ...                                                                                                | ...                   |
 |                          | 8:00pm  | [Mini Reindeer Games](#mini-reindeer-games)                                                        |                       |
+|                          | 11:59pm | (see below)                                                                                       |                       |
 |  Fri{{< br >}}Aug&nbsp;1 | 12:00am | [Midnight Madness No Limit Hold’em](#midnight-madness-no-limit-holdem) (second chance event)       | $100                  |
 |                          | 10:00am | [TOC-Style](#toc-style)                                                                            | $160                  |
 |                          | 6:00pm  | Dinner Break                                                                                       |                       |
@@ -66,18 +67,18 @@ Thursday depending on what the Orleans offers.
    Dog Training Club Inc. (Bob Ogus’s preferred charity), the American Cancer
    Society, the Midwest Center for Holocaust Education, Team Rubicon, Habitat
    for Humanity, Dogs On Deployment, and World Central Kitchen
- - featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)
+ - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
 
 ### Abridged History of Poker
 
  - Levels alternate between California Lowball and 5 Card Draw (guts to open)
  - Switch to No Limit Single Draw 2-7 at final table or predetermined point in structure
- - featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)
+ - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
 
 ### TORSE
 
  - HORSE with 2-7 Triple Draw instead of Hold’em
- - featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)
+ - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
 
 ### Champions Bounty No Limit Hold'em With 2-7 Game
 
@@ -92,17 +93,17 @@ Thursday depending on what the Orleans offers.
        2020 main event win[*](/chips/gallery/2021/) so his bounty would be $121 ($100+’01+’20)
    - Bounties are funded from the prize pool
    - Bounties apply to all reentries should a champion bust and reenter
- - Featuring:
-   - 2-7 Game – players winning with 2-7 collect a big and small blind from each player dealt in the hand
-   - ultra-flat payout structure – 30% of field paid
-   - table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)
+ - *featuring:*
+   - *2-7 Game – players winning with 2-7 collect a big and small blind from each player dealt in the hand*
+   - *ultra-flat payout structure – 30% of field paid*
+   - *table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
  - Next year:  Savage Average NLHE!
 
 ### Bidirectional Chowaha High/Low
 
  - After the flop betting, button rolls die to determine whether turn and river are dealt to right of flops or underneath flops
  - 4 card Chowaha played high/low split eight or better
- - featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)
+ - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
 
 ### Team CHORSE
 
@@ -152,7 +153,7 @@ Thursday depending on what the Orleans offers.
    - In any game if the joker is in your hole cards, you cannot win at showdown, but if you win the pot without a showdown you win an extra big bet from everyone dealt in
    - In Courchevel and Rio Bravo, if the whammy appears on the board, the board is killed and replaced
    - In Action Razz, if the whammy appears on a player’s board, the player’s board is killed and replaced
- - featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)
+ - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
 
 ### Reindeer Games
 
