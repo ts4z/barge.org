@@ -24,7 +24,6 @@ params:
     - blog
     - blog/trip-reports
     - news
-    - chips
   # Keep these short so they're one line on a phone.  35 characters is great,
   # 40 will probably wrap on an iPhone SE.
   nextEvents:
