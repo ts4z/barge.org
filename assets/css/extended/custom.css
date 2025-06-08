@@ -65,6 +65,13 @@ body {
     padding: 10px;
 }
 
+.floatleft35 {
+    float: left;
+    width: 35%;
+    clear: left;
+    padding: 10px;
+}
+
 .logo-pad {
     float: left;
     padding-right: 20px;
@@ -142,28 +149,8 @@ body {
   to {opacity: 1}
 }
 
-.banner-wrapper-wrapper {
-    grid-auto-rows: minmax(100px, auto);
-}
-
-.banner-wrapper {
-    display: grid;
-}
-
-.banner-left {
-    grid-column: 1;
-    grid-row: 1;
-    width: min(300px, 50vw);
-}
 .banner-center {
-    grid-column: 2;
-    grid-row: 1;
-}
-.banner-right {
-    grid-column: 3;
-    grid-row: 1;
     text-align: center;
-    margin: auto;
 }
 
 .title-gallery {
