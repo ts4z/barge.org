@@ -29,6 +29,8 @@ params:
   # 40 will probably wrap on an iPhone SE.
   nextEvents:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
+    - link: /barge/2025/
+      text: "BARGE 2025: Jul 28-Aug 2 @ Orleans"
     - link: /blog/2025-poker-org-gathering-wsop/
       text: PokerOrg Mixer June 25 @ WSOP
     # - link: http://fargopoker.org/ text: "FARGO 2025: October 16-19" CTAs are
@@ -39,7 +41,7 @@ params:
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: https://barge.regfox.com/barge-2025
-      text: "BARGE 2025 7/28-8/2 @ Orleans"
+      text: "Registration for BARGE is Now Open"
     - link: /target/
       text: "TARGET returns to LV! June 15"
     - link: https://argempoker.com/
