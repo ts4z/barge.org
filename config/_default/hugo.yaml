@@ -30,13 +30,13 @@ params:
   nextEvents:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: /barge/2025/
-      text: "BARGE 2025: Jul 28-Aug 2 @ Orleans"
-    - link: /blog/2025-poker-org-gathering-wsop/
-      text: PokerOrg Mixer June 25 @ WSOP
+      text: "♣ BARGE: Jul 28-Aug 2 @ Orleans ♥"
     - link: /target/
       text: "TARGET returns to LV! June 15"
     - link: https://argempoker.com/
-      text: "ARGEM 2025: June 20-22 @ Maryland Live!"
+      text: "ARGEM: June 20-22 @ Maryland Live!"
+    - link: /blog/2025-poker-org-gathering-wsop/
+      text: PokerOrg Mixer June 25 @ WSOP
     # - link: http://fargopoker.org/ text: "FARGO 2025: October 16-19" CTAs are
     #   added to (almost) all pages at the top in an obnoxious yellow box.
     #   Each CTA should be made of a link and a display text.  Any number of
