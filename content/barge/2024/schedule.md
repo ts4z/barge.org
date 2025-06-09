@@ -9,6 +9,8 @@ summary: 2024 Schedule of events.
 tags:
  - barge
  - 2024
+cover:
+ image: logos/barge_2024_cover.png
 ---
 
 |       Day | Date    | Time    | Event                                                                                                            | Entry Fee            | Notes      |
