@@ -11,10 +11,15 @@ cover:
   image: logos/target-cover.png
 ---
 
-TARGET 2025
------------
+TARGET 2025 Cancelled
+------
 
-A reboot of the TARGET tournament is planned for Sunday, June 15, 2025, starting at 12 noon.
+A reboot of the TARGET tournament was planned for June, 2025.  It has been
+**cancelled**.
+
+This page will be updated when time permits.
+
+-------
 
 Patrick Milligan has talked to Ken Kubey and Kevan Garrett about rebooting TARGET.  They have given him permission to try a new approach to TARGET.
 
