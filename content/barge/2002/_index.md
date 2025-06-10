@@ -8,6 +8,8 @@ tags:
 date: 2002-09-01
 aliases:
  - /barge-2002
+cover:
+ image: cover.jpg
 ---
 
 As usual, BARGE was hosted at the Horseshoe again this year. The banquet took
@@ -22,3 +24,7 @@ event was Don &quot;trythat&quot; Perry. John Miller came in second and Lenny
 Augustine finished third. Mike McBride won the NL hold'em tournament outlasting
 Andrew Prock and Gavin Smith. This was Peter Secor's first BARGE as an
 organizer.
+
+Cover image is Andy Hughes holding his plaque for the History of Poker tournament,
+and taken from [his site](http://nevadacasinochips.com/BARGE02.htm).
+

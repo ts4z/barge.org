@@ -6,6 +6,8 @@ tags:
  - barge
  - 2003
 date: 2003-09-01
+cover:
+ image: cover.jpg
 ---
 
 This is the last year our most frequent host casino would bear the
@@ -22,3 +24,5 @@ hold'em tournament winner was Paul Person. Patti Beadles finished second and
 John Davis came in third. Mike Zimmers helped organize this year's BARGE event,
 but he chose not to attend, marking the end of his illustrious career as BARGE
 organizer.
+
+Cover image from [Andy Hughes' site](http://nevadacasinochips.com/BARGE03.htm).
