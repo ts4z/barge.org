@@ -1,6 +1,8 @@
 ---
 title: BARGE Rulebook Archive
 draft: false
+aliases:
+ - /barge-2017-27-game-rule-book
 ---
 
 The current rulebook is here:
