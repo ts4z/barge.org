@@ -42,7 +42,7 @@ params:
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: https://barge.regfox.com/barge-2025
-      text: "Registration for BARGE is Now Open"
+      text: "Register now for BARGE '25 @ the Orleans"
     # - link: /embargo/
     #   text: EMBARGO 2025 is January 16-19 at Resorts World!
   selfHosted: true
