@@ -50,7 +50,7 @@ tags:
 
 {{< tournament
     date="Wednesday, July 29, 2009"
-    event="Vido Poker"
+    event="Video Poker"
     buyin=$40
     entries=35
     prize-pool=$1,400 >}}
