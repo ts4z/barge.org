@@ -24,26 +24,40 @@ Asterisk.  His first chip set, back in [2002](../2002/), used the theme of
 
 Russ provided these explanations for the images on his chips:
 
-Roger Maris hit 61 home runs in 1961 to set the record, but it was in a
-162-game season when the previous record was set in a 156-game season; the
-record had an asterisk.
+[Roger Maris](https://en.wikipedia.org/wiki/Roger_Maris) hit 61 home runs in
+1961 to set the record, but it was in a 162-game season when the previous
+record was set in a 156-game season; the record had an
+[asterisk](https://www.imdb.com/title/tt0250934/).
 
-Josh Gibson hit 84 home runs in one year in the Negro leagues (1936).
+[Josh Gibson](https://en.wikipedia.org/wiki/Josh_Gibson) hit 84 home runs in
+one year in the Negro leagues (1936).
 
-The Chicago Bears won the 1932 NFL Championship. The game was moved indoors to old Chicago Stadium and played on a 60-yard field. (It deserves two asterisks: one for that, and one for being the first indoors official NFL game.) 
+The Chicago Bears won the 1932 NFL Championship. [The
+game](https://en.wikipedia.org/wiki/1932_NFL_Playoff_Game) was moved indoors to
+old Chicago Stadium and played on a 60-yard field. (It deserves two asterisks:
+one for that, and one for being the first indoors official NFL game.)
 
-The 1968 Mexico City Olympics were the scene of all sorts of records because of the altitude (Mexico City is at 7,349 ft).
+The [1968 Mexico City Olympics](https://en.wikipedia.org/wiki/1968_Summer_Olympics) were the scene of all sorts of records because of the altitude ([Mexico City](https://mexicocity.cdmx.gob.mx/) is at 7,349 ft).
 
-On June 23, 1917, Babe Ruth (then a pitcher with the Boston Red Sox) started a game against the Washington Senators at Fenway Park. He walked the first batter (Ray Morgan), argued with the home plate umpire, and was ejected.  Ernie Shore replaced him. Morgan tried to steal second, was thrown out. Shore proceeded to pitch a perfect game...but for only 26 batters.
+On June 23, 1917, [Babe Ruth](https://en.wikipedia.org/wiki/Babe_Ruth) (then a pitcher with the Boston Red Sox) started a game against the Washington Senators at Fenway Park. He walked the first batter (Ray Morgan), argued with the home plate umpire, and was ejected.  Ernie Shore replaced him. Morgan tried to steal second, was thrown out. Shore proceeded to pitch [a perfect game...but for only 26 batters](https://www.newspapers.com/article/the-charlotte-observer-ernie-shore-relie/142543053/).
 
-Ken Johnson of the Houston Colt 45s (which became the Houston Astros) no hit
-the Cincinnati Reds but lost 1-0 on April 23, 1964; he was the first pitcher to
-pitch a nine inning no-hitter and lose.
+[Ken Johnson](https://en.wikipedia.org/wiki/Ken_Johnson_(right-handed_pitcher))
+of the Houston Colt 45s (which became the [Houston
+Astros](https://en.wikipedia.org/wiki/Houston_Astros#1962%E2%80%931964:_The_Colt_.45s))
+no hit the Cincinnati Reds but lost 1-0 on April 23, 1964; he was the first
+pitcher to pitch a nine inning no-hitter and lose.
 
-Wayne Gretzky scored 894 goals in the National Hockey League…but also had 46 in
-the World Hockey Association that don’t count. In the years between the design
-of the 2021 chips and their production, Alex Ovechkin took Gretzky's NHL
-record--and, surprisingly, his place on the orange chip as well. As of today,
-the overall (asterisked) record is still held by Wayne Gretzky.
+[Wayne Gretzky](https://en.wikipedia.org/wiki/Wayne_Gretzky) scored 894 goals
+in the [National Hockey
+League](https://en.wikipedia.org/wiki/National_Hockey_League)…but also had 46
+in the [World Hockey
+Association](https://en.wikipedia.org/wiki/World_Hockey_Association) that don’t
+count. In the years between the design of the 2021 chips and their production,
+[Alex Ovechkin](https://en.wikipedia.org/wiki/Alexander_Ovechkin) took
+Gretzky's NHL record--and, surprisingly, his place on the orange chip as
+well. As of today, the overall (asterisked) record is still held by Wayne
+Gretzky.
 
-Androstenedione was the main anabolic steroid that led to the steroid era in baseball and numerous asterisks.
+[Androstenedione](https://www.webmd.com/vitamins/ai/ingredientmono-780/androstenedione)
+was the main anabolic steroid that led to the steroid era in baseball and
+numerous asterisks.
