@@ -14,16 +14,15 @@ below.  <!--more-->
 
 |                                                         List/Signup Link | Purpose                        | Signup via Email                                                                  |
 |-------------------------------------------------------------------------:|:-------------------------------|-----------------------------------------------------------------------------------|
-| [barge-announce](https://groups.google.com/a/barge.org/g/barge-announce) | Annnouncements                 | [barge+subscribe@barge.org](mailto:barge%2bsubscribe@barge.org)                   |
+| [barge-announce](https://groups.google.com/a/barge.org/g/barge-announce) | Announcements                 | [barge+subscribe@barge.org](mailto:barge%2bsubscribe@barge.org)                   |
 |                   [barge](https://groups.google.com/a/barge.org/g/barge) | Discussion                     | [barge-announce+subscribe@barge.org](mailto:barge-announce%2bsubscribe@barge.org) |
 |     [barge-relpol](https://groups.google.com/a/barge.org/g/barge-relpol) | Religion/Politics "Discussion" | [barge-relpol+subscribe@barge.org](mailto:barge-relpol%2bsubscribe@barge.org)     |
 |                                                                          |                                |                                                                                   |
 |               [ATLARGE](https://groups.google.com/a/barge.org/g/atlarge) | ATLARGE topics                 |                                                                                   |
 |                   [FARGO](https://groups.google.com/a/barge.org/g/fargo) | FARGO topics                   |                                                                                   |
 
-We highly suggest subscribing to at least the
+We highly suggest subscribing to the
 [barge-announce](https://groups.google.com/a/barge.org/g/barge-announce) list.
-
 
 -----
 
