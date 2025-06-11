@@ -12,7 +12,7 @@ tags:
  - 2025-batch
 ---
 
-Jessie Capps, 2002 Main Event winner, has had a fondness for Rubber Ducks for
+Jessie Capps, 2022 Main Event winner, has had a fondness for Rubber Ducks for
 some time.  He often brings them to the tournament poker table.  It seems like
 a good idea for a theme for his chips.
 
@@ -20,4 +20,5 @@ This set was designed by Patrick Milligan with input from Jesse.
 This set includes ducks for Independence Day, Valentine’s Day, Christmas,
 Thanksgiving, Easter, Mardi Gras, Halloween, and Summer Vacation.
 
-Chronologically, these are the first BARGE chips to feature denominations.
+Chronologically, these are the first BARGE chips to feature denominations
+(although they are being as part of the [2025 batch](/tags/2025-batch/)).
