@@ -2,7 +2,6 @@
 type: sequential-section
 title: BARGE 2025
 draft: false
-weight: -10
 tags:
  - barge
  - 2025
@@ -18,4 +17,7 @@ Casino](https://orleans.boydgaming.com/) from July 28 through August 2.
 [Registration is now open.](https://barge.regfox.com/barge-2025)
 
 [The schedule is now available here.](schedule/)
+
+[Hotel information is available here.](hotel/)
+
 Hope to see you there!
