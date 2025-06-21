@@ -8,6 +8,7 @@ aliases:
  - /chips/history
  - /chips/history/1993-2000/
  - /chips/order
+ - /chips/2024/07/31/once-upon-a-time/
 type: directory
 cover:
   image: cover.png

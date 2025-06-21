@@ -3,6 +3,8 @@ title: Purple Chip Plan for 2025 and Make-up Sets
 date: 2025-05-23
 summary: New guidelines for purple chips.
 author: Tim Showalter
+aliases:
+ - /chips/reference/purple-chips/2025-plan/
 ---
 
 In [2025](../../../gallery/2025/), we are reviving the chip tradition, including the limited-issue purple
