@@ -7,6 +7,7 @@ large: barge_1999.png
 pdf: barge_1999.pdf
 aliases:
  - /chips/chips/1993-2000-chips/1999-chips/
+ - /chips/chip-sets/1993-2000-chips/1999-chips/
 ---
 
 This set was created by Lee Jones, the 1998 NLHE winner. The fish photographs
