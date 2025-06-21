@@ -34,17 +34,18 @@ params:
       text: "ARGEM: June 20-22 @ Maryland Live!"
     - link: /blog/2025-poker-org-gathering-wsop/
       text: PokerOrg Mixer June 25 @ WSOP
-    # - link: http://fargopoker.org/ text: "FARGO 2025: October 16-19" CTAs are
-    #   added to (almost) all pages at the top in an obnoxious yellow box.
-    #   Each CTA should be made of a link and a display text.  Any number of
-    #   CTAs are supported, but try to limit yourself to one or two.  As with
-    #   nextEvents, these will wrap if they get too long.
+    # - link: http://fargopoker.org/ text: "FARGO 2025: October 16-19"
+
+  # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
+  # Each CTA should be made of a link and a display text.  Any number of CTAs
+  # are supported, but try to limit yourself to one or two.  As with
+  # nextEvents, these will wrap if they get too long.
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: https://barge.regfox.com/barge-2025
       text: "Register now for BARGE '25 @ the Orleans"
     - link: https://orleanscasino.boyd.pegsbe.com/promo?accessCode=BPTG25C
-      text: "Book Hotel by 7/11 for  BARGE @ Orleans"
+      text: "Book Hotel by 7/11 for BARGE @ Orleans"
     # - link: /embargo/
     #   text: EMBARGO 2025 is January 16-19 at Resorts World!
   selfHosted: true
