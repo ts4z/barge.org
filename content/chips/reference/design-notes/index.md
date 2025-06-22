@@ -12,17 +12,19 @@ weird but it will survive your edits better. &mdash;ts4z
 Color
 -----
 
-We[^1] spent a lot of time worrying about chip colors.  A common problem in BARGE chip designs
-is that some colors, notably red and orange, or red and pink, can be too close.
+We[^1] spent a lot of time worrying about chip colors.  A common problem in
+many BARGE chip designs is that some colors, notably red and orange, or red and
+pink, can be too close.
 
 [^1] Mostly Patrick.
 
-Patrick's suggestion is to print chips in black & white and make sure they look
-different enough to be able to tell them apart in less-than-ideal light.
+Patrick's suggestion is to print the test design on paper, in black & white,
+and make sure they look different enough to be able to tell them apart in
+less-than-ideal light.
 
 Ideally, the vendor allows exact matching to Pantone shades.  Unfortunately,
-our current vendor does not.  Their colors appear to be broadly pretty good,
-just not graphic designer ideal.
+our current vendor (BRPro Poker) does not.  Their colors appear to be broadly
+pretty good, just not graphic designer ideal.
 
 Printing Tolerances
 -------------------
@@ -32,11 +34,12 @@ Printing Tolerances
 BRPro allows printing all the way to the edge of a chip.  But they are not
 exact in their positioning.  BRPro claims their chips do not need a "bleed" at
 the chip edges.  This is technically true, but the design will not be
-well-aligned to the edge.  A little shifting is inevitable.
+well-aligned to the edge.  A little shifting is inevitable, and became evident
+on some test prints that went a little close to the edge.
 
 Tim ordered a couple dealer buttons from BRPro, intended to have a 1mm border
 around a graphic with a hard outer circle edge.  BRPro's tolerances are such
-that this was just 0.5mm off.  It stands out.  But if the graphic had a softer
+that this was just 0.5mm off.  It stands out.  If the graphic had a softer
 outer edge, these flaws would not be apparent.
 
 A good workaround is to make sure anything very close to the edge does not
@@ -48,16 +51,18 @@ denominations clipped at the edge of the chip.
 ### Blur of Dye-Sublimation
 
 The dye sub process tends to blur sharp lines slightly.  This is not very
-noticeable in photographs.  Thin black lines become slightly thicker.
+noticeable in photographs.  Thin black lines become slightly thicker.  Colors
+bleed into whites.
 
 
 Text
 ----
 
-Patrick strongly prefers Arial for text on chips.  It replicates well with the
-dye sub process.
+Patrick likes Arial for text on chips.  It replicates well with the dye sub
+process.
 
-Tim insisted on Futura.  He's happy with it, but you might not be.
+Tim insisted on Futura for his chips.  He's happy with it, but you might not
+be.
 
 
 Make Proofs of BRPro Chips
@@ -75,10 +80,50 @@ Tim used Inkscape (which is open source/free software) for some prototypes.  It
 had some glitchy habits when printing, but it did help bash out some of the
 original ideas.
 
-Patrick gained some experience with another package, but it's not what the
+Patrick gained some experience with Affinity Designer, but it's not what the
 vendor uses, and it lacks some features that Illustrator has.
 
 Sales
 -----
 
-We're still figuring this part out.
+We sold chips with a Google form and the promise of Venmo payments.
+
+If Tim had this to do over again, and couldn't find a proper shopping cart
+system, he would have collected money directly, since it would have been easier
+to audit.
+
+### Expected Sales
+
+Chip volume has decreased.  In the 2025 batch, two winners did not "add on" to
+their sample set.  The other two winners did buy bulk chips, but no one else did. 
+Historically, we tend to sell about 1/3 as many chipsets as
+main event entrants.  We did a little better than that, about 40%.
+
+Budget
+------
+
+BCC chips historically made a small profit.  This is not desirable, and the
+accumulated carry-forward profit doesn't do the community any good.  A small
+buffer and/or working capital would be enough in Tim's opinion.
+
+Historically, chip designs have benefited from the designer happening to have
+an Illustrator license for some other reason.  This is not currently the case,
+so art costs have increased.
+
+Chip costs have increased.  While the chips are printed in the US, they likely
+involve tariffed materials.
+
+Accessories
+-----------
+
+Chip sets have always come with a case.
+
+The BCC has historically provided a framed set of chips as a trophy.  Games &
+Frames can cut their 20-chip frame to a 16-chip frame.
+
+
+Working with BRPro
+------------------
+
+BRPro was able to generate an invoice that split our 2025 order into two
+shippable units, one to Nevada and one to Tim in California.
