@@ -10,10 +10,10 @@ aliases:
 In [2025](../../../gallery/2025/), we are reviving the chip tradition, including the limited-issue purple
 chips.
 
-We have found that purple chips have become a problem.  This includes trying to
-find people who no longer attend BARGE, sometimes months or years after the
+We (the RBCC) have found that purple chips have become a problem.  This includes trying to
+find previous main event winners who no longer attend BARGE, sometimes months or years after the
 event, as well as associated costs with this.  This has become an entitlement
-and chore, and the RBCC team was pretty unhappy with carrying that forward.  So
+and a chore, and the RBCC team was pretty unhappy with carrying that forward.  So
 we are doing things differently.
 
 Our goals here are pretty straightforward:
