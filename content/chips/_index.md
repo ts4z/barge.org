@@ -9,6 +9,7 @@ aliases:
  - /chips/history/1993-2000/
  - /chips/order
  - /chips/2024/07/31/once-upon-a-time/
+ - /chips/2024/08/04/work-in-progress/
 type: directory
 cover:
   image: cover.png
@@ -78,12 +79,11 @@ The BCC's last chipset was the [2019](gallery/2019/) chipset.
 
 ### Chips are coming back!
 
-In [2025](gallery/2025/), chips are being made again, including make-up sets for
+For [2025](gallery/2025/), chips have been made, including make-up sets for
 [2020](gallery/2020/), 
 [2021](gallery/2021/), and
 [2023](gallery/2023/).
 
-Orders for the 2025 batch of chips are now closed.
+A few extra chip sets may be available.  Contact [Tim Showalter](tjs@psaux.com).
 
 -----
-
