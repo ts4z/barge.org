@@ -9,6 +9,8 @@ date: 2018-09-01
 cover:
   image: cover.jpg
 summary: This year's BARGE was the last one held at Binion's Casino.
+aliases:
+ - /barge-2018-schedule
 ---
 
 This year's BARGE was the last one held at Binion's Casino.
