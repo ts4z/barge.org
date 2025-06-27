@@ -12,6 +12,7 @@ cover:
 aliases:
  - /chips/chips/2012-2019-chips/2017-chips/
  - /chips/chips/gallery/2017/
+ - /chips/chip-sets/bcc-chips-by-michael-brennan-2012-2019/2017-chips/
 ---
 
 From the 2017 announcement that made the sampler sets available:
