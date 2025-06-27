@@ -49,7 +49,9 @@ The [1968 Mexico City Olympics](https://en.wikipedia.org/wiki/1968_Summer_Olympi
 On June 23, 1917, [Babe Ruth](https://en.wikipedia.org/wiki/Babe_Ruth) (then a pitcher with the 
 [Boston Red Sox](http://en.wikipedia.org/wiki/Boston_Red_Sox)) started a game against the 
 [Washington Senators](https://en.wikipedia.org/wiki/Washington_Senators_(1901%E2%80%931960)) at 
-[Fenway Park](https://www.mlb.com/redsox/ballpark). He walked the first batter ([Ray Morgan](http://en.wikipedia.org/wiki/Ray_Morgan)), argued with the home plate umpire, and was ejected.  Ernie Shore replaced him. Morgan tried to steal second, was thrown out. Shore proceeded to pitch [a perfect game...but for only 26 batters](https://www.newspapers.com/article/the-charlotte-observer-ernie-shore-relie/Ken/).
+[Fenway Park](https://www.mlb.com/redsox/ballpark). He walked the first batter
+([Ray Morgan](http://en.wikipedia.org/wiki/Ray_Morgan)), argued with the home plate umpire, and was ejected.
+[Ernie Shore](https://www.baseball-reference.com/players/s/shoreer01.shtml) replaced him. Morgan tried to steal second, was thrown out. Shore proceeded to pitch [a perfect game...but for only 26 batters](https://www.newspapers.com/article/the-charlotte-observer-ernie-shore-relie/Ken/).
 
 [Ken Johnson](https://en.wikipedia.org/wiki/Ken_Johnson_(right-handed_pitcher))
 of the Houston Colt 45s (which became the [Houston
