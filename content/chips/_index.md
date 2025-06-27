@@ -49,14 +49,22 @@ There is even more [BARGE memorabilia](../memorabilia/) that we will add in the 
 Please [contact us](mailto:tim.showalter@gmail.com) if you have images or
 corrections.
 
-## Buying Old Chips
 
-We have an inventory of *some* old BARGE chips, including some complete sample
-sets.  These will be offered for sale soon.  Watch this space.
+## Chips for Sale
 
-## History of BARGE Main Event Chips
+We have a few sets from the 2025 batch years,
+[2025](gallery/2025/),
+[2020](gallery/2020/), 
+[2021](gallery/2021/), and
+[2023](gallery/2023/).
 
-### Pre-BCC Chips
+We also have an inventory of *some* old BARGE chips, including some complete
+sample sets.
+
+Contact [Tim Showalter](mailto:tjs@psaux.com) to see if we have figured out how
+to sell these yet.
+
+## History
 
 Starting with [1993](gallery/1993), and through [1999](gallery/1999), chips
 were produced by the Main Event winner.  For the first few events, the chipset
@@ -68,22 +76,15 @@ In 2000, the main event winner did not make the chips.  [Ken &#8220;QB&#8221;
 Kubey](/tags/qb/) [made a set](gallery/2000-qb/) for distribution at
 [BARGE 2000](../../barge/2000/).
 
-### BCC Chips
-
-Starting from the [2001](gallery/2001/) BARGE, and retroactive to the
+So starting from the [2001](gallery/2001/) BARGE, and retroactive to the
 [2000](gallery/2000-bcc/) chipset, the [BARGE Chip Committee](bcc/) 
 formed to ensure chipsets were produced every year. Input from the Main Event
 winners varied from very active to none at all.
 
-The BCC's last chipset was the [2019](gallery/2019/) chipset.
+No chips were produced in 2020 through 2024.
 
-### Chips are coming back!
-
-For [2025](gallery/2025/), chips have been made, including make-up sets for
-[2020](gallery/2020/), 
-[2021](gallery/2021/), and
-[2023](gallery/2023/).
-
-A few extra chip sets may be available.  Contact [Tim Showalter](tjs@psaux.com).
+In 2025, the BCC was reformed.  Chips have been made for [2025](gallery/2025/),
+[2020](gallery/2020/), [2021](gallery/2021/), and [2023](gallery/2023/).  We will
+deliver these to BARGE, or ship them out just after.
 
 -----
