@@ -20,5 +20,6 @@ This set was designed by Patrick Milligan with input from Jesse.
 This set includes ducks for Independence Day, Valentine’s Day, Christmas,
 Thanksgiving, Easter, Mardi Gras, Halloween, and Summer Vacation.
 
-Chronologically, these are the first BARGE chips to feature denominations
-(although they are being as part of the [2025 batch](/tags/2025-batch/)).
+Chronologically, these are the first BARGE chips to feature denominations.
+They were produced as part of the [2025 batch](/tags/2025-batch/)
+and at the same time as the [2025 chips](../2025/), which also had denominations.
