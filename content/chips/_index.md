@@ -77,11 +77,10 @@ Kubey](/tags/qb/) [made a set](gallery/2000-qb/) for distribution at
 [BARGE 2000](../../barge/2000/).
 
 So starting from the [2001](gallery/2001/) BARGE, and retroactive to the
-[2000](gallery/2000-bcc/) chipset, the [BARGE Chip Committee](bcc/) 
-formed to ensure chipsets were produced every year. Input from the Main Event
-winners varied from very active to none at all.
-
-No chips were produced in 2020 through 2024.
+[2000](gallery/2000-bcc/) chipset, the [BARGE Chip Committee](bcc/) formed to
+ensure chipsets were produced every year. Input from the Main Event winners
+varied from very active to none at all.  Chip production stalled, partially due
+to the pandemic, after [2019](gallery/2019/).
 
 In 2025, the BCC was reformed.  Chips have been made for [2025](gallery/2025/),
 [2020](gallery/2020/), [2021](gallery/2021/), and [2023](gallery/2023/).  We will
