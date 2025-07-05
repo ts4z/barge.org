@@ -16,7 +16,7 @@ with help from Patrick Milligan and Michael Brennan.
 
 Scott's chips were not produced until the [2025 batch](/tags/2025-batch/), but
 Scott had a design in mind dating back to 2020.  From his comments about these
-chips (heavily edited):
+chips:
 
 > My theme was just me. I wanted two palm trees, each one bending inward, and a
 > pair of 7s rising like the sun in the background.  The WOW and the bee are
@@ -26,7 +26,7 @@ chips (heavily edited):
 > the desert sunset and I wanted to incorporate the sevens in there to replace
 > the sun, with rays of light behind them. [...]  I wanted to keep the common
 > reverse classic BARGE, so I incorporated some ideas from past sets. I really
-> like the sunburst design from the 2005 chips[.]
+> like the sunburst design from the [2005](../2005/) chips[.]
 
 The purple chip is a little different:
 
