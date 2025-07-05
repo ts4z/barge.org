@@ -743,5 +743,5 @@ Thanks also to all the other people who make BARGE go.
 
 ---
 
-Can I sign up for BARGE 2023 now?
+Can I sign up for [BARGE 2023](../2023-barge/) now?
 

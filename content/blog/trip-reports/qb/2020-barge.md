@@ -520,4 +520,4 @@ The song has been on auto-repeat in my head all week.
 
 ---
 
-Can I sign up for BARGE 2021 now?
+Can I sign up for [BARGE 2021](../2021-barge/) now?

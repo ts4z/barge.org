@@ -13,6 +13,7 @@ summary: >-
  "I get by with a little help from my friends."
 ---
 
+{{< as-seen-on-the-barge-list >}}
 
 The story of my eighteenth BARGE. {{< br >}}
 "I get by with a little help from my friends."
@@ -931,4 +932,4 @@ Thanks also to all the other people who make BARGE go.
 
 ---
 
-Can I sign up for BARGE 2014 now?
+Can I sign up for [BARGE 2014](../2014-barge/) now?

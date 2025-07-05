@@ -1071,4 +1071,4 @@ Thanks also to all the other people who make BARGE go.
 
 ---
 
-Can I sign up for [BARGE 2016](/barge/2016/) now?
+Can I sign up for [BARGE 2016](../2016-barge/) now?
