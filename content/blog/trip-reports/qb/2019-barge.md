@@ -1056,4 +1056,4 @@ Man, those 5 days just flew by.
 
 ---
 
-Can I sign up for BARGE 2020 now?
+Can I sign up for [BARGE 2020](../2020-barge/) now?

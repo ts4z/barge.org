@@ -961,4 +961,4 @@ Thanks also to all the other people who make BARGE go.
 
 ---
 
-Can I sign up for BARGE 2018 now?
+Can I sign up for [BARGE 2018](../2018-barge/) now?

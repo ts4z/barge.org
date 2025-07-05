@@ -997,4 +997,4 @@ CHY;BIME = Can't Hear You;Beans In My Ears.
 
 ---
 
-Can I sign up for BARGE 2017 now?
+Can I sign up for [BARGE 2017](../2017-barge/) now?

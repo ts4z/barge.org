@@ -11,6 +11,8 @@ tags:
 summary: My fourth EMBARGO.  "Great Scott!"
 ---
 
+{{< as-seen-on-the-barge-list >}}
+
 My fourth EMBARGO.  "Great Scott!"
 
 Thursday, February 5th.
