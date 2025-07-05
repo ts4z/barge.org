@@ -13,6 +13,8 @@ summary: >-
  "Remember that the moose are in your car."
 ---
 
+{{< as-seen-on-the-barge-list >}}
+
 The story of my twenty-first BARGE. {{< br >}}
 "Remember that the moose are in your car."
 
