@@ -974,4 +974,4 @@ Thanks also to all the other people who make BARGE go.
 
 ---
 
-Can I sign up for BARGE 2022 now? {{< br >}}
+Can I sign up for BARGE 2022 now?
