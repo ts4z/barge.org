@@ -1,0 +1,662 @@
+Delivered-To: ojuang@gmail.com
+Received: by 10.76.143.69 with SMTP id sc5csp50396oab;
+        Mon, 5 Aug 2013 17:06:56 -0700 (PDT)
+X-Received: by 10.49.35.108 with SMTP id g12mr30097133qej.86.1375747615897;
+        Mon, 05 Aug 2013 17:06:55 -0700 (PDT)
+Return-Path: <barge-bounces@conjelco.com>
+Received: from server1.conjelco.com (server1.conjelco.com. [67.23.0.95])
+        by mx.google.com with ESMTPS id bd4si746774qeb.96.2013.08.05.17.06.54
+        for <multiple recipients>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 05 Aug 2013 17:06:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of barge-bounces@conjelco.com designates 67.23.0.95 as permitted sender) client-ip=67.23.0.95;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of barge-bounces@conjelco.com designates 67.23.0.95 as permitted sender) smtp.mail=barge-bounces@conjelco.com
+Received: from localhost.localdomain (localhost [127.0.0.1])
+	by server1.conjelco.com (8.14.3/8.14.3) with ESMTP id r7606D1c001684;
+	Mon, 5 Aug 2013 20:06:31 -0400
+Received: from col0-omc4-s12.col0.hotmail.com (col0-omc4-s12.col0.hotmail.com
+	[65.55.34.214])
+	by server1.conjelco.com (8.14.3/8.14.3) with ESMTP id r760624g001677
+	for <barge@barge.org>; Mon, 5 Aug 2013 20:06:03 -0400
+Received: from COL125-W21 ([65.55.34.200]) by col0-omc4-s12.col0.hotmail.com
+	with Microsoft SMTPSVC(6.0.3790.4675); 
+	Mon, 5 Aug 2013 17:05:13 -0700
+X-TMN: [mNeZBlBqyqi6LP7pNEio88NGPDn1VSj9AtivVXodrQA=]
+X-Originating-Email: [monte_chr@hotmail.com]
+Message-ID: <COL125-W217DBC570142BD8B3594E5945D0@phx.gbl>
+Content-Type: multipart/alternative;
+	boundary="_a009af2d-6c1f-4361-bdeb-e47e6ba56389_"
+From: Monte Christensen <monte_chr@hotmail.com>
+To: "barge@barge.org" <barge@barge.org>
+Date: Mon, 5 Aug 2013 17:05:13 -0700
+Importance: Normal
+MIME-Version: 1.0
+X-OriginalArrivalTime: 06 Aug 2013 00:05:13.0989 (UTC)
+	FILETIME=[9FF6AB50:01CE9238]
+X-Spam-Status: No, score=-2.6 required=5.0 tests=BAYES_00,HTML_MESSAGE
+	autolearn=unavailable version=3.2.5
+X-Spam-Checker-Version: SpamAssassin 3.2.5 (2008-06-10) on server1.conjelco.com
+Subject: [BARGE] Barge trip report
+X-BeenThere: barge@conjelco.com
+X-Mailman-Version: 2.1.15
+Precedence: list
+List-Id: BARGE Mailing List <barge.conjelco.com>
+List-Unsubscribe: <http://mail.conjelco.com/mailman/options/barge>,
+	<mailto:barge-request@conjelco.com?subject=unsubscribe>
+List-Archive: <http://mail.conjelco.com/mailman/private/barge/>
+List-Post: <mailto:barge@conjelco.com>
+List-Help: <mailto:barge-request@conjelco.com?subject=help>
+List-Subscribe: <http://mail.conjelco.com/mailman/listinfo/barge>,
+	<mailto:barge-request@conjelco.com?subject=subscribe>
+Errors-To: barge-bounces@conjelco.com
+Sender: "BARGE" <barge-bounces@conjelco.com>
+
+--_a009af2d-6c1f-4361-bdeb-e47e6ba56389_
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+=0A=
+I had planned to get to Vegas on Tuesday night and stay 3 nights at the =0A=
+mirage and 2 nights downtown.  I had some work stuff come up that made =0A=
+leaving on Tuesday out of question.  I moved the flight to Wednesday =0A=
+morning.  I called the  mirage and changed my reservation.  =0A=
+Luckily I did that as otherwise they had only booked the room for Tuesday a=
+nd =0A=
+Wednesday.  I had a 3 room comp offer I had used so I have no idea how they=
+ =0A=
+only booked 2 nights.  I meet Steve at the airport and we catch a =0A=
+cab.  There is a long checkin line (looks like 15m).  I never check in =0A=
+if there is a line and just leave my bags and get a key around 4-5am.  =0A=
+Steve doesn=92t like this plan so we wait.  I could have played some BJ and=
+ =0A=
+had a drink while waiting.  I plan my Barge trip all year.  I had =0A=
+meant to bring my ADB hat and Alcohol Hawk for BAC testing.  I also left my=
+ =0A=
+bust out gift (some smoked salmon from Seattle) on my bed.  At least I have=
+ =0A=
+my bankroll.  I used 2 SW free drink coupons on the plane so I am +2 beer u=
+nits before we hit the strip.
+
+While Steve puts our bags in the room I head to the =0A=
+tables.  I am going to play some BJ today.  Steve plays at mirage =0A=
+poker room.  I find a $25 game and get a $1k marker.  I play for about =0A=
+3-4h.  At one point steve and John walk up and I order a round of patron =
+=0A=
+shots.  They aren=92t even playing but no problem they say.  I had 5-6 =0A=
+beers and then we go eat dinner at the Pizza kitchen.  I have a comp.  =0A=
+Steve gets a $10 newcastle beer.   When the check comes I sign the =0A=
+comp.  I think both Steve and John thought I was adding a tip but I didn=92=
+t =0A=
+and you can=92t tip with comp points that I am aware of.  After dinner I he=
+ad =0A=
+over the HL room to play some more BJ.  The $100 table is open so I sit =0A=
+down and get a $2k marker.  I lose that in about 10m and then sign another =
+=0A=
+one.   If you want to drink/gambol the HL rooms in vegas are =0A=
+great.  They have a private bartender and you just ask for a drink and the =
+=0A=
+pit calls and it shows up.  I order a few more parton shots and start =0A=
+drinking double stoli/cran drinks.  About 11:00 or so John comes over and =
+=0A=
+plays a few hands.  I think he bought in for $100 and plays a few =0A=
+hands.  I bet all of my remaining chips and have to split and double.  =0A=
+I was going to take another marker but they haven=92t process my other ones=
+ so I =0A=
+pull out $2k and  buy chips.  I win both hands when the dealer =0A=
+busts.  I start to win and build up some chips.  I decide to not stack =0A=
+my chips but put them in a pile.  I am betting between 100-800 with wild =
+=0A=
+bet changes.  I often bet rainbows of black/green/red/blue saying it is goo=
+d =0A=
+luck.  The casino hosts who comped dinner comes by at 1 and is shocked I am=
+ =0A=
+still playing (3h later) and have 2-3 drinks on the table.  I have been in =
+=0A=
+vegas for about 8 hours and I have had 10-15 drinks and bought $7k in chips=
+ so =0A=
+he leaves a card.  John finally loses his chips and goes to bed.  I =0A=
+was going to play until 3 and then hit the palace station where I was barre=
+d at =0A=
+last Barge and the pit boss posted the story on the forum.  Out of nowhere =
+=0A=
+that I could see the casino manager is behind me @ 2:30.  I just finished =
+=0A=
+another shot when I hear=2C =93Mr Christensen=94.  This doesn=92t sound lik=
+e the =0A=
+bartender.  She says she is the casino manager and I am flat bet for =0A=
+BJ.  I tell her I am too drunk and need to go to bed anyhow.  =93Good =0A=
+night=94 she says.  I get back my markers and leave with $1.8k in chips or =
+up =0A=
+$800 for the day.  I had played at Bellagio=2C and Monte Carlo in February =
+=0A=
+with no heat at $100 tables.  Maybe too much time is my problem.  Oh=2C =0A=
+well I can=92t play at MGM with my card anymore or =0A=
+credit.  I actually just head to bed as I probably have had enough to drink=
+ for one day.
+I get up Thursday and go jogging.  I have to drink water at a few casinos a=
+s I job from the Mirage to near downtown and then come back.  I play 15/30 =
+O8 at the Venetian and lose chips slowly for $375 loss.  I then head over t=
+o the Bellagio and play some 20/40 HE for about 3-4h.  I lose almost every =
+pot.  I see one player who is winning and she is playing every hand.  Old B=
+ellagio players are berating here on every suckout.  I have AA and 3 bet pr=
+e-flop and bet the flop of: q-4-2 - she calls6 - she calls6 - she check rai=
+ses me
+She said 6h8h is her favorite hand.  Old local mentions can you believe tha=
+t sh#$&.  I laugh and love her playing that way.  I dump $890 in this game =
+only winning 2 small pots.=20
+
+We have dinner at the noodle bar.  Casino manager was nice enough not to ch=
+arge for room or take away my comp points.  I mention to Steve and John to =
+make sure they leave a tip.  =3B-)  After dinner they head back to Mirage t=
+o play 1-3.  I put my name on the 20/40 list which is quite long and only 1=
+ 40/80 doesn't look to inviting as even I know most of the players.  I deci=
+de to play/drink some more.  I catch a cab to the Orleans.  They have the l=
+ucky ladies sidebet.  I check Stanford wong's CBJN before I leave.  I love =
+this side bet.  In seattle you can be up to $300 at any point.  This is a t=
+otal sucker bet but it can get to +10% edge around 5% of the time and you d=
+on't have to be it every hand.  I get to the Orleans and see a sign that sa=
+ys max side bet is $25.  I usually bet $300 on BJ and $150-300 on the side =
+bet.  Orleans is fairly empty but they do have video poker with Newcastle o=
+n tap.  I play $20 and order 2 20oz beers.  I win $20 at VP and head to the=
+ BJ pits.  I buyin for $500 and plan to play $25-300 and maybe $400 as that=
+ is what they can usually handle.  I win a little over $1100 when I get 2 B=
+Js in a row with $150 and then $250 on them.  The penetration is really odd=
+ here.  Some dealers deal only 1d others are dealing 1.5d.  I am pretty sur=
+e the casino policy is to cutoff .7 of a deck.  I swing by the video poker =
+bar and play 3 hands of VP and get another pint of beer.  I can't quite fin=
+ish before the cab comes but give my glass to the valet parker as I get int=
+o the cab.  I decide to head back to the Palace Station.  This place really=
+ is a dump but they do have the 8th rated BJ game in las vegas using the sc=
+ore system.  I plan to stick to the $25/200 ratio here as this places reall=
+y sweats all action and they barred me last year in 2.5h when I had 13 drin=
+ks in that time period. =20
+
+I get a big count right away and bet $175.  I get 66 and split against a 3.=
+  Another 6 comes out.  I end up with 3 16s and dealer has 13 and gets 23. =
+ I see pit boss head right to the phone.  Count is down so I bet $25 and he=
+ comes back to look at that.  I could care less about this dump so I will j=
+ust play for a bit.  I see 2 more pit bosses come over.  I have been here l=
+ess than 15m.  I decide to flat bet.  I initially ordered a shot and beer. =
+ When boss comes by I order a black coffee and a mineral water.  I realize =
+I have the same Man U jersey and hat as last year.  I notice the dealer has=
+ moved the cut card up to 1d instead of the station casino normal .5d polic=
+y.  I flat bet for 15m with bosses standing right there.  When I color up t=
+he casino manager walks over and mentions I am barred from BJ.  He respects=
+ me trying to make a living playing 21 but not to come back and keep it pro=
+fessional.  I don't say much and just leave.  I guess I was too noticeable =
+last year?  (Who would have thought so) It is 4:00 and I cab back to the Mi=
+rage.
+
+We head downtown on Friday morning in time for the tourney.  TOC is may fav=
+orite tourney but I just don't get many hands. I do make a steel wheel when=
+ I am all in but only get 3/4 of the pot.  LOL.  I never have more than sta=
+rting chips and when I do get my hands on I am always 2nd best.  I bust out=
+ early and I owe John=2C Steve=2C and Oliver buffet at the GN.
+The only highly rated BJ game downtown is at the El Cortez.  Since you can'=
+t find poker games that I like downtown I will play some BJ and then come b=
+ack for the $500 hoser event.  At the El Cortez we are playing pretty crazy=
+.  Bets ranging from $10-300.  John and I do pretty good.  I get blackjacks=
+ on a bunch of hands and end up winning $1400 before we need to meet Oliver=
+ for dinner.  Steve is still in the tournament by some very bad beats he pe=
+rformed I would guess (LOL).  After dinner I play some 4/8 HO.  I tell myse=
+lf I will try and play normal but when I play 4/8 I just end up straddling=
+=2C going for suckouts=2C and not really playing poker.  Nothing new at thi=
+s game and I lose $70 before time for the hoser tourney. =20
+
+I made last longer bets with Bill Chen and David Kluchman for $100 each.  D=
+ave is a no-show for this event so I have booked a $100 bet against what I =
+would imagine is by some margin the best player against the only player dri=
+nking consistently here.  This tourney was a lot of fun.  I notice the leve=
+l of play was quite high form my estimation.  Everyone was positive and fun=
+ny.  I sit next to Bill for quite a bit of the tourney and Sabyl.  In the m=
+iddle I pick up some good O8 hands.  I don't play any Razz hands other than=
+ blind steals.  We play hose as nobody likes Razz and HO is my most common =
+game.  When we get down to 1 table I get another pretty good hand when I ha=
+ve AA2 split and Kenny has split kings and neither of us improve and win a =
+pretty nice pot.  Bill has a cold run of cards and ends up 4th.  I can't re=
+member who came in 3rd but I somehow luckbox into 2nd.  Scott Byron has abo=
+ut 85% of the chips or more.  Even when I am all in with a pretty good draw=
+ if I scoop I would only have 25% or so.  But I don't hit on 2 cards and I =
+get 2nd.  I hope this tournament happens each year as I would play every ye=
+ar.  From what I saw I had more beer than all other 16 players combined bet=
+ween 8-2.  I think about bed but decide to play 2-3h more at the El Cortez.=
+  I win another $300 but only have 2 more beers before bed time.  This is f=
+irst Friday and between El Cortez and 4Q I see 15 cop cars and lots of arre=
+sts.  A cop takes my beer saying these 2 blocks you can't drink.  I have ha=
+d 15+ beers so no problem officer as I stumble home.   I am too worn out to=
+ even run on Saturday.  I get to the tourney just in time and find David He=
+ller is at my table.  Only 2 players from Seattle area play right next to e=
+ach other.  David helped consult my on my legal standing when an Indian cas=
+ino in Seattle backroomed me by force and was going to keep my cash/chips. =
+ He also is a former Barge champion.  The table was fun and I get to remind=
+ ADB BigBoy the home brew he promised me for some software discounts has no=
+t arrived in Seattle and Bruce promises to make good.  I don't get too many=
+ hands and bleed off some chips while drinking a few beers.  I get moved to=
+ a new table and shortly I pickup KK with about 2.3k left.  I raise and Nic=
+k calls from the SB.  Bob herlein goes all-in.  I can raise all in and Nick=
+ calls. Nick- Q10 (I think but definitely a Q)Bob - A8me - KK
+Flop Qxx=2C turn Q (I go home now)=2C river x
+
+I see that Nick hit the money so he did better than I probably would have w=
+ith the only 2 bargers with that sounding last name.  I had beat Nick on a =
+total suckout on O8 tourney at Embargo to win eventually=2C so I get it.  N=
+ick is a great guy also though needs to working on drinking form with that =
+last name!  I do win my gold for goldie bet and it is nice when he is at yo=
+ur table so you just collect on the spot.  I also gave $50 to Peter for som=
+e ADB last longer bet.  Given that I am the main member of the "D" team I h=
+ave no idea what I paid for or if I get any return.  I have played at every=
+ Barge since 1994 (luxor) and never cashed.  That could be a record in and =
+of itself.  So many drinks so few cashes.   John and I eat at the Binnions =
+bullpen.  Michael Maurer joins us and we can use up all of John's comp poin=
+ts from playing poker.  We are heading back to the El Cortez before banquet=
+.  Steve will join us soon.  When Steve gets there we start drinking pretty=
+ heavily.  We want to order Patron shots.  The waitress says they don't hav=
+e that.  I know they do you just have to get a boss permission.  We talk to=
+ pat a young PB and he knows I am already in $1300 so he approves it.  We k=
+eep ordering round after round of patron.  After the 3rd round a 25y old su=
+permodel shows up with a 45-50 man.  He is playing 2 hands as $10 and gave =
+her $60 to play $10 a hand.  She is really flirting the part and obviously =
+exposing her assets to everyone around including us and the older man.  The=
+ gentlemen gets up a few times for 20m and then comes back.   Steve and I t=
+alk quietly about their situation.  We assume she is a paid escort.  After =
+they leave the pit boss comes to talk to us.  She wants to know what we sai=
+d.  We mention maybe she was working.  The female pit boss says he came in =
+with another women and was playing back and forth at 2 tables with them.  I=
+ am now thinking if this was an escort why bring them to the El Cortez?  Wh=
+at do you drink more than me.  We also see Michael at the Cortez.  They hav=
+e some ATM rebate deal he has figured out is +EV.  I skip that and keep pla=
+ying.  The 4th and 5th round of patron shots arrive.  I am working my way t=
+o almost even.  When the 5th round arrives Steve spills the whole thing.  P=
+atron running all over the table.  Some patron ends up in the discard tray.=
+  Cards standing in a puddle of patron.  I would have taken a picture if th=
+ey allowed that.  When I turn to ask the waitress for a towel Steve pounds =
+my shot.  WTF?  We laugh.  We decide to leave.  Steve and I get lost and en=
+d up at craps.  We roll so many 7s I lose $750 in 15m (I am so drunk I thin=
+k I bet yo=2C horn=2C hardways=2C hop bets) but only 7s roll.   As we are l=
+eaving the casino manager asks where we are going and will we be back.  (Fu=
+nny when I left the Mirage and Palace Station they didn't seem to care I wa=
+s leaving) We txt John we will be at the banquet around 6:30 and hold a sea=
+t.  I mostly drink water and for the first time in my life I had no drinks =
+at dinner at Barge.  I am pretty drunk during the banquet that I can't here=
+ my name in the song but I was told it was there. =20
+I talk to Bozo during dinner looking at pictures.  He mentions he wants to =
+play in my 4/8 game.  I am not sure that was a compliment.  I also complime=
+nt him in person for his total destruction of me on the exact electoral col=
+lege votes last fall.  I remind him how bad the country is because of that =
+but I am not sure he agreed or I didn't slurrrrr my speech so bad he couldn=
+'t understand WTF I was saying. I wish Northshore good look at the final ta=
+ble.  He is the only guy who likes soccer/beer as much as me!    After dinn=
+er we play some more at the Cortez.  I have bought a cigar and we share it.=
+  Dealer can't believe this.  We have known each other 22 years and we are =
+so drunk we don't care.  We order Patron shots (of course).  The new waitre=
+ss says we can't have any here.  I ask the pit boss he says=2C "Hell=2C the=
+y had 50 this afternoon why would I cut them off now".  We laugh really har=
+d.  This is the same table where Steve spilled earlier and you can see/smel=
+l the tequilla.  LOL  He sits down and talks to us.  He pretends to give us=
+ advice like taking even money on BJ with a 8 up and standing on 4-3 so you=
+ don't take the bust card.  We laugh.  We are more moderate after dinner an=
+d only have 3 more shots and 4-5 double drinks.  I was in $1500 and then st=
+art winning.  I have $2k in black chips before I know it.  By 1:30 I am pre=
+tty drunk and kind of tired.  4th night in Vegas can be like that.  I tell =
+steve one more good count we jack up our bets and then leave.  They have qu=
+it calling our checks play.  Earlier even if I bet $100+ they would call ch=
+ecks play.  I bet 2 hands at $245 each and steve bets 2x$175.  I use to see=
+ Steve only bet $50 max.  I almost fall out of my chair (for at least 2 rea=
+sons).  We get 4 stiff hands.  Dealer has a 10.  I hit A-4 and get a 6 to p=
+ush on the hand.  All of the rest bust.  I win $650 and steve loses $350 or=
+ so.   Overall barge is great every year.  Sorry to see some old friends pa=
+ss away and some who don't return.  I always enjoy when a barger comes to S=
+eattle and we play poker or have a drink (or two).  I also notice when I ge=
+t home that I have $8 in chips from Binnions so I have to come back for Emb=
+argo.  I am starting my usual 30d post barge on the wagon program.  (Don't =
+laugh last year I made it 8d)   Monte
+
+=0A=
+=0A=
+=0A=
+=0A=
+ 		 	   		  =
+
+--_a009af2d-6c1f-4361-bdeb-e47e6ba56389_
+Content-Type: text/html; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+</head>
+<body class=3D'hmmessage'><div dir=3D'ltr'>=0A=
+=0A=
+=0A=
+<div dir=3D"ltr">=0A=
+=0A=
+=0A=
+<div dir=3D"ltr">=0A=
+=0A=
+<style><!--=0A=
+.hmmessage P=0A=
+{=0A=
+margin:0px=3B=0A=
+padding:0px=0A=
+}=0A=
+body.hmmessage=0A=
+{=0A=
+font-size: 12pt=3B=0A=
+font-family:Calibri=0A=
+}=0A=
+--></style>=0A=
+<div dir=3D"ltr">=0A=
+=0A=
+<div dir=3D"ltr">=0A=
+<div style=3D'color: rgb(0=2C 0=2C 0)=3B font-family: "Calibri"=3B font-siz=
+e: 12pt=3B'>=0A=
+<div>I had planned to get to Vegas on Tuesday night and stay 3 nights at th=
+e =0A=
+mirage and 2 nights downtown.&nbsp=3B I had some work stuff come up that ma=
+de =0A=
+leaving on Tuesday out of question.&nbsp=3B I moved the flight to Wednesday=
+ =0A=
+morning.&nbsp=3B I called the&nbsp=3B mirage and changed my reservation.&nb=
+sp=3B =0A=
+Luckily I did that as otherwise they had only booked the room for Tuesday a=
+nd =0A=
+Wednesday.&nbsp=3B I had a 3 room comp offer I had used so I have no idea h=
+ow they =0A=
+only booked 2 nights.&nbsp=3B I meet Steve at the airport and we catch a =
+=0A=
+cab.&nbsp=3B There is a long checkin line (looks like 15m).&nbsp=3B I never=
+ check in =0A=
+if there is a line and just leave my bags and get a key around 4-5am.&nbsp=
+=3B =0A=
+Steve doesn=92t like this plan so we wait.&nbsp=3B I could have played some=
+ BJ and =0A=
+had a drink while waiting.&nbsp=3B I plan my Barge trip all year.&nbsp=3B I=
+ had =0A=
+meant to bring my ADB hat and Alcohol Hawk for BAC testing.&nbsp=3B I also =
+left my =0A=
+bust out gift (some smoked salmon from Seattle) on my bed.&nbsp=3B At least=
+ I have =0A=
+my bankroll.&nbsp=3B I used 2 SW free drink coupons on the plane so I am +2=
+ beer units before we hit the strip.<br><br>While Steve puts our bags in th=
+e room I head to the =0A=
+tables.&nbsp=3B I am going to play some BJ today.&nbsp=3B Steve plays at mi=
+rage =0A=
+poker room.&nbsp=3B I find a $25 game and get a $1k marker.&nbsp=3B I play =
+for about =0A=
+3-4h.&nbsp=3B At one point steve and John walk up and I order a round of pa=
+tron =0A=
+shots.&nbsp=3B They aren=92t even playing but no problem they say.&nbsp=3B =
+I had 5-6 =0A=
+beers and then we go eat dinner at the Pizza kitchen.&nbsp=3B I have a comp=
+.&nbsp=3B =0A=
+Steve gets a $10 newcastle beer.&nbsp=3B&nbsp=3B When the check comes I sig=
+n the =0A=
+comp.&nbsp=3B I think both Steve and John thought I was adding a tip but I =
+didn=92t =0A=
+and you can=92t tip with comp points that I am aware of.&nbsp=3B After dinn=
+er I head =0A=
+over the HL room to play some more BJ.&nbsp=3B The $100 table is open so I =
+sit =0A=
+down and get a $2k marker.&nbsp=3B I lose that in about 10m and then sign a=
+nother =0A=
+one.&nbsp=3B&nbsp=3B If you want to drink/gambol the HL rooms in vegas are =
+=0A=
+great.&nbsp=3B They have a private bartender and you just ask for a drink a=
+nd the =0A=
+pit calls and it shows up.&nbsp=3B I order a few more parton shots and star=
+t =0A=
+drinking double stoli/cran drinks.&nbsp=3B About 11:00 or so John comes ove=
+r and =0A=
+plays a few hands.&nbsp=3B I think he bought in for $100 and plays a few =
+=0A=
+hands.&nbsp=3B I bet all of my remaining chips and have to split and double=
+.&nbsp=3B =0A=
+I was going to take another marker but they haven=92t process my other ones=
+ so I =0A=
+pull out $2k and&nbsp=3B buy chips.&nbsp=3B I win both hands when the deale=
+r =0A=
+busts.&nbsp=3B I start to win and build up some chips.&nbsp=3B I decide to =
+not stack =0A=
+my chips but put them in a pile.&nbsp=3B I am betting between 100-800 with =
+wild =0A=
+bet changes.&nbsp=3B I often bet rainbows of black/green/red/blue saying it=
+ is good =0A=
+luck.&nbsp=3B The casino hosts who comped dinner comes by at 1 and is shock=
+ed I am =0A=
+still playing (3h later) and have 2-3 drinks on the table.&nbsp=3B I have b=
+een in =0A=
+vegas for about 8 hours and I have had 10-15 drinks and bought $7k in chips=
+ so =0A=
+he leaves a card.&nbsp=3B John finally loses his chips and goes to bed.&nbs=
+p=3B I =0A=
+was going to play until 3 and then hit the palace station where I was barre=
+d at =0A=
+last Barge and the pit boss posted the story on the forum.&nbsp=3B Out of n=
+owhere =0A=
+that I could see the casino manager is behind me @ 2:30.&nbsp=3B I just fin=
+ished =0A=
+another shot when I hear=2C =93Mr Christensen=94.&nbsp=3B This doesn=92t so=
+und like the =0A=
+bartender.&nbsp=3B She says she is the casino manager and I am flat bet for=
+ =0A=
+BJ.&nbsp=3B I tell her I am too drunk and need to go to bed anyhow.&nbsp=3B=
+ =93Good =0A=
+night=94 she says.&nbsp=3B I get back my markers and leave with $1.8k in ch=
+ips or up =0A=
+$800 for the day.&nbsp=3B I had played at Bellagio=2C and Monte Carlo in Fe=
+bruary =0A=
+with no heat at $100 tables.&nbsp=3B Maybe too much time is my problem.&nbs=
+p=3B Oh=2C =0A=
+well I can=92t play at MGM with my card anymore or =0A=
+credit.&nbsp=3B I actually just head to bed as I probably have had enough t=
+o drink for one day.</div><div><br>I get up Thursday and go jogging.&nbsp=
+=3B I have to drink water at a few casinos as I job from the Mirage to near=
+ downtown and then come back.&nbsp=3B I play 15/30 O8 at the Venetian and l=
+ose chips slowly for $375 loss.&nbsp=3B I then head over to the Bellagio an=
+d play some 20/40 HE for about 3-4h.&nbsp=3B I lose almost every pot.&nbsp=
+=3B I see one player who is winning and she is playing every hand.&nbsp=3B =
+Old Bellagio players are berating here on every suckout.&nbsp=3B I have AA =
+and 3 bet pre-flop and bet the flop of:</div><div>&nbsp=3B</div><div>q-4-2 =
+- she calls</div><div>6 - she calls</div><div>6 - she check raises me</div>=
+<div><br>She said 6h8h is her favorite hand.&nbsp=3B Old local mentions can=
+ you believe that sh#$&amp=3B.&nbsp=3B I laugh and love her playing that wa=
+y.&nbsp=3B I dump $890 in this game only winning 2 small pots. <br><br>We h=
+ave dinner at the noodle bar.&nbsp=3B Casino manager was nice enough not to=
+ charge for room or take away my comp points.&nbsp=3B I mention to Steve an=
+d John to make sure they leave a tip.&nbsp=3B =3B-)&nbsp=3B After dinner th=
+ey head back to Mirage to play 1-3.&nbsp=3B I put my name on the 20/40 list=
+ which is quite long and only 1 40/80 doesn't look to inviting as even I kn=
+ow most of the players.&nbsp=3B I decide to play/drink some more.&nbsp=3B I=
+ catch a cab to the Orleans.&nbsp=3B They have the lucky ladies sidebet.&nb=
+sp=3B I check Stanford wong's CBJN before I leave.&nbsp=3B I love this side=
+ bet.&nbsp=3B In seattle you can be up to $300 at any point.&nbsp=3B This i=
+s a total sucker bet but it can get to +10% edge around 5% of the time and =
+you don't have to be it every hand.&nbsp=3B I get to the Orleans and see a =
+sign that says max side bet is $25.&nbsp=3B I usually bet $300 on BJ and $1=
+50-300 on the side bet.&nbsp=3B Orleans is fairly empty but they do have vi=
+deo poker with Newcastle on tap.&nbsp=3B I play $20 and order 2 20oz beers.=
+&nbsp=3B I win $20 at VP and head to the BJ pits.&nbsp=3B I buyin for $500 =
+and plan to play $25-300 and maybe $400 as that is what they can usually ha=
+ndle.&nbsp=3B I win a little over $1100 when I get 2 BJs in a row with $150=
+ and then $250 on them.&nbsp=3B The penetration is really odd here.&nbsp=3B=
+ Some dealers deal only 1d others are dealing 1.5d.&nbsp=3B I am pretty sur=
+e the casino policy is to cutoff .7 of a deck.&nbsp=3B I swing by the video=
+ poker bar and play 3 hands of VP and get another pint of beer.&nbsp=3B I c=
+an't quite finish before the cab comes but give my glass to the valet parke=
+r as I get into the cab.&nbsp=3B I decide to head back to the Palace Statio=
+n.&nbsp=3B This place really is a dump but they do have the 8th rated BJ ga=
+me in las vegas using the score system.&nbsp=3B I plan to stick to the $25/=
+200 ratio here as this places really sweats all action and they barred me l=
+ast year in 2.5h when I had 13 drinks in that time period.&nbsp=3B <br><br>=
+I get a big count right away and bet $175.&nbsp=3B I get 66 and split again=
+st a 3.&nbsp=3B Another 6 comes out.&nbsp=3B I end up with 3 16s and dealer=
+ has 13 and gets 23.&nbsp=3B I see pit boss head right to the phone.&nbsp=
+=3B Count is down so I bet $25 and he comes back to look at that.&nbsp=3B I=
+ could care less about this dump so I will just play for a bit.&nbsp=3B I s=
+ee 2 more pit bosses come over.&nbsp=3B I have been here less than 15m.&nbs=
+p=3B I decide to flat bet.&nbsp=3B I initially ordered a shot and beer.&nbs=
+p=3B When boss comes by I order a black coffee and a mineral water.&nbsp=3B=
+ I realize I have the same Man U jersey and hat as last year.&nbsp=3B I not=
+ice the dealer has moved the cut card up to 1d instead of the station casin=
+o normal .5d policy.&nbsp=3B I flat bet for 15m with bosses standing right =
+there.&nbsp=3B When I color up the casino manager walks over and mentions I=
+ am barred from BJ.&nbsp=3B He respects me trying to make a living playing =
+21 but not to come back and keep it professional.&nbsp=3B I don't say much =
+and just leave.&nbsp=3B I guess I was too noticeable last year?&nbsp=3B (Wh=
+o would have thought so) It is 4:00 and I cab back to the Mirage.<br><br>We=
+ head downtown on Friday morning in time for the tourney.&nbsp=3B TOC is ma=
+y favorite tourney but I just don't get many hands. I do make a steel wheel=
+ when I am all in but only get 3/4 of the pot.&nbsp=3B LOL.&nbsp=3B I never=
+ have more than starting chips and when I do get my hands on I am always 2n=
+d best.&nbsp=3B I bust out early and I owe John=2C Steve=2C and Oliver buff=
+et at the GN.</div><div><br>The only highly rated BJ game downtown is at th=
+e El Cortez.&nbsp=3B Since you can't find poker games that I like downtown =
+I will play some BJ and then come back for the $500 hoser event.&nbsp=3B At=
+ the El Cortez we are playing pretty crazy.&nbsp=3B Bets ranging from $10-3=
+00.&nbsp=3B John and I do pretty good.&nbsp=3B I get blackjacks on a bunch =
+of hands and end up winning $1400 before we need to meet Oliver for dinner.=
+&nbsp=3B Steve is still in the tournament by some very bad beats he perform=
+ed I would guess (LOL).&nbsp=3B After dinner I play some 4/8 HO.&nbsp=3B I =
+tell myself I will try and play normal but when I play 4/8 I just end up st=
+raddling=2C going for suckouts=2C and not really playing poker.&nbsp=3B Not=
+hing new at this game and I lose $70 before time for the hoser tourney.&nbs=
+p=3B <br><br>I made last longer bets with Bill Chen and David Kluchman for =
+$100 each.&nbsp=3B Dave is a no-show for this event so I have booked a $100=
+ bet against what I would imagine is by some margin the best player against=
+ the only player drinking consistently here.&nbsp=3B This tourney was a lot=
+ of fun.&nbsp=3B I notice the level of play was quite high form my estimati=
+on.&nbsp=3B Everyone was positive and funny.&nbsp=3B I sit next to Bill for=
+ quite a bit of the tourney and Sabyl.&nbsp=3B In the middle I pick up some=
+ good O8 hands.&nbsp=3B I don't play any Razz hands other than blind steals=
+.&nbsp=3B We play hose as nobody likes Razz and HO is my most common game.&=
+nbsp=3B When we get down to 1 table I get another pretty good hand when I h=
+ave AA2 split and Kenny has split kings and neither of us improve and win a=
+ pretty nice pot.&nbsp=3B Bill has a cold run of cards and ends up 4th.&nbs=
+p=3B I can't remember who came in 3rd but I somehow luckbox into 2nd.&nbsp=
+=3B Scott Byron has about 85% of the chips or more.&nbsp=3B Even when I am =
+all in with a pretty good draw if I scoop I would only have 25% or so.&nbsp=
+=3B But I don't hit on 2 cards and I get 2nd.&nbsp=3B I hope this tournamen=
+t happens each year as I would play every year.&nbsp=3B From what I saw I h=
+ad more beer than all other 16 players combined between 8-2.&nbsp=3B I thin=
+k about bed but decide to play 2-3h more at the El Cortez.&nbsp=3B I win an=
+other $300 but only have 2 more beers before bed time.&nbsp=3B This is firs=
+t Friday and between El Cortez and 4Q I see 15 cop cars and lots of arrests=
+.&nbsp=3B A cop takes my beer saying these 2 blocks you can't drink.&nbsp=
+=3B I have had 15+ beers so no problem officer as I stumble home.&nbsp=3B <=
+/div><div>&nbsp=3B</div><div>I am too worn out to even run on Saturday.&nbs=
+p=3B I get to the tourney just in time and find David Heller is at my table=
+.&nbsp=3B Only 2 players from Seattle area play right next to each other.&n=
+bsp=3B David helped consult my on my legal standing when an Indian casino i=
+n Seattle backroomed me by force and was going to keep my cash/chips.&nbsp=
+=3B He also is a former Barge champion.&nbsp=3B The table was fun and I get=
+ to remind ADB BigBoy the home brew he promised me for some&nbsp=3Bsoftware=
+ discounts has not arrived in Seattle and Bruce promises to make good.&nbsp=
+=3B I don't get too&nbsp=3Bmany hands and bleed off some chips while drinki=
+ng a few beers.&nbsp=3B I get moved to a new table and shortly I pickup KK =
+with about 2.3k left.&nbsp=3B I raise and Nick calls from the SB.&nbsp=3B B=
+ob herlein goes all-in.&nbsp=3B I can raise all in and Nick calls.</div><di=
+v>&nbsp=3B</div><div>Nick- Q10 (I think but definitely a Q)</div><div>Bob -=
+ A8</div><div>me - KK</div><div><br>Flop Qxx=2C turn Q (I go home now)=2C r=
+iver x<br><br>I see that Nick hit the money so he did better than I probabl=
+y would have with the only 2 bargers with that sounding last name.&nbsp=3B =
+I had beat Nick on a total suckout on O8 tourney at Embargo to win eventual=
+ly=2C so I get it.&nbsp=3B Nick is a great guy also though needs to working=
+ on drinking form with that last name!&nbsp=3B I do win my gold for goldie =
+bet and it is nice when he is at your table so you just collect on the spot=
+.&nbsp=3B I also gave $50 to Peter for some ADB last longer bet.&nbsp=3B Gi=
+ven that I am the main member of the "D" team I have no idea what I paid fo=
+r or if I get any return.&nbsp=3B I have played at every Barge since 1994 (=
+luxor) and never cashed.&nbsp=3B That could be a record in and of itself.&n=
+bsp=3B So many drinks so few cashes.&nbsp=3B </div><div>&nbsp=3B</div><div>=
+John&nbsp=3Band I eat at the Binnions bullpen.&nbsp=3B Michael Maurer joins=
+ us and we can use up all of John's comp points from playing poker.&nbsp=3B=
+ We are heading back to the El Cortez before banquet.&nbsp=3B Steve will jo=
+in us soon.&nbsp=3B When Steve gets there we start drinking pretty heavily.=
+&nbsp=3B We want to order Patron shots.&nbsp=3B The waitress says they don'=
+t have that.&nbsp=3B I know they do you just have to get a boss permission.=
+&nbsp=3B We talk to pat a young PB and he&nbsp=3Bknows I am already in $130=
+0 so he approves it.&nbsp=3B We keep ordering round after round of patron.&=
+nbsp=3B After the 3rd round a 25y old supermodel shows up with a 45-50 man.=
+&nbsp=3B He is playing 2 hands as $10 and gave her $60 to play $10 a hand.&=
+nbsp=3B She is really flirting the part and obviously exposing her assets t=
+o everyone around including us and the older man.&nbsp=3B The gentlemen get=
+s up a few times for 20m and then comes back.&nbsp=3B&nbsp=3B Steve and I t=
+alk quietly about their situation.&nbsp=3B We assume she is a paid escort.&=
+nbsp=3B After they leave the pit boss comes to talk to us.&nbsp=3B She want=
+s to know what we said.&nbsp=3B We mention maybe she was working.&nbsp=3B T=
+he female pit boss says he came in with another women and was playing back =
+and forth at 2 tables with them.&nbsp=3B I am now thinking if this was an e=
+scort why bring them to the El Cortez?&nbsp=3B What do you drink more than =
+me.&nbsp=3B We also see Michael at the Cortez.&nbsp=3B They have some ATM r=
+ebate deal he has figured out is +EV.&nbsp=3B I skip that and keep playing.=
+&nbsp=3B The 4th and 5th round of patron shots arrive.&nbsp=3B I am working=
+ my way to almost even.&nbsp=3B When the 5th round arrives Steve spills the=
+ whole thing.&nbsp=3B Patron running all over the table.&nbsp=3B Some patro=
+n ends up in the discard tray.&nbsp=3B Cards standing in a puddle of patron=
+.&nbsp=3B I would have taken a picture if they allowed that.&nbsp=3B When I=
+ turn to ask the waitress for a towel Steve pounds my shot.&nbsp=3B WTF?&nb=
+sp=3B We laugh.&nbsp=3B We decide to leave.&nbsp=3B Steve and I get lost an=
+d end up at craps.&nbsp=3B We roll so many 7s I lose $750 in 15m (I am so d=
+runk I think I bet yo=2C horn=2C hardways=2C hop bets) but only 7s roll.&nb=
+sp=3B&nbsp=3B As we are leaving the casino manager asks where we are going =
+and will we be back.&nbsp=3B (Funny when I left the Mirage and Palace Stati=
+on they didn't seem to care I was leaving) We txt John we will be at the ba=
+nquet around 6:30 and hold a seat.&nbsp=3B I mostly drink water and for the=
+ first time in my life I had no drinks at dinner at Barge.&nbsp=3B I am pre=
+tty drunk during the banquet that I can't here my name in the song but I wa=
+s told it was there.&nbsp=3B </div><div><br>I talk to Bozo during dinner lo=
+oking at pictures.&nbsp=3B He mentions he wants to play in my 4/8 game.&nbs=
+p=3B I am not sure that was a compliment.&nbsp=3B I also compliment him in =
+person for his total destruction of me on the exact electoral college votes=
+ last fall.&nbsp=3B I remind him how bad the country is because of that but=
+ I am not sure he agreed or I didn't slurrrrr my speech so bad he couldn't =
+understand WTF I was saying. I wish Northshore good look at the final table=
+.&nbsp=3B He is the only guy who likes soccer/beer as much as me!&nbsp=3B&n=
+bsp=3B&nbsp=3B</div><div>&nbsp=3B</div><div>After dinner we play some more =
+at the Cortez.&nbsp=3B I have bought a cigar and we share it.&nbsp=3B Deale=
+r can't believe this.&nbsp=3B We have known each other 22 years and we are =
+so drunk we don't care.&nbsp=3B We order Patron shots (of course).&nbsp=3B =
+The new waitress says we can't have any here.&nbsp=3B I ask the pit boss he=
+ says=2C "Hell=2C they had 50 this afternoon why would I cut them off now".=
+&nbsp=3B We laugh really hard.&nbsp=3B This is the same table where Steve s=
+pilled earlier and you can see/smell the tequilla.&nbsp=3B LOL&nbsp=3B He s=
+its down and talks to us.&nbsp=3B He pretends to give us advice like taking=
+ even&nbsp=3Bmoney on BJ with a 8 up and standing on 4-3 so you don't take =
+the bust card.&nbsp=3B We laugh.&nbsp=3B We are more moderate after dinner =
+and only have 3 more shots and 4-5 double drinks.&nbsp=3B I was in $1500 an=
+d then start winning.&nbsp=3B I have $2k in black chips before I know it.&n=
+bsp=3B By 1:30 I am pretty drunk and kind of tired.&nbsp=3B 4th night in Ve=
+gas can be like that.&nbsp=3B I tell steve one more good count we jack up o=
+ur bets and then leave.&nbsp=3B They have quit calling our checks play.&nbs=
+p=3B Earlier even if I bet $100+ they would call checks play.&nbsp=3B I bet=
+ 2 hands at $245 each and steve bets 2x$175.&nbsp=3B I use to see Steve onl=
+y bet $50 max.&nbsp=3B I almost fall out of my chair (for at least 2 reason=
+s).&nbsp=3B We get 4 stiff hands.&nbsp=3B Dealer has a 10.&nbsp=3B I hit A-=
+4 and get a 6 to push on the hand.&nbsp=3B All of the rest bust.&nbsp=3B I =
+win $650 and steve loses $350 or so.&nbsp=3B </div><div>&nbsp=3B</div><div>=
+Overall barge is great every year.&nbsp=3B Sorry to see some old friends pa=
+ss away and some who don't return.&nbsp=3B I always enjoy when a barger com=
+es to Seattle and we play poker or have a drink (or two).&nbsp=3B I also no=
+tice when I get home that I have $8 in chips from Binnions so I have to com=
+e back for Embargo.&nbsp=3B I am starting my usual 30d post barge&nbsp=3Bon=
+ the wagon&nbsp=3Bprogram.&nbsp=3B (Don't laugh last year I made it 8d)&nbs=
+p=3B </div><div>&nbsp=3B</div><div>Monte<br><br></div></div></div>=0A=
+</div>=0A=
+</div>=0A=
+</div>=0A=
+ 		 	   		  </div></body>
+</html>=
+
+--_a009af2d-6c1f-4361-bdeb-e47e6ba56389_--
