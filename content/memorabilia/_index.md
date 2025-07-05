@@ -6,6 +6,7 @@ itemsOnTop: true
 aliases:
  - /paraphernalia
  - /stuff
+ - /chips/other-stuff
 params:
  notInMainMenu: true
 ---
