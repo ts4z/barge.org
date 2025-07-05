@@ -12,6 +12,8 @@ summary: >-
  My second EMBARGO.  "He doesn't know."
 ---
 
+{{< as-seen-on-the-barge-list >}}
+
 My second EMBARGO.  "He doesn't know."
 
 
