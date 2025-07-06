@@ -1,6 +1,6 @@
 ---
 title: QB's 2010 BARGE Trip Report
-date: 2010
+date: 2010-08-13
 author: Ken Kubey
 draft: false
 tags:
