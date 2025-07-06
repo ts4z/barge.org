@@ -332,7 +332,7 @@ with an allergic reaction.  Gosh, I hope it wasn't the sandwich.
 Someone asks me how I'm doing.
 "I'm a BARGE and I'm drinking."  Doesn't get much better than that.
 
---
+---
 
 The Symposium.
 Rich Strauss, JR, Jeff Siegal and I have our usual little syndicate.
