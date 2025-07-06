@@ -14,6 +14,10 @@ sectionPagesMenu: main
 enableRobotsTXT: true
 params:
   env: production
+  # Directories to scan in static directory for extra stuff for sitemap.xml.
+  # See layouts/sitemap.xml.
+  sitemapStaticDirectories:
+    - "rulebook"
   description: >-
     This is the home page for the BARGE event in Las Vegas, the EMBARGO event
     in Las Vegas, and BARGE, Inc., which is a tax exempt Nevada corporation
