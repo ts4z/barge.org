@@ -9,6 +9,12 @@ tags:
  - tripreport
  - barge
  - 2012
+summary: >-
+  The pit boss is like in my lap. ...
+  When count gets to -2 I just sit out the rest of the deck and order
+  another drink.  I wonder if they have my picture or they just sweat more than
+  me jogging in LV.
+
 ---
 Get to LV on Tuesday night.  Decide to stay a few days on the strip to play
 some poker at the bellagio and maybe some BJ before heading downtown for Barge
@@ -93,7 +99,7 @@ whole way fires 12 into the pot.  I ask him if he will show me one card for $1.
 He agrees and I turn over a 7.  I assumed he had a set but this was enough to
 fold a $250 pot so I save the $11 call.  Bingo shows the other 7.  We all
 laugh.  Mav then runs super hot against me and wins something like 7 hands in a
-row with &lquot;commerce outs&rquot; as he puts it.  Some hands had 2 outs
+row with &ldquo;commerce outs&rdquo; as he puts it.  Some hands had 2 outs
 others had 15+.  Mav was cool about it and I drop $200 in the game.
 
 Saturday I again play OK until the blinds move up.  I have to wear my German
@@ -109,7 +115,7 @@ nobody has more than $150 on the table.  First time I have every played limit
 with NL over buttons.  I get bored and go play some BJ.  I sit down and start
 losing at the $10-150 range.  The pit boss is like in my lap.  I go down about
 $400 in 5m and then hit a card rush.  Parlay a $25 bet into $150 when a split
-and double wins.  I hear &lquot;shuffle&rquot; from the boss to the dealer at
+and double wins.  I hear &ldquo;shuffle&rdquo; from the boss to the dealer at
 about 1d left when they normally deal to 1/2 deck.  Next round I bet $10 on the
 top.  When count gets to -2 I just sit out the rest of the deck and order
 another drink.  I wonder if they have my picture or they just sweat more than
@@ -133,3 +139,46 @@ win and think I would be better served playing 4/8 at Barge.  Thanks to
 everyone for making barge great as ever!  Can't wait until January for Embargo.
 
 Monte
+
+----
+
+*When this was posted to the BARGE list in 2012, there was an interesting
+followup from an unnamed BARGEr:*
+
+> > I wonder if they have my picture or they just sweat more than me jogging in LV.
+
+They don't have a picture, but this was posted to the Pit Boss forums last week under the "Card Counters Forum":
+
+> I was working my standard pit last night and this mid-30s guy, stocky, with
+> short blond hair, fairly loud is at my double deck blackjack table. He bought
+> in for $500 into a $10-200 table which is my normal warning sign for a card
+> counter.
+>
+> What makes this post interesting was that his play was not what drew my
+> attention, but the number of drinks that he consumed. As soon as the cocktail
+> waitress came by, he immediately ordered 3 drinks. Every time the cocktail
+> waitress would come by, he would order another.
+>
+> Aside from the first 8 drinks he had in the first 75 minutes of play, he was
+> killing the game. I was trying to figure out if he was following the count or
+> just lucky. His bets seem to vary dramatically with the count, but I could
+> see his body sway with the deal. I was starting to get worried that he would
+> fall out of his seat.
+>
+> I called over to the cocktail waitress and suggested that she increase the
+> frequency that she came by. She was happy to do so as it was 2:30 in the
+> morning and this guy tipped well. I also give security a heads up and they
+> place a couple of team members close by. I figure he was a few more drinks
+> away from falling out of his seat and then I could have security escort him
+> to a cab.
+>
+> 30 minutes and 5 drinks later, he is still on fire and I have to cut him
+> off. He looks as if he is on the edge of alcohol poisoning but was still
+> varying his bet according to the count and even hit an insurance bet. At this
+> point, I have to cut him off, both for the sake of the casino and his liver.
+>
+> I give him the "I think you are done playing blackjack speech" expecting to
+> have him either throw up on me or give me some sort of slurred
+> argument. Surprisingly, he colors up and staggers off without any fuss. After
+> he successfully dismounts from the chair, I compliment his liver for it's
+> solid play.
