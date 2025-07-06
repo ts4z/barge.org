@@ -653,13 +653,15 @@ My 2010 lucky shirt failed me on Saturday.  It is officially retired.
 
 Gambling...
 
-craps:        lost medium-small.
-big 6 wheel:  DNP.  Totally forgot.  2013 for sure.
-blackjack:    DNP because BFB.
-live poker:   lost medium-bad.
-slots:        lost small.
-tournaments:  lost, lost and lost.
-roshambo:     won to not have to buy drinks during golf.
+|              |                                            |
+|:-------------|:-------------------------------------------|
+| craps:       | lost medium-small.                         |
+| big 6 wheel: | DNP.  Totally forgot.  2013 for sure.      |
+| blackjack:   | DNP because BFB.                           |
+| live poker:  | lost medium-bad.                           |
+| slots:       | lost small.                                |
+| tournaments: | lost, lost and lost.                       |
+| roshambo:    | won to not have to buy drinks during golf. |
 
 I know I left a lot of people out of this report.
 I met the Virgin Queen guy, but can't remember who it was.
