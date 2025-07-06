@@ -1,0 +1,54 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  {{- /* The default Hugo sitemap doesn't index static pages.  We want to
+  encourage search engines to index the rulebook pages in particular, because
+  they are valuable.  So, we walk the static files, looking for html things,
+  and add sitemap entries for them. */ -}}
+  
+  {{- range $.Site.Params.sitemapStaticDirectories }}
+    {{- $subdir := . }}
+    {{- range readDir (printf "static/%s" .) }}
+      {{- if and (findRE ".html$" .Name) (ne .Name "404.html") }}
+        <url>
+          <loc>{{ printf "%s%s/%s" $.Site.BaseURL $subdir .Name }}</loc>
+          <changefreq>{{ "yearly" }}</changefreq>
+          <priority>{{ "0.3" }}</priority>
+        </url>
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
+  {{- /* This is just stolen from the Hugo configuration, and we just walk the pages
+  and if they want to be in the sitemap, we add stuff for them. */ -}}
+
+  {{ range where .Pages "Sitemap.Disable" "ne" true }}
+    {{- if .Permalink }}
+      <url>
+        <loc>{{ .Permalink }}</loc>
+        {{- with .Sitemap.ChangeFreq }}
+          <changefreq>{{ . }}</changefreq>
+        {{- end }}
+        {{- if ge .Sitemap.Priority 0.0 }}
+          <priority>{{ .Sitemap.Priority }}</priority>
+        {{- end }}
+        {{- /* No lastmod time; the ones we have from metadata are wrong. */ -}}
+        {{- if .IsTranslated }}
+          {{- range .Translations }}
+            <xhtml:link
+                rel="alternate"
+                hreflang="{{ .Language.LanguageCode }}"
+                href="{{ .Permalink }}"
+                />
+          {{- end }}
+          <xhtml:link
+                rel="alternate"
+                hreflang="{{ .Language.LanguageCode }}"
+                href="{{ .Permalink }}"
+                />
+        {{- end }}
+      </url>
+    {{- end }}
+  {{- end }}
+</urlset>
