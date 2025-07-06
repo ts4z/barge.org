@@ -292,7 +292,7 @@ leave the Board not with sorrow, but with great joy in knowing that the
 right people are in place, and the entire community itself has now taken on
 the responsibility not only to sustain, but also to expand BARGE. I will
 continue to do whatever I can to help with the process, but I no longer feel
-the need to be &lquot;in charge&rquot; of that. It has grown to be something bigger than
+the need to be &ldquo;in charge&rdquo; of that. It has grown to be something bigger than
 I can handle. WE &mdash; all of us together, need to be in charge of that. 
 
 Our growth will not be the result of a massive recruitment campaign simply
@@ -301,7 +301,7 @@ to boost numbers. It will be organic, which will result in us attracting the
 more. People will want to know how they can become part of this thing we
 call BARGE. Let them know and then *follow up* with them. Make them feel
 welcome before they even attend. And if they are the right kind of people
-for us, they will &lquot;get&rquot; us and they too will want to give back more than
+for us, they will &ldquo;get&rdquo; us and they too will want to give back more than
 they receive. How much more can we become? That's kind of like asking how
 much more can anything become. How much more can life itself become? Well,
 we can become all that we want to become. We can become more in everything
