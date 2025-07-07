@@ -10,7 +10,7 @@ tags:
  - 2014
 ---
 This schedule has been reconstructed
-[from this page from the Wayback Machine.](https://web.archive.org/web/20150101202358/http://barge.org/barge2014info.php)
+[from this page from the Wayback Machine](https://web.archive.org/web/20150101202358/http://barge.org/barge2014info.php)
 and has been edited.
 
 {{< rawhtml >}}
@@ -19,31 +19,31 @@ and has been edited.
  <tr><th>Day</th><th>Date</th><th>Event</th><th>Start Time</th><th>Entry Fee</th><th>Notes</th></tr>
  <tr><td>Mon</td><td>7/28</td><td>No Limit Hold'Em 6-max</td><td>7:30pm</td><td>$55+$15+$10</td><td></td></tr>
  <tr><td>Tue</td><td>7/29</td><td>History Of Poker<br>(sponsored by Chris Mecklin)</td><td>3:00pm</td><td>$60+$15+$10</td><td>(1)</td></tr>
- <tr><td></td><td>7/29</td><td>2nd Chance: Binglaha</td><td>9:00pm</td><td>$55+$15</td><td></td></tr>
- <tr><td></td><td>7/29</td><td>History of Poker restart</td><td>10:00pm</td></tr>
+ <tr><td></td><td></td><td>2nd Chance: Binglaha</td><td>9:00pm</td><td>$55+$15</td><td></td></tr>
+ <tr><td></td><td></td><td>History of Poker restart</td><td>10:00pm</td></tr>
  <tr><td>Wed</td><td>7/30</td><td colspan="3"><b>Triathalon of Gambling (ToGa) Events:</b><br>(sponsored by Real Gamb00lerz of New Jersey)</td><td></td></tr>
  <tr><td></td><td></td><td>ToGa: Blackjack</td><td>11:00am</td><td>$50+$10</td><td>(2)</td></tr>
  <tr><td></td><td></td><td>ToGa: Video Poker</td><td>1:00pm</td><td>$40+$10</td><td>(2)</td></tr>
  <tr><td></td><td></td><td>ToGa: Craps</td><td>3:00pm</td><td>$55+$10</td><td>(2)</td></tr>
- <tr><td></td><td>7/30</td><td>High Roller HOSER Satellite #1</td><td>5:30pm</td><td>$75+$15</td><td></td></tr>
- <tr><td></td><td>7/30</td><td>Limit 6-game</td><td>7:30pm</td><td>$75+$20+$10</td><td>(3)</td></tr>
+ <tr><td></td><td></td><td>High Roller HOSER Satellite #1</td><td>5:30pm</td><td>$75+$15</td><td></td></tr>
+ <tr><td></td><td></td><td>Limit 6-game</td><td>7:30pm</td><td>$75+$20+$10</td><td>(3)</td></tr>
  <tr><td>Thu</td><td>7/31</td><td>Coney Island Whitefish Memorial CHORSE<br>(sponsored by the ADBs)</td><td>10:00am</td><td>$400+$30+$10</td><td>(4)</td></tr>
- <tr><td></td><td>7/31</td><td>Pot-Limit Omaha (with lammers)<br>(sponsored by the International Brotherhood of Gobbling Donkeys)</td><td>4:00pm</td><td>$75+$20+$10</td><td></td></tr>
- <tr><td></td><td>7/31</td><td>2nd Chance: Open Face Chinese</td><td>8:00pm</td><td>$55+$15</td><td></td></tr>
- <tr><td></td><td>7/31</td><td>High Roller HOSER Satellite #2</td><td>9:00pm</td><td>$75+$15</td><td></td></tr>
+ <tr><td></td><td></td><td>Pot-Limit Omaha (with lammers)<br>(sponsored by the International Brotherhood of Gobbling Donkeys)</td><td>4:00pm</td><td>$75+$20+$10</td><td></td></tr>
+ <tr><td></td><td></td><td>2nd Chance: Open Face Chinese</td><td>8:00pm</td><td>$55+$15</td><td></td></tr>
+ <tr><td></td><td></td><td>High Roller HOSER Satellite #2</td><td>9:00pm</td><td>$75+$15</td><td></td></tr>
  <tr><td>Fri</td><td>8/1</td><td>CHORSE Final Table</td><td>10:00am</td></tr>
- <tr><td></td><td>8/1</td><td>High Roller HOSER Satellite #3</td><td>10:15am</td><td>$75+$15</td><td></td></tr>
- <tr><td></td><td>8/1</td><td>Mike Sexton Original TOC-style<br>(sponsored by Chuck Humphrey &amp; Mike Sexton)</td><td>11:30am</td><td>$80+$15+$10</td><td></td></tr>
- <tr><td></td><td>8/1</td><td>Symposium</td><td>4:00pm</td><td>$10</td></tr>
- <tr><td></td><td>8/1</td><td>BARGE Board of Directors Meeting</td><td>6:00pm</td></tr>
- <tr><td></td><td>8/1</td><td>TOC-style restart</td><td>7:00pm</td><td></td><td></td></tr>
- <tr><td></td><td>8/1</td><td>2nd Chance: Limit Hold'Em</td><td>7:15pm</td><td>$55+$15</td><td></td></tr>
- <tr><td></td><td>8/1</td><td>High Roller HOSER<br>(sponsored by Bill Chen)</td><td>7:30pm</td><td>$260+$30+$10</td><td></td></tr>
+ <tr><td></td><td></td><td>High Roller HOSER Satellite #3</td><td>10:15am</td><td>$75+$15</td><td></td></tr>
+ <tr><td></td><td></td><td>Mike Sexton Original TOC-style<br>(sponsored by Chuck Humphrey &amp; Mike Sexton)</td><td>11:30am</td><td>$80+$15+$10</td><td></td></tr>
+ <tr><td></td><td></td><td>Symposium</td><td>4:00pm</td><td>$10</td></tr>
+ <tr><td></td><td></td><td>BARGE Board of Directors Meeting</td><td>6:00pm</td></tr>
+ <tr><td></td><td></td><td>TOC-style restart</td><td>7:00pm</td><td></td><td></td></tr>
+ <tr><td></td><td></td><td>2nd Chance: Limit Hold'Em</td><td>7:15pm</td><td>$55+$15</td><td></td></tr>
+ <tr><td></td><td></td><td>High Roller HOSER<br>(sponsored by Bill Chen)</td><td>7:30pm</td><td>$260+$30+$10</td><td></td></tr>
  <tr><td>Sat</td><td>8/2</td><td>No Limit Hold'Em<br>(sponsored by Dan Goldman)</td><td>10:30am</td><td>$100+$20+$10</td><td></td></tr>
- <tr><td></td><td>8/2</td><td>Significant Others' No Limit Hold'Em</td><td>11:00am</td><td>$20+$5</td><td>(5)</td></tr>
- <tr><td></td><td>8/2</td><td>Banquet (Speaker: Mickey Appleman)</td><td>6:00pm</td><td>$25</td><td>(6)</td></tr>
- <tr><td></td><td>8/2</td><td>No Limit Hold'Em Restart</td><td>8:30pm</td></tr>
- <tr><td></td><td>8/2</td><td>Expanded Cash Games Roster</td><td>8:30pm</td><td>(cash)</td><td></td></tr>
+ <tr><td></td><td></td><td>Significant Others' No Limit Hold'Em</td><td>11:00am</td><td>$20+$5</td><td>(5)</td></tr>
+ <tr><td></td><td></td><td>Banquet (Speaker: Mickey Appleman)</td><td>6:00pm</td><td>$25</td><td>(6)</td></tr>
+ <tr><td></td><td></td><td>No Limit Hold'Em Restart</td><td>8:30pm</td></tr>
+ <tr><td></td><td></td><td>Expanded Cash Games Roster</td><td>8:30pm</td><td>(cash)</td><td></td></tr>
  <tr><td>Sun</td><td>8/3</td><td>Dealers Tournament</td><td>10:00am</td></tr> 
 </table>
 
