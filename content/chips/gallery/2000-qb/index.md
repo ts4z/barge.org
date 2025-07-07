@@ -20,5 +20,5 @@ pin. When it became clear that there would be no BARGE 2000 chips coming from
 the 1999 NLHE Champ [John Harkness](https://www.imdb.com/name/nm2190393/), Ken
 bought some cheap plastic poker chips and applied stickers to make up this
 set. Some argue that this limited edition set is the &#8220;official&#8221;
-BARGE 2000 chip set, and [the BCC set](../2000-bcc) is the &#8220;make
+BARGE 2000 chip set, and [the BCC set](../2000-bcc/) is the &#8220;make
 up&#8221; set.

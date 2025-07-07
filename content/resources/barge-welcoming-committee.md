@@ -16,7 +16,7 @@ find them!
  
 Here are some articles written by members of the BARGE Welcoming Committee:
 
- * [What I Wish I'd Known](/blog/what-i-wish-id-known)
- * [How Not to Feel Like an Outsider](/blog/how-not-to-feel-like-an-outsider)
+ * [What I Wish I'd Known](/blog/what-i-wish-id-known/)
+ * [How Not to Feel Like an Outsider](/blog/how-not-to-feel-like-an-outsider/)
 
-More resources may be available at [this tag](/tags/welcome).
+More resources may be available at [this tag](/tags/welcome/).
