@@ -16,7 +16,7 @@ tags:
 The 2025 chip theme, chosen by 2024 Main Event winner Tim Showalter, is "Nuts".
 The reverse sides of the chips depict a variety of nuts, more or less. <!--more-->
 
-This is the second chipset with denominations.  The first was [2023](../2023).
+This is the second chipset with denominations.  The first was [2023](../2023/).
 BARGE chips have traditionally eschewed them.  They were included at Tim's
 belligerent, tiresome insistence.
 

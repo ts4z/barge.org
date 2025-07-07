@@ -66,10 +66,10 @@ to sell these yet.
 
 ## History
 
-Starting with [1993](gallery/1993), and through [1999](gallery/1999), chips
+Starting with [1993](gallery/1993/), and through [1999](gallery/1999/), chips
 were produced by the Main Event winner.  For the first few events, the chipset
 was presented at BARGE and designed by the previous year's winner, but starting
-with [1997](gallery/1997), the winner started designing their set for
+with [1997](gallery/1997/), the winner started designing their set for
 themselves.
 
 In 2000, the main event winner did not make the chips.  [Ken &#8220;QB&#8221;
