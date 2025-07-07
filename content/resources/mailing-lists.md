@@ -4,6 +4,7 @@ draft: false
 aliases:
  - /mailing-lists
  - /mailman/private/barge
+ - /contact
 tags:
  - lists
 weight: -10

@@ -6,5 +6,7 @@ tags:
  - embargo
  - 2014
 date: 2014-03-01
+aliases:
+ - /embargo2014info.shtml
 ---
 
