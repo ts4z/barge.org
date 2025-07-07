@@ -5,6 +5,7 @@ title: BARGE 2013 Results
 draft: false
 aliases:
  - /barge-2013
+ - /barge-2013-results
 tags:
  - barge
  - 2013
