@@ -4,4 +4,12 @@ This is like an alias, but it is a goto instead of a come-from.
 This allows a page in the wrong location to appear in a branch bundle.
 
 */}}
-{{- template "_internal/alias.html" (dict "Permalink" .Params.href) -}}
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>document moved</title>
+    <link rel="canonical" href="{{ .Params.href }}"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta http-equiv="refresh" content="0; url={{ .Params.href }}" />
+  </head>
+</html>
