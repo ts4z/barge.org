@@ -83,7 +83,9 @@ varied from very active to none at all.  Chip production stalled, partially due
 to the pandemic, after [2019](gallery/2019/).
 
 In 2025, the BCC was reformed.  Chips have been made for [2025](gallery/2025/),
-[2020](gallery/2020/), [2021](gallery/2021/), and [2023](gallery/2023/).  We will
-deliver these to BARGE, or ship them out just after.
+[2023](gallery/2023/),
+[2021](gallery/2021/), and
+[2020](gallery/2020/), 
+We will deliver these to BARGE, or ship them out just after.
 
 -----
