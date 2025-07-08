@@ -8,8 +8,9 @@ This allows a page in the wrong location to appear in a branch bundle.
 <html>
   <head>
     <title>document moved</title>
-    <link rel="canonical" href="{{ .Params.href }}"/>
-    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-    <meta http-equiv="refresh" content="0; url={{ .Params.href }}" />
+    <link rel="canonical" href="{{ .Params.href }}">
+    <meta name="robots" content="follow, noindex">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="refresh" content="0; url={{ .Params.href }}">
   </head>
 </html>
