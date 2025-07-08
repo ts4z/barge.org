@@ -86,6 +86,7 @@ In 2025, the BCC was reformed.  Chips have been made for [2025](gallery/2025/),
 [2023](gallery/2023/),
 [2021](gallery/2021/), and
 [2020](gallery/2020/), 
-We will deliver these to BARGE, or ship them out just after.
+We will deliver these to BARGE.  For anyone who paid for shipping, they went
+out the week of July 7.
 
 -----
