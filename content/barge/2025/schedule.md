@@ -143,6 +143,7 @@ Thursday depending on what the Orleans offers.
 ### BARGE Annual Dinner
 
 - Prime Rib Loft at the Orleans
+- Our guest speaker at this year's BARGE annual dinner will be Chris "Fox" Wallace, a professional poker player, author, and poker coach.  While primarily a cash game player, he also has over a million dollars in tournament earnings including winning the $10,000 buy-in HORSE World Championship at the World Series Of Poker for more than half a million dollars, and he has made day five and six in the WSOP Main Event.
 
 ### Whammy CAR
 
