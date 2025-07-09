@@ -19,11 +19,10 @@ BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casi
 
 **Tournament fees/buy-ins are tentative as they have yet to be confirmed.**
 
-This schedule is subject to change, and there are two different versions for
-Thursday depending on what the Orleans offers.
+This schedule is subject to change.
 
 |                     Date | Time    | Event                                                                                              | Entry                 |
-|-------------------------:|:--------|:---------------------------------------------------------------------------------------------------|:---------------------:|
+|-------------------------:|:--------|:---------------------------------------------------------------------------------------------------|:----------------------|
 |      Mon{{< br >}}Jul 28 | 4:00pm  | BOD Meeting via Zoom {{< br >}} link to be announced                                               |                       |
 |                          | 6:00pm  | [Mixed Big O Memorial Charity Tournament](#mixed-big-o-memorial-charity-tournament)                | $140 $60&nbsp;rebuys  |
 | Tue{{< br >}}Jul&nbsp;29 | 11:00am | [Abridged History of Poker](#abridged-history-of-poker)                                            | $100 w/re&#8209;entry |
@@ -32,16 +31,8 @@ Thursday depending on what the Orleans offers.
 |                          | 3:00pm  | [Bidirectional Chowaha High/Low](#bidirectional-chowaha-highlow) (second chance event)             | $100 w/re&#8209;entry |
 |                          | 8:00pm  | [Team CHORSE](#team-chorse)                                                                        | $440 +$?/team         |
 | Thu{{< br >}}Jul&nbsp;31 | 10:00am | [Blackjack](#blackjack)                                                                            | $50                   |
-|                          | ...     | ...                                                                                                | ...                   |
-|                          | (A)     | (Version A) Orleans runs three casino events ...                                                   | (A)                   |
-|                          | 11:30am | Video Poker                                                                                        | $50                   |
-|                          | 1:00am  | third ToGa event (TBD)                                                                             | $50                   |
-|                          | 2:30pm  | [Pot Limit Omaha](#pot-limit-omaha)                                                                | $140 w/re&#8209;entry |
-|                          | ...     | ...                                                                                                | ...                   |
-|                          | (B)     | (Version B) Orleans does not run three casino events ...                                           | (B)                   |
 |                          | 12:00pm | [Pot Limit Omaha](#pot-limit-omaha)                                                                | $140 w/re&#8209;entry |
 |                          | 4:00pm  | TBD (second chance event)                                                                          | $100 w/re&#8209;entry |
-|                          | ...     | ...                                                                                                | ...                   |
 |                          | 8:00pm  | [Mini Reindeer Games](#mini-reindeer-games)                                                        |                       |
 |                          | 11:59pm | (see below)                                                                                       |                       |
 |  Fri{{< br >}}Aug&nbsp;1 | 12:00am | [Midnight Madness No Limit Hold’em](#midnight-madness-no-limit-holdem) (second chance event)       | $100                  |
@@ -114,8 +105,7 @@ Thursday depending on what the Orleans offers.
 
 ### Blackjack
 
- - We will run a blackjack event in this time slot whether the Orleans can run a formal event or whether we run an informal event
-
+ - will be hosted informally
 
 ### Pot Limit Omaha
 
