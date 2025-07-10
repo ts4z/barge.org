@@ -14,7 +14,7 @@ cover:
 weight: -1
 summary: BARGE 2025 Schedule of Events
 ---
-BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casino in Las Vegas!
+BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casino in Las Vegas! <!--more-->
 [Register here.](https://barge.regfox.com/barge-2025)
 
 **Tournament fees/buy-ins are tentative as they have yet to be confirmed.**
@@ -52,7 +52,7 @@ This schedule is subject to change.
 
 ### Mixed Big O Memorial Charity Tournament
 
- - In memory of Bob Ogus, Tom Sims, and Rick Charles
+ - In memory of Bob Ogus, Tom Sims, Rick Charles, and John Grout
  - Played pot limit during the rebuy period and limit thereafter (all played 8 or better high/low split)
  - Unlimited $60 rebuys during first hour (must be below starting stack)
  - All players may add-on for $60 at first break
