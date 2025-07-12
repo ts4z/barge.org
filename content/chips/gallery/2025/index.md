@@ -12,6 +12,9 @@ tags:
  - ts4z
  - 2025-batch
 ---
+{{< figure src="trophy.jpg" link="trophy.jpg" class="floatright40"
+    alt="The 2025 trophy set."
+    caption="The 2025 trophy set.  Picture by Tim Showalter." >}}
 
 The 2025 chip theme, chosen by 2024 Main Event winner Tim Showalter, is "Nuts".
 The reverse sides of the chips depict a variety of nuts, more or less. <!--more-->
