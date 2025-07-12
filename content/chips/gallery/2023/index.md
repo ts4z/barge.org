@@ -11,6 +11,10 @@ tags:
  - chips
  - 2025-batch
 ---
+{{< figure src="ChipCaseForJessie.jpg"
+    link="ChipCaseForJessie.jpg"
+    class="floatright40" 
+    caption="The 2023 trophy set. Picture from Patrick Milligan" >}}
 
 Jessie Capps, 2022 Main Event winner, has had a fondness for Rubber Ducks for
 some time.  He often brings them to the tournament poker table.  It seems like
