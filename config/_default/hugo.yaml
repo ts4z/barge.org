@@ -45,8 +45,6 @@ params:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: https://barge.regfox.com/barge-2025
       text: "Register now for BARGE '25 @ the Orleans"
-    - link: https://orleanscasino.boyd.pegsbe.com/promo?accessCode=BPTG25C
-      text: "Book Hotel by 7/11 for BARGE @ Orleans"
     # - link: /embargo/
     #   text: EMBARGO 2025 is January 16-19 at Resorts World!
   selfHosted: true
