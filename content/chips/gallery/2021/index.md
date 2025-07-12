@@ -10,6 +10,10 @@ tags:
  - chips
  - 2025-Batch
 ---
+{{< figure src="ChipCaseForRuss.jpg"
+    link="ChipCaseForRuss.jpg"
+    class="floatright40" 
+    caption="The 2021 trophy set. Picture by Patrick Milligan." >}}
 
 Russ Fox was the first BARGEr to win the Main Event twice.  However,
 his second win was in 2020 when the event was held online.  Because of this,
