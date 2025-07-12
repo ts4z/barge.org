@@ -5,9 +5,11 @@ date: 2025-06-20
 cover:
   image: /logos/barge_2025_cover.png
 ---
+*The BARGE hotel rate is no longer available.*
 
+<!--more-->
 
-The BARGE hotel room link is ready for booking. <!--more--> Here is the link:
+The BARGE hotel room link is ready for booking.  Here is the link:
 
 https://orleanscasino.boyd.pegsbe.com/promo?accessCode=BPTG25C
 
