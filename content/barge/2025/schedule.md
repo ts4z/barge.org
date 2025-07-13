@@ -32,9 +32,9 @@ This schedule is subject to change.
 |                          | 8:00pm  | [Team CHORSE](#team-chorse)                                                                        | $440 +$?/team         |
 | Thu{{< br >}}Jul&nbsp;31 | 10:00am | [Blackjack](#blackjack)                                                                            | $50                   |
 |                          | 12:00pm | [Pot Limit Omaha](#pot-limit-omaha)                                                                | $140 w/re&#8209;entry |
-|                          | 4:00pm  | TBD (second chance event)                                                                          | $100 w/re&#8209;entry |
+|                          | 4:00pm  | [Limit Hold'Em](#limit-holdem) (second chance event)                                               | $100 w/re&#8209;entry |
 |                          | 8:00pm  | [Mini Reindeer Games](#mini-reindeer-games)                                                        |                       |
-|                          | 11:59pm | (see below)                                                                                       |                       |
+|                          | 11:59pm | (see below)                                                                                        |                       |
 |  Fri{{< br >}}Aug&nbsp;1 | 12:00am | [Midnight Madness No Limit Hold’em](#midnight-madness-no-limit-holdem) (second chance event)       | $100                  |
 |                          | 10:00am | [TOC-Style](#toc-style)                                                                            | $160                  |
 |                          | 6:00pm  | Dinner Break                                                                                       |                       |
@@ -111,6 +111,10 @@ This schedule is subject to change.
 
  - Players start with 10k and get 2 lammers worth 5k each
  - Next year:  Funbook Pot Limit Omaha!
+
+### Limit Hold'em
+
+ - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
 
 ### Mini Reindeer Games
 
