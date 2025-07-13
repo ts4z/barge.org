@@ -9,6 +9,7 @@ cover:
   image: logos/barge_2025_cover.png
 aliases:
  - /2025
+ - /barge/2025/hotel
 ---
 
 BARGE 2025 will be held at [The Orleans Hotel &
@@ -19,6 +20,6 @@ closes Tuesday, July 15 at 11:59PM PDT!
 
 [The schedule is now available here.](schedule/)
 
-[Hotel information is available here.](hotel/)
+The hotel block is now closed.
 
 Hope to see you there!
