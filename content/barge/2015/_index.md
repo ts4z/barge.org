@@ -11,6 +11,7 @@ cover:
 summary: This year's expanded BARGE was held at Binion's Casino.
 aliases:
  - /barge2015info.php
+ - /barge2015info
 ---
 
 This year's expanded BARGE was held at Binion's Casino.
