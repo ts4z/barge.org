@@ -42,7 +42,7 @@ params:
   # are supported, but try to limit yourself to one or two.  As with
   # nextEvents, these will wrap if they get too long.
   ctas:
-    # ..... 01234567890123456789012345678901234*6789* <-- 
+    # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     # - link: /embargo/
     #   text: EMBARGO 2025 is January 16-19 at Resorts World!
   selfHosted: true

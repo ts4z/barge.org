@@ -15,7 +15,6 @@ cover:
   image: cover.jpg
 ---
 Quick Links for BARGE: [2025]({{< relref "2025/" >}})
-&mdash; [2025 Registration](/register)
 &mdash; [2025 Schedule]({{< relref "2025/schedule/" >}})
 &mdash; [Results]({{< relref "results/" >}})
 
