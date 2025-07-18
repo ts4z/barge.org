@@ -26,8 +26,8 @@ BARGE 2025 hasn't happened yet.
 
 {{< tournament
     date="Tuesday, July 29"
-    event="Abridged History of Poker"
-    buyin="$100" >}}
+    event="TORSE"
+    buyin="$140" >}}
 
 |   |     |   |
 |--:|-----|--:|
@@ -35,8 +35,8 @@ BARGE 2025 hasn't happened yet.
 
 {{< tournament
     date="Tuesday, July 29"
-    event="TORSE"
-    buyin="$140" >}}
+    event="Abridged History of Poker"
+    buyin="$100" >}}
 
 |   |     |   |
 |--:|-----|--:|
