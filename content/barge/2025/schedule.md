@@ -26,7 +26,7 @@ This schedule is subject to change.
 |      Mon{{< br >}}Jul 28 | 4:00pm  | BOD Meeting via Zoom {{< br >}} link to be announced                                               |                       |
 |                          | 6:00pm  | [Mixed Big O Memorial Charity Tournament](#mixed-big-o-memorial-charity-tournament)                | $140 $60&nbsp;rebuys  |
 | Tue{{< br >}}Jul&nbsp;29 | 11:00am | [TORSE](#torse)                                                                                    | $140 w/re&#8209;entry |
-|                          | 5:00pm  | [Abridged History of Poker](#abridged-history-of-poker)                                            | $100 w/re&#8209;entry |
+|                          | 6:00pm  | [Abridged History of Poker](#abridged-history-of-poker)                                            | $100 w/re&#8209;entry |
 | Wed{{< br >}}Jul&nbsp;30 | 11:00am | [Champions Bounty No Limit Hold’em with 2-7 Game](#champions-bounty-no-limit-holdem-with-2-7-game) | $140 w/re&#8209;entry |
 |                          | 3:00pm  | [Bidirectional Chowaha High/Low](#bidirectional-chowaha-highlow) (second chance event)             | $100 w/re&#8209;entry |
 |                          | 8:00pm  | [Team CHORSE](#team-chorse)                                                                        | $440 +$?/team         |
