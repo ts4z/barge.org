@@ -25,8 +25,8 @@ This schedule is subject to change.
 |-------------------------:|:--------|:---------------------------------------------------------------------------------------------------|:----------------------|
 |      Mon{{< br >}}Jul 28 | 4:00pm  | BOD Meeting via Zoom {{< br >}} link to be announced                                               |                       |
 |                          | 6:00pm  | [Mixed Big O Memorial Charity Tournament](#mixed-big-o-memorial-charity-tournament)                | $140 $60&nbsp;rebuys  |
-| Tue{{< br >}}Jul&nbsp;29 | 11:00am | [Abridged History of Poker](#abridged-history-of-poker)                                            | $100 w/re&#8209;entry |
-|                          | 5:00pm  | [TORSE](#torse)                                                                                    | $140 w/re&#8209;entry |
+| Tue{{< br >}}Jul&nbsp;29 | 11:00am | [TORSE](#torse)                                                                                    | $140 w/re&#8209;entry |
+|                          | 5:00pm  | [Abridged History of Poker](#abridged-history-of-poker)                                            | $100 w/re&#8209;entry |
 | Wed{{< br >}}Jul&nbsp;30 | 11:00am | [Champions Bounty No Limit Hold’em with 2-7 Game](#champions-bounty-no-limit-holdem-with-2-7-game) | $140 w/re&#8209;entry |
 |                          | 3:00pm  | [Bidirectional Chowaha High/Low](#bidirectional-chowaha-highlow) (second chance event)             | $100 w/re&#8209;entry |
 |                          | 8:00pm  | [Team CHORSE](#team-chorse)                                                                        | $440 +$?/team         |
@@ -62,15 +62,15 @@ This schedule is subject to change.
    for Humanity, Dogs On Deployment, and World Central Kitchen
  - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
 
+### TORSE
+
+ - HORSE with 2-7 Triple Draw instead of Hold’em
+ - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
+
 ### Abridged History of Poker
 
  - Levels alternate between California Lowball and 5 Card Draw (guts to open)
  - Switch to No Limit Single Draw 2-7 at final table or predetermined point in structure
- - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
-
-### TORSE
-
- - HORSE with 2-7 Triple Draw instead of Hold’em
  - *featuring table shuffle reseating (seating at each table is redrawn at each break; button is awarded to player who last paid the big blind)*
 
 ### Champions Bounty No Limit Hold'em With 2-7 Game
