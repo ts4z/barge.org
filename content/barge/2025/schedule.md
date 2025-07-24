@@ -21,32 +21,32 @@ BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casi
 
 This schedule is subject to change.
 
-|                     Date | Time    | Event                                                                                              | Entry                 |
-|-------------------------:|:--------|:---------------------------------------------------------------------------------------------------|:----------------------|
-|      Mon{{< br >}}Jul 28 | 4:00pm  | BOD Meeting via Zoom {{< br >}} link to be announced                                               |                       |
-|                          | 6:00pm  | [Mixed Big O Memorial Charity Tournament](#mixed-big-o-memorial-charity-tournament)                | $140 $60&nbsp;rebuys  |
-| Tue{{< br >}}Jul&nbsp;29 | 11:00am | [TORSE](#torse)                                                                                    | $140 w/re&#8209;entry |
-|                          | 6:00pm  | [Abridged History of Poker](#abridged-history-of-poker)                                            | $100 w/re&#8209;entry |
-| Wed{{< br >}}Jul&nbsp;30 | 11:00am | [Champions Bounty No Limit Hold’em with 2-7 Game](#champions-bounty-no-limit-holdem-with-2-7-game) | $140 w/re&#8209;entry |
-|                          | 3:00pm  | [Bidirectional Chowaha High/Low](#bidirectional-chowaha-highlow) (second chance event)             | $100 w/re&#8209;entry |
-|                          | 8:00pm  | [Team CHORSE](#team-chorse)                                                                        | $440 +$?/team         |
-| Thu{{< br >}}Jul&nbsp;31 | 10:00am | [Blackjack](#blackjack)                                                                            | $50                   |
-|                          | 12:00pm | [Pot Limit Omaha](#pot-limit-omaha)                                                                | $140 w/re&#8209;entry |
-|                          | 4:00pm  | [Limit Hold'Em](#limit-holdem) (second chance event)                                               | $100 w/re&#8209;entry |
-|                          | 8:00pm  | [Mini Reindeer Games](#mini-reindeer-games)                                                        |                       |
-|                          | 11:59pm | (see below)                                                                                        |                       |
-|  Fri{{< br >}}Aug&nbsp;1 | 12:00am | [Midnight Madness No Limit Hold’em](#midnight-madness-no-limit-holdem) (second chance event)       | $100                  |
-|                          | 10:00am | [TOC-Style](#toc-style)                                                                            | $160                  |
-|                          | 6:00pm  | Dinner Break                                                                                       |                       |
-|                          | 6:00pm  | [BARGE Annual Dinner](#barge-annual-dinner)                                                        |                       |
-|                          | 8:00pm  | TOC-Style restart                                                                                  |                       |
-|                          | 8:15pm  | [Whammy CAR](#whammy-car) (second chance event)                                                    |                       |
-|  Sat{{< br >}}Aug&nbsp;2 | 10:30am | No Limit Holdem Main Event                                                                         | $180                  |
-|                          | 11:00am | Significant Others’ Mixed Hold’em                                                                  | $40                   |
-|                          | 12:00p  | Group Picture                                                                                      |                       |
-|                          | 5:30pm  | Dinner Break                                                                                       |                       |
-|                          | 7:30pm  | No Limit Holdem Restart                                                                            |                       |
-|                          | 8:00pm  | [Expanded Cash Games (Reindeer Games)](#reindeer-games)                                            |                       |
+|                     Date | Time    | Event                                                                                              | Entry                     |
+|-------------------------:|:--------|:---------------------------------------------------------------------------------------------------|:--------------------------|
+|      Mon{{< br >}}Jul 28 | 4:00pm  | BOD Meeting via Zoom {{< br >}} link to be announced                                               |                           |
+|                          | 6:00pm  | [Mixed Big O Memorial Charity Tournament](#mixed-big-o-memorial-charity-tournament)                | $115+$25 $60&nbsp;rebuys  |
+| Tue{{< br >}}Jul&nbsp;29 | 11:00am | [TORSE](#torse)                                                                                    | $115+$25 w/re&#8209;entry |
+|                          | 6:00pm  | [Abridged History of Poker](#abridged-history-of-poker)                                            | $80+$20 w/re&#8209;entry  |
+| Wed{{< br >}}Jul&nbsp;30 | 11:00am | [Champions Bounty No Limit Hold’em with 2-7 Game](#champions-bounty-no-limit-holdem-with-2-7-game) | $115+$25 w/re&#8209;entry |
+|                          | 3:00pm  | [Bidirectional Chowaha High/Low](#bidirectional-chowaha-highlow) (second chance event)             | $80+$20 w/re&#8209;entry  |
+|                          | 8:00pm  | [Team CHORSE](#team-chorse)                                                                        | $440 +$40/team            |
+| Thu{{< br >}}Jul&nbsp;31 | 10:00am | [Blackjack](#blackjack)                                                                            | $50                       |
+|                          | 12:00pm | [Pot Limit Omaha](#pot-limit-omaha)                                                                | $115+$25 w/re&#8209;entry |
+|                          | 4:00pm  | [Limit Hold'Em](#limit-holdem) (second chance event)                                               | $80+$20 w/re&#8209;entry  |
+|                          | 8:00pm  | [Mini Reindeer Games](#mini-reindeer-games)                                                        |                           |
+|                          | 11:59pm | (see below)                                                                                        |                           |
+|  Fri{{< br >}}Aug&nbsp;1 | 12:00am | [Midnight Madness No Limit Hold’em](#midnight-madness-no-limit-holdem) (second chance event)       | $100+$15                  |
+|                          | 10:00am | [TOC-Style](#toc-style)                                                                            | $135+$25                  |
+|                          | 6:00pm  | Dinner Break                                                                                       |                           |
+|                          | 6:00pm  | [BARGE Annual Dinner](#barge-annual-dinner)                                                        |                           |
+|                          | 8:00pm  | TOC-Style restart                                                                                  |                           |
+|                          | 8:15pm  | [Whammy CAR](#whammy-car) (second chance event)                                                    |                           |
+|  Sat{{< br >}}Aug&nbsp;2 | 10:30am | No Limit Holdem Main Event                                                                         | $150+$30                  |
+|                          | 11:00am | Significant Others’ Mixed Hold’em                                                                  | $40                       |
+|                          | 12:00p  | Group Picture                                                                                      |                           |
+|                          | 5:30pm  | Dinner Break                                                                                       |                           |
+|                          | 7:30pm  | No Limit Holdem Restart                                                                            |                           |
+|                          | 8:00pm  | [Expanded Cash Games (Reindeer Games)](#reindeer-games)                                            |                           |
 
 ## Explanations
 
