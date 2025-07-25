@@ -8,7 +8,7 @@ tags:
  - tripreport
  - barge
  - 1999
-summary: 
+summary: The story of my fourth BARGE.
 ---
 The story of my fourth BARGE.
 
