@@ -1,6 +1,6 @@
 ---
 title: QB's 2014 BARGE Trip Report
-date: 2015-08-04
+date: 2014-08-08
 author: Ken Kubey
 draft: false
 tags:
