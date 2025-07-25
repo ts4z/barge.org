@@ -140,7 +140,7 @@ This schedule is subject to change.
 ### Whammy CAR
 
  - Limit, three game mix of Courchevel high (modified), Action Razz, Rio Bravo
-   - [Courchevel](/rulebook/courchevel.html) – modified so that players are dealt three cards preflop and a flop window card is dealt; players receive their fourth card after the river; must use two from hand and three from board
+   - [Courchevel](/rulebook/courchevel.html) – modified so that players are dealt four cards preflop and a flop window card is dealt; players receive their fifth card after the river; must use two from hand and three from board
    - [Action Razz](/rulebook/action-razz.html) – standard rules
    - [Rio Bravo](/rulebook/rio-bravo.html) – hold’em with a third down card dealt after the river
  - 5 betting rounds in each game
