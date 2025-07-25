@@ -39,11 +39,11 @@ This schedule is subject to change.
 |                          | 6:00pm  | [BARGE Annual Dinner](#barge-annual-dinner)                                                        |                           |
 |                          | 8:00pm  | TOC-Style restart                                                                                  |                           |
 |                          | 8:15pm  | [Whammy CAR](#whammy-car) (second chance event)                                                    |                           |
-|  Sat{{< br >}}Aug&nbsp;2 | 10:30am | No Limit Holdem Main Event                                                                         | $150+$30                  |
+|  Sat{{< br >}}Aug&nbsp;2 | 10:30am | No Limit Holdem Main Event                                                                         | $145+$35                  |
 |                          | 11:00am | Significant Others’ Mixed Hold’em                                                                  | $40                       |
 |                          | 12:00p  | Group Picture                                                                                      |                           |
 |                          | 5:30pm  | Dinner Break                                                                                       |                           |
-|                          | 7:30pm  | No Limit Holdem Restart                                                                            |                           |
+|                          | 6:45pm  | No Limit Holdem Restart                                                                            |                           |
 |                          | 8:00pm  | [Expanded Cash Games (Reindeer Games)](#reindeer-games)                                            |                           |
 
 ## Explanations
