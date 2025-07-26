@@ -17,7 +17,7 @@ Casino](https://orleans.boydgaming.com/) from July 28 through August 2.
 
 [The schedule is now available here.](schedule/)
 
-[Structures are available here.](2025_BARGE_Structures.pdf)
+[Structures are available here.](https://omaholic.com/2025_BARGE_Structures.pdf)
 
 Online registration for BARGE 2025 is now closed. You can register on-site---ask for a BARGE organizer when you arrive at the Orleans poker room.
 
