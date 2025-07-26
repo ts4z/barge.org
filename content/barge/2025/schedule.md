@@ -18,7 +18,7 @@ BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casi
 
 This schedule is subject to change.
 
-[Structures are available here.](../2025_BARGE_Structures.pdf)
+[Structures are available here.](https://omaholic.com/2025_BARGE_Structures.pdf)
 
 |                     Date | Time    | Event                                                                                              | Entry                     |
 |-------------------------:|:--------|:---------------------------------------------------------------------------------------------------|:--------------------------|
@@ -39,7 +39,7 @@ This schedule is subject to change.
 |                          | 6:00pm  | Dinner Break                                                                                       |                           |
 |                          | 6:00pm  | [BARGE Annual Dinner](#barge-annual-dinner)                                                        |                           |
 |                          | 8:00pm  | TOC-Style restart                                                                                  |                           |
-|                          | 8:15pm  | [Whammy CAR](#whammy-car) (second chance event)                                                    |                           |
+|                          | 8:15pm  | [Whammy CAR](#whammy-car) (second chance event)                                                    | $80+$20                          |
 |  Sat{{< br >}}Aug&nbsp;2 | 10:30am | No Limit Holdem Main Event                                                                         | $145+$35                  |
 |                          | 11:00am | Significant Others’ Mixed Hold’em                                                                  | $40                       |
 |                          | 12:00p  | Group Picture                                                                                      |                           |
