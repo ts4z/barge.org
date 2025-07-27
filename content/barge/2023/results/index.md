@@ -63,6 +63,141 @@ prize-pool="$3,280" >}}
 | 7 | David Kluchman                | $235   |
 | 8 | Jesse Capps                   | $140   |
 
+
+## ToGa Events
+
+{{< tournament
+    event="Blackjack Tournament"
+    level=3
+    entries=15
+    prize-pool=$900 >}}
+
+|   |                                                         |      |
+|:--|:--------------------------------------------------------|------|
+| 1 | Bill Chen (h/t final table proxy Patti "Patti" Beadles) | $330 |
+| 2 | Michael "mickdog" Patterson                             | $250 |
+| 3 | Rick "Rick" Halvorsen                                   | $170 |
+| 4 | Steve "Ice" Eisenstein                                  | $90  |
+| 5 | Rich "Omaholic" Bremer                                  | $60  |
+
+{{< tournament
+    event="Video Poker Tournament"
+    level=3
+    entries=16
+    prize-pool=$320 >}}
+
+|   |                        |      |
+|:--|:-----------------------|------|
+| 1 | Patti "Patti" Beadles  | $160 |
+| 2 | Steve "Ice" Eisenstein | $80  |
+| 2 | Rich "Omaholic" Bremer | $80  |
+
+{{< tournament
+    event="Slot Tournament"
+    level=3
+    entries=12
+    prize-pool=$600 >}}
+
+|   |                                |      |
+|:--|:-------------------------------|------|
+| 1 | Kyle "Super-I-40 Sucks" Minnis | $300 |
+| 2 | Doug "Snoop" Grismore          | $180 |
+| 3 | Sabyl "kaismom" Landrum        | $120 |
+
+{{< tournament
+    event="Triathlon of Gambling"
+    level=3
+    entries=12
+    prize-pool=$300 >}}
+
+|   |                             |      |
+|:--|:----------------------------|------|
+| 1 | Rick "Rick" Halvorsen       | $150 |
+| 2 | Michael "mickdog" Patterson | $90  |
+| 3 | Rich "Omaholic" Bremer      | $60  |
+
+
+{{< tournament
+    event="Full Results and ToGa Point Awards"
+    level=3 >}}
+    
+#### Blackjack Tournament
+
+|                                                         |                  |         |
+|:--------------------------------------------------------|:-----------------|---------|
+| Bill Chen (h/t final table proxy Patti "Patti" Beadles) | final table 5400 | N/A     |
+| Michael "mickdog" Patterson                             | final table 5000 | 16 pts  |
+| Rick "Rick" Halvorsen                                   | final table 3800 | 13 pts  |
+| Steve "Ice" Eisenstein                                  | final table 3400 | 10 pts  |
+| Rich "Omaholic" Bremer                                  | final table 200  | 8 pts   |
+| David "Heldar" Heller                                   | first round 2700 | N/A     |
+| Christin "NICE & SUNNY" Maschmann                       | busted hand 25   | N/A     |
+| Ron "8-2 Ron" Lyons                                     | busted hand 23   | 7 pts   |
+| Patti "Patti" Beadles                                   | busted hand 21   | 5.5 pts |
+| Scott "Bwana" Byron                                     | busted hand 21   | 5.5 pts |
+| Kyle "Super-I-40 Sucks" Minnis                          | busted hand 20   | 4 pts   |
+| Sabyl "kaismom" Landrum                                 | busted hand 19   | 3 pts   |
+| Doug "Snoop" Grismore                                   | busted hand 13   | 2 pts   |
+| Christian "Dr.Doofenshmirtz" Jones                      | busted hand 9    | 1 pt    |
+| James Hammer                                            | busted hand 4    | 0 pts   |
+
+#### Video Poker Tournament
+
+|||
+|:-|:-|
+|Patti "Patti" Beadles  | +365 | 16 pts |
+|Steve "Ice" Eisenstein  | +70 | 11.5 pts |
+|Rich "Omaholic" Bremer  | +70 | 11.5 pts |
+|Christin "NICE & SUNNY" Maschmann  | 0 | N/A |
+|David "Heldar" Heller  | -10 | N/A |
+|Chuck "Enabler" Weinstock  | -85 | N/A |
+|Michael "mickdog" Patterson  | -105 | 8 pts |
+|Rick "Rick" Halvorsen  | -115 | 7 pts |
+|Scott "Bwana" Byron  | -140 | 6 pts |
+|Christian "Dr.Doofenshmirtz" Jones  | -150 | 4.5 pts |
+|Kyle "Super-I-40 Sucks" Minnis  | -150 | 4.5 pts |
+|Doug "Snoop" Grismore  | -160 | 3 pts |
+|Bruce "ADB Bigboy" Kramer  | -160 | N/A |
+|Sabyl "kaismom" Landrum  | -170 | 2 pts |
+|Ron "8-2 Ron" Lyons  | -195 | 1 pt |
+|James Hammer  | -205 | 0 pts |
+
+#### Slot Tournament
+
+|||
+|:-|:-|
+|Kyle "Super-I-40 Sucks" Minnis  | +5600 | 16 pts  |
+|Doug "Snoop" Grismore  | +4535 | 13 pts |
+|Sabyl "kaismom" Landrum  | +4390 | 10 pts |
+|Rick "Rick" Halvorsen  | +2940 | 8 pts |
+|Scott "Bwana" Byron  | +935 | 7 pts |
+|Christin "NICE & SUNNY" Maschmann  | +930 | N/A |
+|Rich "Omaholic" Bremer  | +615 | 6 pts |
+|Christian "Dr.Doofenshmirtz" Jones  | +220 | 5 pts |
+|James Hammer  | -615 | 4 pts |
+|Michael "mickdog" Patterson  | -1220 | 3 pts |
+|Steve "Ice" Eisenstein  | -1725 | 2 pt |
+|Patti "Patti" Beadles  | -2970 | 1 pts |
+|Ron "8-2 Ron" Lyons  | DNF | 0 pts |
+
+#### ToGa Point Totals
+
+|                                    |          |
+|:-----------------------------------|:---------|
+| Rick "Rick" Halvorsen              | 28 pts   |
+| Michael "mickdog" Patterson        | 27 pts   |
+| Rich "Omaholic" Bremer             | 25.5 pts |
+| Kyle "Super-I-40 Sucks" Minnis     | 24.5 pts |
+| Steve "Ice" Eisenstein             | 23.5 pts |
+| Patti "Patti" Beadles              | 22.5 pts |
+| Scott "Bwana" Byron                | 18.5 pts |
+| Doug "Snoop" Grismore              | 18 pts   |
+| Sabyl "kaismom" Landrum            | 15 pts   |
+| Christian "Dr.Doofenshmirtz" Jones | 10.5 pts |
+| Ron "8-2 Ron" Lyons                | 8 pts    |
+| James Hammer                       | 4 pts    |
+
+
 {{< tournament
     event="No Limit Holdem - Go The Distance Bounty"
     entries=58
