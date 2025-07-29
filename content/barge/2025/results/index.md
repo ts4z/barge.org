@@ -18,7 +18,10 @@ BARGE 2025 hasn't happened yet.
     date="Monday, July 28"
     event="Mixed Big O Memorial Charity Tournament" 
     buyin="$140" 
+    entries=25
     rebuys="$60" >}}
+
+We raised $3600 to be split evenly between Habitat for Humanity and World Central Kitchen!
 
 |   |                                 |      |
 |--:|---------------------------------|-----:|
