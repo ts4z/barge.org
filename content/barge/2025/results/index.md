@@ -20,9 +20,13 @@ BARGE 2025 hasn't happened yet.
     buyin="$140" 
     rebuys="$60" >}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|   |                                 |      |
+|--:|---------------------------------|-----:|
+| 1 | Doug “Snoop” Grismore           | $924 |
+| 2 | Russell “Messenger of Doom” Fox | $800 |
+| 3 | Stephen “Crunch” Daniel         | $489 |
+| 4 | Dan “ADB smalltalk” Goldman     | $374 |
+| 5 | Sam “BelugaSam” Scheinberg      | $288 |
 
 {{< tournament
     date="Tuesday, July 29"
