@@ -48,6 +48,9 @@ have presented events.  Note that there is a subtle difference between
 {{- if .Get "buyin" }}
   {{- .Get "buyin" }} buyin <br>
 {{- end }}
+{{- if .Get "rebuys" }}
+  {{- .Get "rebuys" }} rebuys <br>
+{{- end }}
 {{- if .Get "entries" }}
   {{- .Get "entries" }} entries <br>
 {{- else if .Get "players" }}
@@ -56,9 +59,6 @@ have presented events.  Note that there is a subtle difference between
   {{- .Get "entrants" }} entrants <br>
 {{- else if .Get "teams" }}
   {{- .Get "teams" }} teams <br>
-{{- end }}
-{{- if .Get "rebuys" }}
-  {{- .Get "rebuys" }} rebuys <br>
 {{- end }}
 {{- if .Get "after-entries" }}
   {{-  .Get "after-entries" | safeHTML }} <br>
