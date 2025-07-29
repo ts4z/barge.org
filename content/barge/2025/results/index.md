@@ -1,6 +1,6 @@
 ---
 summary: Complete results for 2025
-date: 2025-07-16
+date: 2025-07-28
 title: BARGE 2025 Results
 aliases:
  - /barge-2025
