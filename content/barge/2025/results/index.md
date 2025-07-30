@@ -35,7 +35,7 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     date="Tuesday, July 29"
     event="TORSE"
     buyin="$140"
-    prize-pool=4600 
+    prize-pool="$4,600"
     entries=40 >}}
     
 |   |                         |        |
@@ -50,11 +50,18 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Tuesday, July 29"
     event="Abridged History of Poker"
-    buyin="$100" >}}
+    buyin="$100" 
+    entries=40
+    prize-pool="$3,200" >}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|   |                                   |      |
+|--:|-----------------------------------|-----:|
+| 1 | Rich “Rich” Strauss               | $848 |
+| 2 | Tonya “Desert Angel” Baltazar     | $848 |
+| 3 | Guy “Grizz” Berentsen             | $544 |
+| 4 | Tom “CHAOS” Bessoir               | $416 |
+| 5 | Lee “bowtie” Crocker              | $320 |
+| 6 | Patrick “Chequered Past” Milligan | $224 |
 
 {{< tournament
     date="Wednesday, July 30"
