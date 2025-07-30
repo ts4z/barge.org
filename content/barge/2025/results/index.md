@@ -34,11 +34,18 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Tuesday, July 29"
     event="TORSE"
-    buyin="$140" >}}
-
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+    buyin="$140"
+    prize-pool=4600 
+    entries=40 >}}
+    
+|   |                         |        |
+|--:|-------------------------|-------:|
+| 1 | Rich “Omaholic” Bremer  | $1,426 |
+| 2 | Scott “Bwana” Byron     | $1,012 |
+| 3 | Stephen “Crunch” Daniel |   $782 |
+| 4 | David “dave” Low        |   $598 |
+| 5 | Ruth “Ruthie” Primiano  |   $460 |
+| 6 | Chris “PokerCQ” Quan    |   $322 |
 
 {{< tournament
     date="Tuesday, July 29"
