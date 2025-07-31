@@ -32,7 +32,7 @@ In order to participate in BARGE: you must register via the Internet.
 
 ### Registration
 
-Online registration for BARGE 2025 is now closed. You can register on-site -
+Online registration for BARGE 2025 is now closed. You can register on-site &mdash;
 ask for a BARGE organizer when you arrive at the Orleans poker room.
         
 ### Who is Eligible to Register for BARGE?
