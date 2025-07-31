@@ -16,7 +16,8 @@ cover:
 ---
 Quick Links for BARGE: [2025]({{< relref "2025/" >}})
 &mdash; [2025 Schedule]({{< relref "2025/schedule/" >}})
-&mdash; [Results]({{< relref "results/" >}})
+&mdash; [2025 Results]({{< relref "2025/results/" >}})
+&mdash; [other Results]({{< relref "results/" >}})
 
 BARGE is the **Big Annual Rec.Gambling Excursion** (to Las Vegas). This is our
 annual venture out of cyberspace into the Real World in which we get together
@@ -31,7 +32,8 @@ In order to participate in BARGE: you must register via the Internet.
 
 ### Registration
 
-[Registration for BARGE 2025 is now open!](/register) 
+Online registration for BARGE 2025 is now closed. You can register on-site -
+ask for a BARGE organizer when you arrive at the Orleans poker room.
         
 ### Who is Eligible to Register for BARGE?
               
