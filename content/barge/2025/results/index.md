@@ -13,7 +13,7 @@ cover:
  image: logos/barge_2025_cover.png
 ---
 
-BARGE 2025 hasn't happened yet.
+BARGE 2025 is happening now!
 
 {{< tournament
     date="Monday, July 28"
@@ -111,11 +111,25 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Wednesday, July 30"
     event="Team CHORSE"
-    buyin="$440+??" >}}
+    buyin="$440" 
+    entries=6 
+    prize-pool="$2400">}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|   |   |                                       |      |
+|--:|--:|---------------------------------------|------|
+| 1 |   | Black Widow                           | $870 |
+|   |   | plus $40 first place prize per player |      |
+|   | C | Jared “Mr3putt” Anderson              |      |
+|   | H | Mark “Bluffing Viking” Haroldson      |      |
+|   | O | Brian “Half-Giant” Fazio              |      |
+|   | R | Carol “CKBWoP” Anderson               |      |
+|   | S | Sean “So Cal Sean” Morrow             |      |
+|   | E | Lee “bow tie” Crocker                 |      |
+| 2 |   | Arrogant Bastards                     | $582 |
+| 3 |   | Team Donk                             | $480 |
+| 4 |   | Autism Registry                       | $240 |
+| 5 |   | Humble Sweethearts                    | $228 |
+| 6 |   | Team Lawless                          | $0   |
 
 {{< tournament
     date="Thursday, July 31"
