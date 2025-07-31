@@ -4,6 +4,7 @@ date: 2025-07-28
 title: BARGE 2025 Results
 aliases:
  - /barge-2025
+ - /2025/results
 tags:
  - barge
  - 2025
@@ -66,20 +67,46 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Wednesday, July 30"
     event="Champions Bounty No Limit Hold’em with 2-7 Game"
-    buyin="$140" >}}
+    buyin="$140" 
+    entries=57
+    prize-pool="$5,359"
+    bonus="plus $1,196 bounties" >}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|    |                                 |        |
+|---:|---------------------------------|-------:|
+|  1 | Richard “Rich” Jaglarski        | $1,288 |
+|  2 | Andy “Buffalo” Bartalone        |   $857 |
+|  3 | Kenny “QB” Kubey                |   $643 |
+|  4 | David “dave” Low                |   $482 |
+|  5 | Christopher “Luckbucket” Kuntz  |   $375 |
+|  6 | Scott “scottro” Harker          |   $268 |
+|  7 | Andrew “Andrew” Chao            |   $214 |
+|  8 | Mike “Omahafool” Fujita         |   $161 |
+|  9 | Peter “ADBfoldem” Secor         |   $134 |
+| 10 | Dan “dann” Nussbaum             |   $134 |
+| 11 | Paul “prmcm/framistat” McMullin |   $121 |
+| 12 | Barry Mr. Raise Kornspan        |   $121 |
+| 13 | Guy “Grizz” Berentsen           |   $107 |
+| 14 | Carol “CKBWoP” Anderson         |   $107 |
+| 15 | Marcus “???” Hiltz              |   $107 |
+| 16 | Ryan “LMGTFY” Troll             |    $80 |
+| 17 | Dan “ADB smalltalk” Goldman     |    $80 |
+| 18 | David “Meeee” Aronson           |    $80 |
 
 {{< tournament
     date="Wednesday, July 30"
     event="Bidirectional Chowaha High/Low"
-    buyin="$140" >}}
+    buyin="$140" 
+    entries=24
+    prize-pool="$1,920" >}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|   |                                    |      |
+|--:|------------------------------------|-----:|
+| 1 | Christian “Dr.Doofenshmirtz” Jones | $525 |
+| 2 | Ron “Playing 4 George” Grossberg   | $290 |
+| 3 | Brian “Half-Giant Fazio”           | $525 |
+| 4 | Chris “PokerCQ” Quan               | $290 |
+| 5 | Sabyl “Not a Contender Landrum”    | $290 |
 
 {{< tournament
     date="Wednesday, July 30"
