@@ -77,7 +77,6 @@ prizepool="$7,035" >}}
 |--:|------------------------------------|------|
 | 1 | Kyle &ldquo;Super-ev&rdquo; Minnis | $320 |
 | 2 | Rich &ldquo;Omaholic&rdquo; Bremer | $180 |
-|   |                                    |      |
 
 {{< tournament
     event="CHORSE"
