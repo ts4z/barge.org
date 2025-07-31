@@ -134,11 +134,16 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Thursday, July 31"
     event="Blackjack"
-    buyin="$50" >}}
+    buyin="$50"
+    players=11
+    prize-pool="$550" >}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|   |                        |      |
+|--:|------------------------|-----:|
+| 1 | Rich “Omaholic” Bremer | $300 |
+| 2 | Nolan Hee              | $100 |
+| 2 | David “Heldar” Heller  | $100 |
+| 4 | Kyle “Super-ev” Minnis |  $50 |
 
 {{< tournament
     date="Thursday, July 31"
