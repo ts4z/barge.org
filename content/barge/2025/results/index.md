@@ -148,20 +148,36 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Thursday, July 31"
     event="Pot Limit Omaha"
-    buyin="$50" >}}
+    buyin="$50"
+    entries=53
+    prize-pool="$6,095" >}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|   |                                 |        |
+|--:|---------------------------------|-------:|
+| 1 | Carol “CKBWoP” Anderson         | $1,401 |
+| 2 | Chris “PokerCQ” Quan            | $1,250 |
+| 3 | Lawrence “AZAlphaPoker” Bierman | $1,250 |
+| 4 | John “ADB Frosty” Scheinberg    |   $772 |
+| 5 | Nolan Hee                       |   $590 |
+| 6 | Ryan “LMGTFY” Troll             |   $407 |
+| 7 | Mark Seif                       |   $285 |
+| 8 | Sabyl “Not a Contender” Landrum |   $140 |
 
 {{< tournament
     date="Thursday, July 31"
     event="Limit Hold'em"
-    buyin="$50" >}}
+    buyin="$50"
+    entries=33
+    prize-pool="$2,640" >}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|   |                                |      |
+|--:|--------------------------------|-----:|
+| 1 | Peter “Taki” Caldes            | $830 |
+| 2 | Tanya “MissT74” Peck-Devenport | $714 |
+| 3 | Bex “Redbird77” Kerl           | $429 |
+| 4 | Barry “Mr. Raise” Kornspan     | $323 |
+| 5 | Don “ADBBingo” Rieck           | $244 |
+| 6 | Rich “Omaholic” Bremer         | $100 |
 
 {{< tournament
     date="Friday, August 1"
