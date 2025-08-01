@@ -182,11 +182,17 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Friday, August 1"
     event="Midnight Madness No Limit Hold'em"
-    buyin="$50" >}}
+    buyin="$115"
+    entries=15
+    prize-pool="$1,500" >}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|   |                                 |      |
+|--:|---------------------------------|-----:|
+| 1 | Scott “samarai” Samarel         | $675 |
+| 2 | Michael “Michael” Senteno       | $274 |
+| 3 | Lawrence “AZAlphaPoker” Bierman | $211 |
+| 4 | Caryl “Mrstcao” Aronson         | $180 |
+| 5 | Jeff “Hoss” Kania               | $160 |
 
 {{< tournament
     date="Friday, August 1"
