@@ -221,11 +221,18 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Friday, August 1"
     event="Whammy CAR"
-    buyin="$160" >}}
+    buyin="$100"
+    entries=43
+    prize-pool="$3,440" >}}
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
+|   |                                  |      |
+|--:|----------------------------------|-----:|
+| 1 | Rich “Omaholic” Bremer           | $962 |
+| 2 | Russell “Messenger of Doom” Fox  | $861 |
+| 3 | Chris “Fox” Wallace              | $585 |
+| 4 | Brian "Half-Giant" Fazio         | $447 |
+| 5 | Ron “Playing 4 George” Grossberg | $344 |
+| 6 | Bex “Redbird77” Kerl             | $241 |
 
 {{< tournament
     date="Saturday, August 2"
