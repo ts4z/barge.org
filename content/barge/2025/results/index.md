@@ -237,7 +237,7 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Saturday, August 2"
     event="No Limit Hold'em Main Event"
-    buyin="$160" >}}
+    buyin="$180" >}}
 
 |   |     |   |
 |--:|-----|--:|
@@ -246,7 +246,7 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Saturday, August 2"
     event="Significant Others' Mixed Hold'em"
-    buyin="$160" >}}
+    buyin="$40" >}}
 
 |   |     |   |
 |--:|-----|--:|
