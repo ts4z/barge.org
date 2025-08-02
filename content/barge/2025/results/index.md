@@ -197,10 +197,25 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Friday, August 1"
     event="TOC-Style"
-    buyin="$160" >}}
+    buyin="$160" 
+    entries=86
+    prize-pool="$11,610" >}}
 
-|   |     |   |
-|--:|-----|--:|
+|    |                             |        |
+|---:|-----------------------------|-------:|
+|  1 | Steve “stevew” Watanabe     | $2,903 |
+|  2 | Andy “Buffalo” Bartalone    | $2,090 |
+|  3 | Rick “Rick M” Mombourquette | $1,509 |
+|  4 | Scott “samarai” Samarel     | $1,161 |
+|  5 | Nolan Hee                   |   $929 |
+|  6 | Deron “ADB Neon” Brod       |   $697 |
+|  7 | Cliff “deadhead” Matthews   |   $581 |
+|  8 | Sandra “shebeast” Terauds   |   $464 |
+|  9 | Jared “Mr3putt” Anderson    |   $348 |
+| 10 | Guy “Grizz” Berentsen       |   $348 |
+| 11 | Len “Len G” Greenberg       |   $290 |
+| 12 | Randal “Randal” Hennemuth   |   $290 |
+
 |   | TBD |   |
 
 {{< tournament
