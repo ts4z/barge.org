@@ -237,18 +237,39 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Saturday, August 2"
     event="No Limit Hold'em Main Event"
-    buyin="$180" >}}
+    buyin="$180"
+    entries=101
+    prize-pool="$15,150" >}}
+
+|---:|-----------------------------|-------:|
+|    | TBD                         |        |
+|  1 | Gillian “tegwin” Groves     | $3,634 |
+|  2 | Robert “Robert” Stein       | $2,476 |
+|  3 | Dan “dann” Nussbaum         | $1,818 |
+|  4 | Josh Bierman                | $1,364 |
+|  5 | Lennie “cornpone” Augustine | $1,061 |
+|  6 | Kristen Deardorff           |   $909 |
+|  7 | Mike “Omahafool” Fujita     |   $606 |
+|  8 | Dan “ADB smalltalk” Goldman |   $455 |
+|  9 | Andy “Buffalo” Bartalone    |   $455 |
+| 10 | Bruce “ADB Bigboy” Kramer   |   $455 |
+| 11 | Rich “Rich” Strauss         |   $379 |
+| 12 | Tim “ADB ts4z” Showalter    |   $379 |
+| 13 | Kevin “ADB Un” Un           |   $303 |
+| 14 | Kevan "Troutboy" Garrett    |   $303 |
+| 15 | Len “Len G” Greenberg       |   $303 |
+| 16 | Kenny “QB” Kubey            |   $250 |
 
 |   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
 
 {{< tournament
     date="Saturday, August 2"
     event="Significant Others' Mixed Hold'em"
-    buyin="$40" >}}
+    buyin="$40"
+    entries=4
+    prize-pool="$160"
 
-|   |     |   |
-|--:|-----|--:|
-|   | TBD |   |
-
+|   |                 |      |
+|--:|-----------------|-----:|
+| 1 | Eileen Milligan | $100 |
+| 2 | Rachel Croson   |  $60 |
