@@ -241,6 +241,7 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     entries=101
     prize-pool="$15,150" >}}
 
+|    |                             |        |
 |---:|-----------------------------|-------:|
 |  1 | Gillian “tegwin” Groves     | $3,634 |
 |  2 | Robert “Robert” Stein       | $2,476 |
