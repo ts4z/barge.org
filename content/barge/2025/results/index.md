@@ -266,7 +266,7 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="Significant Others' Mixed Hold'em"
     buyin="$40"
     entries=4
-    prize-pool="$160"
+    prize-pool="$160" >}}
 
 |   |                 |      |
 |--:|-----------------|-----:|
