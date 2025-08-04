@@ -12,17 +12,15 @@ aliases:
  - /barge/2025/hotel
 ---
 
-BARGE 2025 will be held at [The Orleans Hotel &
+BARGE 2025 was [The Orleans Hotel &
 Casino](https://orleans.boydgaming.com/) from July 28 through August 2.
+This was our first time back at the Orleans since [1999](../1999/)!
 
-[The schedule is now available here.](schedule/)
+Our banquet speaker was Chris "Fox" Wallace.  101 players entered the No Limit
+event, which was won by Gillian “tegwin” Groves.  Tournaments included a bounty
+no-limit tournament with a 2-7 game, and the wonderfully named Whammy CAR, and
+even a Limit Hold'em tournament.  [Binglaha](/rulebook/binglaha.html) made its
+triumphant return to the Reindeer Games.
 
-[Structures are available here.](https://omaholic.com/2025_BARGE_Structures.pdf)
-
-[Results are now available.](results/)
-
-Online registration for BARGE 2025 is now closed. You can register on-site---ask for a BARGE organizer when you arrive at the Orleans poker room.
-
-The hotel block is now closed.
-
-Hope to see you there!
+We have [full results](results/) as well as the archived [schedule](schedule/)
+and [tournament structures](2025_BARGE_Structures.pdf).
