@@ -11,12 +11,9 @@ aliases:
  - /2025/schedule
 cover:
   image: /logos/barge_2025_cover.png
-weight: -1
 summary: BARGE 2025 Schedule of Events
 ---
-BARGE 2025 will be held July 28 through August 2 at the Orleans Hotel &amp; Casino in Las Vegas! <!--more-->
-
-This schedule is subject to change.
+BARGE 2025 was held July 28 through August 2 at the Orleans Hotel &amp; Casino in Las Vegas! <!--more-->
 
 [Structures are available here.](https://omaholic.com/2025_BARGE_Structures.pdf)
 
