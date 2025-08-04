@@ -255,9 +255,9 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 | 10 | Bruce “ADB Bigboy” Kramer   |   $455 |
 | 11 | Rich “Rich” Strauss         |   $379 |
 | 12 | Tim “ADB ts4z” Showalter    |   $379 |
-| 13 | Kevin “ADB Un” Un           |   $303 |
-| 14 | Kevan "Troutboy" Garrett    |   $303 |
-| 15 | Len “Len G” Greenberg       |   $303 |
+| 13 | Kevan "Troutboy" Garrett    |   $303 |
+| 14 | Len “Len G” Greenberg       |   $303 |
+| 15 | Kevin “ADB Un” Un           |   $303 |
 | 16 | Kenny “QB” Kubey            |   $250 |
 
 |   |     |   |
