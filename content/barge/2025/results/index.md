@@ -260,8 +260,6 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 | 15 | Kevin “ADB Un” Un           |   $303 |
 | 16 | Kenny “QB” Kubey            |   $250 |
 
-|   |     |   |
-
 {{< tournament
     date="Saturday, August 2"
     event="Significant Others' Mixed Hold'em"
