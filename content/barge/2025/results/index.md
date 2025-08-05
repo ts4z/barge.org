@@ -216,8 +216,6 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 | 11 | Len “Len G” Greenberg       |   $290 |
 | 12 | Randal “Randal” Hennemuth   |   $290 |
 
-|   | TBD |   |
-
 {{< tournament
     date="Friday, August 1"
     event="Whammy CAR"
