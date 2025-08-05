@@ -86,7 +86,7 @@ barred from attending this or any future BARGE.
 
 All BARGE events are non-smoking.
 
-### So Who Are the &quot;Organizers&quot; Anyway?
+### So Who Are the "Organizers" Anyway?
 
 {{% current-organizers event="BARGE" year="2025" %}}
 
