@@ -1,7 +1,7 @@
 ---
 author: Kevin Un
 date: 2015-08-04
-title: Trip Report #1: I Love This BARGE
+title: "Trip Report #1: I Love This BARGE"
 tags:
  - "Kevin Un"
  - tripreport
