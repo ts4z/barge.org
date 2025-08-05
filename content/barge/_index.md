@@ -28,12 +28,13 @@ In order to participate in BARGE: you must register via the Internet.
 
 ### Location
 
-[BARGE 2025]({{< relref "2025/" >}}) will be held at the Orleans Hotel &amp; Casino!
+[BARGE 2025]({{< relref "2025/" >}}) was held at the Orleans Hotel &amp; Casino!
+
+Details for BARGE 2026 are not yet available.
 
 ### Registration
 
-Online registration for BARGE 2025 is now closed. You can register on-site &mdash;
-ask for a BARGE organizer when you arrive at the Orleans poker room.
+Registration will open in the weeks before the event.
         
 ### Who is Eligible to Register for BARGE?
               
