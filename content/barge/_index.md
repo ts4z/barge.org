@@ -108,6 +108,6 @@ Cover image: TOC in progress at BARGE 2024.
 ## BARGE History
 
 We have a little bit of history split up by year.  (If you have any memories to
-share, please contact us!)  Start from the most recent, [2024](/barge/2024/) or the beginning,
-[1991](/barge/1991/).
+share, please contact us!  Some years are quite light on detail.)  Start from
+the most recent, [2025](/barge/2025/), or the beginning, [1991](/barge/1991/).
 
