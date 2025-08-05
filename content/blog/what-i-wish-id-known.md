@@ -5,6 +5,7 @@ aliases:
  - /what-i-wish-id-known
 tags:
  - welcome
+summary: Advice to make the most of your first BARGE.
 ---
 
 _Diana Mercer was a 2008 BARGE virgin._
