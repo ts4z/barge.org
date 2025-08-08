@@ -10,6 +10,8 @@ tags:
  - 2023
  - chips
  - 2025-batch
+aliases:
+ - /gallery/2023
 ---
 {{< figure src="ChipCaseForJessie.jpg"
     link="ChipCaseForJessie.jpg"
