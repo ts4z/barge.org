@@ -8,9 +8,9 @@ tags:
 date: 2012-09-01
 cover:
   image: cover.jpg
+aliases:
+  /barge2012info.html
 ---
-
-## 2012
 
 BARGE returned to its most frequent venue, Binion's Casino. The banquet speaker
 was Karina Jett. The lowball tournament moved to Tuesday this year and was won
