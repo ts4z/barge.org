@@ -1,5 +1,6 @@
 ---
 title: EMBARGO 2016 Results
+summary: Complete results for EMBARGO 2016.
 date: 2016-02-01
 draft: false
 aliases:

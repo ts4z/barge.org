@@ -1,5 +1,6 @@
 ---
 title: EMBARGO 2017 Results
+summary: Complete results for EMBARGO 2017.
 date: 2017-02-01
 draft: false
 aliases:

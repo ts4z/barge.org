@@ -6,6 +6,10 @@ aliases:
  - /embargo-2011
 ---
 
+Complete results for EMBARGO 2011.
+
+<!--more-->
+
 Binion's, Las Vegas
 
 {{< tournament

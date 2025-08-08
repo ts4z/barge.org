@@ -3,6 +3,7 @@ tags:
  - embargo
  - results
 title: EMBARGO 2021 Results
+summary: Complete results for EMBARGO 2021.
 date: 2021-02-01
 draft: false
 aliases:

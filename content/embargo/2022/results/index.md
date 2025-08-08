@@ -4,6 +4,7 @@ tags:
  - results
  - 2022
 title: EMBARGO 2022 Results
+summary: Complete results for EMBARGO 2022.
 date: 2022-02-01
 draft: false
 aliases:

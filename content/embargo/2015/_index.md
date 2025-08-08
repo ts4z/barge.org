@@ -11,3 +11,4 @@ aliases:
  - /embargo2015info
 ---
 
+EMBARGO 2015 was held February 5-7, 2015, at Binion's, in Las Vegas.
