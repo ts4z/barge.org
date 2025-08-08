@@ -7,3 +7,4 @@ tags:
  - 2018
 date: 2018-03-01
 ---
+EMBARGO 2018 was held at Binions Hotel and Casino in Las Vegas, Nevada.

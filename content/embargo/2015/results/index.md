@@ -1,6 +1,7 @@
 ---
 title: EMBARGO 2015 Results
-date: 2015-02-01
+summary: Complete results for EMBARGO 2015.
+date: 2015-02-07
 draft: false
 aliases:
  - /embargo-2015

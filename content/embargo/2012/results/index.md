@@ -4,6 +4,7 @@ date: 2012-02-01
 draft: false
 aliases:
  - /embargo-2012
+summary: Complete results for EMBARGO 2012.
 ---
 
 {{< tournament

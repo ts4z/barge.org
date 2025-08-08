@@ -9,3 +9,4 @@ type: sequential-section
 aliases:
  - /embargo2011info.html
 ---
+The first EMBARGO in 2011 was held at Binion's in Las Vegas.

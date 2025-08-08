@@ -1,5 +1,5 @@
 ---
-summary: Complete EMBARGO results.
+summary: Complete results for EMBARGO 2019.
 tags:
  - embargo
  - 2019

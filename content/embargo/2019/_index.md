@@ -7,3 +7,4 @@ tags:
  - 2019
 date: 2019-03-01
 ---
+EMBARGO 2019 was held at the Westgate Hotel and Casino in Las Vegas, Nevada.
