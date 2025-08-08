@@ -8,6 +8,8 @@ tags:
 date: 2010-09-01
 cover:
   image: cover.jpg
+aliases:
+ - /barge2010info.html
 ---
 
 Not only were the gambling events at BARGE 2010 held at Binion's, but they
