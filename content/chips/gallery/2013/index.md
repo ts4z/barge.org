@@ -37,7 +37,7 @@ From the announcement for the 2013 chips:
 > Patti up early for CHORSE?
 
 (Despite the diss in the announcement, Scottro did win the Main Event in
-2019––and did not make a deal.  And soon, he will finally get [his chip set](../2020/)!)
+2019---and did not make a deal.  His [chip set](../2020/) was finally produced in 2025.)
 
 ---
 
