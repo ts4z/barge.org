@@ -5,6 +5,7 @@ summary: New guidelines for purple chips.
 author: Tim Showalter
 aliases:
  - /chips/reference/purple-chips/2025-plan/
+ - /chips/reference/purple-chips/
 ---
 
 In [2025](../../../gallery/2025/), we are reviving the chip tradition, including the limited-issue purple
