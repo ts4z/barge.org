@@ -8,6 +8,8 @@ tags:
 date: 2023-09-01
 cover:
   image: cover.jpg
+aliases:
+ - /2023
 ---
 
 This year's BARGE was at Westgate.

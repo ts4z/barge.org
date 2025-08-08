@@ -9,6 +9,8 @@ tags:
  - scottro
  - chips
  - 2025-batch
+aliases:
+ - /gallery/2020
 ---
 {{< figure src="ChipCaseForScott.jpg"
     link="ChipCaseForScott.jpg"

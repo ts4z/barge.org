@@ -8,6 +8,8 @@ tags:
 date: 2013-09-01
 cover:
   image: BARGE-2013-815x302-1920w.jpg
+aliases:
+ - /barge2013info.shtml
 ---
 
 This year's expanded BARGE was held at Binion's Casino. This year's speaker was

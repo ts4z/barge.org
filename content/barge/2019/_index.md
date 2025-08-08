@@ -13,6 +13,7 @@ summary: >-
  Scott Harker won the Main Event.  True to his word, he did not make a deal.
 aliases:
  - /barge-2019-schedule
+ - /2023
 ---
 
 This year's BARGE was held at Green Valley Ranch, in Henderson.

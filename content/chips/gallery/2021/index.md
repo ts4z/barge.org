@@ -9,6 +9,8 @@ tags:
  - 2021
  - chips
  - 2025-Batch
+aliases:
+ - /gallery/2021
 ---
 {{< figure src="ChipCaseForRuss.jpg"
     link="ChipCaseForRuss.jpg"
