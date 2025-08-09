@@ -4,9 +4,10 @@ summary: Results for the tournament.
 ---
 
 {{< tournament
-    title="PeterBARGE Main Event" >}}
+    title="PeterBARGE Main Event"
+    prize-pool="$4,300" 
+    entries=43 >}}
     
-
 |   |                  |       |
 |--:|------------------|-------|
 | 1 | Chris Kuntz      | $1240 |
@@ -17,4 +18,4 @@ summary: Results for the tournament.
 | 6 | Dan Nussbaum     | $280  |
 | 7 | Patrick Milligan | $100  |
 | 8 | Chic Natkins     | $100  |
-| 9 | Kevin Un         |       |
+| 9 | Kevin Un         | $100  |
