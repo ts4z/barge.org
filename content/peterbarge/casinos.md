@@ -1,7 +1,7 @@
 ---
 title: Bay Area Casinos
 summary: There's a poker game going on near here, I can feel it.
-weight: -1
+date: 2024-11-01
 ---
 
 If you're in town for PeterBARGE, why not visit San Francisco?  Ride the cable
