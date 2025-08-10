@@ -2,6 +2,7 @@
 title: PeterBARGE 2024
 summary: The second PeterBARGE.
 date: 2024-11-11
+type: sequential-section
 ---
 
 PeterBARGE was held again on November 9th and 10th in 2024, as Peter Secor was still unable to attend BARGE,
