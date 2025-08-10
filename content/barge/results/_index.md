@@ -3,7 +3,7 @@ title: BARGE Results
 draft: false
 aliases:
  - /barge-results
-date: 2024-08-01
+date: 2025-08-08
 summary: BARGE results by year.
 type: title-gallery
 tags:
