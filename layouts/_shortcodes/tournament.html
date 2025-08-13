@@ -28,7 +28,7 @@ have presented events.  Note that there is a subtle difference between
 <div>
 {{- if .Get "image" -}}
 {{ $local := .Page.Resources.Get .Params.image }}
-{{ $inline := $local.Process "fill 300x300" }}
+{{ $inline := $local.Process "fit 300x300" }}
 <a style="float: left; padding: 10px;" href="{{- $local -}}"><img style="width: min(200px, 20vw); "; src="{{ $inline.RelPermalink -}}"></a>
 {{- else if .Get "remoteImage" -}}
 {{ $remote := resources.GetRemote .Params.remoteImage }}
