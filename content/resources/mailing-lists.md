@@ -83,7 +83,7 @@ You can email these to subscribe without a Google account:
 The links above are also unsubscribe links.
 
 If you do not have a Google account, and you no longer want to be on the BARGE
-lists, email LIST+unsubscribe@barge.org; that is:
+lists, email LIST+unsubscribe\@barge.org; that is:
 
 * [barge+unsubscribe@barge.org](mailto:barge%2bunsubscribe@barge.org)
 * [barge-announce+unsubscribe@barge.org](mailto:barge-announce%2bunsubscribe@barge.org)
