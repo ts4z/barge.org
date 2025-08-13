@@ -16,8 +16,8 @@ for related events.
 
 |                                                         List/Signup Link | Purpose                                           | Signup via Email                                                                  |
 |-------------------------------------------------------------------------:|:--------------------------------------------------|-----------------------------------------------------------------------------------|
-| [barge-announce](https://groups.google.com/a/barge.org/g/barge-announce) | Announcements                                     | [barge+subscribe@barge.org](mailto:barge%2bsubscribe@barge.org)                   |
-|                   [barge](https://groups.google.com/a/barge.org/g/barge) | Discussion                                        | [barge-announce+subscribe@barge.org](mailto:barge-announce%2bsubscribe@barge.org) |
+| [barge-announce](https://groups.google.com/a/barge.org/g/barge-announce) | Announcements                                     | [barge-announce+subscribe@barge.org](mailto:barge-announce%2bsubscribe@barge.org) |
+|                   [barge](https://groups.google.com/a/barge.org/g/barge) | Discussion                                        | [barge+subscribe@barge.org](mailto:barge%2bsubscribe@barge.org)                   |
 |     [barge-relpol](https://groups.google.com/a/barge.org/g/barge-relpol) | Religion/Politics "Discussion"                    | [barge-relpol+subscribe@barge.org](mailto:barge-relpol%2bsubscribe@barge.org)     |
 |                                                                          |                                                   |                                                                                   |
 |               [ATLARGE](https://groups.google.com/a/barge.org/g/atlarge) | [ATLARGE](https://atlargepoker.com/) event topics | &mdash;                                                                           |
