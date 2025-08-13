@@ -13,14 +13,13 @@ cover:
  image: logos/barge_2025_cover.png
 ---
 
-BARGE 2025 is happening now!
-
 {{< tournament
     date="Monday, July 28"
     event="Mixed Big O Memorial Charity Tournament" 
     buyin="$140" 
     entries=25
-    rebuys="$60" >}}
+    rebuys="$60" 
+    image="snoop.jpg" >}}
 
 We raised $3600 to be split evenly between Habitat for Humanity and World Central Kitchen!
 
@@ -37,8 +36,9 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="TORSE"
     buyin="$140"
     prize-pool="$4,600"
-    entries=40 >}}
-    
+    entries=40 
+    image="also-bremer-but-on-wednesday.jpg" >}}
+
 |   |                         |        |
 |--:|-------------------------|-------:|
 | 1 | Rich “Omaholic” Bremer  | $1,426 |
@@ -70,7 +70,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$140" 
     entries=57
     prize-pool="$5,359"
-    bonus="plus $1,196 bounties" >}}
+    bonus="plus $1,196 bounties" 
+    image="rich-jaglarski.jpg" >}}
 
 |    |                                 |        |
 |---:|---------------------------------|-------:|
@@ -98,7 +99,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="Bidirectional Chowaha High/Low"
     buyin="$140" 
     entries=24
-    prize-pool="$1,920" >}}
+    prize-pool="$1,920" 
+    image="jones.jpg" >}}
 
 |   |                                    |      |
 |--:|------------------------------------|-----:|
@@ -113,7 +115,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="Team CHORSE"
     buyin="$440" 
     entries=6 
-    prize-pool="$2400">}}
+    prize-pool="$2400" 
+    image="chorse.jpg" >}}
 
 |   |   |                                       |      |
 |--:|--:|---------------------------------------|------|
@@ -136,7 +139,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="Blackjack"
     buyin="$50"
     players=11
-    prize-pool="$550" >}}
+    prize-pool="$550" 
+    image="bremer-but-on-thursday.jpg" >}}
 
 |   |                        |      |
 |--:|------------------------|-----:|
@@ -150,7 +154,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="Pot Limit Omaha"
     buyin="$50"
     entries=53
-    prize-pool="$6,095" >}}
+    prize-pool="$6,095" 
+    image="plo.jpg" >}}
 
 |   |                                 |        |
 |--:|---------------------------------|-------:|
@@ -168,7 +173,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="Limit Hold'em"
     buyin="$50"
     entries=33
-    prize-pool="$2,640" >}}
+    prize-pool="$2,640"
+    image="taki.jpg" >}}
 
 |   |                                |      |
 |--:|--------------------------------|-----:|
@@ -184,7 +190,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="Midnight Madness No Limit Hold'em"
     buyin="$115"
     entries=15
-    prize-pool="$1,500" >}}
+    prize-pool="$1,500" 
+    image="samarai.jpg" >}}
 
 |   |                                 |      |
 |--:|---------------------------------|-----:|
@@ -199,7 +206,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="TOC-Style"
     buyin="$160" 
     entries=86
-    prize-pool="$11,610" >}}
+    prize-pool="$11,610" 
+    image="watanabe.jpg" >}}
 
 |    |                             |        |
 |---:|-----------------------------|-------:|
@@ -221,7 +229,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="Whammy CAR"
     buyin="$100"
     entries=43
-    prize-pool="$3,440" >}}
+    prize-pool="$3,440" 
+    image="bremer.jpg" >}}
 
 |   |                                  |      |
 |--:|----------------------------------|-----:|
@@ -237,7 +246,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="No Limit Hold'em Main Event"
     buyin="$180"
     entries=101
-    prize-pool="$15,150" >}}
+    prize-pool="$15,150" 
+    image="tegwin.jpg" >}}
 
 |    |                             |        |
 |---:|-----------------------------|-------:|
@@ -263,9 +273,15 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     event="Significant Others' Mixed Hold'em"
     buyin="$40"
     entries=4
-    prize-pool="$160" >}}
+    prize-pool="$160" 
+    image="eileen.jpg" >}}
 
 |   |                 |      |
 |--:|-----------------|-----:|
 | 1 | Eileen Milligan | $100 |
 | 2 | Rachel Croson   |  $60 |
+
+---
+
+All pictures by [Rodney Chen](https://www.flickr.com/photos/beakertehmuppet/).
+Most (but not all) are from the attached event.
