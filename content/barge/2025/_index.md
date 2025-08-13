@@ -6,10 +6,14 @@ tags:
  - barge
  - 2025
 cover:
-  image: logos/barge_2025_cover.png
+  image: cover.jpg
 aliases:
  - /2025
  - /barge/2025/hotel
+summary: >-
+ BARGE 2025 was held at The Orleans from July 28 through August 2.
+ Our banquet speaker was Chris "Fox" Wallace.
+ 101 players entered the No Limit event, won by Gillian “tegwin” Groves.
 ---
 
 {{< figure 
@@ -17,7 +21,7 @@ aliases:
     link="carols-donkey.jpg"
     class="floatright40" src="carols-donkey.jpg" >}}
 
-BARGE 2025 was [The Orleans Hotel &
+BARGE 2025 was held at [The Orleans Hotel &
 Casino](https://orleans.boydgaming.com/) from July 28 through August 2.
 This was our first time back at the Orleans since [1999](../1999/)!
 
@@ -33,3 +37,6 @@ and [tournament structures](2025_BARGE_Structures.pdf).
 
 ---
 
+Cover image: With just two tables left, Gillian “tegwin” Groves is all-in with Presto!.
+Gillian went on to win the event.
+[Picture from Rodney Chen](https://www.flickr.com/photos/beakertehmuppet/54715702145/in/album-72177720328311567/).
