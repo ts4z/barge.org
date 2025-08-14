@@ -37,6 +37,9 @@ and [tournament structures](2025_BARGE_Structures.pdf).
 
 ---
 
+Thanks to the Orleans for hosting, as well as letting us borrow Big Al for our
+logo this year.
+
 Cover image: With just two tables left, Gillian “tegwin” Groves is all-in with Presto!.
 Gillian went on to win the event.
 [Picture from Rodney Chen](https://www.flickr.com/photos/beakertehmuppet/54715702145/in/album-72177720328311567/).
