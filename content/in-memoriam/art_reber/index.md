@@ -1,7 +1,9 @@
 ---
 type: memoriam
 title: Art Reber
-died: September 2, 2025
-image: art_reber.png
+born: 1940
+#died: September 2, 2025
+died: 2025
+image: art_reber.jpg
 draft: false
 ---
