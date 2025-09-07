@@ -29,9 +29,11 @@ night dinner & poker in Emeryville or near the poker venue in Benicia:
 
 ### Near Pinole
 
-Courtyard Richmond Berkeley in Richmond: Last year, several attendees stayed here.  It’s about 20 minutes from Emeryville and 20 minutes from Benica.  Stevan Goldman and Deron Brod are staying there this year. As of 10/26/24, there are plenty of rooms still available.
+Courtyard Richmond Berkeley in Richmond: several attendees stayed here in 2023.
+It’s about 20 minutes from Emeryville and 20 minutes from Benica.  Stevan
+Goldman and Deron Brod stayed there in 2024.
 
-Days Inn in Pinole should be serviceable - nothing fancy.
+Days Inn in Pinole should be serviceable&mdash;nothing fancy.
 
 Courtyard Marriott in San Pablo is a step up from the Days Inn.
 
