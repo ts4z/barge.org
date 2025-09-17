@@ -803,4 +803,4 @@ Thanks also to all the other people who make BARGE go.
 
 ---
 
-Can I sign up for [BARGE 2025](/barge/2025/) now?
+Can I sign up for [BARGE 2025](../2025-barge/) now?
