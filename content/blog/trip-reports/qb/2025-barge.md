@@ -15,7 +15,7 @@ summary: >-
 
 {{< as-seen-on-the-barge-list >}}
 
-The story of my thirtieth BARGE.
+The story of my thirtieth BARGE. {{< br >}}
 "It feels very BARGEy right now."
 
 
