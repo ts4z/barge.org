@@ -5,6 +5,8 @@ date: 2025-08-08
 type: sequential-section
 ---
 
+[Register now](https://forms.gle/uv3WA9inBaoaALod6) for PeterBARGE!
+
 PeterBARGE III will be held November 8-9, 2025.
 
 We plan to have a dinner on Saturday night (November 8).  Details will be
@@ -17,7 +19,8 @@ Pirate](https://www.pinballpirate.com/) in Benicia. Doors will open at 10:00AM,
 with breakfast sponsored by members of the Breakfast Club.  Cards in the air at
 11:00AM.  The tournament is open to all members of the \*ARG\* community.
 
-Registration is strongly encouraged, as we are space limited.  Registration is not yet open.
+Registration is strongly encouraged, as we are space limited.
+[Register here.](https://forms.gle/uv3WA9inBaoaALod6)
 
 Our tournament is planned to end by 3:30PM, giving attendees a fighting chance
 of catching a late flight home.
@@ -43,7 +46,7 @@ Thanks to the members of the Breakfast Club for sponsoring breakfast.
 ---
 
 PeterBARGE is not run by BARGE, Inc.  Neither the BARGE Organizers nor the
-BARGE Board of Directors are responsible for it or this content.  The web site
+BARGE Board of Directors are responsible for it, or this content.  The web site
 is hosted here as a courtesy and convenience to members of the BARGE community.
 The tournament is run privately, without the association of any licensed
 entity.  No fees are charged for playing in our tournament.  The event is not

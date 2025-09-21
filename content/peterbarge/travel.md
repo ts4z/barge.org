@@ -55,6 +55,6 @@ personality. Some rooms will have water views.
 
 Best Western will be your typical basic hotel room.
 
-And of course, Airbnb may also provide options. If you coordinate with others,
+Airbnb will also provide options. If you coordinate with others,
 it is possible renting a home may be a better way to go than a motel.
 

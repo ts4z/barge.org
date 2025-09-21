@@ -6,6 +6,11 @@ params:
   notInMainMenu: true
 ---
 
+Quick Links: 
+[2025 Information](2025/) &mdash;
+[Registration for 2025](https://docs.google.com/forms/d/e/1FAIpQLSeIUmWlrpd2ygb7YCDXbI6F0bcG0Q1JHgCeCvQz65D2_2hQ_g/viewform?usp=dialog)
+&mdash; [Results](results/)
+
 PeterBARGE is a semi-private event held in the Bay Area in honor of Peter
 Secor.  It is open to members of the BARGE community.
 

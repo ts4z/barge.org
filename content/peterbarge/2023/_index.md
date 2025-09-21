@@ -3,6 +3,8 @@ title: PeterBARGE 2023
 summary: A surprise party for Peter Secor.
 date: 2023-11-30
 type: sequential-section
+cover:
+  image: cover.jpg
 ---
 
 PeterBARGE was held as a surprise for Peter Secor.  Peter lives in the Bay Area
