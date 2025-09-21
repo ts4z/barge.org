@@ -5,6 +5,7 @@ This is the source for the BARGE website.  It utilizes Hugo, with the PaperMod
 theme.
 
 A scrape of barge.org, taken on 23-nov-2024, is in the OLD directory.
+This was used for the initial content.
 
 Any changes to this repo on the `main` branch will be built (via with GitHub
 Actions) and pushed to [www.barge.org](https://www.barge.org/).
@@ -17,7 +18,8 @@ How-To
 Read some tutorial on Markdown.  We're using Goldmark, a variant of
 GitHub-Flavored Markdown, but any tutorial will work.
 
-Listen to Moose Turd Pie and consider the implications: https://www.youtube.com/watch?v=Q1ajLnuw2oo
+Listen to [Moose Turd Pie](https://www.youtube.com/watch?v=Q1ajLnuw2oo) and
+consider the implications.
 
 ### You probably want a GitHub account.
 
@@ -30,7 +32,8 @@ like a familiar, comfortable straitjacket.
 
 If you aren't working on the templating bits or the deployment bits, and you
 are just writing articles in Markdown, you might be able to get by with just
-making changes on GitHub and redeploying.  Editing Markdown is reasonably safe.
+making changes on GitHub, which will be automatically deployed.  Editing
+Markdown is reasonably safe, and if you make a mistake, we can fix it.
 
 If you are just adding/editing files under content/...,
 yeah, you probably don't need to do setup or testing.
@@ -117,7 +120,7 @@ the document date (`YYYY-MM-DD` format), and maybe a summary field.
 If you write Markdown (`some_filename.md`), you will not have access to the
 full scope of HTML (and this is a feature).  Unlike Markdown in some other
 contexts, you *cannot* include HTML in general, and Hugo will *omit* it ... but
-you can bracket a section like this:
+you *can* bracket a section like this:
 
 ```
     {{< rawhtml }}}
@@ -131,9 +134,17 @@ you can bracket a section like this:
 ... but please avoid doing this, especially for complex elements.  Do _not_ use
 this to modify CSS.
 
-If you write HTML (`some_filename.html`), you are writing only the "body" portion of
-the document.  Hugo will supply the head portion and will wrap your text in the
-standard page framework.  This allows using stylesheets, br tags, etc.
+If you write HTML (`some_filename.html`), you are writing only the "body"
+portion of the document, not the HEAD.  Hugo will supply the head portion and
+will wrap your text in the standard page framework.  This allows using more
+HTML features without worrying about how raw HTML will interact with Markdown.
+This is not recommended, but you can find some examples where we have done
+that.  One of them is the root page, which uses HTML because of bad
+interactions with the slideshow gadget and HTML validation.
+
+If all you want to do is add br tags, there is a Hugo shortcode for this.
+(These are particularly important for certain trip reports which don't look
+right without hard line breaks.)
 
 
 How Hugo Works
@@ -164,6 +175,11 @@ All files may have a "type".  We have a few different types which render
 slightly differently (in particular, in-memoriam, the resources page, and the
 results pages are all different).  See the Hugo documentation for layouts.
 
+Links should be relative, not absolute.  However, for paginated pages (anything
+`.../_index.{md,html}`) links must either be absolute, or made with the
+`relref` shortcode.  If this doesn't happen, Hugo will make broken links.
+Examples of both can be found throughout the input files.
+
 Guidelines
 ----------
 
@@ -181,24 +197,26 @@ fit better somewhere else.  For time-sensitive (and time-expiring) articles,
 in the blogroll on the root page.  This is based on some Hugo configuration bits.
 This works great for some things and is terrible for others.
 
-Files may be in HTML or Markdown.  Whenver possible, prefer Markdown to HTML.
+Files may be in HTML or Markdown.  Whenver possible, prefer Markdown.
+
 Our theme supports raw HTML in line with Markdown.  Use this only as an escape
 mechanism, or when migrating pages from HTML to Markdown format piecemeal.
 
 All pages are supposed to have frontmatter headers.  This is the bit between the "---" lines.
 Pages will not work quite correctly if this is omitted.
 
-Make sure every page has a "title" field and sets "draft: false" in the
-frontmatter header.
+Make sure every page has a "title" field.
 
-Write all frontmatter in YAML.  Avoid TOML.  JSON is kind of OK.
+Write all frontmatter in YAML.  Avoid JSON unless the YAML version looks bad.
+Avoid TOML entirely.
 
-If you find yourself repeating something, or having trouble styling something in Markdown,
-make a "shortcode" for it.  See layouts/shortcodes.  Note that this is currently used
-only for tournament headlines.
+If you find yourself repeating something, or having trouble styling something
+in Markdown, make a "shortcode" for it.  See `layouts/_shortcodes`.  This is
+currently used for a few different things.  Try to avoid these as they seem
+likely to confuse; that said, it is better to use a shortcode than raw HTML.
 
 If you find you need a different layout for a directory, see
-layouts/title-gallery for an example.
+`layouts/title-gallery` for an example.
 
 _Don't_ write a lot of custom HTML, or depend on the details of Markdown.  If
 you can't do it with the structure of the documents, make new structure with a
@@ -229,7 +247,12 @@ relevant for Hugo:
     left-justified.
 3.  No merging rows or columns is permitted.
 
-Some editors will see things as tables that Hugo won't.
+Some editors will see things as tables that Hugo won't.  If you do this wrong,
+Hugo will mangle your table.  The usual gotcha for me is that Hugo requires a
+top heading row on a table, but Emacs doesn't.  Always include this row.
+
+If you need more complicated tables, that's a use for raw HTML.  This happens
+on schedule pages which have complicated tables.
 
 To Do
 -----
