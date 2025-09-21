@@ -24,8 +24,8 @@ Staying near Pinole, Emeryville, or Benicia are likely your best bets. We do
 not recommend staying near the Oakland Airport based on crime in that area. Bay
 Area folks may be able to provide feedback on locations of lodging you may be
 considering. While we don't have first hand experience with all of these
-motels, here are some possible options near Peter in Pinole, near Saturday
-night dinner & poker in Emeryville or near the poker venue in Benicia:
+hotels, here are some possible options near Peter in Pinole, near Saturday
+night dinner &amp; poker in Emeryville, or near the poker venue in Benicia:
 
 ### Near Pinole
 
