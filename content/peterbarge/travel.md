@@ -38,6 +38,7 @@ Days Inn in Pinole should be serviceable&mdash;nothing fancy.
 Courtyard Marriott in San Pablo is a step up from the Days Inn.
 
 Hotel Mac in Point Richmond is in a quaint neighborhood and will have historic charm if you want a place with personality.
+(Sometimes, it is not a likeable personality.)
 
 ### Near Emeryville
 
