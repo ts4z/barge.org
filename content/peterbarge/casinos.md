@@ -39,5 +39,5 @@ longer.
 
 Most poker rooms allow phone-in for higher limits only.
 
-Casinos will be busy on weekend nighs until around midnight.  Things start
+Casinos will be busy on weekend nights until around midnight.  Things start
 thinning out around Last Call at around 1:15 or 1:30.
