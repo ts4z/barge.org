@@ -167,17 +167,26 @@ results pages are all different).  See the Hugo documentation for layouts.
 Guidelines
 ----------
 
-Help reorganize the site to make it easier to keep up to date.  Put timely
-articles (registration open, closed, etc.) in the "news" directory.  As you do,
+Help reorganize the site to make it easier to keep up to date.  It is OK to
+relocate pages, but as you do,
 use "aliases" in the front matter.  [Cool links don't
-change.](https://www.w3.org/Provider/Style/URI)
+change.](https://www.w3.org/Provider/Style/URI)  Try to salvage dead
+links by pointing them at the most interesting content.  There are many 
+old links to barge.org floating around on the web, and it is sad to see them
+404.
+
+We don't have a top-level "/news" directory because everything seemend to
+fit better somewhere else.  For time-sensitive (and time-expiring) articles,
+/blog is a good fit.  For events, note that the event directories will appear
+in the blogroll on the root page.  This is based on some Hugo configuration bits.
+This works great for some things and is terrible for others.
 
 Files may be in HTML or Markdown.  Whenver possible, prefer Markdown to HTML.
 Our theme supports raw HTML in line with Markdown.  Use this only as an escape
 mechanism, or when migrating pages from HTML to Markdown format piecemeal.
 
-All pages are supposed to have frontmatter headers.  This is missing in some
-un-migrated pages, and they don't render well as a result.
+All pages are supposed to have frontmatter headers.  This is the bit between the "---" lines.
+Pages will not work quite correctly if this is omitted.
 
 Make sure every page has a "title" field and sets "draft: false" in the
 frontmatter header.
@@ -193,7 +202,8 @@ layouts/title-gallery for an example.
 
 _Don't_ write a lot of custom HTML, or depend on the details of Markdown.  If
 you can't do it with the structure of the documents, make new structure with a
-shortcode.
+shortcode.  If you care about the structure of HTML (rare, but it happens) make
+the whole page HTML.
 
 ### House style 
 
