@@ -34,6 +34,8 @@ params:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: http://fargopoker.org/
       text: "♣ FARGO @ Mohegan Sun &mdash; Oct 17-19 ♥"
+    - link: "/peterbarge/2025/"
+      text: PeterBARGE &mdash; Nov 8-9
 
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
