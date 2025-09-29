@@ -8,6 +8,8 @@ tags:
 date: 2000-09-01
 cover:
   image: cover.jpg
+aliases:
+  - /barge2kpictures.html
 ---
 
 The year 2000 marked BARGE's return to the Horseshoe. Jeff Bartoszewicz won the

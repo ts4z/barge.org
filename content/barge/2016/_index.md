@@ -8,6 +8,8 @@ tags:
 date: 2016-09-01
 cover:
   image: cover.jpg
+aliases:
+ - /schedule-2016
 ---
 
 This year's expanded BARGE was held at Binion's Casino. <!--more-->

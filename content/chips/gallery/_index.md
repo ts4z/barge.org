@@ -8,6 +8,7 @@ aliases:
  - /chips/chip-sets/bcc-chips-by-patrick-milligan-2001-2011/
  - /chips/chips/gallery/
  - /chips/history/2001-2011/
+ - /chips/2024/09/05/chip-set-archive-is-complete/
 ---
 
 The gallery here has something for every BARGE chipset: always pictures,

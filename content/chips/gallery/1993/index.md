@@ -11,6 +11,7 @@ pdf: barge_1993.pdf
 aliases:
  - /chips/chips/1993-2000-chips/1993-chips/
  - /chips/chip-sets/1993-2000-chips/1993-chips/
+ - /chips/chip-sets/1993-chips/
 ---
 
 {{< figure src="1993_chip_case_thumbnail.png"
