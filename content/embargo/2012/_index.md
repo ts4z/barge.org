@@ -6,4 +6,6 @@ tags:
  - 2012
 date: 2012-03-01
 type: sequential-section
+aliases:
+ - /embargo2012info.html
 ---

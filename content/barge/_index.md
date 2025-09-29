@@ -11,6 +11,8 @@ aliases:
  - /barge-history/
  - /barge/history
  - /barge/history/by-year
+ - /barge_history.html
+ - /registration
 cover:
   image: cover.jpg
 ---
