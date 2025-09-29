@@ -49,7 +49,7 @@ SOFTWARE.
 </div>
 {{- end }}
 
-{{- $pages := .Sections.ByTitle.Reverse }}
+{{- $pages := (union .RegularPages .Sections).ByTitle.Reverse }}
 
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
