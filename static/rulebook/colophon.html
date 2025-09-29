@@ -187,15 +187,13 @@ bits.</p>
 <p>A <a href="https://github.com/">GitHub</a> workflow is used to build the rulebook into the
 version hosted at <a href="https://www.barge.org/">barge.org</a>.  GitHub (and the
 underlying <code>git</code> utility) provide our version control.</p>
-<p>mdbook has print support in conjunction with a web browswer, but it isn't as
-usable at the poker table as the old LaTeX version, which produces a really
-nice book with a proper Table of Contents and page numbers.</p>
-<p>So we also have the "dead tree PDF edition" of the rulebook, intended for paper
-and to be used at a poker table. This is produced via a perl script that
-extracts the file list from the mdbook configuration, uses CommonMark (a
-Markdown library) to produce <a href="https://www.latex-project.org/">LaTeX</a>, then
-doctors that up with some minor hacks.</p>
-<p>All of the tools are either common free software except the perl script and
+<p>We also have a PDF version produced by converting the mdbook/Markdown files
+into LaTeX.  When we did the 2024 rulebook, we discovered mdbook's PDF support
+just wasn't as good as our previous <a href="https://www.latex-project.org/">LaTeX</a>
+version.  So now, we have a small perl script that extracts the file list from
+the mdbook configuration, uses CommonMark (a Markdown library) to produce
+LaTeX, then doctors that up with some minor hacks and renders it to PDF.</p>
+<p>All of the tools are common free software except the perl script and
 build glue, which is included in the <code>git</code> repository.</p>
 
                     </main>
