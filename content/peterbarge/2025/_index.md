@@ -9,10 +9,12 @@ type: sequential-section
 
 PeterBARGE III will be held November 8-9, 2025.
 
-We plan to have a dinner on Saturday night (November 8).  Details will be
-available by mid-October.
+We plan to have a dinner on Saturday night at the [Townhouse in
+Emeryville](https://townhouseemeryville.com/) [(Google
+map)](https://maps.app.goo.gl/xrMtoJ4W5P8t8WLZ8).  Dinner is $75 for a prix
+fixe menu, paid in advance.  Details will be sent to those registered.
 
-We expect to congregate in one of the local cardrooms (likely the Oaks).
+We plan to congregate in one of the local cardrooms (likely the Oaks).
 
 On November 9, we will hold our private tournament at the [Pinball
 Pirate](https://www.pinballpirate.com/) in Benicia. Doors will open at 10:00AM,
