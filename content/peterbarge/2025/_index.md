@@ -19,7 +19,8 @@ We plan to congregate in one of the local cardrooms before and after.  [The
 Oaks](https://www.oakscardclub.com/) is a short walk away.
 
 On November 9, we will hold our private tournament at the [Pinball
-Pirate](https://www.pinballpirate.com/) in Benicia. Doors will open at 10:00AM,
+Pirate](https://www.pinballpirate.com/) in Benicia. $100 buy in for a
+No Limit Hold'em Freezeout.  Doors will open at 10:00AM,
 with breakfast sponsored by members of the Breakfast Club.  Cards in the air at
 11:00AM.  The tournament is open to all members of the \*ARG\* community.
 
