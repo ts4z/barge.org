@@ -19,6 +19,7 @@ cover:
     buyin="$140" 
     entries=25
     rebuys="$60" 
+    prize-pool="$2,875"
     image="snoop.jpg" >}}
 
 We raised $3600 to be split evenly between Habitat for Humanity and World Central Kitchen!
@@ -97,7 +98,7 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Wednesday, July 30"
     event="Bidirectional Chowaha High/Low"
-    buyin="$140" 
+    buyin="$100" 
     entries=24
     prize-pool="$1,920" 
     image="jones.jpg" >}}
@@ -113,9 +114,9 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Wednesday, July 30"
     event="Team CHORSE"
-    buyin="$440" 
+    buyin="$440+40" 
     entries=6 
-    prize-pool="$2400" 
+    prize-pool="$2640" 
     image="chorse.jpg" >}}
 
 |   |   |                                       |      |
@@ -152,7 +153,7 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Thursday, July 31"
     event="Pot Limit Omaha"
-    buyin="$50"
+    buyin="$140"
     entries=53
     prize-pool="$6,095" 
     image="plo.jpg" >}}
@@ -171,7 +172,7 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
 {{< tournament
     date="Thursday, July 31"
     event="Limit Hold'em"
-    buyin="$50"
+    buyin="$100"
     entries=33
     prize-pool="$2,640"
     image="taki.jpg" >}}
