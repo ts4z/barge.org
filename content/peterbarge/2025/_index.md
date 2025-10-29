@@ -3,6 +3,8 @@ title: PeterBARGE 2025
 summary: The third PeterBARGE.
 date: 2025-08-08
 type: sequential-section
+cover:
+  image: cover.png
 ---
 
 [Register now](https://forms.gle/uv3WA9inBaoaALod6) for PeterBARGE!
