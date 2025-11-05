@@ -11,7 +11,7 @@ cover:
 
 PeterBARGE III will be held November 8-9, 2025.
 
-We plan to have a dinner on Saturday night at the
+We plan to have a dinner on Saturday at 6:30PM at the
 [Townhouse](https://townhouseemeryville.com/) in Emeryville.  Dinner is $75 for
 a prix fixe menu.  Details will be sent to those registered.
 See their [website](https://townhouseemeryville.com/) or the location on 
@@ -29,7 +29,7 @@ with breakfast sponsored by members of the Breakfast Club.  Cards in the air at
 Registration is strongly encouraged, as we are space limited.
 [Register here.](https://forms.gle/uv3WA9inBaoaALod6)
 
-Our tournament is planned to end by 3:30PM, giving attendees a fighting chance
+Our tournament is planned to end by 3:30PM, giving even the winner a fighting chance
 of catching a late flight home.
 
 No fees are charged for the tournament.
