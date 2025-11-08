@@ -16,7 +16,12 @@ We generally make ceramic chips.
 great colors, and the way they play a little better as they break in.
 Unfortunately, Paulson has not sold to the home market since the mid 2000's.
 
-[^clay]: [Clay chips were never clay].(https://en.wikipedia.org/wiki/Casino_chip)
+[^clay]: [Clay chips were never clay.](https://en.wikipedia.org/wiki/Casino_chip)
+  Modern chips are definitely not clay, but they may have a little clay.
+  A lot of import chips seem to be injection-molded plastic and have
+  been sold to varying degrees as "clay chips".  This seems to be getting
+  more truthful over time.  In any case, BARGE chips have been ceramic for
+  a variety of reasons since 2000.
 
 The 1993 BARGE chips were made by ASM, now known as [Classic Poker
 Chips](https://www.classicpokerchips.com/).  ASM has a corporate history going
