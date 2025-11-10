@@ -43,8 +43,6 @@ params:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     # - link: /embargo/
     #   text: EMBARGO 2025 is January 16-19 at Resorts World!
-    - link: "/peterbarge/2025/"
-      text: PeterBARGE &mdash; Nov 8-9
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
