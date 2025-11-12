@@ -16,9 +16,12 @@ had a prix fixe menu, they decided to just charge us for everything instead and
 it came out substantially less!  We contributed the savings to the PeterBARGE
 fund.
 
+{{< figure src="above.jpg" link="above-wider.jpg" class="floatleft40"
+    caption="Setting up our tournament.  Picture by Rodney Chen." >}}
+
 We held our tournament as scheduled at the Pinball Pirate shop in Benicia,
 Buyin was $100, and we had 29 players for a prize pool of $2900.  Andrew Prock
-took down first place for $1,045.
+took down first place for $1,045.  [Full results are availale.](results/)
 
 Peter was unable to attend, but quite a folks went to visit him at his house.
 
