@@ -4,47 +4,29 @@ summary: The third PeterBARGE.
 date: 2025-08-08
 type: sequential-section
 cover:
-  image: cover.png
+  image: cover.jpg
 ---
 
-[Register now](https://forms.gle/uv3WA9inBaoaALod6) for PeterBARGE!
+{{< figure src="logo.png" class="floatright40" >}}
 
-PeterBARGE III will be held November 8-9, 2025.
+PeterBARGE III was held November 8-9, 2025.
 
-We plan to have a dinner on Saturday at 6:30PM at the
-[Townhouse](https://townhouseemeryville.com/) in Emeryville.  Dinner is $75 for
-a prix fixe menu.  Details will be sent to those registered.
-See their [website](https://townhouseemeryville.com/) or the location on 
-[Google maps](https://maps.app.goo.gl/xrMtoJ4W5P8t8WLZ8).
+On Saturday night, we had dinner at the Townhouse in Emeryville.  Although we
+had a prix fixe menu, they decided to just charge us for everything instead and
+it came out substantially less!  We contributed the savings to the PeterBARGE
+fund.
 
-We plan to congregate in one of the local cardrooms before and after.  [The
-Oaks](https://www.oakscardclub.com/) is a short walk away.
+We held our tournament as scheduled at the Pinball Pirate shop in Benicia,
+Buyin was $100, and we had 29 players for a prize pool of $2900.  Andrew Prock
+took down first place for $1,045.
 
-On November 9, we will hold our private tournament at the [Pinball
-Pirate](https://www.pinballpirate.com/) in Benicia. $100 buy in for a
-No Limit Hold'em Freezeout.  Doors will open at 10:00AM,
-with breakfast sponsored by members of the Breakfast Club.  Cards in the air at
-11:00AM.  The tournament is open to all members of the \*ARG\* community.
+Peter was unable to attend, but quite a folks went to visit him at his house.
 
-Registration is strongly encouraged, as we are space limited.
-[Register here.](https://forms.gle/uv3WA9inBaoaALod6)
+We had a number of cancellations of out-of-town folks related to a government
+shutdown.
 
-Our tournament is planned to end by 3:30PM, giving even the winner a fighting chance
-of catching a late flight home.
-
-No fees are charged for the tournament.
-
-Local [travel](../travel/) and [casino](../casinos/) advice is available.
-
-Contact [Tim Showalter](mailto:tjs@psaux.com) with any questions.
-
-## Donations
-
-We will accept donations to cover expenses for the tournament.  In the past,
-this has covered signs, trophies, and pizza, and drinks.  Any overage will be
-donated to World Central Kitchen.
-
-## Thanks
+Thanks to our donors, including Carol Kline Anderson, Michael Patterson,
+Nancy Robertson, and a lot of folks who handed over cash.  Eileen Milligan acted as TD.
 
 Thanks to Chris Kuntz for hosting us at the Pinball Pirate shop.
 
@@ -58,3 +40,8 @@ is hosted here as a courtesy and convenience to members of the BARGE community.
 The tournament is run privately, without the association of any licensed
 entity.  No fees are charged for playing in our tournament.  The event is not
 open to the general public.
+
+-----
+
+Cover image: A toast to Peter at dinner at the Townhouse.
+Photo by Rodney Chen.
