@@ -35,9 +35,9 @@
   {{ end }}
   <div>
   {{- if and .Params.born .Params.died -}}
-    {{- .Params.born }}&mdash;{{- .Params.died -}}
+    <nobr>{{- .Params.born }}&mdash;</nobr><nobr>{{- .Params.died -}}</nobr>
   {{- else if .Params.died -}}
-    {{- .Params.died -}}
+    <nobr>{{- .Params.died -}}</nobr>
   {{- else -}}
     {{- .Params.date | time.Format "2006" -}}
   {{- end -}}
