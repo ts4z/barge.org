@@ -41,7 +41,7 @@
             <div class="post-description memoriam-text">{{ .Title }}</div>
             <div class="post-description memoriam-text">
               {{- if and .Params.born .Params.died -}}
-                {{- .Params.born }}&mdash;{{- .Params.died -}}
+                <nobr>{{- .Params.born }}</nobr>&mdash;<nobr>{{- .Params.died -}}</nobr>
               {{- else if .Params.died -}}
                 {{- .Params.died }}
               {{- else if .Params.date -}}
