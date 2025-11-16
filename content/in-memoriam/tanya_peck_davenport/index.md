@@ -1,9 +1,9 @@
 ---
 type: memoriam
 title: Tanya "MissT74" Peck-Devenport
-# born: 
-died: November, 2025
+born: April 6, 1974
+died: November 14, 2025
 image: misst74.jpg
 draft: false
-location: Arizona
+location: Phoenix, Arizona
 ---
