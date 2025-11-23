@@ -75,6 +75,15 @@ less-than-ideal light.
 Our vendor (BRPro) does not supply exact color matching.  (They aren't terrible,
 they just don't get that close.)  So it is all the more important to stay far apart.
 
+Denomination Labels
+-------------
+
+BARGE sets never had denominations until thr 2025 batch. The 2023 and and 2025 chips are denominated.
+
+Early chips were produced as a trophy for someone else. Since Tim made his own chips, he had denominations added. In his experience, denominations don't matter for experienced poker players; a black chip is a black chip and obviously worth 100. But for novice players, like board gamers, after the first hour of "How much is a red worth?", Tim was convinced of the value of numbers.
+
+
+
 Printing Tolerances
 -------------------
 
