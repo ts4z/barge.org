@@ -82,7 +82,15 @@ BARGE sets never had denominations until thr 2025 batch. The 2023 and and 2025 c
 
 Early chips were produced as a trophy for someone else. Since Tim made his own chips, he had denominations added. In his experience, denominations don't matter for experienced poker players; a black chip is a black chip and obviously worth 100. But for novice players, like board gamers, after the first hour of "How much is a red worth?", Tim was convinced of the value of numbers.
 
+### Denomination Values
 
+We will recommend 1, 5, 25, 100, 500, 1,000, 5,000, 25,000, 100,000. This is the progression thr WSOP uses. We expect most sets don't need this many denominations (Tim has yet to use his 5k, 25k, or 100k chips). 
+
+Low denominations are familiar but usually picked to suit the game being played. That is, you probably won't have an AC $2.50 chip unless you run a 7.50-15 game.
+
+High denomination chips are typically 1,000x or 1,000,000x the low values. (10k chips are out of fashion and can be somewhat confusing somehow.)
+
+A peogression that involves one chip not an even multiple of the next chip tends to get confusing, that is, no dime-quarter progressions.
 
 Printing Tolerances
 -------------------
