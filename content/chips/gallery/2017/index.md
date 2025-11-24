@@ -4,6 +4,7 @@ tags:
  - 2017
  - chips
  - bcc
+ - 2017-batch
 type: chip-gallery
 large: barge_2017.png
 pdf: barge_2017.pdf
@@ -13,8 +14,6 @@ aliases:
  - /chips/chips/2012-2019-chips/2017-chips/
  - /chips/chips/gallery/2017/
  - /chips/chip-sets/bcc-chips-by-michael-brennan-2012-2019/2017-chips/
-tags:
- - 2017-batch
 ---
 
 From the 2017 announcement that made the sampler sets available:
