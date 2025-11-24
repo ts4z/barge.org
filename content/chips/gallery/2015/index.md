@@ -11,6 +11,9 @@ large: barge_2015.png
 pdf: barge_2015.pdf
 aliases:
  - /chips/chips/2012-2019-chips/2015-chips/
+summary: >-
+ Andy Wolfram made the BARGE Virgin Experience his 2015 BARGE Chip Collection
+ theme.
 ---
 		
 From the 2015 annoucement for the sampler sets:

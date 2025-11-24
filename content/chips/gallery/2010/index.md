@@ -12,6 +12,10 @@ pdf: barge_2010.pdf
 aliases:
  - /chips/chips/2001-2011-chips/2010-chips/
  - /chips/chips/gallery/2010/
+summary: >-
+ This theme is "Poker Archetypes." Each chip has a common obverse 
+ showing the scales of justice weighing Presto! against Aces.
+ BARGE 2009 Champion, David "Heldar" Heller, came up with the theme.
 ---
 
 This year, the theme is &#8220;Poker Archetypes.&#8221; Each chip in the chip set has a common obverse showing the scales of justice weighing Presto! against Aces. Standard chip colors are used. The BARGE 2009 NLHE Champion, David &#8220;Heldar&#8221; Heller, came up with the theme.

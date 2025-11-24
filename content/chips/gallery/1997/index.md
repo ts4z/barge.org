@@ -8,6 +8,9 @@ pdf: barge_1997.pdf
 aliases:
  - /chips/chips/1993-2000-chips/1997-chips/
  - /chips/chip-sets/1993-2000-chips/1997-chips/
+summary: >-
+ This set was designed by Mike Zimmers and features Binion's Horseshoe logo on the obverse,
+ and BARGE champions on the reverse.
 ---
 
 This set was designed by Mike Zimmers. Since Mike forgot to order enough chips

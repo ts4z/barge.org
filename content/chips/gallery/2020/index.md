@@ -11,6 +11,9 @@ tags:
  - 2025-batch
 aliases:
  - /gallery/2020
+summary: >-
+ Our 2020 chips were designed by 2019 Main Event winner Scott "Scottro" Harker
+ with help from Patrick Milligan and Michael Brennan.
 ---
 {{< figure src="ChipCaseForScott.jpg"
     link="ChipCaseForScott.jpg"

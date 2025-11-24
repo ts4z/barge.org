@@ -12,6 +12,10 @@ large: barge_2005.png
 aliases:
  - /chips/chips/2001-2011-chips/2005-chips/
  - /chips/chips/gallery/2005/
+summary: >-
+ This theme is Las Vegas Neon. Each chip has a common
+ obverse (BARGE XV and the Canadian or Maple Leaf Presto!) with a different Las
+ Vegas neon sign for each face.
 ---
 
 This year, the theme is Las Vegas Neon. Each chip in the chip set has a common

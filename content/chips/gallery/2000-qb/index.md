@@ -13,6 +13,10 @@ aliases:
  - /chips/chips/1993-2000-chips/2000-chips-qb-edition/
  - /chips/chips/gallery/2000-qb/
  - /chips/chip-sets/1993-2000-chips/2000-chips-qb-edition/
+summary: >-
+ This set was created by Ken Kubey using the artwork from the BARGE 2000 lapel
+ pin when it became clear that there would be no chips coming from
+ the 1999 NLHE Champ.
 ---
 
 This set was created by Ken Kubey, using the artwork from the BARGE 2000 lapel

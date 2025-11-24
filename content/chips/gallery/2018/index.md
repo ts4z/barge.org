@@ -12,6 +12,8 @@ cover:
 aliases:
  - /chips/chips/2012-2019-chips/2018-chips/
  - /chips/chip-sets/bcc-chips-by-michael-brennan-2012-2019/2018-chips 
+summary: >-
+ "The Poker Curriculum"&mdash; coming to a university lecture hall near you soon!
 ---
 
 (Most of this text was likely from Michael Brennan, and it was liberated from a

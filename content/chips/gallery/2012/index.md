@@ -13,6 +13,9 @@ pdf: barge_2012.pdf
 aliases:
  - /chips/chips/2012-2019-chips/2012-chips/
  - /chips/chip-sets/bcc-chips-by-michael-brennan-2012-2019/2012-chips/
+summary: >-
+ Rich &#8220;Omaholic&#8221; Bremer developed a very unique set of chips. 
+ Each chip describes one step towards achieving true BARGE enlightenment.
 ---
 
 From the announcement for the 2012 chips:
