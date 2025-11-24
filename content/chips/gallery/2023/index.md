@@ -12,6 +12,9 @@ tags:
  - 2025-batch
 aliases:
  - /gallery/2023
+summary: >-
+ Jessie Capps, 2022 Main Event winner, has had a fondness for Rubber Ducks for
+ some time.  He often brings them to the tournament poker table.
 ---
 {{< figure src="ChipCaseForJessie.jpg"
     link="ChipCaseForJessie.jpg"

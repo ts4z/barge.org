@@ -12,6 +12,9 @@ tags:
  - 2019
  - chips
  - bcc
+summary: >-
+ This year’s theme is ADB BINGO featuring a
+ cocktail for each letter.
 ---
 
 > On behalf of our 2018 champion, Don “BINGO” Rieck, I’m pleased to

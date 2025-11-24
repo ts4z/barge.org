@@ -13,6 +13,8 @@ pdf: barge_2016.pdf
 aliases:
  - /chips/chips/2012-2019-chips/2016-chips/
  - /chips/chip-sets/2012-2019-chips/2016-chips/
+summary: >-
+ The 2016 set was designed by 2015 BARGE Main Event Champion Jennifer Shahade who also happens to be a two-time American Women's Chess Champion.
 ---
 
 From the 2016 message that announced the sampler sets were available:

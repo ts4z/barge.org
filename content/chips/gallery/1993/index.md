@@ -12,6 +12,10 @@ aliases:
  - /chips/chips/1993-2000-chips/1993-chips/
  - /chips/chip-sets/1993-2000-chips/1993-chips/
  - /chips/chip-sets/1993-chips/
+summary: >-
+ The very first BARGE chip set, created by Steve Jacobs. A 300 chip
+ set of these was presented to the 1993 champ, Roy
+ Hashimoto. Each attendee at BARGE 1993 also received a purple chip.
 ---
 
 {{< figure src="1993_chip_case_thumbnail.png"

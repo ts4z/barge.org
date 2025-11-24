@@ -8,6 +8,10 @@ pdf: barge_1999.pdf
 aliases:
  - /chips/chips/1993-2000-chips/1999-chips/
  - /chips/chip-sets/1993-2000-chips/1999-chips/
+summary: >-
+ Fish.  This set was created by Lee Jones, the 1998 NLHE winner. 
+ The common obverse shows an &#8220;Art Deco&#8221; style magician
+ presenting aces. The Presto! codeword is hidden on the magician&#8217;s collar.
 ---
 
 This set was created by Lee Jones, the 1998 NLHE winner. The fish photographs

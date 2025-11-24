@@ -11,9 +11,12 @@ cover:
 large: barge_2003.png
 aliases:
  - /chips/chips/2001-2011-chips/2003-chips/
+summary: >-
+ These chips were created by BARGE 2002 NLHE Champion Mike "Howler"
+ McBride.
 ---
 
-These chips were created by BARGE 2002 NLHE Champion Mike &#8220;Howler&#8221;
+These chips were created by BARGE 2002 NLHE Champion Mike "Howler"
 McBride, with the graphic design help of Patrick Milligan and the support and
 feedback of the [BARGE Chip Committee](../../bcc).
 

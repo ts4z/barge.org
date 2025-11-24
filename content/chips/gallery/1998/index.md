@@ -8,6 +8,11 @@ pdf: barge_1998.pdf
 aliases:
  - /chips/chips/1993-2000-chips/1998-chips/
  - /chips/chip-sets/1993-2000-chips/1998-chips/
+summary: >-
+ Designed by Tom Sims on behalf of the 1997 NLHE winner,
+ Steve Brecher. Steve&#8217;s winning hand, 73o, is  celebrated on the
+ reverse side. The obverse side displays a &#8220;No Suck
+ Outs&#8221; graphic.
 ---
 
 This set was designed by Tom Sims, acting on behalf of the 1997 NLHE winner,
