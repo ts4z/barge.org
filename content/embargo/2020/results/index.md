@@ -1,7 +1,4 @@
 ---
-tags:
- - embargo
- - 2020
 title: EMBARGO 2020 Results
 summary: Complete results for EMBARGO 2020.
 date: 2020-02-01

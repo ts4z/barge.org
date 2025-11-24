@@ -1,5 +1,4 @@
 ---
-summary: Complete results for 2003
 date: 2003-09-01
 title: BARGE 2003 Results
 draft: false

@@ -6,7 +6,6 @@ tags:
  - barge
  - 2011
 date: 2011-09-01
-type: sequential-section
 cover:
   image: cover.jpg
 ---

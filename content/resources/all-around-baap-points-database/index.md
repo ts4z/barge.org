@@ -1,6 +1,5 @@
 ---
 title: All-Around BAAP Points Database
-tags: baap
 aliases: /all-around-baap-points-database
 draft: false
 tags:

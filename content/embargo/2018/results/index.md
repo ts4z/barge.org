@@ -1,7 +1,4 @@
 ---
-tags:
- - embargo
- - 2018
 title: EMBARGO 2018 Results
 date: 2018-02-01
 draft: false
