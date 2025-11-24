@@ -7,6 +7,51 @@ author: Tim Showalter
 This is all just my opinion, yet I'm writing this in third person.  It feels
 weird but it will survive your edits better. &mdash;ts4z
 
+The Winner Designs the Chips
+----------------------------
+
+The tradition is that the winner designs the chips.  This means that these are
+not rules, more like guidelines.  If you want to make only 44mm chips made of
+Hanukkah gelt, we can't stop you.  (We will probably try to talk you out of
+it.)
+
+
+Size
+----
+
+BARGE chips have always been 39mm round chips ("standard chips").  Other sizes
+are now available, but 39mm chips are easy to frame, rack, and store in
+standard accessories.
+
+
+Number of Chips in the Set
+--------------------------
+
+Ancient BARGE tradition has made as few as 4 chips in the set, and sometimes as
+many as 10.  Most sets are 8 chips, plus the special purple chip.
+
+Most cash games get by very well with 2 or 3 colors of chips.  More doesn't
+tend to improve the game.  Most tournaments use 4, or maybe 5 colors.
+
+### 300-Chip Trophy Set
+
+The standard trophy set has always been 300 chips.  A 3:2:1 ratio is probably a
+good idea.  That is, perhaps it's 150 white, 100 red, 50 green.
+
+But since this leaves a few colors out, nobody does this.  80/80/60/40 for
+actual play colors, +10 each of the other colors, still provides a usable 300
+chips.
+
+### Expanded Sets
+
+Many winners buy extra chips.  Chips are offered as "bulk" to all winners at a
+small markup (to defray art costs, but likely better than buying them
+separately due to volume discounts).
+
+Tim bought chips intended for board games in low denominations, and more in the
+high denominations for a MTT set.  The total order was about 1500.
+
+
 Material
 --------
 
@@ -78,17 +123,27 @@ they just don't get that close.)  So it is all the more important to stay far ap
 Denomination Labels
 -------------
 
+Having, or lacking, denominations is up to the chip designer.
+
 BARGE sets never had denominations until thr 2025 batch. The 2023 and and 2025 chips are denominated.
 
-Early chips were produced as a trophy for someone else. Since Tim made his own chips, he had denominations added. In his experience, denominations don't matter for experienced poker players; a black chip is a black chip and obviously worth 100. But for novice players, like board gamers, after the first hour of "How much is a red worth?", Tim was convinced of the value of numbers.
+Early chips were produced as a trophy for someone else, so having no-denom chips made sense, because this covered every possible winner and home game.  
+
+Since Tim made his own chips, he wanted denominations. In his experience,
+denominations don't matter for experienced poker players; a black chip is a
+black chip and obviously worth 100. But for novice players, like board gamers,
+after the first hour of "How much is a red worth?", Tim was convinced of the
+value of numbers.
 
 ### Denomination Values
 
-We will recommend 1, 5, 25, 100, 500, 1,000, 5,000, 25,000, 100,000. This is the progression thr WSOP uses. We expect most sets don't need this many denominations (Tim has yet to use his 5k, 25k, or 100k chips). 
+Tim recommends 1, 5, 25, 100, 500, 1,000, 5,000, 25,000, 100,000. This is the
+progression thr WSOP uses. We expect most sets don't need this many
+denominations. (Tim has yet to use his 5k, 25k, or 100k chips.)
 
 Low denominations are familiar but usually picked to suit the game being played. That is, you probably won't have an AC $2.50 chip unless you run a 7.50-15 game.
 
-High denomination chips are typically 1,000x or 1,000,000x the low values. (10k chips are out of fashion and can be somewhat confusing somehow.)
+High denomination chips are typically 1,000x or 1,000,000x the low values. Other denominations are now uncommon.
 
 A peogression that involves one chip not an even multiple of the next chip tends to get confusing, that is, no dime-quarter progressions.
 
