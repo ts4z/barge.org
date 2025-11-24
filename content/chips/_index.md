@@ -84,6 +84,6 @@ to the pandemic, after [2019](gallery/2019/).
 
 In 2025, chips have been produced!  The BCC has been reformed.  Chips have been
 made for [2025](gallery/2025/), [2023](gallery/2023/), [2021](gallery/2021/),
-and [2020](gallery/2020/).  These are being delivered at BARGE.
+and [2020](gallery/2020/) and were delivered at BARGE.
 
 -----
