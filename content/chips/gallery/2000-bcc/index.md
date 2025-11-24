@@ -13,18 +13,20 @@ cover:
     image: barge_2000_detail.png
 large: barge_2000.png
 pdf: barge_2000.pdf
+summary: >-
+ These chips celebrate two RGPers: Spencer "Zorak" Sun and Chris
+ "Jesus" Ferguson, who both won major tournaments in 2000.
 ---
 
-The chips in the&nbsp; **2000: The Year of RGP** &nbsp;set celebrate two RGPers
-winning major poker tournaments.&nbsp;Spencer &#8220;Zorak&#8221; Sun&nbsp;won
+The chips in the  **2000: The Year of RGP**  set celebrate two RGPers
+winning major poker tournaments. Spencer "Zorak" Sun won
 the 2000 Tournament of Champions at the
 [Orleans Hotel &amp; Casino](http://www.orleanscasino.com/)
-in Las Vegas, Nevada.&nbsp;Chris
-&#8220;Jesus&#8221; Ferguson&nbsp;won the No-Limit Hold&#8217;em championship
-in the 2000 World Series of Poker at&nbsp;
-[Binion&#8217;s Horeshoe](http://www.binions.com/)
-in
-Las Vegas, Nevada.
+in Las Vegas, Nevada. Chris
+"Jesus" Ferguson won the No-Limit Hold'em championship
+in the 2000 World Series of Poker at
+[Binion's Horeshoe](http://www.binions.com/)
+in Las Vegas, Nevada.
 
 All 8 chips have a common obverse. There are 4 chips with Chris and 4 chips with Spencer on the face.
 
