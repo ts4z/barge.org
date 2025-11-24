@@ -24,7 +24,7 @@ QUICK LINKS:  [the gallery](gallery/)
 It is a tradition of BARGE that each Main Event winner wins a custom
 chipset... that they "get to" design.  These chips are also sold as sample sets
 in order to fund the trophy set, and also because the BARGE community likes
-chops.
+chips.
 
 [The gallery](gallery/) starts in [1993](gallery/1993/) and ends in
 [2025](gallery/2025/).  There is also a [gallery table of contents](toc/).
