@@ -41,8 +41,8 @@ params:
   # nextEvents, these will wrap if they get too long.
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
-    # - link: /embargo/
-    #   text: EMBARGO 2025 is January 16-19 at Resorts World!
+    - link: /embargo/2026/hotel-info/
+      text: EMBARGO 2026 Hotel Block is Open
   selfHosted: true
   socialShare: true
   showRelatedPosts: true

@@ -10,23 +10,26 @@ params:
   noDate: true
 ---
 
-Quick Links for EMBARGO: [EMBARGO 2025](/embargo/2025/)
+Quick Links for EMBARGO: [EMBARGO 2026](/embargo/2026/)
 &mdash;
 [Results](/embargo/results/) 
-&mdash;
-[View Registrations](https://secure.barge.org/embargo2025review.php)
+<!-- &mdash;
+[View Registrations](https://secure.barge.org/embargo2026review.php) -->
 
 {{< figure src="EMBARGO+2020+Attendee+Photo-1920w.jpg" alt="EMBARGO 2020 Attendee Photo" >}}
 
 EMBARGO is the
 **Extraordinary Mid-Winter Big Annual Rec.Gambling Outing**
 (also known as &quot;winter BARGE&quot; or &quot;mini-BARGE&quot;).
-[EMBARGO 2025](/embargo/2025/)
-was held at Resorts World Las Vegas from January 16-19, 2025.  The event
-schedule, hotel details, and registration information will follow soon.
 
-This is the fourteenth edition of our off-season complement to our long-running
-[BARGE](/barge/) event.
+[EMBARGO 2026](/embargo/2026/) EMBARGO 2026 will again be held at Resorts World
+Las Vegas from January 29-31, 2026.
+This is the 15th edition of our off-season complement to our long-running
+[BARGE](/barge/) event.  [Hotel information is available.](2026/hotel-info/)
+Schedule and registration information are coming soon.
+
+[EMBARGO 2025](/embargo/2025/) was held at Resorts World Las Vegas from January
+16-19, 2025.  The [event schedule](2025/schedule/) and [results](2025/results/) are available.
 
 ### Who is Eligible to Register for EMBARGO?
 
