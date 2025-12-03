@@ -24,3 +24,10 @@ Things to remember:
 | King (K1D)     | $165   | $165   | $85    | $135   | $215   | $145  |
 | 2 Queens (Q2D) | $195   | $195   | $105   | $175   | $255   | $175  |
 | Suite (K1RRU1) | $275   | $275   | $335   | $485   | $485   | $335  |
+
+----
+
+Grizz notes:
+
+> I was able to get a slightly better rate reserving through my rewards
+> card. If you have a card check the rate you can get with your card.
