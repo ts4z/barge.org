@@ -9,6 +9,7 @@ params:
   noDate: true
 aliases:
  - /barge-history/
+ - /history
  - /barge/history
  - /barge/history/by-year
  - /barge_history.html
