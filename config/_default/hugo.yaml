@@ -33,7 +33,7 @@ params:
   nextEvents:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: "/embargo/2026/"
-      text: EMBARGO @ Resorts World &mdash; Jan 29-31
+      text: EMBARGO @ Resorts World &mdash; Jan 29-Feb 1
 
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs

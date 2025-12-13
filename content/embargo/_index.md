@@ -11,6 +11,8 @@ params:
 ---
 
 Quick Links for EMBARGO: [EMBARGO 2026](/embargo/2026/)
+[Schedule](/embargo/2026/schedule/)
+[Hotel info](2026/hotel-info/)
 &mdash;
 [Results](/embargo/results/) 
 <!-- &mdash;
@@ -23,10 +25,10 @@ EMBARGO is the
 (also known as &quot;winter BARGE&quot; or &quot;mini-BARGE&quot;).
 
 [EMBARGO 2026](/embargo/2026/) EMBARGO 2026 will again be held at Resorts World
-Las Vegas from January 29-31, 2026.
+Las Vegas from January 29-February 1, 2026.
 This is the 15th edition of our off-season complement to our long-running
 [BARGE](/barge/) event.  [Hotel information is available.](2026/hotel-info/)
-Schedule and registration information are coming soon.
+[Schedule](/embargo/2026/sschedule/) is now available. Registration is coming soon.
 
 [EMBARGO 2025](/embargo/2025/) was held at Resorts World Las Vegas from January
 16-19, 2025.  The [event schedule](2025/schedule/) and [results](2025/results/) are available.
