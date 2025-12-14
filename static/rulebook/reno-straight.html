@@ -3,7 +3,7 @@
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
-        <title>Pot Limit - BARGE Rulebook</title>
+        <title>Reno Straight - BARGE Rulebook</title>
 
 
         <!-- Custom HTML head -->
@@ -172,71 +172,54 @@
 
                 <div id="mdbook-content" class="content">
                     <main>
-                        <h2 id="pot-limit"><a class="header" href="#pot-limit">Pot-Limit</a></h2>
-<p>In <em>pot-limit</em> poker, when a player chooses to bet or raise, the size of the raise can
-be anywhere from the minimum bet to the size of the pot. The minimum bet
-will be equal to the size of the large blind. The minimum raise is the size of the
-last bet or raise. A player who wishes to bet or raise but does not have enough
-chips to make the minimum wager may go <em>all-in</em> with their remaining chips.</p>
-<p>Unlike <a href="./limit.html">limit</a> and <a href="./no-limit.html">no-limit</a>, a
-player is entitled to the current count of the pot.</p>
-<p>Stud variations without blinds are sometimes played in a pot-limit format, with
-the minimum bet being the size of the bring-in.</p>
-<p>The maximum bet in a round without action is simply the size of the pot.</p>
-<p>The maximum raise is the size of the pot <em>after the call</em> of the initial
-action.</p>
-<h3 id="examples"><a class="header" href="#examples">Examples</a></h3>
-<p>Suppose you are playing in a pot-limit Omaha tournament at the
-100/200 level.  Like <a href="./no-limit.html">no-limit</a>, this means that the
-small blind is 100 and the big blind is 200. In this example, the action
-folds to the player on the button, who says “raise”.</p>
-<p>The minimum raise in this situation would be 200, making it 400 to-go.</p>
-<p>The maximum raise is the size of the pot.  In this case, that is 700 to-go, or
-a raise of 500 on top of the 200 blind.  That is, the button says “raise”,
-allowing them to call 200; there is now that 200 call + 100 small blind + 200 big
-blind in the pot; the button can make it 700 to-go.</p>
-<p>To continue our example, suppose the big blind calls the raise to 700.  There
-is 1500 in the pot (100 small blind + 700 big blind + 700 button).  On the
-flop, the big blind bets out the maximum, 1500.  The button says “raise pot”.
-It is now 6000 to-go (1500 pot + 1500 bet + 1500 call = 4500 raise).</p>
-<p>A common shortcut is that a pot raise of a pot bet is 4✕ the pot bet, which can
-be seen in the example above.</p>
-<p>More generally, a pot raise of <em>any</em> bet is 3✕ the bet, plus any other money
-behind.  This requires a little bit more explanation.</p>
-<p>For example, suppose we have a new hand at the 100/200 level.  The button
-limps, the small blind completes and the big blind checks.  The pot is 600.</p>
-<p>On the flop, the small blind bets out 200.  The big blind calls.  The button
-says “raise pot”.  He laboriously puts out 200, then counts 400 (pot), plus the
-three 200 bets this round, and makes it 1200 to-go.</p>
-<p>One of the players at the table will usually “helpfully” pipe up at this point
-and point out that the shortcut is to take 3✕ the bet, plus any money behind.
-In this case, that’s 3✕200 + 200 (caller) + 400 (pot) and that’s still 12
-to-go.</p>
-<p>For a stud example, suppose you are playing a pot-limit <a href="./london-lowball.html">London
-Lowball</a> tournament where the ante is 100 and the
-bring-in is 150. With eight players, the pot starts at 8 ✕ 100 = 800. Player A
-brings it in for 150.  Player B says raise. The minimum raise Player B can make
-is 150 (the size of the bring-in), to 300 to-go; and the maximum raise is
-800+150+150 = 1100, to 1250 to-go (call 150 + raise of 1100).</p>
-<p>Suppose Player B raises 500, to 650 to-go.</p>
-<p>Player C then says “pot”.  A pot-sized raise will be 3✕650, + 950 = 2900 to-go,
-or a raise of 2250.</p>
-<p>Unlike limit poker, the half bet size rule does not apply to pot-limit poker. A
-player who has already acted and is not facing a full-size wager may not
-subsequently raise an all-in bet that is less than the minimum bet or less than
-the full size of the last bet or raise.</p>
-<p>There are an unlimited number of raises available to the players. Check and raise
-is allowed.</p>
+                        <h1 id="reno-straight"><a class="header" href="#reno-straight">Reno Straight</a></h1>
+<p>We actually have no idea what this game is called, but Greg Raymer told us he
+played in Reno, so here we are.</p>
+<p>This game is allegedly a variant of <a href="big-o.html">Big O</a>.</p>
+<h2 id="forced-money"><a class="header" href="#forced-money">Forced Money</a></h2>
+<p>The game is played with a button and blinds.</p>
+<h2 id="dealing-procedure"><a class="header" href="#dealing-procedure">Dealing Procedure</a></h2>
+<p>Each player is dealt five cards face down, followed by a round of betting at the
+small bet limit.</p>
+<p>Two boards of three community cards are placed face up. This is followed by a round of betting
+at the small bet limit.</p>
+<p>Two additional community cards are placed face up, one for each board.. This is followed by a round of
+betting at the big bet limit.</p>
+<p>Two additional community cards are placed face up, one for each board. This is followed by a round of
+betting at the big bet limit.</p>
+<p>This is followed by a showdown.</p>
+<h2 id="evaluating-the-showdown"><a class="header" href="#evaluating-the-showdown">Evaluating the Showdown</a></h2>
+<p>The best Omaha hand, and the <em>lowest straight</em> split the pot, using either board.</p>
+<p>Both hands must be made using three cards from the board and two hole cards.</p>
+<p>This game is played “best-best”.  Unlike most double-board games, the best high
+hand (using either board) and the best low hand (using either board) split the
+pot.</p>
+<p>If at showdown, no one can make a straight, the high hand scoops.</p>
+<p>Example:</p>
+<pre><code>Board 1: K♣Q♣2♦3♦6♣
+Board 2: A♦K♦Q♠T♠T♣
+
+Hand 1: A♣3♥T♥5♣
+Hand 2: 9♦T♥J♠Q♥
+</code></pre>
+<p>Hand 1 makes the nut flush (A♣K♣Q♣6♣5♣) on the top board and two pair
+(K♣K♦Q♣Q♠) on the bottom board.  Hand 2 has just one pair on the top board, but
+on the second board, it makes a straight A♦K♦Q♠J♠T♥ and a full house
+Q♥Q♠T♠T♣T♥.</p>
+<p>The full house is the best high hand, and takes half the pot.  The only
+straight is Broadway, so it takes the other half of the pot.  Both the hands
+are made with one board.</p>
+<p>The second player scoops.</p>
 
                     </main>
 
                     <nav class="nav-wrapper" aria-label="Page navigation">
                         <!-- Mobile navigation buttons -->
-                            <a rel="prev" href="no-limit.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                            <a rel="prev" href="razzdugi.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                                 <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
                             </a>
 
-                            <a rel="next prefetch" href="common-rules.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                            <a rel="next prefetch" href="rio-bravo.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                                 <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
                             </a>
 
@@ -246,11 +229,11 @@ is allowed.</p>
             </div>
 
             <nav class="nav-wide-wrapper" aria-label="Page navigation">
-                    <a rel="prev" href="no-limit.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                    <a rel="prev" href="razzdugi.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
                         <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M41.4 233.4c-12.5 12.5-12.5 32.8 0 45.3l160 160c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 256 246.6 118.6c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-160 160z"/></svg></span>
                     </a>
 
-                    <a rel="next prefetch" href="common-rules.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                    <a rel="next prefetch" href="rio-bravo.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
                         <span class=fa-svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 512"><!--! Font Awesome Free 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. --><path d="M278.6 233.4c12.5 12.5 12.5 32.8 0 45.3l-160 160c-12.5 12.5-32.8 12.5-45.3 0s-12.5-32.8 0-45.3L210.7 256 73.4 118.6c-12.5-12.5-12.5-32.8 0-45.3s32.8-12.5 45.3 0l160 160z"/></svg></span>
                     </a>
             </nav>
