@@ -37,7 +37,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-2060081c.js";
+            window.path_to_searchindex_js = "searchindex-b146fc38.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-8ab22884.js"></script>
@@ -174,15 +174,26 @@
                 <div id="mdbook-content" class="content">
                     <main>
                         <h2 id="crayfish"><a class="header" href="#crayfish">Crayfish</a></h2>
-<p>Crayfish provides a variant of <a href="texas-holdem.html">Hold’em</a> (and
-potentially any other game that uses a five-carda board).</p>
-<p>All five cards of the board are dealt on the flop.  On the turn and river, roll a die.</p>
-<p>On a roll of 1-5, flip the corresponding card face down.  Cards are numbered
-from left to right (flop 1-3, turn 4, river 5).</p>
-<p>On a roll of 6, no cards are turned over.</p>
-<p>If the number is rolled on the turn and river, the card remains turned face down.</p>
+<p>Crayfish is typically dealt as a variant of Pot-Limit
+<a href="omaha-high-only.html">Omaha</a>, and less commonly as a variant of
+<a href="texas-holdem.html">Hold’em</a> (but can potentially be a variant of any
+game that uses a five-card board).</p>
+<p>All five cards of the board are dealt face up on the flop.  On the turn and river, a die is rolled. Each of the die rolls has the potential to turn a board card face down, thus removing that card from play.</p>
+<p>On a roll of 1-5, the corresponding card is turned face down if
+it is not already face down.  Cards are numbered from left to right. E.g.,
+on a board of 4<span class="diamond-symbol">♦</span> 7<span class="heart-symbol">♥</span> 2<span class="club-symbol">♣</span> T<span class="heart-symbol">♥</span> K<span class="diamond-symbol">♦</span> if a one is rolled on the die, the 4<span class="diamond-symbol">♦</span> would
+be turned face down; if a three is rolled, the 2<span class="club-symbol">♣</span> would be turned face down.
+When a 6 is rolled, nothing happens on that roll; the board remains the same.</p>
+<p>At the showdown, the board will have between three and five cards:</p>
+<ul>
+<li>three cards, if two different die rolls are made and each roll is between one and five</li>
+<li>four cards, if both die rolls are the same number between one and five</li>
+<li>four cards, if one of the die rolls is a six and the other is between one and five</li>
+<li>five cards, if both die rolls are six</li>
+</ul>
 <p>Face down cards can’t be used at showdown.</p>
 <h3 id="notes"><a class="header" href="#notes">Notes</a></h3>
+<p>A crayfish swims backwards, which is how this variant got its name.</p>
 <p>BARGErs heard about Crayfish via <a href="https://pokerchannel.substack.com/p/binglaha?utm_source=podcast-email%2Csubstack&amp;publication_id=368194&amp;post_id=179987649&amp;utm_campaign=email-play-on-substack&amp;utm_medium=email&amp;utm_content=play_card_show_title&amp;r=4a3ejk&amp;triedRedirect=true">Don Rieck’s
 appearance</a>
 on the <a href="https://pokerchannel.substack.com/">Poker: All the Games</a> podcast
