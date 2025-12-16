@@ -37,7 +37,7 @@
             const path_to_root = "";
             const default_light_theme = "light";
             const default_dark_theme = "navy";
-            window.path_to_searchindex_js = "searchindex-e90ec7d6.js";
+            window.path_to_searchindex_js = "searchindex-3777c29f.js";
         </script>
         <!-- Start loading toc.js asap -->
         <script src="toc-91f7f1a7.js"></script>
@@ -174,29 +174,33 @@
                 <div id="mdbook-content" class="content">
                     <main>
                         <h1 id="colophon"><a class="header" href="#colophon">Colophon</a></h1>
-<p>This book is available in one of two ways:</p>
-<ul>
-<li>Web: <a href="https://www.barge.org/rulebook/">https://www.barge.org/rulebook/</a></li>
-<li>PDF: <a href="https://www.barge.org/rulebook.pdf">https://www.barge.org/rulebook.pdf</a></li>
-</ul>
-<p>These are both produced from the same source code available at
-<a href="https://github.com/ts4z/barge-rulebook/">https://github.com/ts4z/barge-rulebook/</a>.</p>
-<p>This document is primarily written with
+<p>Both web and print versions of this book are both produced from the same files<sup class="footnote-reference" id="fr-1-1"><a href="#footnote-1">1</a></sup>.</p>
+<p>Our web version of this book is produced with
 <a href="https://rust-lang.github.io/mdBook/">mdbook</a>, which produces a group of nice,
-easy-to-navigate web pages.  The text is written in the Markdown format, which
+easy-to-navigate web pages.  The text is written in an extended flavor of the
+<a href="https://daringfireball.net/projects/markdown/">Markdown</a> format, which
 is easy to write and easy to read even if you don’t understand the technical
 bits.</p>
 <p>A <a href="https://github.com/">GitHub</a> workflow is used to build the rulebook into the
 version hosted at <a href="https://www.barge.org/">barge.org</a>.  GitHub (and the
 underlying <code>git</code> utility) provide our version control.</p>
-<p>We also have a PDF version produced by converting the mdbook/Markdown files
-into LaTeX.  When we did the 2024 rulebook, we discovered mdbook’s PDF support
-just wasn’t as good as our previous <a href="https://www.latex-project.org/">LaTeX</a>
-version.  So now, we have a small perl script that extracts the file list from
-the mdbook configuration, uses CommonMark (a Markdown library) to produce
-LaTeX, then doctors that up with some minor hacks and renders it to PDF.</p>
-<p>All of the tools are common free software except the perl script and
-build glue, which is included in the <code>git</code> repository.</p>
+<p>Our PDF version, intended for printing and reading at the poker table,
+is produced by converting those files into
+<a href="https://www.latex-project.org/">LaTeX</a>.  When we did the 2024 rulebook,
+we discovered mdbook’s PDF support just wasn’t as good as our
+previous <a href="https://www.latex-project.org/">LaTeX</a> version.  (LaTeX presents
+a high bar and is renowned for its output quality.)
+So we converted the mdbook version to LaTeX, and now that is available
+for those wanting a hard copy.</p>
+<p>The external tools we use are open source software and freely available
+All of the other parts are available in our GitHub repository with the
+rest of the book.</p>
+<hr>
+<ol class="footnote-definition">
+<li id="footnote-1">
+<p><a href="https://github.com/ts4z/barge-rulebook/">https://github.com/ts4z/barge-rulebook/</a> <a href="#fr-1-1">↩</a></p>
+</li>
+</ol>
 
                     </main>
 
