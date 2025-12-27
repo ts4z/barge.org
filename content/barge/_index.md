@@ -31,9 +31,12 @@ In order to participate in BARGE: you must register via the Internet.
 
 ### Location
 
-[BARGE 2025]({{< relref "2025/" >}}) was held at the Orleans Hotel &amp; Casino!
+[BARGE 2026]({{< relref "2026/" >}}) will be at 
+[the Orleans Hotel &amp; Casino](https://orleans.boydgaming.com/)
+on July 20-25, 2026.
 
-Details for BARGE 2026 are not yet available.
+[BARGE 2025]({{< relref "2025/" >}}) was also at 
+[the Orleans Hotel &amp; Casino](https://orleans.boydgaming.com/).
 
 ### Registration
 
