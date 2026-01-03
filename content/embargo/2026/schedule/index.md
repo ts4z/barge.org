@@ -5,8 +5,8 @@ date: 2025-12-13
 aliases:
  - /embargo/schedule
  - /schedule1
-<!-- cover: -->
-<!--   image: logos/embargo_2025_cover.png -->
+cover:
+  image: logos/embargo_2026_cover.png
 ---
 
 {{< as-seen-on-the-barge-list >}}
