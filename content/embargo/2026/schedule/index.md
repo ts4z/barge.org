@@ -1,5 +1,5 @@
 ---
-title: EMBARGO 2025 Schedule
+title: EMBARGO 2026 Schedule
 draft: false
 date: 2025-12-13
 aliases:
