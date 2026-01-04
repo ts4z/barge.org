@@ -11,6 +11,7 @@ params:
 ---
 
 Quick Links for EMBARGO: [EMBARGO 2026](/embargo/2026/)
+[Registration](https://barge.regfox.com/embargo-2026)
 [Schedule](/embargo/2026/schedule/)
 [Hotel info](2026/hotel-info/)
 &mdash;
