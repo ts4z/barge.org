@@ -69,7 +69,7 @@ were available at these events. They are being given out at BARGE 2025.
 * The same rules apply for who is eligible for chips, but not how they are
   distributed.  We are making a limited effort to get purple chips to event
   winners and previous main event winners.
-* If you are entitield to chips, and you attend BARGE, we will have chips for
+* If you are entitled to chips, and you attend BARGE, we will have chips for
   you.
 * For anyone who buys a sampler set and pays for shipping, we will mail
   purple chips with sampler sets.
