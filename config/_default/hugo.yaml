@@ -41,8 +41,6 @@ params:
   # nextEvents, these will wrap if they get too long.
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
-    - link: /embargo/2026/hotel-info/
-      text: EMBARGO 2026 Hotel Block is Open
     - link: https://barge.regfox.com/embargo-2026
       text: EMBARGO 2026 Registration is Open
   selfHosted: true
