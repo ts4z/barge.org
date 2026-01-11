@@ -29,7 +29,7 @@ EMBARGO is the
 Las Vegas from January 29-February 1, 2026.
 This is the 15th edition of our off-season complement to our long-running
 [BARGE](/barge/) event.  [Hotel information is available.](2026/hotel-info/)
-[Schedule](/embargo/2026/sschedule/) is now available. Registration is coming soon.
+[Schedule](/embargo/2026/schedule/) is now available. Registration is coming soon.
 
 [EMBARGO 2025](/embargo/2025/) was held at Resorts World Las Vegas from January
 16-19, 2025.  The [event schedule](2025/schedule/) and [results](2025/results/) are available.
