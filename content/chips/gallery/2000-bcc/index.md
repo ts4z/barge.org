@@ -1,9 +1,9 @@
 ---
 title: "2000: The Year of RGP (BCC)"
 aliases:
- - 2000
  - /chips/chips/2001-2011-chips/2000-chips/
  - /2000-bcc
+ - /chips/2000-bcc/
 tags:
  - 2000
  - chips

@@ -10,6 +10,7 @@ cover:
 large: barge_2002.png
 pdf: barge_2002.pdf
 aliases:
+ - /chips/2002/
  - /chips/chips/2001-2011-chips/2002-chips/
 summary: >-
  Rocks.  Created by BARGE 2001 NLHE Champion Russell Fox, with the

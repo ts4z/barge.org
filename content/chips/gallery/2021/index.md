@@ -11,6 +11,7 @@ tags:
  - 2025-Batch
 aliases:
  - /gallery/2021
+ - /chips/2021/
 summary: >-
  Russ Fox was the first BARGEr to win the Main Event twice.  However,
  his second win was in 2020 when the event was held online.  Because of this,
