@@ -13,6 +13,7 @@ cover:
 aliases:
  - /chips/chips/2012-2019-chips/2017-chips/
  - /chips/chips/gallery/2017/
+ - /chips/2017/
  - /chips/chip-sets/bcc-chips-by-michael-brennan-2012-2019/2017-chips/
 summary: >-
  The 2017 set was designed by 2016 BARGE Main Event Champion Bex Lynn
