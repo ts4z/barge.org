@@ -25,6 +25,9 @@ have a common obverse (the &#8220;Welcome to Fabulous BARGE&#8221; sign) with a
 different &#8220;rock&#8221; sample for each face. The colors used are the
 standard &#8220;Southern California&#8221; set.
 
+This was the original appearance of what became the BARGE logo.  The X in XII
+is subtly split into two Vs, putting Presto on every chip.
+
 Russ won the main event again in [2020](../../../barge/2020/), and so was the first one to get [a second chip set](../2021/).
 
 ## Development Notes
