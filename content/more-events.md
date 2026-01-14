@@ -1,32 +1,39 @@
 ---
-title: Our Other Events
+title: "More Events"
 draft: false
 weight: 100
+menu: events
 tags:
  - atlarge
  - fargo
  - argem
- - embargo
+aliases:
+ - /other-events/
 ---
 
-We also organize events in Atlantic City, Connecticut, Maryland, and other events in Las Vegas!
+In addition to [BARGE](/barge/) and [EMBARGO](/embargo/), the \*ARG\* community also
+has events in Atlantic City, Connecticut, Maryland, and Las Vegas!
 
 {{< logo-left href="https://www.atlargepoker.com/" src="/logos/AtLarge_v5.png" >}}
 
 ## ATLARGE
 
-ATLARGE is held annually in Atlantic City, NJ.  ATLARGE 2025 took take place April 4-6 at the Borgata.
+ATLARGE (the ATLantic city Annual Rec.Gambling Excursion) is held annually in
+Atlantic City, NJ in the early spring.
+
+ATLARGE 2026 will take place April 16-19, 2026, at the Borgata.
 
 For more information about ATLARGE, including our email list registration link,
 please visit [www.atlargepoker.com](https://www.atlargepoker.com/)!
 
 {{< hr-clear >}}
 
-{{< logo-left href=http://www.fargopoker.org/ src=/logos/fargo_logo_v1.png >}} 
+{{< logo-left href=http://www.fargopoker.org/ src=/logos/fargo_logo_v1.png >}}
 
 ## FARGO
 
-FARGO takes place each fall in Connecticut.  FARGO 2025 will be October 16-19.
+FARGO (the Fall Annual Recreational Gambling Outing)
+takes place each fall in Connecticut.  FARGO 2025 was October 16-19.
 
 Visit [www.fargopoker.org](http://www.fargopoker.org/) for additional
 information.
@@ -37,21 +44,13 @@ information.
 
 ## ARGEM
 
-ARGEM VI will be held June 20-22, 2025 at Maryland Live!
+ARGEM (Annual Recreational Gambling Excursion Maryland) is
+usually held in the early SUmmer.
+
+ARGEM VI was held June 20-22, 2025 at Maryland Live!
 
 Please visit the [ARGEM website](https://argempoker.com) for more
 information...hope to see you in the future!
-
-{{< hr-clear >}}
-
-{{< logo-left src="/logos/embargo_logo_2025.png" href=/embargo/ >}}
-
-## EMBARGO
-
-[EMBARGO](/embargo/) is held in January or February in or around Las Vegas.
-
-[EMBARGO 2025](/embargo/2025/) is already in the books.  [Results are
-here](/embargo/2025/results/).
 
 {{< hr-clear >}}
 
