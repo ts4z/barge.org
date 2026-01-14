@@ -7,6 +7,7 @@ params:
   orderByTitle: true
   reverseOrder: true
   noDate: true
+  notInMainMenu: true
 aliases:
  - /barge-history/
  - /history
@@ -16,6 +17,7 @@ aliases:
  - /registration
 cover:
   image: cover.jpg
+menu: events
 ---
 Quick Links for BARGE: [2025]({{< relref "2025/" >}})
 &mdash; [2025 Schedule]({{< relref "2025/schedule/" >}})

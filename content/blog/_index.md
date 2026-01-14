@@ -3,7 +3,7 @@ title: Blog
 draft: false
 aliases: 
  - /blogs
-weight: 20
+weight: 99
 ---
 
 BARGE has been around longer than the World Wide Web itself, and in that time

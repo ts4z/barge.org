@@ -150,15 +150,14 @@ SOFTWARE.
             </div>
         </div>
         {{- $currentPage := . }}
-        <ul id="menu">
-            {{- range site.Menus.main }}
-              {{- if not .Page.Params.notInMainMenu }}
+        <div class="menu-container">
+            <ul class="topmenu">
+                {{- range site.Menus.events }}
                 {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
                 {{- $page_url:= $currentPage.Permalink | absLangURL }}
                 {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
                 <li>
-                    <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}"
-                    {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
+                    <a href="{{ .URL | absLangURL }}" title="{{ .Title | default .Name }} {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}" {{- cond $is_search (" accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
                         <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
                             {{- .Pre }}
                             {{- .Name -}}
@@ -166,8 +165,33 @@ SOFTWARE.
                         </span>
                     </a>
                 </li>
-              {{- end }}
-            {{- end }}
-        </ul>
+                {{- end }}
+            </ul>
+            <ul class="topmenu">
+                {{- range site.Menus.main }}
+                {{- if not .Page.Params.notInMainMenu }}
+                {{- $menu_item_url := (cond (strings.HasSuffix .URL "/") .URL (printf "%s/" .URL) ) | absLangURL }}
+                {{- $page_url:= $currentPage.Permalink | absLangURL }}
+                {{- $is_search := eq (site.GetPage .KeyName).Layout `search` }}
+                <li>
+                    <a href="
+                    {{- if .Page.Params.href -}}
+                        {{- .Page.Params.href -}}
+                    {{- else -}}
+                        {{- .URL | absLangURL -}}
+                    {{- end -}}
+                    " title="{{ .Title | default .Name }} 
+                    {{- cond $is_search (" (Alt + /)" | safeHTMLAttr) ("" | safeHTMLAttr ) }}" {{- cond $is_search ("accesskey=/" | safeHTMLAttr) ("" | safeHTMLAttr ) }}>
+                        <span {{- if eq $menu_item_url $page_url }} class="active" {{- end }}>
+                            {{- .Pre }}
+                            {{- .Name -}}
+                            {{ .Post -}}
+                        </span>
+                    </a>
+                </li>
+                {{- end }}
+                {{- end }}
+            </ul>
+        </div>
     </nav>
 </header>

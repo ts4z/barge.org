@@ -4,10 +4,12 @@ draft: false
 aliases: /embargo-info
 weight: -5
 type: event-root
+menu: events
 params:
   orderByTitle: true
   reverseOrder: true
   noDate: true
+  notInMainMenu: true
 ---
 
 Quick Links for EMBARGO: [EMBARGO 2026](/embargo/2026/)
