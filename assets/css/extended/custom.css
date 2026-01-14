@@ -46,8 +46,6 @@ body {
     text-align: center;
 }
 
-.next-event-wrapper-wrapper {}
-
 .next-event-text {
     font-size: large;
     text-align: center;
@@ -174,4 +172,91 @@ body {
 .title-text {
   text-align: center;
   width: auto;
+}
+
+.topmenu {
+    display: flex;
+    list-style: none;
+    word-break: keep-all;
+    overflow-x: auto;
+    white-space: nowrap;
+    line-height: 1.5;
+}
+
+.topmenu li {
+    display: inline-block;
+    margin: auto var(--gap);
+}
+
+.topmenu a {
+    font-size: 16px;
+}
+
+.topmenu .active {
+    font-weight: 500;
+    border-bottom: 2px solid currentColor;
+}
+
+/* Container for both menus */
+.menu-container {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    flex: 1;
+    justify-content: flex-start;
+    align-items: flex-end;
+}
+
+/* On wider screens, menus align horizontally */
+@media screen and (min-width: 1024px) {
+    .menu-container {
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+        align-items: center;
+    }
+}
+
+/* On medium screens (768px-1023px), menus stack but stay right */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+    .menu-container {
+        flex-direction: column;
+        align-items: flex-end;
+    }
+}
+
+/* On narrow screens, allow natural flow */
+@media screen and (max-width: 767px) {
+    .menu-container {
+        width: 100%;
+        align-items: flex-start;
+    }
+
+    .topmenu {
+        width: 100%;
+        justify-content: flex-end;
+    }
+}
+
+.nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    max-width: calc(var(--nav-width) + var(--gap) * 2);
+    margin-inline-start: auto;
+    margin-inline-end: auto;
+    line-height: var(--header-height);
+}
+
+.logo {
+    margin: 0 var(--gap);  /* Changed from auto var(--gap) to 0 var(--gap) */
+    display: flex;
+    flex-wrap: inherit;
+    flex-shrink: 0;
+}
+
+.logo a {
+    font-size: 24px;
+    font-weight: 700;
 }
