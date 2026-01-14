@@ -6,6 +6,8 @@ tags:
  - bcc
 aliases:
  - /chips/bcc
+params:
+  noDate: true
 ---
 
 For twenty [BARGE](/) events,
