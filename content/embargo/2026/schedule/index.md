@@ -5,6 +5,7 @@ date: 2025-12-13
 aliases:
  - /embargo/schedule
  - /schedule1
+ - /embargo/2026/sschedule/
 cover:
   image: logos/embargo_2026_cover.png
 ---
