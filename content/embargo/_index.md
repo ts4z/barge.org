@@ -13,13 +13,10 @@ params:
 ---
 
 Quick Links for EMBARGO: [EMBARGO 2026](/embargo/2026/)
-[Registration](https://barge.regfox.com/embargo-2026)
 [Schedule](/embargo/2026/schedule/)
 [Hotel info](2026/hotel-info/)
 &mdash;
 [Results](/embargo/results/) 
-<!-- &mdash;
-[View Registrations](https://secure.barge.org/embargo2026review.php) -->
 
 {{< figure src="EMBARGO+2020+Attendee+Photo-1920w.jpg" alt="EMBARGO 2020 Attendee Photo" >}}
 
@@ -32,7 +29,6 @@ Las Vegas from January 29-February 1, 2026.
 This is the 15th edition of our off-season complement to our long-running
 [BARGE](/barge/) event.  [Hotel information is available.](2026/hotel-info/)
 [Schedule](/embargo/2026/schedule/) is now available.
-[Registration is open.](https://barge.regfox.com/embargo-2026)
 
 [EMBARGO 2025](/embargo/2025/) was held at Resorts World Las Vegas from January
 16-19, 2025.  [Results](2025/results/) are now available.
