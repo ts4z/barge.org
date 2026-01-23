@@ -40,12 +40,12 @@ on behalf of the Organizers
 
 | Day   | Time  | Eent                                        | Buyin   |
 |-------|-------|---------------------------------------------|---------|
-| Thurs | 6 pm  | HAM &amp; Pineapple                         | $105+35 |
-| Fri   | 11 am | World Chowaha Championship (4 Card Chowaha) | $105+35 |
-|       | 6 pm  | Mix Max Binglaha                            | $105+35 |
-| Sat   | 11 am | NLHE                                        | $145+35 |
-|       | 6 pm  | SECOR                                       | $105+35 |
-| Sun   | 11 am | Drawhama Mix                                | $105+35 |
+| Thurs | 6 pm  | HAM &amp; Pineapple                         | $125+35 |
+| Fri   | 11 am | World Chowaha Championship (4 Card Chowaha) | $125+35 |
+|       | 6 pm  | Mix Max Binglaha                            | $125+35 |
+| Sat   | 11 am | NLHE                                        | $165+35 |
+|       | 6 pm  | SECOR                                       | $125+35 |
+| Sun   | 11 am | Drawhama Mix                                | $125+35 |
 
 **HAM & Pineapple** - This is a limit mix of Hold'em, Archie, Murder, and Crazy Pineapple.  Hat tip to QB!  Hawaiian pizza is optional.
 
