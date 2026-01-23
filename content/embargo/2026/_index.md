@@ -5,11 +5,12 @@ draft: false
 tags:
  - embargo
  - 2026
-date: 2025-10-15
+date: 2026-01-23
 cover:
   image: logos/embargo_2026_cover.png
 ---
 
-EMBARGO 2026 will be held at Resorts World Las Vegas from January 29-31, 2026.
+EMBARGO 2026 will be held at Resorts World Las Vegas from January 29-February 1, 2026.
 
-[Schedule is now available.](schedule/)
+* [Schedule](schedule/)
+* [Structure sheet](2026_EMBARGO_Structures.pdf)
