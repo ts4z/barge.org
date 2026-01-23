@@ -60,7 +60,7 @@ When held live, all EMBARGO events are non-smoking.
 
 ### So Who Are the &quot;Organizers&quot; Anyway?
 
-{{% current-organizers event="EMBARGO" year="2025" %}}
+{{% current-organizers event="EMBARGO" year="2026" %}}
 
 ### But I have a question/complaint/praise/gripe? Who should I contact?
 

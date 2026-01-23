@@ -97,7 +97,7 @@ All BARGE events are non-smoking.
 
 ### So Who Are the "Organizers" Anyway?
 
-{{% current-organizers event="BARGE" year="2025" %}}
+{{% current-organizers event="BARGE" year="2026" %}}
 
 ### I have a question, complaint, or gripe? Who should I contact?
 
