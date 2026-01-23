@@ -74,3 +74,7 @@ Better](/rulebook/omaha-high-low-eight-or-better.html), and
 **Drawmaha Mix** &mdash; This is a limit mix of [Drawmaha](/rulebook/dramaha.html),
 [Drawmaha Zero](/rulebook/dramaha-zero.html), [Drawmaha 49](/rulebook/dramaha-49.html), [Drawmaha 21](/rulebook/dramaha-21.html), and
 [Dramadugi](/rulebook/dramadugi.html).  Hat tip to Grizz!
+
+---
+
+*The [structure sheet](../2026_EMBARGO_Structures.pdf) is now avaialble.*
