@@ -11,7 +11,8 @@ If you are trying to capture the current organizers, cut-and-paste.
 [Stevan Goldman](mailto:goldie@barge.org),
 and
 [Sharon Goldman](mailto:sharon@barge.org)
-with more than occasional advice and
-emergency help from Chuck Weinstock and Peter Secor, {{ .Get "event" }}
-Organizers Emeritus. We also wish to give a "shout out" to BARGE elder
+with more than occasional advice and emergency help from
+Chuck Weinstock,
+{{ .Get "event" }} Organizer Emeritus.
+We also wish to give a "shout out" to BARGE elder
 statesman and former organizer, Mike Zimmers.
