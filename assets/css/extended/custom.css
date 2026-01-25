@@ -260,3 +260,8 @@ body {
     font-size: 24px;
     font-weight: 700;
 }
+
+.unmarked-link {
+    /* we have abused this to underline links differently */
+    box-shadow: none !important;
+}
