@@ -8,6 +8,7 @@ tags:
 date: 2013-03-01
 aliases:
  - /embargo2013info.shtml
+ - /embargo2013info.html
 summary: EMBARGO 2013 was held at Binion's, from January 24th through the 26th.
 ---
 
