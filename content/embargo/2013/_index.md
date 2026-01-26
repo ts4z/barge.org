@@ -7,6 +7,6 @@ tags:
  - 2013
 date: 2013-03-01
 aliases:
- - /barge2013info.shtml
+ - /embargo2013info.shtml
 ---
 
