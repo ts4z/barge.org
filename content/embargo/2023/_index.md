@@ -8,5 +8,8 @@ tags:
 date: 2023-03-01
 cover:
   image: cover.jpg
+summary: EMBARGO 2023 was at Resorts World Hotel and Casino in Las Vegas, Feb 9-11, 2023.
 ---
-EMBARGO 2023 was held at Resorts World Hotel and Casino in Las Vegas.
+EMBARGO 2023 was held at Resorts World Hotel and Casino in Las Vegas,
+from Thursday, February 9, through Saturday, February 11, 2023.
+

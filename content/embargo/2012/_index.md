@@ -9,3 +9,4 @@ type: sequential-section
 aliases:
  - /embargo2012info.html
 ---
+EMBARGO 2012 was held at the Venetian from January 26-28, 2012.

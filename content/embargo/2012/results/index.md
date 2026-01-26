@@ -7,6 +7,8 @@ aliases:
 summary: Complete results for EMBARGO 2012.
 ---
 
+EMBARGO 2012 was held at the Venetian from January 26-28, 2012.
+
 {{< tournament
 buyin="$60"
 event="Pot Limit Omaha"
