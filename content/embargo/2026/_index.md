@@ -14,3 +14,4 @@ EMBARGO 2026 will be held at Resorts World Las Vegas from January 29-February 1,
 
 * [Schedule](schedule/)
 * [Structure sheet](2026_EMBARGO_Structures.pdf)
+* [Results](results/)

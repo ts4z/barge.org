@@ -1,0 +1,80 @@
+---
+title: EMBARGO 2026 Results
+date: 2026-01-20
+draft: false
+aliases:
+ - /embargo-2026
+tags:
+ - embargo
+ - results
+ - 2026
+summary: Complete results for EMBARGO 2026.
+cover:
+  image: logos/embargo_2026_cover.png
+---
+
+EMBARGO 2026 is in progress.
+
+{{< tournament
+    event="HAM & Pineapple"
+    entries="33"
+    prize-pool="$4,125"
+    buyin="$125+35"
+    date="Thursday, January 29, 2026" >}}
+
+|   |                            |      |
+|--:|----------------------------|------|
+| 1 | Nolan “COMMUNITY” Hee      | $874 |
+| 2 | Caryl “Mrstcao” Aronson    | $795 |
+| 3 | Douglas Kitchens           | $761 |
+| 4 | Nancy “NancyR13” Robertson | $628 |
+| 5 | Jesse “Duck Guy” Capps     | $546 |
+| 6 | Larry Bierman              | $307 |
+| 7 | Dan “ADB smalltalk”        | $214 |
+
+
+{{< tournament
+    event="World Chowaha Championship"
+    entries=40
+    prize-pool="$5,000"
+    buyin="$125+35"
+    date="Friday, January 30, 2026" >}}
+
+|   |                            |        |
+|--:|----------------------------|--------|
+| 1 | Zach Jarvis                | $1,059 |
+| 2 | Rich “MajorAceHole” Vehlow | $1,032 |
+| 3 | Caryl “Mrstcao” Aronson    | $925   |
+| 4 | Dan “dann” Nussbaum        | $814   |
+| 5 | Nolan “COMMUNITY” Hee      | $500   |
+| 6 | Larry Bierman              | $350   |
+| 7 | David “Heldar” Heller      | $160   |
+| 8 | Stephen “Crunch” Daniel    | $160   |
+
+{{< tournament
+    event="Mix Max Binglaha"
+    buyin="$125+35"
+    date="Friday, January 30, 2026" >}}
+
+In progress.
+
+{{< tournament
+    event="No Limit Hold'em"
+    buyin="$165+35"
+    date="Saturday, January 31, 2026" >}}
+
+TBD
+
+{{< tournament
+    event="SECOR"
+    buyin="$125+35"
+    date="Saturday, January 31, 2026" >}}
+
+TBD
+
+{{< tournament
+    event="Drawmaha Mix"
+    buyin="$125+35"
+    date="Sunday, February 1, 2026" >}}
+
+TBD
