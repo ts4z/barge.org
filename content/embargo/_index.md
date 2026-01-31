@@ -14,9 +14,9 @@ params:
 
 Quick Links for EMBARGO: [EMBARGO 2026](/embargo/2026/)
 [Schedule](/embargo/2026/schedule/)
-[Hotel info](2026/hotel-info/)
+[Results](/embargo/2026/results/) 
 &mdash;
-[Results](/embargo/results/) 
+[All Results](/embargo/results/) 
 
 {{< figure src="EMBARGO+2020+Attendee+Photo-1920w.jpg" alt="EMBARGO 2020 Attendee Photo" >}}
 
