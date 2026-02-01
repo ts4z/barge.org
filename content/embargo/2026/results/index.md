@@ -70,16 +70,38 @@ EMBARGO 2026 is in progress.
 {{< tournament
     event="No Limit Hold'em"
     buyin="$165+35"
+    entries=47
+    prize-pool="$7,755"
     date="Saturday, January 31, 2026" >}}
 
-TBD
+|   |                             |        |
+|--:|-----------------------------|--------|
+| 1 | Jim Anderson                | $1,755 |
+| 2 | Larry Bierman               | $1,755 |
+| 3 | Rich “MajorAceHole” Vehlow  | $1,318 |
+| 4 | Asya “AH-see-ya” Kamsky     | $1,008 |
+| 5 | Rich “Omaholic” Bremer      | $776   |
+| 6 | Chris “SharkBait” Kluchman  | $543   |
+| 7 | Ken Hinton                  | $200   |
+| 8 | Dan “ADB smalltalk” Goldman | $200   |
+| 9 | Carol “CKBWoP” Anderson     | $200   |
 
 {{< tournament
     event="SECOR"
     buyin="$125+35"
+    entries=41
+    prize-pool="$5,125"
     date="Saturday, January 31, 2026" >}}
 
-TBD
+|   |                             |        |
+|--:|-----------------------------|--------|
+| 1 | Jared “Mr3putt” Anderson    | $1,423 |
+| 2 | Dan Kleinberg               | $1,240 |
+| 3 | Dan “ADB smalltalk” Goldman | $844   |
+| 4 | Barry “Mr. Raise” Kornspan  | $639   |
+| 5 | Scott “Bwana” Byron         | $485   |
+| 6 | Carol “CKBWoP” Anderson     | $332   |
+| 7 | Rebecca “Redbird77” Kerl    | $162   |
 
 {{< tournament
     event="Drawmaha Mix"
