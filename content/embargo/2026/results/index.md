@@ -106,6 +106,15 @@ EMBARGO 2026 is in progress.
 {{< tournament
     event="Drawmaha Mix"
     buyin="$125+35"
+    entries=27
+    prize-pool="$3,375"
     date="Sunday, February 1, 2026" >}}
 
-TBD
+|   |                        |        |
+|--:|------------------------|--------|
+| 1 | Stephanie Anderson     | $1,182 |
+| 2 | Dean “MrBookworm” Kerl | $778   |
+| 3 | John Berdahl           | $542   |
+| 4 | Peter Qiu              | $407   |
+| 5 | Dan “dann” Nussbaum    | $306   |
+| 6 | Dan Kleinberg          | $160   |
