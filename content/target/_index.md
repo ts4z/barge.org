@@ -8,7 +8,7 @@ params:
   noDate: true
   notInMainMenu: true
 cover:
-  image: logos/target-cover.png
+  image: logos/target.png
 ---
 
 TARGET 2025 Cancelled
