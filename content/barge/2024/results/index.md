@@ -18,6 +18,7 @@ cover:
     event="No Limit Hold'em & Pot Limit Omaha Double Board Bomb Pot"
     parentheticals="(with rebuys)"
     prizepool="$2,145"
+    image="dbbp_dan_goldman.jpg"
     players="23" >}}
 
 There were a total of 34 total rebuys and add-ons, for a total of $2,040 to be
@@ -71,6 +72,7 @@ prizepool="$7,035" >}}
 {{< tournament
     event="Blackjack"
     players=10
+    image="blackjack_kyle_minnis.jpg"
     prizepool="$500" >}}
 
 |   |                                    |      |
@@ -102,6 +104,7 @@ prizepool="$7,035" >}}
 {{< tournament
     event="No Limit Funbook Hold'em"
     entries="54"
+    image="funbook_dan_nussbaum.jpg"
     prizepool="$5,670" >}}
 
 |   |                                               |      |
@@ -120,6 +123,7 @@ prizepool="$7,035" >}}
     event="Triple Stud Shootout"
     parentheticals="(no reentry)"
     entries=48
+    image="tss_rich_bremer.jpg"
     prizepool="$3,600" >}}
 
 
@@ -141,6 +145,7 @@ prizepool="$7,035" >}}
 {{< tournament
 event="Chinese Poker Mix"
     entries="12"
+    image="cpm_eric_schneller.jpg"
     prizepool="$900" >}}
 
 |   |                                             |      |
@@ -155,6 +160,7 @@ event="Chinese Poker Mix"
     event="5 Card Pot Limit Omaha"
     parentheticals="(with lammers) (reentry permitted)"
     entries="54"
+    image="5plo_rick_mombourquette.jpg"
     prizepool="$5,670" >}}
 
 |   |                                                 |        |
@@ -172,6 +178,7 @@ event="Chinese Poker Mix"
 {{< tournament 
     event="Mike Sexton Original TOC-Style"
     players=78
+    image="toc_jesse_capps.jpg"
     prizepool="$9.360" >}}
 
 |    |                                           |        |
