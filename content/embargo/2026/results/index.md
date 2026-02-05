@@ -13,13 +13,12 @@ cover:
   image: logos/embargo_2026_cover.png
 ---
 
-EMBARGO 2026 is in progress.
-
 {{< tournament
     event="HAM & Pineapple"
     entries="33"
     prize-pool="$4,125"
     buyin="$125+35"
+    image="ham_pineapple_nolan_hee.jpg"
     date="Thursday, January 29, 2026" >}}
 
 |   |                            |      |
@@ -38,6 +37,7 @@ EMBARGO 2026 is in progress.
     entries=40
     prize-pool="$5,000"
     buyin="$125+35"
+    image="chowaha_zach_jarvis.jpg"
     date="Friday, January 30, 2026" >}}
 
 |   |                            |        |
@@ -72,6 +72,7 @@ EMBARGO 2026 is in progress.
     buyin="$165+35"
     entries=47
     prize-pool="$7,755"
+    image="nlhe_jim_anderson.jpg"
     date="Saturday, January 31, 2026" >}}
 
 |   |                             |        |
@@ -108,6 +109,7 @@ EMBARGO 2026 is in progress.
     buyin="$125+35"
     entries=27
     prize-pool="$3,375"
+    image="dramaha_stephanie_anderson.jpg"
     date="Sunday, February 1, 2026" >}}
 
 |   |                        |        |
