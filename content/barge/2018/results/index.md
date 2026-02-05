@@ -201,6 +201,7 @@ tags:
 {{< tournament
     event="No Limit Hold'em Main Event"
     players=128
+    image="nlhe_bingo.jpg"
     prize-pool=$15,616 >}}
 
 |    |                                         |        |
