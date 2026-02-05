@@ -245,6 +245,7 @@ Team Unlawful won an additional $40 first place prize per player.
 {{< tournament
     event="3 Hand Holdem"
     entries=42
+    image="3hh_rich_bremer.jpg"
     prize-pool="$3,360" >}}
 
 |   |                                     |        |
@@ -276,6 +277,7 @@ Team Unlawful won an additional $40 first place prize per player.
 {{< tournament
     event=KoMex
     entries=16
+    image="komex_randal_hennemuth.jpg"
     prize-pool="$1,280" >}}
 
 |   |                                       |      |
@@ -289,6 +291,7 @@ Team Unlawful won an additional $40 first place prize per player.
 {{< tournament
     event="Mike Sexton Original TOC-Style"
     entries=68
+    image="toc_russ_fox.jpg"
     prize-pool="$8,500" >}}
 
 |   |                                              |        |
@@ -317,6 +320,7 @@ Team Unlawful won an additional $40 first place prize per player.
 | 5 | Chris &quot;SharkBait&quot; Kluchman      | $125 |
 
 {{< tournament
+    image="sot_dan_goldman.jpg"
     event="Super Old-Timer No Limit Holdem"
     entries=20
     prize-pool="$2,000" >}}
@@ -331,6 +335,7 @@ Team Unlawful won an additional $40 first place prize per player.
 {{< tournament
     event="No Limit Holdem Main Event"
     entries="98"
+    image="nlhe_rich_bremer.jpg"
     prize-pool="$13,720" >}}
 
 |    |                                        |        |
