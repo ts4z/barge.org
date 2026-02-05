@@ -10,7 +10,7 @@ tags:
  - 2024
  - results
 cover:
- image: logos/barge_2024_cover.png
+ image: logos/barge_2024.png
 ---
 
 {{< tournament

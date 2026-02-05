@@ -7,7 +7,7 @@ aliases:
  - /schedule1
  - /embargo/2026/sschedule/
 cover:
-  image: logos/embargo_2026_cover.png
+  image: logos/embargo_logo_2026.png
 ---
 
 {{< as-seen-on-the-barge-list >}}

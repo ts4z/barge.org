@@ -10,7 +10,7 @@ tags:
  - 2026
 summary: Complete results for EMBARGO 2026.
 cover:
-  image: logos/embargo_2026_cover.png
+  image: logos/embargo_logo_2026.png
 ---
 
 {{< tournament

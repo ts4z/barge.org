@@ -265,3 +265,17 @@ body {
     /* we have abused this to underline links differently */
     box-shadow: none !important;
 }
+
+/* Cover image constraints */
+.entry-cover {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.entry-cover img {
+    max-height: 25vh;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+}

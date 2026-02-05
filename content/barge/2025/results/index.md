@@ -10,7 +10,7 @@ tags:
  - 2025
  - results
 cover:
- image: logos/barge_2025_cover.png
+ image: logos/barge_2025.png
 ---
 
 {{< tournament

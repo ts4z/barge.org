@@ -7,7 +7,7 @@ tags:
  - 2026
 date: 2026-01-23
 cover:
-  image: logos/embargo_2026_cover.png
+  image: logos/embargo_logo_2026.png
 ---
 
 EMBARGO 2026 was held at Resorts World Las Vegas from January 29-February 1, 2026.

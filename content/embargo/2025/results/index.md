@@ -10,7 +10,7 @@ tags:
  - 2025
 summary: Complete results for EMBARGO 2025.
 cover:
-  image: logos/embargo_2025_cover.png
+  image: logos/embargo_logo_2025.png
 ---
 
 {{< tournament
