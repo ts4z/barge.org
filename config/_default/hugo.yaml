@@ -33,8 +33,9 @@ params:
   nextEvents:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: "https://atlargepoker.com/"
-      text: ATLARGE @ Borgata &mdash; Apr 16-19
-
+      text: "ATLARGE '26 @ Borgata &mdash; Apr 16-19"
+    - link: "/barge/2026/"
+      text: "BARGE '26 @ Orleans &mdash; July 20-25"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.  As with
