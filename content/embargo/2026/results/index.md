@@ -94,6 +94,12 @@ cover:
     prize-pool="$5,125"
     date="Saturday, January 31, 2026" >}}
 
+This event, named for Peter Secor, was a limit mix of [Stud](/rulebook/stud.html), [Stud 8 or
+Better](/rulebook/stud-high-low-eight-or-better.html), [Chowaha (2 card high
+only)](/rulebook/chowaha.html), [Omaha 8 or
+Better](/rulebook/omaha-high-low-eight-or-better.html), and
+[Razz](/rulebook/razz.html).
+
 |   |                             |        |
 |--:|-----------------------------|--------|
 | 1 | Jared “Mr3putt” Anderson    | $1,423 |
