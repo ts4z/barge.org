@@ -196,6 +196,7 @@ event="Chinese Poker Mix"
 {{< tournament
     event="No Limit Holdem Main Event"
     players="99"
+    image="nlhe_tim_showalter.jpg"
     prizepool="$13,365" >}}
 
 |    |                                           |        |
