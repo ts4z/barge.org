@@ -19,7 +19,7 @@ tags:
 |   |                                          |        |
 |--:|------------------------------------------|--------|
 | 1 | Rich Strauss                             | $1,410 |
-| 2 | Rick &quot;Rick M&quot; Mombourquette    | $1.080 |
+| 2 | Rick &quot;Rick M&quot; Mombourquette    | $1,080 |
 | 3 | John &quot;SciFiWriter&quot; Campbell    | $800   |
 | 4 | Stephen &quot;Bozo&quot; Blackstock      | $610   |
 | 5 | Masanobu &quot;MASA&quot; Fujioka        | $470   |
@@ -132,13 +132,13 @@ tags:
 {{< tournament
     event="TOC-Style"
     players=117
-    prize-pool=$11.934 >}}
+    prize-pool=$11,934 >}}
 
 |    |                              |        |
 |---:|------------------------------|--------|
 |  1 | Mary Massey                  | $2,572 |
 |  2 | Corey Imsdahl                | $2,572 |
-|  3 | Scott Byron                  | $1.670 |
+|  3 | Scott Byron                  | $1,670 |
 |  4 | Monte Christensen            | $1,325 |
 |  5 | Barbara Jones Zangaro &nbsp; | $1,075 |
 |  6 | Dan Nussbaum                 | $835   |
