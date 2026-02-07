@@ -56,6 +56,7 @@ cover:
     buyin="$125+35"
     entries=30
     prize-pool="$3,750"
+    image="binglaha_christian_jones.jpg"
     date="Friday, January 30, 2026" >}}
 
 |   |                                    |        |
@@ -92,6 +93,7 @@ cover:
     buyin="$125+35"
     entries=41
     prize-pool="$5,125"
+    image="secor_jared_anderson.jpg"
     date="Saturday, January 31, 2026" >}}
 
 This event, named for Peter Secor, was a limit mix of [Stud](/rulebook/stud.html), [Stud 8 or
@@ -126,3 +128,7 @@ Better](/rulebook/omaha-high-low-eight-or-better.html), and
 | 4 | Peter Qiu              | $407   |
 | 5 | Dan “dann” Nussbaum    | $306   |
 | 6 | Dan Kleinberg          | $160   |
+
+----
+
+All pictures on this page by Rodney Chen.
