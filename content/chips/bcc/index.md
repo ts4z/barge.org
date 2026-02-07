@@ -5,7 +5,7 @@ tags:
  - chips
  - bcc
 aliases:
- - /chips/bcc
+ - /chips/reference/bcc/
 params:
   noDate: true
 ---
