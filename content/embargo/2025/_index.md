@@ -12,3 +12,5 @@ cover:
 
 EMBARGO 2025 was held at Resorts World Las Vegas from January 16-19, 2025.
 
+We had an extra event on Sunday morning, stretching the weekend a little
+longer.  This was our first Sunday event.
