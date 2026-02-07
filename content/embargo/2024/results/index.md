@@ -92,3 +92,7 @@ cover:
 | 5 | Karen &ldquo;99/LRC&rdquo; Adams    | $300   |
 | 6 | Ken &ldquo;QB&rdquo; Kubey          | $150   |
 | 7 | Kirk &ldquo;RogueRat&rdquo; Oshiro  | $100   |
+
+----
+
+All pictures on this page taken by Rodney Chen.
