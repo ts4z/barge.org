@@ -21,9 +21,9 @@ fun.
 
 ## BCC History
 
-### 2001
+### Genesis
 
-In March 2001, the Barge Chip Committee was formed. At that time, it appeared that the BARGE
+In March 2001, the Barge Chip Committee was formed. It appeared that the BARGE
 2000 NLHE champion was unlikely to participate in the creation of BARGE chips,
 so a group of RGPers took the reigns and formed the BCC. The founding members
 were Randy Collack, Scott Harker, Andy Hughes, David Lawful, Patrick Milligan,
@@ -59,8 +59,10 @@ somewhere around 2017.
 
 #### BCC Bust-Out Chips
 
-From 2004 until 2015, the BCC members made bust-out chips.  Images of these are
-available below.
+BCC members made bust-out chips to give away when they were eliminated from a
+tourament.  Those chips were produced in three batches in
+[2004](2004-2007-bust-out-chips), [2008](2008-2011-bust-out-chips), and
+[2012](2012-2015-bust-out-chips).
 
 ### 2020: End of the BCC
 
