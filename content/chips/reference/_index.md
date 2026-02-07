@@ -9,6 +9,9 @@ itemsOnTop: true
 We have various pieces of reference material available here of interest to
 those making chips, as well as others.
 
+The [BARGE Chip Committee](../bcc/) page has some history about the folks who
+help make chips.
+
 ### Chip Links
 
 * [Casino Chips &amp; Gaming Tokens Collectors Club](http://www.ccgtcc.com/)
