@@ -38,7 +38,7 @@ on behalf of the Organizers
 
 *****
 
-| Day   | Time  | Eent                                        | Buyin   |
+| Day   | Time  | Event                                        | Buyin   |
 |-------|-------|---------------------------------------------|---------|
 | Thurs | 6 pm  | HAM &amp; Pineapple                         | $125+35 |
 | Fri   | 11 am | World Chowaha Championship (4 Card Chowaha) | $125+35 |
