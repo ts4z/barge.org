@@ -1,5 +1,5 @@
 ---
-title: "BARGE Welcome Chips (2017)"
+title: "2017 BARGE Welcome Chips"
 tags:
  - 2017
  - chips
@@ -9,12 +9,13 @@ cover:
   image: barge_welcome_detail.png
 large: barge_welcome.png
 pdf: barge_welcome.pdf
-weight: 1
 summary: >-
  These chips were produced as giveaways to invite more people to come to BARGE.
 ---
 
 These chips were produced as giveaways to invite more people to come to BARGE.
+
+These were made in addition to the usual tournament set.
 
 Ron Grossberg came up with the concept of a BARGE Welcome chip shortly after
 the end of BARGE 2016.  These are something that BARGErs could hand out, like a
@@ -30,4 +31,4 @@ and a Hold'em board with Presto! (5♥5♠) rivering the nuts against A♥A♠, 
 
 Both red and black chips were designed.  A total of 2000 chips were ordered
 (1000 red and 1000 black), paid for out of the BARGE fund.  At BARGE 2017,
-everyone attending received a bag of 10 chips (5 red, 5 black).
+everyone attending received a bag of ten chips (five red, five black).
