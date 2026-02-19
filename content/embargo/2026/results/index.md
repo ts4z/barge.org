@@ -65,8 +65,8 @@ cover:
 | 2 | Dean “MrBookworm” Kerl             | $840   |
 | 3 | Rich “MajorAceHole” Vehlow         | $638   |
 | 4 | Brandon “Drexel” Gerson            | $488   |
-| 5 | Barry “Mr. Raise”                  | $375   |
-| 6 | Kyle “Super-ev”                    | $160   |
+| 5 | Barry “Mr. Raise” Kornspan         | $375   |
+| 6 | Kyle “Super-ev” Minnis             | $160   |
 
 {{< tournament
     event="No Limit Hold'em"
