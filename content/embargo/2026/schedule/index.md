@@ -8,6 +8,7 @@ aliases:
  - /embargo/2026/sschedule/
 cover:
   image: logos/embargo_logo_2026.png
+summary: Event schedule for EMBARGO 2026 (which already happened).
 ---
 
 {{< as-seen-on-the-barge-list >}}
