@@ -6,8 +6,6 @@ tags:
  - barge
  - 2025
 aliases:
- - /barge/schedule
- - /schedule
  - /2025/schedule
 cover:
   image: logos/barge_2025.png
