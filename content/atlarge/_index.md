@@ -4,9 +4,9 @@ summary: The ATLantic city Annual Rec.Gambling Excursion, a yearly spring poker 
 type: event-root
 params:
   notInMainMenu: true
+cover:
+  image: logos/AtLarge_v5.png
 ---
-
-{{< asset-figure src="logos/AtLarge_v5.png" alt="ATLARGE logo" >}}
 
 ## What is "ATLARGE"?
 
