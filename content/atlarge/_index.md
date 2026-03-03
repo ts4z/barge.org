@@ -6,7 +6,7 @@ params:
   notInMainMenu: true
 ---
 
-{{< asset-figure src="logos/AtLarge_v5.png" alt="ATLARGE logo" width="283" >}}
+{{< asset-figure src="logos/AtLarge_v5.png" alt="ATLARGE logo" >}}
 
 ## What is "ATLARGE"?
 
