@@ -1,0 +1,7 @@
+{{- $img := resources.Get (.Get "src") -}}
+{{- if .Get "width" -}}
+  {{- $img = $img.Resize (printf "%sx" (.Get "width")) -}}
+{{- end -}}
+<figure>
+  <img loading="lazy" src="{{ $img.RelPermalink }}" alt="{{ .Get "alt" }}"{{ with .Get "width" }} width="{{ . }}"{{ end }}>
+</figure>
