@@ -6,6 +6,8 @@ params:
   notInMainMenu: true
 ---
 
+{{< figure src="/logos/AtLarge_v5.png" alt="ATLARGE logo" width="283" >}}
+
 ## What is "ATLARGE"?
 
 ATLARGE stands for the ATLantic city Annual Rec.Gambling Excursion. We are a
