@@ -4,10 +4,9 @@ summary: The ATLantic city Annual Rec.Gambling Excursion, a yearly spring poker 
 type: event-root
 params:
   notInMainMenu: true
+cover:
+  image: logos/AtLarge_v5.png
 ---
-
-{{< asset-figure src="logos/AtLarge_v5.png" alt="ATLARGE logo" width="300" >}}
-
 ## What is "ATLARGE"?
 
 ATLARGE stands for the ATLantic city Annual Rec.Gambling Excursion. We are a
