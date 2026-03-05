@@ -33,9 +33,9 @@ and $150 per night on Friday and Saturday. That's the best they'll do. (Ugh).
 
 ## Results
 
-- [TOC-Style (Stud, Omaha 8, Hold'em) Results]({{< ref 2008HOEResults >}})
-- [No-Limit Hold'em Results]({{< ref 2008NLHEResults >}})
-- [Seven Card Stud Hi/Lo Results]({{< ref "20087StudResults" >}})
+- [TOC-Style (Stud, Omaha 8, Hold'em) Results]({{< relref 2008HOEResults >}})
+- [No-Limit Hold'em Results]({{< relref 2008NLHEResults >}})
+- [Seven Card Stud Hi/Lo Results]({{< relref "20087StudResults" >}})
 
 ## What is "ATLARGE"?
 
