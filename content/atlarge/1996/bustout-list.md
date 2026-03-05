@@ -28,7 +28,6 @@ summary: Who busted out, in order.
 | Blackstock, Steve                                 | 3    |
 | Goldberg, Jeff                                    | 2    |
 | Norman, Spiney (tie) {{< br >}} Paul, Barry (tie) | 1    |
-</table>
 
 ## Stud
 
