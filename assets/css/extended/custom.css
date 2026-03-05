@@ -279,3 +279,23 @@ body {
     max-width: 100%;
     height: auto;
 }
+
+.atlg {
+  display: grid;
+  /* Automatically fits as many columns as possible, minimum 200px each */
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem; /* Spacing between tiles */
+  padding: 1rem;
+}
+
+.atlg-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Crops image to fill space, maintaining ratio */
+  object-position: center; /* Ensures center of image is visible */
+  transition: transform 0.3s ease; /* Smooth hover effect */
+}
+
+.atlg image:hover {
+  transform: scale(1.05);
+}
