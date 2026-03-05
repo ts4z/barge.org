@@ -24,7 +24,7 @@ summary: Who busted out, in order.
 | Davis, Mark                                       | 7    |
 | Byron, Scott                                      | 6    |
 | Freeman, Brian                                    | 5    |
-| Mancini, Paul </td>                               | 4    |
+| Mancini, Paul                                     | 4    |
 | Blackstock, Steve                                 | 3    |
 | Goldberg, Jeff                                    | 2    |
 | Norman, Spiney (tie) {{< br >}} Paul, Barry (tie) | 1    |
