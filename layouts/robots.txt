@@ -3,6 +3,7 @@
 User-agent: *
 {{- if hugo.IsProduction | or (eq site.Params.env "production") }}
 Sitemap: {{ .Site.BaseURL }}sitemap.xml
+Disallow: /atlarge/*
 {{- else }}
 Disallow: /
 {{- end }}
