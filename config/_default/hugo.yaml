@@ -23,6 +23,7 @@ params:
     in Las Vegas, and BARGE, Inc., which is a tax exempt Nevada corporation
     operating as a 501(c)(7) not-for-profit social club.
   mainSections:
+    - atlarge
     - barge
     - embargo
     - blog
@@ -44,6 +45,8 @@ params:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     # - link: https://barge.regfox.com/embargo-2026
     #   text: EMBARGO 2026 Registration is Open
+    - link: https://barge.regfox.com/atlarge-2026
+      text: "Register now for ATLARGE 2026!"
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
