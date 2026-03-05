@@ -288,6 +288,7 @@ body {
   padding: 1rem;
 }
 
+/* single image in gallery used on ported ATLARGE pages */
 .atlg-image {
   width: 100%;
   height: 100%;
@@ -296,6 +297,7 @@ body {
   transition: transform 0.3s ease; /* Smooth hover effect */
 }
 
+/* simple image gallery used on ported ATLARGE pages */
 .atlg image:hover {
   transform: scale(1.05);
 }
