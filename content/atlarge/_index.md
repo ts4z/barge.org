@@ -91,7 +91,7 @@ The structure sheets for these tournaments are available here (only not yet).
    $120/$170 to the Borgata and an ATLARGE volunteer will be at the
    registration line to collect the added $10 from each player.
 
-3. Registration Fees ($25 per person) must be paid in advance. In exchange,
+3. Registration Fees ($30 per person) must be paid in advance. In exchange,
    there are trophies for top finishers of each tournament plus you'll get a
    commemorative coin / card protector in person at the event.
 
@@ -167,10 +167,10 @@ there.
 ## Registration Fee
 
 To attend our events and play in our tournaments, everyone must register and
-pay the ATLARGE registration fee of $25. For your $25 you'll get a special
+pay the ATLARGE registration fee of $30. For your $30 you'll get a special
 gift and memento - which for years has been a custom coin / card protector.
 
-The $25 registration fee is paid as part of registration. Before each ATLARGE
+The $30 registration fee is paid as part of registration. Before each ATLARGE
 tournament, each player will pay $120 (or $170 on Saturday) to the Borgata and
 $10 to the ATLARGE dealer toke pool, both of which will be collected when
 registering for our tournaments.
@@ -178,5 +178,5 @@ registering for our tournaments.
 ## Firm Deadline
 
 The registration deadline is noon Eastern time on Monday, April 13, 2026. If
-you have not registered and paid your $25 registration fee by that Monday
+you have not registered and paid your $30 registration fee by that Monday
 before ATLARGE, you will NOT be able to attend. Please be guided accordingly.
