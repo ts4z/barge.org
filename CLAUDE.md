@@ -75,6 +75,10 @@ Content pages use Hugo [Page Bundles](https://gohugo.io/content-management/page-
 
 Global/static assets (logos, etc.) live in `static/` and are referenced by absolute path.
 
+The static directory also includes:
+- "rulebook", which is not maintained by Hugo or this repository
+- "atlarge", which is content that has not yet been migrated
+
 ### Front Matter Conventions
 
 All pages require `title` and (for regular pages) `date` in YYYY-MM-DD format. Common optional fields:
