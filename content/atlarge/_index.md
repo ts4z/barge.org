@@ -2,8 +2,8 @@
 title: ATLARGE
 summary: The ATLantic city Annual Rec.Gambling Excursion, a yearly spring poker gathering in Atlantic City.
 type: event-root
-params:
-  notInMainMenu: true
+menu: events
+weight: -7
 cover:
   image: logos/AtLarge_v5.png
 ---
