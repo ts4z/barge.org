@@ -39,7 +39,7 @@ summary: Who busted out, in order.
 | Tiger                                 | 16   |
 | Luca, Joe[^1]                         | 15   |
 | Del, Julius[^1]                       | 14   |
-| (tie)<br>Woods, Jeff<br>Miyake, Keith | 13   |
+| Woods, Jeff (tie) {{< br >}} Miyake, Keith (tie) | 13   |
 | Olson, Clark                          | 12   |
 | Kramer, Bruce                         | 11   |
 | Dalla, Nolan                          | 10   |
