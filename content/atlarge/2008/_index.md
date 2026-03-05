@@ -108,7 +108,7 @@ sufficient interest.
 | Saturday, 11am | No-Limit Hold'em                  | $100 buy-in + $20 house fee = $120 |
 |   Sunday, 11am | Stud/8                            | $100 buy-in + $20 house fee = $120 |
 
-(NOTE: TOC-Style and Stud8 are <i>limit</i> tournaments).
+(NOTE: TOC-Style and Stud8 are *limit* tournaments).
 
 All of these events are NO REBUY events. This does NOT mean that TOM GOODWIN is
 not invited...he is. It means that he, and everyone else, will have to find a
@@ -118,7 +118,7 @@ way to win these tournaments with only the original buy-in chips!
 
 The TAJ will again be providing our group with a r00ling HOSPITALITY SUITE. A
 great place to relax and meet other r00lerz and enjoy an adult beverage or
-two!! </p>
+two!!
 
 ## REGISTRATION FEE
 
@@ -127,7 +127,7 @@ REGISTRATION FEE of $20. For your $20 you'll get a $5 food coupon for use at
 any TAJ restaurant, admission to the any sponsored dinners (if they are
 scheduled), and a special gift and memento. Registrants are also entitled to
 book a room at the TAJ from a block that has been set aside for us, at their
-discounted poker rate. </p>
+discounted poker rate.
 
 The $20 registration fee must be paid in advance. The $120 (per tournament)
 must be paid at the Taj, just prior to the event.
@@ -181,7 +181,7 @@ RESERVATION WILL BE *CANCELLED* WITHOUT NOTICE TO YOU\*\*\*
 Please note that rooms are NOT unlimited. So, if you are a regular poker player
 at the TAJ and are already eligible for their poker rate, please make your
 reservation as you normally would, WITHOUT mentioning ATLARGE. This will help
-save our designated rooms for others. </p>
+save our designated rooms for others.
 
 ## MAILING LIST
 
