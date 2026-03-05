@@ -4,6 +4,11 @@ summary: The ATLantic city Annual Rec.Gambling Excursion, a yearly spring poker 
 type: event-root
 menu: events
 weight: -7
+params:
+  orderByTitle: true
+  reverseOrder: true
+  noDate: true
+  notInMainMenu: true
 cover:
   image: logos/AtLarge_v5.png
 ---
