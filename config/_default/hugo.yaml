@@ -23,6 +23,7 @@ params:
     in Las Vegas, and BARGE, Inc., which is a tax exempt Nevada corporation
     operating as a 501(c)(7) not-for-profit social club.
   mainSections:
+    - atlarge
     - barge
     - embargo
     - blog
