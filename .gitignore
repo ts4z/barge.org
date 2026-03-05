@@ -3,3 +3,4 @@ public
 resources/_gen
 tmp
 .DS_Store
+.claude
