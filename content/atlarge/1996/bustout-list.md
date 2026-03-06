@@ -1,7 +1,7 @@
 ---
-title: Bustout List
-date: 1996-04-01
+date: 1996-04-02
 summary: Who busted out, in order.
+title: Bustout List
 ---
 
 ## NLHE
