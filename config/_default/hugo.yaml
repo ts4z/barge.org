@@ -33,7 +33,7 @@ params:
   # 40 will probably wrap on an iPhone SE.
   nextEvents:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
-    - link: "https://atlargepoker.com/"
+    - link: "/atlarge/"
       text: "ATLARGE '26 @ Borgata &mdash; Apr 16-19"
     - link: "/barge/2026/"
       text: "BARGE '26 @ Orleans &mdash; July 20-25"
