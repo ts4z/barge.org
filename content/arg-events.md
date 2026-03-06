@@ -1,5 +1,5 @@
 ---
-title: "More Events"
+title: "ARG Events"
 draft: false
 weight: 100
 menu: events
@@ -7,12 +7,16 @@ tags:
  - atlarge
  - fargo
  - argem
+ - barge
+ - embargo
+ - target
 aliases:
  - /other-events/
+ - /more-events/
 ---
 
-In addition to [BARGE](/barge/) and [EMBARGO](/embargo/), the \*ARG\* community also
-has events in Atlantic City, Connecticut, Maryland, and Las Vegas!
+Our \*ARG\* community, spawned by the old rec.gambling newsgroup,
+has events in Atlantic City, Connecticut, Maryland, and multiple in Las Vegas!
 
 {{< logo-left href="https://www.atlargepoker.com/" src="/logos/AtLarge_v5.png" >}}
 
@@ -24,7 +28,7 @@ Atlantic City, NJ in the early spring.
 ATLARGE 2026 will take place April 16-19, 2026, at the Borgata.
 
 For more information about ATLARGE, including our email list registration link,
-please visit [www.atlargepoker.com](https://www.atlargepoker.com/)!
+please visit [atlargepoker.com](/atlarge/)!
 
 {{< hr-clear >}}
 
@@ -62,3 +66,28 @@ information...hope to see you in the future!
 satellite into the World Series of Poker.  Created by Ken Kubey in 1994, it is
 the second oldest Rec.Gambling live event (after BARGE, which began in 1991.)
 It is held in Las Vegas during the World Series of Poker.
+
+{{< hr-clear >}}
+
+{{< logo-left href=/barge/ src=/logos/barge_undated.png >}}
+
+## BARGE
+
+Our original and longest-running event, the original meet-up game, has been
+happening since 1991.
+
+BARGE happens each summer in late July or early August.  We'll be back at the
+Orleans in summer 2026.
+
+{{< hr-clear >}}
+
+## EMBARGO
+
+{{< logo-left href="/embargo/" src="/logos/embargo_logo_2026.png" >}}
+
+EMBARGO is a winter mini-BARGE usually hosted early in the year and usually runs some 
+unusual forms of poker.
+
+Our most recent events have been at Resorts World in Las Vegas.
+
+{{< hr-clear >}}
