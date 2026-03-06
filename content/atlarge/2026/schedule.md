@@ -1,7 +1,7 @@
 ---
 title: ATLARGE 2026 Schedule
 date: 2026-03-05
-summary: ATLARGE tournament schedule.
+summary: ATLARGE 2026 is April 16-19th at the Borgata!
 cover:
   image: logos/ATLarge_v5.png
 ---
