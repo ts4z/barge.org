@@ -1,11 +1,11 @@
 ---
-date: 2025-04-07
 summary: ATLARGE 2026 is at the Borgata from April 16-19, 2026.
 tags:
 - atlarge
 - 2025
 title: ATLARGE 2025
 type: sequential-section
+date: 2026-03-05
 ---
 
 ATLARGE 2026 is at the Borgata The Borgata, the largest poker room in Atlantic
