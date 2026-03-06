@@ -20,6 +20,13 @@ hugo server --buildDrafts
 
 The site builds to `public/`. The staging config in `config/staging/hugo.yaml` overrides the base URL to `https://test.bjrge.org/`.
 
+### git
+
+We use `git` for storing the site.  All pushes to main are deployed to production.
+Make small, self-contained git commits whenever possible.
+
+When pulling from remote, use `git pull --rebase`, not `git pull`.
+
 ## Architecture Overview
 
 This is a [Hugo](https://gohugo.io/) static site for BARGE.org, the website for BARGE (Big Annual Rec.Gambling Excursion) and related poker community events. The theme is [PaperMod](https://github.com/adityatelange/hugo-PaperMod), with significant custom layouts extending it.
@@ -68,6 +75,7 @@ Key params to update regularly:
 
 - `params.nextEvents` — List of upcoming events shown sitewide in the header. Keep text under ~40 characters for mobile. Uses `link` and `text` (supports `&mdash;` etc.).
 - `params.ctas` — Call-to-action boxes (yellow) shown on most pages. Typically used for open registration announcements.
+  Keep text under ~40 characters for mobile.  Try to limit the number of CTAs to one, or at most, two.
 
 ### Images and Page Bundles
 
@@ -81,9 +89,12 @@ The static directory also includes:
 
 ### Front Matter Conventions
 
-All pages require `title` and (for regular pages) `date` in YYYY-MM-DD format. Common optional fields:
+All pages require `title` and (for regular pages) `date` in YYYY-MM-DD format. 
+All pages should have a summary.
+
+Common optional fields:
 - `type` — Selects layout (see table above)
-- `draft: false` — Must be explicit to publish
+- `draft: false` — Controls publishing.  `draft: false` is our default.
 - `cover.image` — Cover image filename (page-bundle relative)
 - `summary` — Summary shown in list views
 - `aliases` — URL aliases for redirects
@@ -95,4 +106,28 @@ All pages require `title` and (for regular pages) `date` in YYYY-MM-DD format. C
 Hugo is configured to disallow raw HTML in Markdown. Use shortcodes instead, but try to stick
 to the templates that already exist.
 
-Consult `CHEATSHEET.md` if you want to review Markdown conventions.
+Consult `CHEATSHEET.md` if you want to review Markdown conventions, but this is
+mostly for humans.  Our Markdown is standard, although we do use extensions for
+footnotes, tables, and definition lists.
+
+### Heading conventions
+
+Our template engine will output an h1 at the top of every page that needs one.
+Avoid putting a second h1 (either HTML or Markdown) with a duplicate title, in
+the "page content".  Use the frontmatter title and author fields whenever possible.
+
+### UTF-8
+
+All data is stored in UTF-8.  Older imports may be in Windows character sets in
+Windows-1252 or ISO-8859-1 or ISO-8859-15.  It is safe to assume invalid UTF-8
+sequences are a Windows-1252 character set.  Avoid using the Unicode
+replacement character, or at least highlight it as part of a response to
+refactoring.
+
+### Tags
+
+Canonical (URL) form of tags should be in lower-case.  A tag may have a page in
+the tags directory which will provide a human readable name, such as "Trip
+Report" for the tag `tripreport`.
+
+All pages should be tagged with their relevant year and event.
