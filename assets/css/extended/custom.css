@@ -185,7 +185,7 @@ body {
 
 .topmenu li {
     display: inline-block;
-    margin: auto var(--gap);
+    margin: auto calc(var(--gap) / 2);
 }
 
 .topmenu a {
