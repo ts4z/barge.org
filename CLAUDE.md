@@ -131,3 +131,12 @@ the tags directory which will provide a human readable name, such as "Trip
 Report" for the tag `tripreport`.
 
 All pages should be tagged with their relevant year and event.
+
+### URLs
+
+Whenever possible, use relative URLs.  Use Hugo helpers, including relref, to
+automate the production of URLs.  (Documents may be relocated in time, and
+giving good information to Hugo helps detect errors.)
+
+It is an anti-pattern to link back to the root of the site, although it is
+common in human-authored code.
