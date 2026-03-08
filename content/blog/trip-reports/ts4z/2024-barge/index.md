@@ -9,6 +9,8 @@ tags:
  - tripreport
  - ts4z
 summary: Thanks for the money.
+cover:
+  image: ts4z.jpg
 ---
 
 {{< as-seen-on-the-barge-list >}}
