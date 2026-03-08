@@ -28,15 +28,16 @@ params:
     - embargo
     - blog
     - blog/trip-reports
-    - news
   # Keep these short so they're one line on a phone.  35 characters is great,
   # 40 will probably wrap on an iPhone SE.
   nextEvents:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: "/atlarge/"
-      text: "ATLARGE '26 @ Borgata &mdash; Apr 16-19"
+      text: "ATLARGE April 16-19"
+    - link: "https://argempoker.com/"
+      text: "ARGEM June 12-14"
     - link: "/barge/2026/"
-      text: "BARGE '26 @ Orleans &mdash; July 20-25"
+      text: "BARGE July 20-25"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.  As with
