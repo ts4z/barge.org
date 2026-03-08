@@ -3,7 +3,7 @@ author: Llew
 date: 2023-04-24
 tags:
 - atlarge
-- trip-report
+- tripreport
 - 2023
 title: "ATLARGE 2023 LLew Trip Report"
 cover:
