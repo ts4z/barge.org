@@ -28,6 +28,7 @@ params:
     - embargo
     - blog
     - blog/trip-reports
+    - news
   # Keep these short so they're one line on a phone.  35 characters is great,
   # 40 will probably wrap on an iPhone SE.
   nextEvents:
