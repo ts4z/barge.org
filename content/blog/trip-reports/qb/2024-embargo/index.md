@@ -8,7 +8,7 @@ tags:
  - tripreport
  - embargo
  - 2024
-summary: My 13th EMBARGO. "I'm surrounded by Dans"
+summary: My 12th EMBARGO.  "Montana!"
 cover:
   image: qb.jpg
 ---
