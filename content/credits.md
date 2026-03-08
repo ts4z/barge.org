@@ -1,5 +1,5 @@
 ---
-title: Acknowledgments
+title: Credits
 draft: false
 ---
 
