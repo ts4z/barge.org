@@ -11,6 +11,8 @@ tags:
 summary: >-
   The story of my thirtieth BARGE.
   "It feels very BARGEy right now."
+cover:
+  image: qb.jpg
 ---
 
 {{< as-seen-on-the-barge-list >}}
