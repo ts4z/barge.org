@@ -5,7 +5,7 @@ summary: ARG members are invited!  June 25th&mdash;Poker Community Mixer&mdash;5
 params:
  noDate: true
 aliases:
- - /blog/2025-poker-org-gathering-wsop.md
+ - /blog/2025-poker-org-gathering-wsop
 ---
 
 *Long-time BARGEr and rec.gambler 
