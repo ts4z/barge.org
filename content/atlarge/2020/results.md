@@ -9,7 +9,7 @@ tags:
 draft: false
 ---
 
-This event was hosted on [CraftPoker.com](https://www.craftpoker.com/).  All
+This event was hosted on [Craft Poker](https://www.craftpoker.com/).  All
 tournaments paid in Fun Money, not real money, due to the pandemic.
 
 Results as reported in Crunch's BAAP database.
