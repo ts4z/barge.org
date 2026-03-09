@@ -4,6 +4,8 @@ date: 2025-05-30
 summary: ARG members are invited!  June 25th&mdash;Poker Community Mixer&mdash;5:00pm&ndash;7:00pm
 params:
  noDate: true
+aliases:
+ - /blog/2025-poker-org-gathering-wsop.md
 ---
 
 *Long-time BARGEr and rec.gambler 

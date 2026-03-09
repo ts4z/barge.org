@@ -6,6 +6,8 @@ tags:
  - 2026
 draft: false
 summary: Book EMBARGO rate rooms at Resorts World now!
+aliases:
+ - /embargo/2026/hotel-info.md
 ---
 
 {{< as-seen-on-the-barge-list >}}
