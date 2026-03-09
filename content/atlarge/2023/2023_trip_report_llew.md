@@ -5,7 +5,7 @@ tags:
 - atlarge
 - tripreport
 - 2023
-title: "ATLARGE 2023 LLew Trip Report"
+title: "Llew's ATLARGE 2023 Trip Report"
 cover:
   image: logos/ATLarge_v5.png
 summary: "\"I must say that Cafe Vola lived up to the hype. Everything was excellent.\""
