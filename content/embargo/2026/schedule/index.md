@@ -4,7 +4,6 @@ draft: false
 date: 2025-12-13
 aliases:
  - /embargo/schedule
- - /schedule1
  - /embargo/2026/sschedule/
 cover:
   image: logos/embargo_logo_2026.png

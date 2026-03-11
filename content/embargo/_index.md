@@ -10,6 +10,8 @@ params:
   reverseOrder: true
   noDate: true
   notInMainMenu: true
+aliases:
+ - /schedule1
 ---
 
 Quick Links for EMBARGO: [EMBARGO 2026](/embargo/2026/)
