@@ -11,6 +11,6 @@ date: 2026-03-05
 ATLARGE 2026 is at the Borgata The Borgata, the largest poker room in Atlantic
 City. Our three tournaments will be April 17, 18, and 19.
 
-[Registration is open!](https://barge.regfox.com/atlarge-2026)
+[Registration is open!](https://www.zeffy.com/en-US/ticketing/atlantic-city-meetup-2026-atlarge)
 
 Details are on the [main ATLARGE page]({{% relref "/atlarge" %}}).

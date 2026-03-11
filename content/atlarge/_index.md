@@ -27,7 +27,7 @@ ATLARGE is the New Jersey version of [BARGE](/barge/) (our group's biggest
 event, our annual gathering in Las Vegas in August). Roughly 200 people attend
 BARGE each year, and about 100 attend ATLARGE each year.
 
-Registration for ATLARGE2026 has moved to a new location: {{< new-tab href="https://barge.regfox.com/atlarge-2026" text="click here" >}} to register! (and, if you want to see who is registered, {{< new-tab href="https://secure.barge.org/atlarge2026review.php" text="click here" >}})
+Registration for ATLARGE2026 has moved to a new location: {{< new-tab href="https://www.zeffy.com/en-US/ticketing/atlantic-city-meetup-2026-atlarge" text="click here" >}} to register! (and, if you want to see who is registered, {{< new-tab href="https://secure.barge.org/atlarge2026review.php" text="click here" >}})
 
 Everyone of legal gambling age in New Jersey is welcome to join us at ATLARGE.
 Our *only* requirement is that you register with us in advance, here, on our
