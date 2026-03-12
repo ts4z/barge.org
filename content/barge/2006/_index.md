@@ -6,6 +6,8 @@ tags:
  - barge
  - 2006
 date: 2006-09-01
+cover:
+  image: cover.jpg
 ---
 
 BARGE had some last minute problems finding a home in 2006.  due to licensing
@@ -47,3 +49,9 @@ In an upset, or so Perry insists, Barry Goren beat tiltboy Perry "The Baiter"
 Friedman in the World Roshambo Championship.
 
 Rick "Zbigniew" Bevan was awarded the prize for best chip castle.
+
+---
+
+Cover image: QB (foreground) and Zbigniew (background) build chip castles while
+Frank Brabec tries to just play poker.  [Picture by
+Grizz.](https://www.flickr.com/photos/19086739@N00/223434041/)
