@@ -1,7 +1,6 @@
 ---
 title: EMBARGO
 draft: false
-aliases: /embargo-info
 weight: -5
 type: event-root
 menu: events
@@ -12,6 +11,7 @@ params:
   notInMainMenu: true
 aliases:
  - /schedule1
+ - /embargo-info
 ---
 
 Quick Links for EMBARGO: [EMBARGO 2026](/embargo/2026/)
