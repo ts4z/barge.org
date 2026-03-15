@@ -121,7 +121,7 @@ New Orleans trip. I finally managed to get onto PS.net, which I was unable to
 do in other states. I have been playing the barge_test home games, so at least
 I've gotten a chance to get a feel for the game.
 
-If this had been O8, I would have <i>killed</i> it! I have never seen so many
+If this had been O8, I would have *killed* it! I have never seen so many
 A+ three cards under 7 in my life!! Actually won a hand when a few limped to me
 in the BB and I flopped a wheel. I insta-potted all-in and, of course, everyone
 knew what I had and ran.
