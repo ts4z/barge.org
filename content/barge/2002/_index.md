@@ -25,6 +25,5 @@ Augustine finished third. Mike McBride won the NL hold'em tournament outlasting
 Andrew Prock and Gavin Smith. This was Peter Secor's first BARGE as an
 organizer.
 
-Cover image is Andy Hughes holding his plaque for the History of Poker tournament,
-and taken from [his site](http://nevadacasinochips.com/BARGE02.htm).
-
+Cover image: 2002 Main Event in progress at Binion's Horsehoe. [Picture by
+Goldie.](https://www.flickr.com/photos/11064896@N05/3678467580/in/album-72157620811088386)
