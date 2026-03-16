@@ -4,7 +4,7 @@ title: BARGE 2002 Results
 draft: false
 aliases:
  - /barge-2001
-summary: Complete results for 2001
+summary: Complete results for 2002
 tags:
  - barge
  - 2002
