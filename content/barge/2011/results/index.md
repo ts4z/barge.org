@@ -29,8 +29,6 @@ tags:
 | 8 | Erin Ramsey                          | $180 |
 | 9 | Lynsey Iwamoto                       | $100 |
 
-# foo
-
 {{< tournament
     date="Wednesday. August 3rd, 2011"
     event=Blackjack
@@ -50,8 +48,6 @@ tags:
     entries=20
     prize-pool=$1,000
     date="Tuesday. August 2, 2011" >}}
-
-# foo
 
 |   |                |      |
 |--:|----------------|------|
@@ -108,28 +104,36 @@ tags:
 |                            Chic Natkins | Stud            |
 | Warren &quot;Must Be First&quot; Sander | Stud/8          |
 
-| Thursday  August 4, 2011  |
-| Limit 6 Game&nbsp; |
-| 110 Entries. $8,250 Prize Pool |
+{{< tournament
+    date="Thursday  August 4, 2011"
+    event="Limit 6 Game"
+    entries=110
+    prize-pool="$8,250" >}}
 
-| 1 | Spencer &quot;ADB Zorak&quot; Sun | $2,047 |
-| 2 | David Low | $1,557 |
-| 3 | Arthur Goltz | $1,152 |
-| 4 | Randy &quot;ADB Schmengie&quot; Collack | $902 |
-| 5 |  Sabyl Landrum | $732 |
-| 6 | Guy &quot;Grizz&quot; Berentsen | $572 |
-| 7 | Michael &quot;Big Mike&quot; Klein | $402 |
-| 8 | Ming Lee | $242 |
-| 9 | John Pickles | $162 |
-| 10 | James &quot;JP&quot; Massar | $162 |
-| 11 | Regis Donovan | $112 |
-| 12 | John Anderson | $112 |
-| 13 | Kyle Minnis | $96 |
+|    |                                         |        |
+|----|-----------------------------------------|--------|
+| 1  | Spencer &quot;ADB Zorak&quot; Sun       | $2,047 |
+| 2  | David Low                               | $1,557 |
+| 3  | Arthur Goltz                            | $1,152 |
+| 4  | Randy &quot;ADB Schmengie&quot; Collack | $902   |
+| 5  | Sabyl Landrum                           | $732   |
+| 6  | Guy &quot;Grizz&quot; Berentsen         | $572   |
+| 7  | Michael &quot;Big Mike&quot; Klein      | $402   |
+| 8  | Ming Lee                                | $242   |
+| 9  | John Pickles                            | $162   |
+| 10 | James &quot;JP&quot; Massar             | $162   |
+| 11 | Regis Donovan                           | $112   |
+| 12 | John Anderson                           | $112   |
+| 13 | Kyle Minnis                             | $96    |
 
-| Friday. August 5, 2011  |
-| TOC-Style |
-| 134 Entries. $10,050 Prize Pool |
+{{< tournament
+    date="Friday. August 5, 2011"
+    event="TOC-Style"
+    entries=134
+    prize-pool="$10,050" >}}
 
+|    |                                         |        |
+|----|-----------------------------------------|--------|
 | 1 | Steve Lewin-Berlin | $2,215 |
 | 2 | John &quot;JRX&quot; Reed | $2,215 |
 | 3 | Tim &quot;Timmer&quot; Stine | $1,410 |
@@ -146,10 +150,14 @@ tags:
 | 14 | Cliff &quot;deadhead&quot; Matthews | $100 |
 | 15 | Connie Kellers | $100 |
 
-| Saturday. August 6, 2011  |
-| No Limit Holdem |
-| 172 Entries. $17,200 Prize Pool |
+{{< tournament
+    date="Saturday. August 6, 2011"
+    event="No Limit Holdem"
+    entries=172
+    prize-pool="$17,200" >}}
 
+|    |                                         |        |
+|----|-----------------------------------------|--------|
 | 1 | Rich &quot;Omaholic&quot; Bremer | $4,290 |
 | 2 | Rodney Chen | $3,090 |
 | 3 | Dave Tahajian | $2,230 |
@@ -170,10 +178,14 @@ tags:
 | 18 | Gerald &quot;Gerdog&quot; Peterson | $165 |
 | 19 | David Soussan | $90 |
 
-| Saturday, August 6, 2011  |
-| SO Hold'em |
-| 7 Entries, $140 prize pool |
+{{< tournament
+    date="Saturday, August 6, 2011"
+    event="SO Hold'em"
+    entries=7
+    prize-pool="$140" >}}
 
+|    |                                         |        |
+|----|-----------------------------------------|--------|
 | 1 | Carol Collack | $70 |
 | 2 | Tracy dela Cruz | $40 |
 | 3 | Sandy Stine | $30 |
