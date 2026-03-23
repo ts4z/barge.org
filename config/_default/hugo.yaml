@@ -20,8 +20,9 @@ params:
     - "rulebook"
   description: >-
     This is the home page for the BARGE event in Las Vegas, the EMBARGO event
-    in Las Vegas, and BARGE, Inc., which is a tax exempt Nevada corporation
-    operating as a 501(c)(7) not-for-profit social club.
+    in Las Vegas, the ATLARGE event in Atlantic City, and BARGE, Inc., which is
+    a tax exempt Nevada corporation operating as a 501(c)(7) not-for-profit
+    social club.
   mainSections:
     - atlarge
     - barge
