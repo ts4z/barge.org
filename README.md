@@ -1,17 +1,15 @@
-barge.org web site
-==================
+# barge.org web site
 
 This is the source for the BARGE website.  It utilizes Hugo, with the PaperMod
 theme.
 
-A scrape of barge.org, taken on 23-nov-2024, is in the OLD directory.
-This was used for the initial content.
+A scrape of barge.org, taken on 23-nov-2024, is in the OLD directory.  This was
+used for the initial content.
 
 Any changes to this repo on the `main` branch will be built (via with GitHub
 Actions) and pushed to [www.barge.org](https://www.barge.org/).
 
-How-To
-------
+## How-To
 
 ### Required reading
 
@@ -35,14 +33,14 @@ are just writing articles in Markdown, you might be able to get by with just
 making changes on GitHub, which will be automatically deployed.  Editing
 Markdown is reasonably safe, and if you make a mistake, we can fix it.
 
-If you are just adding/editing files under content/...,
-yeah, you probably don't need to do setup or testing.
+If you are just adding/editing files under content/..., yeah, you probably
+don't need to do setup or testing.
 
 ### Installation, Testing, and Deploying
 
 #### You'll need a system with git and hugo installed.
 
-https://gohugo.io/installation/linux/ might help.  We aren't using any of the
+<https://gohugo.io/installation/linux/> might help.  We aren't using any of the
 fancypants deployment features so the "extended" edition is fine.
 
 ##### Mac
@@ -101,21 +99,20 @@ rsync -avzr public/ ssh.some.server.org:/path/to/destination/
 
 (OK, that command is imperfect, but you get the idea.)
 
-Hugo is a static site generator.  Its output is fully static content.
-We do expect links to be relative to the current site, so it does need to be in the
+Hugo is a static site generator.  Its output is fully static content.  We do
+expect links to be relative to the current site, so it does need to be in the
 domain it's aware of, and at the correct level of the hierarchy.
 
 But no databases, user management, cookies.  Just web pages.  Like it's 1994
 again.  But with @#&#^*! CSS.
 
-File Format
------------
+## File Format
 
 Hugo supports a few file formats.  Let's stick to Markdown and HTML.
 
 All files are supposed to have front matter.  This is bracketed at the top with
-dashes, in YAML format.  This works best if it includes the document title,
-the document date (`YYYY-MM-DD` format), and maybe a summary field.
+dashes, in YAML format.  This works best if it includes the document title, the
+document date (`YYYY-MM-DD` format), and maybe a summary field.
 
 If you write Markdown (`some_filename.md`), you will not have access to the
 full scope of HTML (and this is a feature).  Unlike Markdown in some other
@@ -131,7 +128,7 @@ you *can* bracket a section like this:
     {{< /rawhtml }}}
 ```
 
-... but please avoid doing this, especially for complex elements.  Do _not_ use
+... but please avoid doing this, especially for complex elements.  Do *not* use
 this to modify CSS.
 
 If you write HTML (`some_filename.html`), you are writing only the "body"
@@ -146,9 +143,7 @@ If all you want to do is add br tags, there is a Hugo shortcode for this.
 (These are particularly important for certain trip reports which don't look
 right without hard line breaks.)
 
-
-How Hugo Works
---------------
+## How Hugo Works
 
 Hugo manages CSS and the decoration on the outside of the page (navigation bar,
 tags cross-links, etc).  Without getting into the details, try to follow what
@@ -160,7 +155,8 @@ in-memoriam page.  In general, other pages in that directory will be enumerated
 at the bottom of the index page.
 
 Files that are called "index.md" do not show the pages under that subdirectory,
-but let you put multiple components in that directory.  I believe this is a "page bundle".
+but let you put multiple components in that directory.  I believe this is a
+"page bundle".
 
 Files that are not indexes are just flat files.  These can't have more
 components.
@@ -171,7 +167,7 @@ way.)
 It is OK to reorganize the site, but please provide aliases so the old links
 continue to work.
 
-All files may have a "type".  We have a few different types which render
+All pages may have a "type".  We have a few different types which render
 slightly differently (in particular, in-memoriam, the resources page, and the
 results pages are all different).  See the Hugo documentation for layouts.
 
@@ -180,35 +176,41 @@ Links should be relative, not absolute.  However, for paginated pages (anything
 `relref` shortcode.  If this doesn't happen, Hugo will make broken links.
 Examples of both can be found throughout the input files.
 
-Guidelines
-----------
+## Guidelines
 
-Help reorganize the site to make it easier to keep up to date.  It is OK to
-relocate pages, but as you do,
+Feel free to reorganize the site.  It is OK to relocate pages, but as you do,
 use "aliases" in the front matter.  [Cool links don't
-change.](https://www.w3.org/Provider/Style/URI)  Try to salvage dead
-links by pointing them at the most interesting content.  There are many 
-old links to barge.org floating around on the web, and it is sad to see them
-404.
+change.](https://www.w3.org/Provider/Style/URI) Try to salvage dead links by
+pointing them at the most interesting content.  There are many old links to
+barge.org floating around on the web, and it is sad to see them 404.
 
-We don't have a top-level "/news" directory because everything seemend to
-fit better somewhere else.  For time-sensitive (and time-expiring) articles,
-/blog is a good fit.  For events, note that the event directories will appear
-in the blogroll on the root page.  This is based on some Hugo configuration bits.
-This works great for some things and is terrible for others.
+### Organization
+
+We have a top-level /news directory for things that expire.  This has not been
+well used and is still experimental.  For most articles, /blog is a good fit.
+For events, note that the event directories will appear in the blogroll on the
+root page.  This is based on some Hugo configuration bits.  This works great
+for some things and is terrible for others.
+
+### HTML and Markdown
 
 Files may be in HTML or Markdown.  Whenver possible, prefer Markdown.
 
-Our theme supports raw HTML in line with Markdown.  Use this only as an escape
-mechanism, or when migrating pages from HTML to Markdown format piecemeal.
+Our theme supports raw HTML in line with Markdown via a shortcode.  Use this
+only as an escape mechanism, or when migrating pages from HTML to Markdown
+format piecemeal.
 
-All pages are supposed to have frontmatter headers.  This is the bit between the "---" lines.
-Pages will not work quite correctly if this is omitted.
+### Frontmtter
 
-Make sure every page has a "title" field.
+All pages need frontmatter headers.  This is the bit between the "---" lines.
+Pages will not work correctly if this is omitted.
 
-Write all frontmatter in YAML.  Avoid JSON unless the YAML version looks bad.
-Avoid TOML entirely.
+Make sure every page has a "title" field.  Additionally, most pages will need a
+"summary" field.  When PaperMod renders a card for a link, it will use the
+initial text of a page without a summary, and this usually looks mediocre.
+
+Write all frontmatter in YAML.  JSON might be OK if we had to, but it hasn't
+come up yet.  Avoid TOML entirely.
 
 If you find yourself repeating something, or having trouble styling something
 in Markdown, make a "shortcode" for it.  See `layouts/_shortcodes`.  This is
@@ -218,20 +220,20 @@ likely to confuse; that said, it is better to use a shortcode than raw HTML.
 If you find you need a different layout for a directory, see
 `layouts/title-gallery` for an example.
 
-_Don't_ write a lot of custom HTML, or depend on the details of Markdown.  If
+*Don't* write a lot of custom HTML, or depend on the details of Markdown.  If
 you can't do it with the structure of the documents, make new structure with a
 shortcode.  If you care about the structure of HTML (rare, but it happens) make
 the whole page HTML.
 
-### House style 
+### House style
 
-All results are listed in tables.  All tables are rank, name, amount.  If there is a tie,
-we list the rank multiple times prefixed by "tie".
+All results are listed in tables.  All tables are rank, name, amount.  If there
+is a tie, we list the rank multiple times prefixed by "tie".
 
-All tournament headers for events except ToGa are done with the "tournament" shortcode.
+All tournament headers for events except ToGa are done with the "tournament"
+shortcode.
 
-Gotchas
--------
+## Gotchas
 
 ### Tables
 
@@ -239,13 +241,13 @@ Tables are something of a black magic in Markdown, and not all Markdown
 processors handle them the same way.  Here are the rules that I have found
 relevant for Hugo:
 
-1.  A table must start with a heading (it can be empty).
-2.  A table is divided from its body with a bunch of horizontal lines, like
-    this: `|---|---|---|`.  This makes Hugo see it as a table.  You may specify
-    left- or right-justification of the rows, like this: `|--:|---|---|` This
-    right-justifies all data in the first column, but the other columns will be
-    left-justified.
-3.  No merging rows or columns is permitted.
+1. A table must start with a heading (it can be empty).
+2. A table is divided from its body with a bunch of horizontal lines, like
+   this: `|---|---|---|`.  This makes Hugo see it as a table.  You may specify
+   left- or right-justification of the rows, like this: `|--:|---|---|` This
+   right-justifies all data in the first column, but the other columns will be
+   left-justified.
+3. No merging rows or columns is permitted.
 
 Some editors will see things as tables that Hugo won't.  If you do this wrong,
 Hugo will mangle your table.  The usual gotcha for me is that Hugo requires a
@@ -254,8 +256,32 @@ top heading row on a table, but Emacs doesn't.  Always include this row.
 If you need more complicated tables, that's a use for raw HTML.  This happens
 on schedule pages which have complicated tables.
 
-To Do
------
+### `static` directory
+
+We have a directory called `static` with content that Hugo essentially doesn't
+manage.  It parses it a little for sitemaps, but mostly it copies it over.
+
+These files lack frontmatter, and they are not subject to Hugo's templating.
+
+This is used for a few different purposes:
+
+- Unmanaged HTML lives in here.  This includes:
+
+  - The rulebook HTML is managed via mdbook and its own GitHub repo.
+  - Migrated content that hasn't been cleaned up may be in static.
+- A few unmanaged PDFs live here.  These include `rulebook.pdf` as well as
+  another one that is likely a duplicate and misplaced.
+- A few simple client-side redirects are managed via the static directory.
+  These include old links to `/rules/`.
+- Some unmanaged content still lives in the static directory.  This is
+  particularly true for `atlarge`, which still has some old logos, etc., that
+  should be cleaned up.
+
+In general, content should *not* go into static.  Hugo won't validate it, and
+it's hard to make it mesh with the rest of the site.  It is best if we clean
+this up.
+
+## To Do
 
 Improve README.md further.
 
@@ -263,6 +289,5 @@ The "tournament" shortcode has a lot of flexibility to allow for transition
 from older results.  I'd like to get rid of this.  (Sometimes we say "players",
 sometimes we say "entries", sometimes we say "entrants".  We should pick one.)
 
-The tournament shortcode allows multiple levels of h-headings, but some
-of the results don't use this (relevant for ToGa).  Fix.
-
+The tournament shortcode allows multiple levels of h-headings, but some of the
+results don't use this (relevant for ToGa).  Fix.
