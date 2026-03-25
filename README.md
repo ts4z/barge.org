@@ -62,6 +62,14 @@ go install gohugoio/hugo@latest   # if on debian
 git submodule update --init --recursive
 ```
 
+Note that not everyone uses Linux, so avoid filenames that differ only by case
+and filenames that contain scary punctuation characters like `:` and `?`.
+(Tim: this means you.)
+
+##### Windows
+
+Ask Doug.
+
 #### Clone this repository
 
 On GitHub, just above and to the right of this text area, go to the Code
@@ -200,6 +208,19 @@ Our theme supports raw HTML in line with Markdown via a shortcode.  Use this
 only as an escape mechanism, or when migrating pages from HTML to Markdown
 format piecemeal.
 
+### Markdown style
+
+HTML entities appear in a lot of our Markdown, but do not need to.  Unicode
+characters are fine.  The exception is ampersand, which is doomed to be &amp;
+forever.
+
+Markdown should be indented with a 79-character margin.
+
+Numbered lists should be numbered to be human-readable.  Bullet lists should be
+marked with `-`.  Heading should be marked with `#` charcters, no matter how
+much Tim likes underlining them.  Use one asterisk (earmuffs) for italics, two
+for bold.  Underlining is right out.
+
 ### Frontmtter
 
 All pages need frontmatter headers.  This is the bit between the "---" lines.
@@ -266,7 +287,6 @@ These files lack frontmatter, and they are not subject to Hugo's templating.
 This is used for a few different purposes:
 
 - Unmanaged HTML lives in here.  This includes:
-
   - The rulebook HTML is managed via mdbook and its own GitHub repo.
   - Migrated content that hasn't been cleaned up may be in static.
 - A few unmanaged PDFs live here.  These include `rulebook.pdf` as well as
@@ -286,8 +306,9 @@ this up.
 Improve README.md further.
 
 The "tournament" shortcode has a lot of flexibility to allow for transition
-from older results.  I'd like to get rid of this.  (Sometimes we say "players",
-sometimes we say "entries", sometimes we say "entrants".  We should pick one.)
+from older results.  I'd like to get rid of this, although it might be useful
+in rebuy tournaments.  (Sometimes we say "players", sometimes we say "entries",
+sometimes we say "entrants".  Sometimes those are different things.)
 
 The tournament shortcode allows multiple levels of h-headings, but some of the
 results don't use this (relevant for ToGa).  Fix.
