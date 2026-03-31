@@ -22,7 +22,7 @@ Spencer &quot;Zorak&quot; Sun. The winner of this event was Tony
 &quot;Karma&quot; Goldstein. Peter &quot;Fold'em&quot; Secor finished second,
 and Jeff Siegel finished third. I believe the History of Poker event was first
 played at this BARGE, featuring alternating rounds of 5-card stud, 5-card draw
-    high, and 5-card draw lowball. After the early rounds,> 5-card stud was removed
+high, and 5-card draw lowball. After the early rounds, 5-card stud was removed
 and the other games were played no-limit. In the final rounds, only lowball was
 played. Michael Hunter, Stephen Landrum, and Bill Chen chopped the prize pool
 when it got to 3-handed.
