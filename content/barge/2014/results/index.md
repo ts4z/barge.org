@@ -1,14 +1,16 @@
 ---
 Summary: Complete results for BARGE 2014.
-date: 2014-08-15
-title: BARGE 2014 Results
-draft: false
 aliases:
- - /barge-2014
+- /barge-2014
+cover:
+  image: logos/barge_2014_logo.png
+date: 2014-08-15
+draft: false
 tags:
- - barge
- - 2014
- - results
+- barge
+- 2014
+- results
+title: BARGE 2014 Results
 ---
 
 {{< tournament

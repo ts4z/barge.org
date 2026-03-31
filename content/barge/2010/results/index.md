@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2010
-date: 2010-08-15
-title: BARGE 2010 Results
-draft: false
 aliases:
- - /barge-2010
+- /barge-2010
+cover:
+  image: logos/barge_2010_logo.png
+date: 2010-08-15
+draft: false
+summary: Complete results for 2010
 tags:
- - barge
- - 2010
- - results
+- barge
+- 2010
+- results
+title: BARGE 2010 Results
 ---
 
 {{< tournament

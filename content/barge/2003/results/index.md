@@ -1,14 +1,16 @@
 ---
-date: 2003-09-01
-title: BARGE 2003 Results
-draft: false
 aliases:
- - /barge-2003
+- /barge-2003
+cover:
+  image: logos/barge_2003_logo.png
+date: 2003-09-01
+draft: false
 summary: Complete results for BARGE 2003.
 tags:
- - barge
- - 2003
- - results
+- barge
+- 2003
+- results
+title: BARGE 2003 Results
 ---
 
 {{< tournament

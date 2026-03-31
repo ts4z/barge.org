@@ -1,16 +1,16 @@
 ---
-summary: Complete results for 2019
-date: 2019-08-01
-title: BARGE 2019 Results
-draft: false
 aliases:
- - /barge-2019
-tags:
- - barge
- - 2019
- - results
+- /barge-2019
 cover:
-  image: 2019-gvr-chips.png
+  image: logos/barge_2019_logo.png
+date: 2019-08-01
+draft: false
+summary: Complete results for 2019
+tags:
+- barge
+- 2019
+- results
+title: BARGE 2019 Results
 ---
 
 {{< tournament

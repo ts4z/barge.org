@@ -1,10 +1,12 @@
 ---
-summary: Complete results for 2015
-date: 2015-08-15
-title: BARGE 2015 Results
-draft: false
 aliases:
- - /barge-2015
+- /barge-2015
+cover:
+  image: logos/barge_2015_logo.png
+date: 2015-08-15
+draft: false
+summary: Complete results for 2015
+title: BARGE 2015 Results
 ---
 
 {{< tournament

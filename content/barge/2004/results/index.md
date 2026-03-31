@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2004
-date: 2004-09-01
-title: BARGE 2004 Results
-draft: false
 aliases:
- - /barge-2004
+- /barge-2004
+cover:
+  image: logos/barge_2004_logo.png
+date: 2004-09-01
+draft: false
+summary: Complete results for 2004
 tags:
- - barge
- - 2004
- - results
+- barge
+- 2004
+- results
+title: BARGE 2004 Results
 ---
 
 {{< tournament

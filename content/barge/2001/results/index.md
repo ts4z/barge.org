@@ -1,14 +1,16 @@
 ---
-date: 2001-09-01
-title: BARGE 2001 Results
-draft: false
 aliases:
- - /barge-2001
+- /barge-2001
+cover:
+  image: logos/barge_2001_logo.png
+date: 2001-09-01
+draft: false
 summary: Complete results for 2001
 tags:
- - barge
- - 2001
- - results
+- barge
+- 2001
+- results
+title: BARGE 2001 Results
 ---
 
 {{< tournament
