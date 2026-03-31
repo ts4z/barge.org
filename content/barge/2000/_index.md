@@ -12,6 +12,12 @@ aliases:
   - /barge2kpictures.html
 ---
 
+{{< figure
+    src="barge_2000_logo.png"
+    class="floatleft40"
+    alt="BARGE 2000 logo from Patrick Milligan's pins."
+    >}}
+
 The year 2000 marked BARGE's return to the Horseshoe. Jeff Bartoszewicz won the
 NL hold'em tournament, John &quot;JRX&quot; Reed finished second, and Stephen
 &quot;Bozo&quot; Blackstock finished 3rd. Chris &quot;Jesus&quot; Ferguson was
