@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2007
-date: 2007-09-01
-title: BARGE 2007 Results
-draft: false
 aliases:
- - /barge-2007
+- /barge-2007
+cover:
+  image: logos/barge_2007_logo.png
+date: 2007-09-01
+draft: false
+summary: Complete results for 2007
 tags:
- - barge
- - 2007
- - results
+- barge
+- 2007
+- results
+title: BARGE 2007 Results
 ---
 
 {{< tournament

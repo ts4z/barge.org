@@ -1,14 +1,16 @@
 ---
-date: 2002-09-01
-title: BARGE 2002 Results
-draft: false
 aliases:
- - /barge-2001
+- /barge-2001
+cover:
+  image: logos/barge_2002_logo.png
+date: 2002-09-01
+draft: false
 summary: Complete results for 2002
 tags:
- - barge
- - 2002
- - results
+- barge
+- 2002
+- results
+title: BARGE 2002 Results
 ---
 
 (Some of the event dates here are unexpected.  No events are scheduled for

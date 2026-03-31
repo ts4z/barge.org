@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2006
-date: 2006-09-01
-title: BARGE 2006 Results
-draft: false
 aliases:
- - /barge-2006
+- /barge-2006
+cover:
+  image: logos/barge_2006_logo.png
+date: 2006-09-01
+draft: false
+summary: Complete results for 2006
 tags:
- - barge
- - 2006
- - results
+- barge
+- 2006
+- results
+title: BARGE 2006 Results
 ---
 
 **Venetian, Las Vegas, NV**

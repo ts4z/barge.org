@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2018
-date: 2018-08-01
-title: BARGE 2018 Results
-draft: false
 aliases:
- - /barge-2018
+- /barge-2018
+cover:
+  image: logos/barge_2018_logo.png
+date: 2018-08-01
+draft: false
+summary: Complete results for 2018
 tags:
- - barge
- - 2018
- - results
+- barge
+- 2018
+- results
+title: BARGE 2018 Results
 ---
 
 {{< tournament

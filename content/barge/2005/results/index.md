@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2005
-date: 2005-08-01
-title: BARGE 2005 Results
-draft: false
 aliases:
- - /barge-2005
+- /barge-2005
+cover:
+  image: logos/barge_2005_logo.png
+date: 2005-08-01
+draft: false
+summary: Complete results for 2005
 tags:
- - 2005
- - barge
- - results
+- 2005
+- barge
+- results
+title: BARGE 2005 Results
 ---
 
 **Plaza Hotel &amp; Casino, Las Vegas, Nevada**
