@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2021
-date: 2021-08-01
-title: BARGE 2021 Results
-draft: false
 aliases:
- - /barge-2021
+- /barge-2021
+cover:
+  image: logos/barge_2021_logo.png
+date: 2021-08-01
+draft: false
+summary: Complete results for 2021
 tags:
- - barge
- - 2021
- - results
+- barge
+- 2021
+- results
+title: BARGE 2021 Results
 ---
 
 {{< tournament

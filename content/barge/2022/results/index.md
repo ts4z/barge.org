@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2022
-date: 2022-08-01
-title: BARGE 2022 Results
-draft: false
 aliases:
- - /barge-2022
+- /barge-2022
+cover:
+  image: logos/barge_2022_logo.png
+date: 2022-08-01
+draft: false
+summary: Complete results for 2022
 tags:
- - barge
- - 2022
- - results
+- barge
+- 2022
+- results
+title: BARGE 2022 Results
 ---
 
 {{< tournament
