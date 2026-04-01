@@ -1,8 +1,10 @@
 ---
-title: BARGE 2020 Schedule
-date: 2020-07-03
 aliases:
- - /barge-2020-schedule
+- /barge-2020-schedule
+cover:
+  image: logos/barge_2020_logo.png
+date: 2020-07-03
+title: BARGE 2020 Schedule
 ---
 
 *This schedule was reconstructed several years after the event and may not be accurate with what happened, and has been edited for presentation.*

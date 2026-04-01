@@ -1,16 +1,18 @@
 ---
-title: BARGE 2022 Schedule
+aliases:
+- /barge-2022-schedule
+- /barge/2022-schedule
+cover:
+  image: logos/barge_2022_logo.png
 date: 2022-05-20
 draft: false
-aliases:
- - /barge-2022-schedule
- - /barge/2022-schedule
+params:
+  nodate: true
 summary: 2022 Schedule of events.
 tags:
- - barge
- - 2022
-params:
- nodate: true
+- barge
+- 2022
+title: BARGE 2022 Schedule
 ---
 
 |       Day | Date    | Time     | Event                                                                                      | Entry Fee           | Notes     |

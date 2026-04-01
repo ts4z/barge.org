@@ -1,14 +1,16 @@
 ---
-title: BARGE 2023 Schedule
+aliases:
+- /barge-2023-schedule
+- /barge/2023-schedule
+cover:
+  image: logos/barge_2023_logo.png
 date: 2023-05-20
 draft: false
-aliases:
- - /barge-2023-schedule
- - /barge/2023-schedule
 summary: 2023 Schedule of events.
 tags:
- - barge
- - 2023
+- barge
+- 2023
+title: BARGE 2023 Schedule
 ---
 
 *(This schedule was reconstructed from the announcement email a couple years

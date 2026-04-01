@@ -1,13 +1,15 @@
 ---
-title: BARGE 2014 Schedule
+aliases:
+- /barge2014info.php
+cover:
+  image: logos/barge_2014_logo.png
 date: 2014-07-15
 draft: false
-aliases:
- - /barge2014info.php
 summary: 2014 Schedule of events.
 tags:
- - barge
- - 2014
+- barge
+- 2014
+title: BARGE 2014 Schedule
 ---
 This schedule has been reconstructed
 [from this page from the Wayback Machine](https://web.archive.org/web/20150101202358/http://barge.org/barge2014info.php)
