@@ -1,17 +1,17 @@
 ---
-title: BARGE 2026 Schedule
-draft: false
-date: 2026-02-24
-tags:
- - barge
- - 2026
 aliases:
- - /barge/schedule
- - /schedule
- - /2026/schedule
+- /barge/schedule
+- /schedule
+- /2026/schedule
 cover:
-  image: logos/barge_undated.png
+  image: logos/barge_2026_logo.png
+date: 2026-02-24
+draft: false
 summary: Schedule coming soon!
+tags:
+- barge
+- 2026
+title: BARGE 2026 Schedule
 ---
 
 BARGE 2026 will be held at [The Orleans Hotel &

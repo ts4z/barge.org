@@ -1,6 +1,8 @@
 ---
-title: BARGE 2021 Schedule
+cover:
+  image: logos/barge_2021_logo.png
 date: 2021-06-12
+title: BARGE 2021 Schedule
 ---
 
 BARGE 2021 Schedule

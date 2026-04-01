@@ -1,16 +1,16 @@
 ---
-title: BARGE 2024 Schedule
+aliases:
+- /barge-2024-schedule
+- /barge/2024-schedule
+cover:
+  image: logos/barge_2024_logo.png
 date: 2024-07-01
 draft: false
-aliases:
- - /barge-2024-schedule
- - /barge/2024-schedule
 summary: 2024 Schedule of events.
 tags:
- - barge
- - 2024
-cover:
- image: logos/barge_2024.png
+- barge
+- 2024
+title: BARGE 2024 Schedule
 ---
 
 |       Day | Date    | Time    | Event                                                                                                            | Entry Fee            | Notes      |

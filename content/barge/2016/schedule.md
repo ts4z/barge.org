@@ -1,11 +1,13 @@
 ---
-title: BARGE 2016 Schedule
+cover:
+  image: logos/barge_2016_logo.png
 date: 2016-08-16
 draft: false
 summary: 2016 Schedule of events.
 tags:
- - barge
- - 2016
+- barge
+- 2016
+title: BARGE 2016 Schedule
 ---
 
 This schedule was reconstructed from a version found at the [Internet Archive](https://web.archive.org/web/20160628114350/barge.org/schedule) and may not reflect what happened.
