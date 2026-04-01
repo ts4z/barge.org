@@ -1,16 +1,16 @@
 ---
-summary: Complete results for 2024
-date: 2024-08-01
-title: BARGE 2024 Results
-draft: false
 aliases:
- - /barge-2024
-tags:
- - barge
- - 2024
- - results
+- /barge-2024
 cover:
- image: logos/barge_2024.png
+  image: logos/barge_2024_logo.png
+date: 2024-08-01
+draft: false
+summary: Complete results for 2024
+tags:
+- barge
+- 2024
+- results
+title: BARGE 2024 Results
 ---
 
 {{< tournament

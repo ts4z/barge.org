@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2020
-date: 2020-08-01
-title: BARGE 2020 Results
-draft: false
 aliases:
- - /barge-2020
+- /barge-2020
+cover:
+  image: logos/barge_2020_logo.png
+date: 2020-08-01
+draft: false
+summary: Complete results for 2020
 tags:
- - barge
- - 2020
- - results
+- barge
+- 2020
+- results
+title: BARGE 2020 Results
 ---
 
 (Note: As BARGE 2020 was conducted online, there were no cash buyins for any tournament.  All winnings are in imaginary dollars based on what would have normally been the buyin.  FM = Fun Money)

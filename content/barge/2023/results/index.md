@@ -1,14 +1,16 @@
 ---
-summary: Complete results for 2023.
-date: 2023-08-01
-title: BARGE 2023 Results
-draft: false
 aliases:
- - /barge-2023
+- /barge-2023
+cover:
+  image: logos/barge_2023_logo.png
+date: 2023-08-01
+draft: false
+summary: Complete results for 2023.
 tags:
- - barge
- - 2023
- - results
+- barge
+- 2023
+- results
+title: BARGE 2023 Results
 ---
 
 {{< tournament
