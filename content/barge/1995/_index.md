@@ -13,8 +13,7 @@ tournament. Michael Buck took second, Doug Gifford finished 3rd. Gillian Groves
 won the blackjack tournament, Rudy Tatay finished second.
 
 This was BARGE's first year at Binion's Horseshoe, as it was called at the
-time.  BARGE would go on to spend most of the next 25 years almost exclusively
-at this same venue.
+time.  For the next 25 years, most BARGEs were at this same venue.
 
 At the Symposium, held at the Plaza[^1], poker author Mason Malmuth spoke. This
 was the first invited speaker at any BARGE event.  Chuck Weinstock notes: "I
