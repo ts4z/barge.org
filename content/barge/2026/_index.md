@@ -10,7 +10,7 @@ tags:
 aliases:
  - /2026
 summary: >-
- BARGE 2026
+ July 20-July 25. Details coming soon. Watch this space!
 date: 2025-11-04
 ---
 
