@@ -1,5 +1,5 @@
 ---
-title: "2024: Omaholic's 8 (or better) Steps to Achieving Poker Mastery"
+title: "2024: Omaholic's 8 (or better) Steps to Achieving Poker Wizardry"
 type: chip-gallery
 large: barge_2024.png
 pdf: barge_2024.pdf
@@ -13,7 +13,7 @@ tags:
 ---
 
 Our 2024 theme theme is Omaholic's 8 (or better) Steps to Achieving Poker
-Mastery, a theme picked by 2023 winner Rich Bremer.  Each chip features Vernon
+Wizardy, a theme picked by 2023 winner Rich Bremer.  Each chip features Vernon
 Donk, who accompanies Rich in poker tournaments.
 
 The eight steps in this chipset are:
