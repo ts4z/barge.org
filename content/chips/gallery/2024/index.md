@@ -1,23 +1,33 @@
 ---
-draft: true
-title: "2024: [redacted]"
+title: "2024: Omaholic's 8 (or better) Steps to Achieving Poker Mastery"
 type: chip-gallery
-# large: barge_2024.png
-# pdf: barge_2024.pdf
+large: barge_2024.png
+pdf: barge_2024.pdf
 cover:
-  image: 2024_placeholder.jpg
+  image: barge_2024_detail.png
 tags:
  - 2024
  - chips
  - omaholic
+ - 2026-batch
 ---
 
-Rich “ADB Omaholic” Bremer is the second BARGE main event winner to claim the
-title for a second time.  Unlike [Russ](../2002/) (../2021/Fox), Rich earned
-his second win in a live tournament.
+Our 2024 theme theme is Omaholic's 8 (or better) Steps to Achieving Poker
+Mastery, a theme picked by 2023 winner Rich Bremer.  Each chip features Vernon
+Donk, who accompanies Rich in poker tournaments.
 
-Rich's 2012 chip set featured [Omaholic's 8 (or better) Steps To Achieving True
-BARGE Enlightenment](../2012/).
+The eight steps in this chipset are:
 
-He has a great idea for his second set that we hope to see real soon now.  For
-now, we’ve included a protype of a possible purple chip as a placeholder.
+- Step 1: Study
+- Step 2: Game Selection
+- Step 3: Observation
+- Step 4: Patience
+- Step 5: Creativity
+- Step 6: Courage
+- Step 7: Luck
+- Step 8: Ship It!
+- Step 9: Poker Wizardry
+
+These chips were designed by Patrick Milligan and feature art drawn by Matt
+XXX, who also did the art on [Rich's 2012 chips](../2012/).  They are being
+produced as part of the 2026 batch.

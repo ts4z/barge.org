@@ -32,7 +32,7 @@ From the announcement for the 2012 chips:
 > * Step 8. True Enlightenment
 > * Step 9. Achieve Nirvana (on the special purple chip)
 
-Rich won the main event again in [2023](../../../barge/2023/) and could someday be the second person to get [a second chip set](../2024/).
+Rich won the main event again in [2023](../../../barge/2023/) and was the second person to get [a second chip set](../2024/).
 
 ---
 
