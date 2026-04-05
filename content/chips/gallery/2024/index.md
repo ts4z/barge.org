@@ -29,5 +29,5 @@ The eight steps in this chipset are:
 - Step 9: Poker Wizardry
 
 These chips were designed by Patrick Milligan and feature art drawn by Matt
-XXX, who also did the art on [Rich's 2012 chips](../2012/).  They are being
+Stacey, who also did the art on [Rich's 2012 chips](../2012/).  They are being
 produced as part of the 2026 batch.
