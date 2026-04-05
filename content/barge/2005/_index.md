@@ -35,5 +35,6 @@ was the organizer, staying home to help his wife recover from back surgery.
 -----
 
 Cover image: Don Perry's bustout gift, which he failed to give to anyone by
-inadvertently winning the main event.  Taken from [Andy Hughes'
+inadvertently winning the main event.  The picture is of rec.gamblers
+photoshopped into the Last Supper.  Taken from [Andy Hughes'
 site](http://nevadacasinochips.com/BARGE05.htm).
