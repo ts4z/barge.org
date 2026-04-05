@@ -34,6 +34,8 @@ From the announcement for the 2012 chips:
 
 Rich won the main event again in [2023](../../../barge/2023/) and was the second person to get [a second chip set](../2024/).
 
+The drawings on these chips were done by Matt Stacey.
+
 ---
 
 These were the last BARGE chips produced by [Chipco
