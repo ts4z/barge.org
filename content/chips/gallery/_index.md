@@ -21,4 +21,9 @@ or the (current) [end]({{< relref "2026" >}}) or
 [s]({{< relref "2024" >}})[o]({{< relref "1999" >}})[m]({{< relref "2000-qb" >}})[e]({{< relref "2015" >}})[w]({{< relref "2008" >}})[h]({{< relref "1996" >}})[e]({{< relref "2022" >}})[r]({{< relref "2019" >}})[e]({{< relref "2001" >}})[ ]({{< relref "2020" >}})
 [i]({{< relref "1994" >}})[n]({{< relref "1997" >}})[ ]({{< relref "2023" >}})
 [b]({{< relref "2018" >}})[e]({{< relref "2021" >}})[t]({{< relref "2003" >}})[w]({{< relref "2025" >}})[e]({{< relref "2009" >}})[e]({{< relref "2010" >}})[n]({{< relref "2005" >}}).
+
+We also have [irregularly]({{< relref "2025-bonus" >}})
+[produced]({{< relref "2015-commemorative" >}})
+[one-off]({{< relref "2017-welcome" >}}) special chips.
+
 Scroll down, or just look at the [table of contents](../toc/).
