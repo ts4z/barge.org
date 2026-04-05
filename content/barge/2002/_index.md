@@ -12,7 +12,7 @@ cover:
  image: cover.jpg
 ---
 
-As usual, BARGE was hosted at the Horseshoe again this year. The banquet took
+As usual, BARGE was hosted at Binion's Horseshoe again. The banquet took
 place at the Golden Nugget. At the banquet, Linda Johnson and Steve Lipscomb
 gave us a sneak preview of a television show with which they were involved that
 would hit the airwaves a year later, the World Poker Tour. Andy Hughes won the
