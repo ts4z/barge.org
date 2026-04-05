@@ -18,7 +18,7 @@ aliases:
     alt="BARGE 2000 logo from Patrick Milligan's pins."
     >}}
 
-The year 2000 marked BARGE's return to the Horseshoe. Jeff Bartoszewicz won the
+In 2000, BARGE returned to Binion's Horseshoe. Jeff Bartoszewicz won the
 NL hold'em tournament, John &quot;JRX&quot; Reed finished second, and Stephen
 &quot;Bozo&quot; Blackstock finished 3rd. Chris &quot;Jesus&quot; Ferguson was
 the banquet speaker and winner of the chip castle building contest. No video
