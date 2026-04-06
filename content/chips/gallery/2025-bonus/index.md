@@ -4,6 +4,7 @@ tags:
  - 2025
  - chips
  - bcc
+ - 2025-batch
 type: chip-gallery
 cover:
   image: 2025_bonus_chip_detail.png
@@ -14,7 +15,7 @@ summary: >-
 ---
 
 Tim was so happy we were making chips, he commissioned an extra one.
-Patrick Milligan did the design, reviewed bt the RBCC.
+Patrick Milligan did the design, reviewed by the RBCC.
 
 These were made in addition to the usual tournament set.  140 were produced.
-Tim handed these out at BARGE, haphazardly.
+Tim haphazardly handed these out at BARGE.
