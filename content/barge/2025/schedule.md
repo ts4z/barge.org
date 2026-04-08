@@ -2,7 +2,7 @@
 aliases:
 - /2025/schedule
 cover:
-  image: logos/barge_2025.png
+  image: logos/barge_2025_logo.png
 date: 2025-06-06
 draft: false
 summary: BARGE 2025 Schedule of Events
