@@ -74,7 +74,7 @@ were produced in time for any BARGEs through 2024.
 ### 2025: BCC2.0
 
 The Reformed BCC was re-launched to produce chips for [BARGE
-2025](../../gallery/2025/).  Designs were also produced for
-[2020](../../gallery/2020/), [2021](../../gallery/2021/), and
-[2023](../../gallery/2023/).  Members included Bruce Kramer, Doug Grismore,
+2025](../gallery/2025/).  Designs were also produced for
+[2020](../gallery/2020/), [2021](../gallery/2021/), and
+[2023](../gallery/2023/).  Members included Bruce Kramer, Doug Grismore,
 Kevin Un, Patrick Milligan, Scott Harker, and Tim Showalter.
