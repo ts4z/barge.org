@@ -18,7 +18,7 @@ aliases:
 Our \*ARG\* community, spawned by the old rec.gambling newsgroup,
 has events in Atlantic City, Connecticut, Maryland, and multiple in Las Vegas!
 
-{{< logo-left href="https://www.atlargepoker.com/" src="/logos/AtLarge_v5.png" >}}
+{{< logo-left href="/atlarge/" src="/logos/AtLarge_v5.png" >}}
 
 ## ATLARGE
 
