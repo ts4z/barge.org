@@ -5,8 +5,8 @@ draft: false
 tags:
  - barge
  - 2026
-# cover:
-#   image: cover.jpg
+cover:
+  image: barge_undated.png
 aliases:
  - /2026
 summary: >-
