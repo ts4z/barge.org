@@ -4,7 +4,7 @@ aliases:
 - /schedule
 - /2026/schedule
 cover:
-  image: logos/barge_2026_logo.png
+  image: logos/barge_undated.png
 date: 2026-02-24
 draft: false
 summary: Schedule coming soon!
