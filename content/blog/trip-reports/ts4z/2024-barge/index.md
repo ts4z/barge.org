@@ -166,7 +166,7 @@ I was not correct.
 
 The NL game was amazing, but slow.  Most of the players would fold to a big
 raise most of the time.  Lots of players with stacks that were 10 high
-instead of 20, (my favorite tell of "I usually play at the kitchen table
+instead of 20 (my favorite tell of "I usually play at the kitchen table
 and am afraid to knock my chips on the floor, please take advantage of
 me").  One player, Seat 6, a big, obnoxious guy, had a big, sloppy chip
 stack.  Chips stacked real high in tilting towers that would have been at
