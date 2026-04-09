@@ -18,6 +18,8 @@ aliases:
 
 This year's BARGE was held at Green Valley Ranch, in Henderson.
 
+Adam Pliska, from the World Poker Tour, was the banquet speaker.
+
 Scott Harker won the Main Event.  True to his word, he did not make a deal.
 
 -----
