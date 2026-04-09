@@ -16,6 +16,9 @@ aliases:
 This year's BARGE was the last one held at Binion's Casino.
 After BARGE, Binion's reduced its poker room to a smaller size.
 
+JP Massar was our “Emergency Speaker” this year.  JP is a longtime BARGEr and
+was one of the folks behind the MIT Blackjack Team.
+
 -----
 
 Cover image: Picture by Stevan Goldman, found on [flickr](https://www.flickr.com/photos/11064896@N05/42187911550/in/photolist-28DQ52V-LgTDzc-28DQ7LH-LgTxbF-28Wm5pG-MUkXeA-27h15su-2a2SkLc-27h15im-28WkZXq-27h1btY-29XzDeh).

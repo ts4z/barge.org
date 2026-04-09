@@ -17,7 +17,7 @@ summary: >-
 ---
 
 BARGE 2024 was held at the Westgate.
-Yosh Nakano was the bankquet speaker.
+Yosh Nakano was the bankquet speaker, held at [7th &amp; carson](https://www.7thandcarson.com/).
 
 99 players played the main event, won by Tim Showalter.
 

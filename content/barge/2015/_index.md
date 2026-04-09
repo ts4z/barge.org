@@ -14,7 +14,11 @@ aliases:
  - /barge2015info
 ---
 
-This year's expanded BARGE was held at Binion's Casino.
+BARGE returned to Binion's Casino for the ninth consecutive year.
+
+Jennifer Shahade spoke at the banquet.  In general, we usually offer to
+freeroll the banquet speaker into the BARGE Main Event.  Jennifer r00led us all
+by winning the thing.
 
 -----
 

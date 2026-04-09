@@ -12,6 +12,8 @@ cover:
 
 BARGE returned to the Westgate again for 2022.
 
+Blair Rodman was the banquet speaker.
+
 Jesse Capps won the Main Event.
 
 -----

@@ -10,9 +10,10 @@ cover:
   image: cover.jpg
 aliases:
  - /schedule-2016
+summary: BARGE was back at Binion's for the tenth year in a row.
 ---
 
-This year's expanded BARGE was held at Binion's Casino. <!--more-->
+BARGE was back at Binion's for the tenth year in a row.
 
 -----
 

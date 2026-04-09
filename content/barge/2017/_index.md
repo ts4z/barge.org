@@ -10,11 +10,11 @@ cover:
   image: cover.jpg
 aliases:
   - /2017
+summary: >-
+  BARGE returned to Binion's for the eleventh consecutive year.
 ---
 
-This year's expanded BARGE was held at Binion's Casino.
-
-<!--more-->
+BARGE returned to Binion's for the eleventh consecutive year.  Thomas Gallagher was the banquet speaker.
 
 -----
 

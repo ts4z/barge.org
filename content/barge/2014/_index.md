@@ -8,9 +8,12 @@ tags:
 date: 2014-09-01
 cover:
   image: cover.jpg
+summary: BARGE returned to Binion's Casino for the sixth consecutive year.
 ---
 
-This year's expanded BARGE was held at Binion's Casino. <!--more-->
+BARGE returned to Binion's Casino for the eighth consecutive year.
+
+This year's banquet speaker was [Mickey Appleman](https://en.wikipedia.org/wiki/Mickey_Appleman).
 
 -----
 
