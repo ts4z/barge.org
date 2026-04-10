@@ -145,7 +145,8 @@ Low denominations are familiar but usually picked to suit the game being played.
 
 High denomination chips are typically 1,000x or 1,000,000x the low values. Other denominations are now uncommon.
 
-A peogression that involves one chip not an even multiple of the next chip tends to get confusing, that is, no dime-quarter progressions.
+A peogression that involves one chip not an even multiple of the next chip tends to get confusing; that is, no dime-quarter progressions.
+You probably won't need a $2 chip unless you play 8-16, or a $10 chip unless you play 30-60 or 40-80.
 
 Printing Tolerances
 -------------------
@@ -205,7 +206,7 @@ process.
 Tim insisted on Futura for his chips.  He's happy with it, but you might not
 be.
 
-Thin line weights will get lost in the blur.
+Thin line weights will get lost in the blur, particularly in white letters.
 
 
 Make Proofs of BRPro Chips
