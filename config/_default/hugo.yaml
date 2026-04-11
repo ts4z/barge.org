@@ -50,6 +50,8 @@ params:
     #   text: EMBARGO 2026 Registration is Open
     - link: https://www.zeffy.com/en-US/ticketing/atlantic-city-meetup-2026-atlarge
       text: "Register now for ATLARGE 2026!"
+    - link: https://argempoker.com/registration/
+      text: "Register now for ARGEM 2026!"
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
