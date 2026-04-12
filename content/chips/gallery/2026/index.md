@@ -12,7 +12,7 @@ tags:
  - 2026-batch
 ---
 
-The 2025 chip theme, chosen by 2025 Main Event winner Gillian Groves, is
+The 2026 chip theme, chosen by 2025 Main Event winner Gillian Groves, is
 *Whales*.  The chipset has eight chips, each featuring a different whale and
 denomination, plus a special limited purple chip with Gillian's picture.
 
