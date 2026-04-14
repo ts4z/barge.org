@@ -3,7 +3,7 @@ title: All-Around BAAP Points Database
 aliases: /all-around-baap-points-database
 draft: false
 tags:
- - crunchypoints
+ - peterpoints
  - baap
 authors:
  - Steve "Crunch" Daniel
