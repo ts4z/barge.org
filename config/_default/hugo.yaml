@@ -46,13 +46,10 @@ params:
   # nextEvents, these will wrap if they get too long.
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
-    # - link: https://barge.regfox.com/embargo-2026
-    #   text: EMBARGO 2026 Registration is Open
-    - link: https://www.zeffy.com/en-US/ticketing/atlantic-city-meetup-2026-atlarge
-      text: "Register now for ATLARGE 2026!"
-    # comment this out until ATLARGE reg closes, just to keep things cleaner
-    # - link: https://argempoker.com/registration/
-    #   text: "Register now for ARGEM 2026!"
+    # - link: https://www.zeffy.com/en-US/ticketing/atlantic-city-meetup-2026-atlarge
+    #   text: "Register now for ATLARGE 2026!"
+    - link: https://argempoker.com/registration/
+      text: "Register now for ARGEM 2026!"
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
