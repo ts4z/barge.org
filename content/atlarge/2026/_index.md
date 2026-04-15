@@ -6,6 +6,8 @@ tags:
 title: ATLARGE 2026
 type: sequential-section
 date: 2026-03-05
+cover:
+  image: logos/AtLarge_v5.png
 ---
 
 ATLARGE 2026 is at the Borgata The Borgata, the largest poker room in Atlantic

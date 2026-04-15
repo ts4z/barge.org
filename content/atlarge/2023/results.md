@@ -7,6 +7,8 @@ tags:
 - "2023"
 - results
 draft: false
+cover:
+  image: logos/AtLarge_v5.png
 ---
 
 Results as reported in Crunch's BAAP database.
