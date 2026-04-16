@@ -8,10 +8,8 @@ tags:
 authors:
  - Steve "Crunch" Daniel
  - Rich Bremer
-date: 2024-12-04
+date: 2026-04-15
 ---
-
-[Last updated 2026-04-15 &mdash;ed.]
 
 [Download here](All_ARGE_All_Years_BAAP_Results_through_EMBARGO_2026.xlsm)
 
