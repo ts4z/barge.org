@@ -281,7 +281,7 @@ Thanks Jeanne.
 ---
 
 Dan talking to Dean: "I have a better king."{{< br >}}
-Dean" "It's a jack."{{< br >}}
+Dean: "It's a jack."{{< br >}}
 Dan: "Oh, I have a better jack."
 
 I learn that Joe's nickname "Cap" is from his being a (retired) Captain{{< br >}}
