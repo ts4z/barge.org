@@ -12,7 +12,9 @@ cover:
 
 BARGE returned to the Westgate again for 2022.
 
-Blair Rodman was the banquet speaker.
+Blair Rodman, professional poker player and one of the authors of *Kill Phil:
+The Fast Track to Success in No-Limit Hold 'em Poker Tournaments*, was the
+banquet speaker.
 
 Jesse Capps won the Main Event.
 
