@@ -11,7 +11,9 @@ authors:
 date: 2024-12-04
 ---
 
-[Download here](All_ARGE_All_Years_BAAP_Results_through_BARGE_2024.xlsm)
+[Last updated 2026-04-15 &mdash;ed.]
+
+[Download here](All_ARGE_All_Years_BAAP_Results_through_EMBARGO_2026.xlsm)
 
 Steve Daniel has put together a points database for all the years that BAAP
 points have been tracked. I believe the spreadsheet includes all *ARG results
@@ -21,6 +23,6 @@ can also generate reports of total finishes for any paying place (i.e., 1st,
 8th, 17th, etc.) (also filterable by year and/or game type).
 
 You can [download the database
-here](All_ARGE_All_Years_BAAP_Results_through_BARGE_2024.xlsm). The current
-database is updated through BARGE 2024 and will be periodically updated.
+here](All_ARGE_All_Years_BAAP_Results_through_EMBARGO_2026.xlsm). The current
+database is updated through EMBARGO 2026 and will be periodically updated.
 Enjoy!
