@@ -46,6 +46,8 @@ params:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: https://argempoker.com/registration/
       text: "Register now for ARGEM 2026!"
+    - link: https://secure.barge.org/order-chips/
+      text: Pre-Order BARGE Chips Now!
   selfHosted: true
   socialShare: true
   showRelatedPosts: true

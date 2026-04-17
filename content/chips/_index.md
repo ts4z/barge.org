@@ -52,17 +52,22 @@ corrections.
 
 ## Chips for Sale
 
+Chip orders will be taken until May 31.  [Order here](https://secure.barge.org/order-chips/).
+
+We are taking orders for chips for
+[2026](gallery/2026/),
+[2024](gallery/2024/), and
+[2022](gallery/2022/).
+
 We have a few sets from the 2025 batch years,
 [2025](gallery/2025/),
 [2020](gallery/2020/), 
 [2021](gallery/2021/), and
-[2023](gallery/2023/).
+[2023](gallery/2023/), as well as some of the old [2017 Welcome Chips](gallery/2017-welcome/).
 
 We also have an inventory of *some* old BARGE chips, including some complete
-sample sets.
-
-Contact [Tim Showalter](mailto:tjs@psaux.com) to see if we have figured out how
-to sell these yet.
+sample sets.  Contact [Tim Showalter](mailto:tjs@psaux.com) to see if we have
+figured out how to sell these yet.
 
 ## History
 
