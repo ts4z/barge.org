@@ -4,6 +4,7 @@ tags:
  - 2017
  - chips
  - bcc
+ - welcome-chips
 type: chip-gallery
 cover:
   image: barge_welcome_detail.png
