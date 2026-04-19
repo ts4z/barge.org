@@ -11,6 +11,8 @@ params:
   notInMainMenu: true
 cover:
   image: logos/AtLarge_v5.png
+aliases:
+ - /atlarge/Link
 ---
 ## What is "ATLARGE"?
 
