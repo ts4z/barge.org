@@ -5,6 +5,9 @@ tags:
 - edbaker
 - atlarge
 - 2013
+summary: >-
+ I haven't been to ATLARGE in about 15 years, so I'm going to write a long
+ report.
 ---
 
 {{< as-seen-on-the-barge-list >}}

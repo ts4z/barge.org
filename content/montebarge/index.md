@@ -3,6 +3,9 @@ title: MonteBARGE
 date: 2019-09-29
 cover:
  image: cover.jpg
+summary: >-
+  In 2019, Monte Christensen was unable to attend BARGE due to illness.  So, a
+  number of folks decided to take BARGE to him as a surprise party!
 ---
 
 In 2019, Monte Christensen was unable to attend BARGE due to illness.  So, a

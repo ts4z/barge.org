@@ -11,6 +11,7 @@ tags:
 - 2018
 - results
 title: BARGE 2018 Results
+summary: Complete results for BARGE 2018.
 ---
 
 {{< tournament
