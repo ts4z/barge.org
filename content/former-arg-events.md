@@ -3,7 +3,7 @@ title: Former ARG events
 summary: ARG events that have stoped happening.
 ---
 
-We've hosted events all over the country, and are seeking to note them here as
+Some ARG events are no longer being held.  We are noting them here as
 their web sites have often disappeared.  We are seeking more information on
 these, particularly results and trip reports.
 
