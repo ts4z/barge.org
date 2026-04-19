@@ -98,7 +98,7 @@ that may help you overcome your feeling of &quot;outsiderness&quot;.
 * All BARGErs wear the customary BARGE Badge.  These badges are created for you
   by the organizers and you can only get one if you have signed up for BARGE at
   www.barge.org.  Signup opens up around the May-June time frame each year,
-  watch the [BARGE Email list](/mailing-lists) for more details.  These badges
+  watch the [BARGE Email list](/mailing-lists/) for more details.  These badges
   are how we identify other BARGErs, both old timers and new comers.  When you
   arrive at the host casino, please come up and introduce yourself to anyone
   wearing said badge.  If not, the Welcoming Committee, of which I am a member,
@@ -112,7 +112,7 @@ that may help you overcome your feeling of &quot;outsiderness&quot;.
   These are usually low key, adhoc mixers which sometimes focus loosely on an
   interest the folks have (Escape Rooms, pinball, paintball, strip clubs, mini
   golf, Sushi outing, local attractions like the Mob Museum or Neon Graveyard,
-  etc ).  These events ideas show up on the [BARGE Email List](/mailing-lists)
+  etc ).  These events ideas show up on the [BARGE Email List](/mailing-lists/)
   (another reason to sign up for the BARGE Email list) starting in June or July
   when BARGE sign up opens.  There is usually a single person or groups that
   are the defacto &ldquo;organizers&rdquo; that answer questions and get head
@@ -121,13 +121,13 @@ that may help you overcome your feeling of &quot;outsiderness&quot;.
   BARGErs and maximize your fun quotient.
 * Get a copy of the BARGE-At-A-Glance (BAAG) schedule of events.  This can be
   found in several ways.  You can find links to it on the [BARGE Email
-  List](/mailing-lists), at [www.barge.org](/) and sometimes you can find a
+  List](/mailing-lists/), at [www.barge.org](/) and sometimes you can find a
   stack printed out at our host casino.  This is as comprehensive a list (date,
   time, location) that you can find for both sanctioned and unsanctioned BARGE
   events as well as many of the local daily tournaments around Vegas.  It's
   definitely a must have for any BARGEr.
 * Sign up for and post any and all BARGE related questions on the [BARGE Email
-  List](/mailing-lists) at barge@barge.org.  Many of the members will be glad
+  List](/mailing-lists/) at barge@barge.org.  Many of the members will be glad
   to answer your queries.
 * The Barge Welcome Committee usually holds a mixer for all first-time BARGErs
   to help ease them into the BARGE experience.  Look for it on the BARGE Email

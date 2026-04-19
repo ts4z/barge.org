@@ -6,4 +6,4 @@ tags:
  - peterpoints
 ---
 
-The old name for [PeterPoints](/tags/peterpoints).
+The old name for [PeterPoints](/tags/peterpoints/).
