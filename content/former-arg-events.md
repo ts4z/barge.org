@@ -1,5 +1,6 @@
 ---
 title: Former ARG events
+summary: ARG events that have stoped happening.
 ---
 
 We've hosted events all over the country, and are seeking to note them here as
