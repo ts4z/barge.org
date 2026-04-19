@@ -9,6 +9,7 @@ tags:
  - tripreport
  - barge
  - 2012
+summary: 2nd year of Embargo and the 2nd year that I attend.
 ---
 
 {{< as-seen-on-the-barge-list >}}

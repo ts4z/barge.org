@@ -5,6 +5,7 @@ cover:
   image: logos/barge_2020_logo.png
 date: 2020-07-03
 title: BARGE 2020 Schedule
+summary: Event schedule for BARGE 2020 (which already happened).
 ---
 
 *This schedule was reconstructed several years after the event and may not be accurate with what happened, and has been edited for presentation.*
