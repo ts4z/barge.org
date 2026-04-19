@@ -22,13 +22,13 @@ has events in Atlantic City, Connecticut, Maryland, and multiple in Las Vegas!
 
 ## ATLARGE
 
-ATLARGE (the ATLantic city Annual Rec.Gambling Excursion) is held annually in
-Atlantic City, NJ in the early spring.
+[ATLARGE](/atlarge/) (the *Atl*antic City *A*nnual *R*ec.*G*ambling
+*E*xcursion) is held annually in Atlantic City, NJ in the early spring.
 
-ATLARGE 2026 will take place April 16-19, 2026, at the Borgata.
+ATLARGE 2026 was April 16-19, 2026, at the Borgata.
 
-For more information about ATLARGE, including our email list registration link,
-please visit [atlargepoker.com](/atlarge/)!
+For more information, see the [ATLARGE page](/atlarge/) and [subscribe to
+the mailing list](/resources/mailing-lists/).
 
 {{< hr-clear >}}
 
