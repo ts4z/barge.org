@@ -17,7 +17,9 @@ Secor.  It is open to members of the BARGE community.
 
 ---
 
-PeterBARGE is not run by BARGE, Inc.  The web site is hosted here as a courtesy
-to members of the BARGE community.  This event is run privately, without the
+PeterBARGE was not run by BARGE, Inc.  The web site is hosted here as a courtesy
+to members of the BARGE community.  This event was run privately, without the
 association of any licensed entity.  No fees are charged for playing.  The
-event is not open to the general public.
+events were not open to the general public.
+
+Fuck cancer.
