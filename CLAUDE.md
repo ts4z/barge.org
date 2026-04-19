@@ -36,7 +36,8 @@ This is a [Hugo](https://gohugo.io/) static site for BARGE.org, the website for 
 - `content/barge/` — BARGE event history (1991–present), one subdirectory per year
 - `content/embargo/` — EMBARGO event (fall Las Vegas gathering)
 - `content/atlarge/` — ATLARGE event (spring Atlantic City gathering)
-- `content/peterbarge/` — Peter Barge event
+- `content/peterbarge/` — PeterBARGE event
+- `content/montebarge/` — MonteBARGE event
 - `content/blog/` — Blog posts including trip reports
 - `content/chips/` — BARGE chip gallery and history
 - `content/in-memoriam/` — Memorial pages for community members
@@ -68,6 +69,8 @@ Default type renders using PaperMod's single/list templates (overridden in `layo
 - **`current-organizers`** — Renders organizer list for an event/year.
 - **`autoslideshow`** / **`autoslideshow-js`** — Auto-advancing image slideshow.
 - **`subdirs`** — Lists subdirectories.
+- **`atlg`** - image gallery
+- **`small-italic`** - editorial note text that will be rendered in small, italic text
 
 ### Site Configuration (`config/_default/hugo.yaml`)
 
@@ -85,7 +88,6 @@ Global/static assets (logos, etc.) live in `static/` and are referenced by absol
 
 The static directory also includes:
 - "rulebook", which is not maintained by Hugo or this repository
-- "atlarge", which is content that has not yet been migrated
 
 ### Front Matter Conventions
 
