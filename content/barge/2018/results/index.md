@@ -5,7 +5,6 @@ cover:
   image: logos/barge_2018_logo.png
 date: 2018-08-01
 draft: false
-summary: Complete results for 2018
 tags:
 - barge
 - 2018
