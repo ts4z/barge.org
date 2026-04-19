@@ -15,7 +15,7 @@ title: ATLARGE Razz Tournament Structure
 
 * $100 Buy-In + $20 Entry Fee 
 * Initial chips: T5,000
-* Rounds: All levels are 25 minutes.<br>
+* Rounds: All levels are 25 minutes.
 * Seven-handed tables. Each game will be dealt 8 times and then switch to
   the other game. 
 
