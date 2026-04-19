@@ -7,4 +7,4 @@ tag:
  - welcome
 ---
 
-See [this page](/resources/barge-welcoming-committee) for information on the Welcoming Committee.
+See [this page](/resources/barge-welcoming-committee/) for information on the Welcoming Committee.

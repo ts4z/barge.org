@@ -61,8 +61,8 @@ somewhere around 2017.
 
 BCC members made bust-out chips to give away when they were eliminated from a
 tourament.  Those chips were produced in three batches in
-[2004](2004-2007-bust-out-chips), [2008](2008-2011-bust-out-chips), and
-[2012](2012-2015-bust-out-chips).
+[2004]({{< relref 2004-2007-bust-out-chips >}}), [2008]({{< relref 2008-2011-bust-out-chips >}}), and
+[2012]({{< relref 2012-2015-bust-out-chips >}}).
 
 ### 2020: End of the BCC
 
