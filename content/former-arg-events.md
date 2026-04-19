@@ -41,5 +41,5 @@ If you have more details on SARGE, please let us know.
 We have irregularly hosted some other events when one of our friends couldn't
 make it to BARGE.
 
-- [MonteBARGE](/montebarge/) &mdash; 2016
+- [MonteBARGE](/montebarge/) &mdash; 2019
 - [PeterBARGE](/peterbarge/) &mdash; 2023-2025
