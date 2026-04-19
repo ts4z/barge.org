@@ -31,10 +31,11 @@ ICM chop at 5 handed.
     event="No Limit Hold'em (Main Event)"
     date="Saturday, April 18, 2026" >}}
 
-> TBD
+> TBA.  Note that Ron Grossberg has confirmed he didn't win.
 
 {{< tournament
     event="Double Board Pot Limit Omaha"
     date="Sunday, April 19, 2026" >}}
 
-> TBD
+> TBA.  Note that Ron Grossberg has confirmed he didn't win this, either.
+
