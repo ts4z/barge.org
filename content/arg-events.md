@@ -81,9 +81,9 @@ Orleans in summer 2026.
 
 {{< hr-clear >}}
 
-## EMBARGO
-
 {{< logo-left href="/embargo/" src="/logos/embargo_logo_2026.png" >}}
+
+## EMBARGO
 
 EMBARGO is a winter mini-BARGE usually hosted early in the year and usually runs some 
 unusual forms of poker.
