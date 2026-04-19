@@ -29,7 +29,7 @@ MARGE events sponsored the Hope Haven charity.
 
 If you have more details on MARGE, please let us know.
 
-## SARGE &madsh; ????-2007
+## SARGE &mdash; ????-2007
 
 Southern Annual Rec.Gambling Expedition.  This happened in Tunica, Mississippi.
 Randy Collack was one of the organizers from 2000-2002.
