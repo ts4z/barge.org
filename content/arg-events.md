@@ -92,4 +92,4 @@ Our most recent events have been at Resorts World in Las Vegas.
 
 {{< hr-clear >}}
 
-See also our page about [Former ARG Events]({{< relref former-arg-events >}}).
+We also have notes about [Former ARG Events]({{< relref former-arg-events >}}).
