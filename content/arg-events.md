@@ -73,11 +73,11 @@ It is held in Las Vegas during the World Series of Poker.
 
 ## BARGE
 
-Our original and longest-running event, the original meet-up game, has been
-happening since 1991.
+Our original and longest-running event, the original meet-up game,
+[BARGE](/barge/) has happened every year since 1991.
 
-BARGE happens each summer in late July or early August.  We'll be back at the
-Orleans in summer 2026.
+[BARGE](/barge/) happens each summer in late July or early August.  We'll be
+back at the Orleans in summer 2026.
 
 {{< hr-clear >}}
 
@@ -85,8 +85,8 @@ Orleans in summer 2026.
 
 ## EMBARGO
 
-EMBARGO is a winter mini-BARGE usually hosted early in the year and usually runs some 
-unusual forms of poker.
+[EMBARGO](/embargo/) is a winter mini-BARGE, usually hosted early in the year
+and tends to run some more creative tournaments.
 
 Our most recent events have been at Resorts World in Las Vegas.
 
