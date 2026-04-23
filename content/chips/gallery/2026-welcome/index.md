@@ -26,7 +26,10 @@ The Reformed BARGE Chip Committee came up with several designs:
     laid out anew by Patrick Milligan.
   * The **green** and **blue** chips were designed by Patrick Milligan and
     feature a new BARGE logo and list BARGE games on the other side.
-  * The **X** and **Y** chips were designed by Tim Showalter and Patrick
-    Milligan, and feature the blind squirrel from the [2025 set](../2025/).
+  * The **orange** and **cyan** chips were designed by Tim Showalter and
+    Patrick Milligan, and feature the blind squirrel from the [2025
+    set](../2025/).  The edges on these chips feaature an abstract pattern and
+    will differ from chip to chip.
 
-These are being sold as part of the 2026 batch of chips.
+These are being sold during the 2026 batch preorder, along with the
+[2026](../2026/), [2024](../2024/), and [2022](../2022/) sample sets.
