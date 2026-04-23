@@ -28,7 +28,7 @@ The Reformed BARGE Chip Committee came up with several designs:
     feature a new BARGE logo and list BARGE games on the other side.
   * The **orange** and **cyan** chips were designed by Tim Showalter and
     Patrick Milligan, and feature the blind squirrel from the [2025
-    set](../2025/).  The edges on these chips feaature an abstract pattern and
+    set](../2025/).  The edges on these chips feature an abstract pattern and
     will differ from chip to chip.
 
 These are being sold during the 2026 batch preorder, along with the
