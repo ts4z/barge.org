@@ -1,10 +1,11 @@
 ---
 title: "2026 BARGE Welcome Chips"
 type: chip-gallery
-# cover:
-#   image: barge_welcome_detail.png
-# large: barge_welcome.png
-# pdf: barge_welcome.pdf
+cover:
+  image: 2026_welcome_cyan_detail.png
+  # image: 2026_welcome_green_detail.png
+large: 2026_welcome.png
+pdf: 2026_welcome.pdf
 summary: >-
  Chips produced as giveaways to invite more people to come to BARGE.
 tags:
