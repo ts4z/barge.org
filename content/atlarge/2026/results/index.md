@@ -1,6 +1,6 @@
 ---
 date: 2026-04-18
-summary: Incoming results for all ATLARGE 2027 tournaments.
+summary: Incoming results for all ATLARGE 2026 tournaments.
 tags:
 - atlarge
 - 2026
