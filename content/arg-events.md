@@ -69,7 +69,7 @@ It is held in Las Vegas during the World Series of Poker.
 
 {{< hr-clear >}}
 
-{{< logo-left href=/barge/ src=/logos/barge_undated.png >}}
+{{< logo-left href=/barge/ src=/logos/barge_v2.png >}}
 
 ## BARGE
 
