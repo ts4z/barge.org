@@ -13,10 +13,10 @@ aliases:
  - /chips/2024/09/05/chip-set-archive-is-complete/
 ---
 
-The gallery here has BARGE chipset: always chip pictures of the sample set,
-a PDF version with the highest quality art we can find,
-(almost) all of the purple chips, and details: maybe the announcement, maybe the
-PDF flyer. You can start from the [beginning]({{< ref "1993" >}})
+The gallery here shows every BARGE chipset.  We always have pictures of the sample set but
+we also have a PDF version,
+(almost) all of the purple chips, and sometimes, even more details.
+You can start from the [beginning]({{< ref "1993" >}})
 or the (current) [end]({{< relref "2026" >}}) or
 [s]({{< relref "2024" >}})[o]({{< relref "1999" >}})[m]({{< relref "2000-qb" >}})[e]({{< relref "2015" >}})[w]({{< relref "2008" >}})[h]({{< relref "1996" >}})[e]({{< relref "2022" >}})[r]({{< relref "2019" >}})[e]({{< relref "2001" >}})[ ]({{< relref "2020" >}})
 [i]({{< relref "1994" >}})[n]({{< relref "1997" >}})[ ]({{< relref "2023" >}})
