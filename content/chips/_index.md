@@ -91,4 +91,8 @@ In 2025, the BCC was revived, and chips were produced for
 [2025](gallery/2025/), [2023](gallery/2023/), [2021](gallery/2021/), and
 [2020](gallery/2020/) and were delivered at BARGE.
 
+We are currently producing chips for [2026](gallery/2026/), and make-up sets
+for [2024](gallery/2024/) and [2022](gallery/2022/).  [Order
+now!](https://secure.barge.org/order-chips/)
+
 -----
