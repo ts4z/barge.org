@@ -13,7 +13,8 @@ aliases:
 summary: BARGE was back at Binion's for the tenth year in a row.
 ---
 
-BARGE was back at Binion's for the tenth year in a row.
+BARGE was back at Binion's for the tenth year in a row.  Daniel Negreanu was
+the banquet speaker.
 
 -----
 
