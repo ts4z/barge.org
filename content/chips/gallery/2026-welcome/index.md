@@ -15,10 +15,10 @@ tags:
  - welcome-chips
 ---
 
-These chips were produced as giveaways to be handed out to invite more people
+These chips are being produced for BARGErs to hand out to invite more people
 to come to BARGE.
 
-These were made in addition to the usual tournament set.
+These are being made in addition to the usual tournament set.
 
 Inspired by the 2017 chips, Christian Jones suggested some more should be made.
 The Reformed BARGE Chip Committee came up with several designs:
