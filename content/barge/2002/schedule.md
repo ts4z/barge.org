@@ -1,6 +1,8 @@
 ---
 title: BARGE 2002 Schedule of Events
 date: 2002-08-04
+summary: >-
+  Reconstructed 2002 schedule.
 ---
 
 *This has been recosntructed from a version in the [Internet
