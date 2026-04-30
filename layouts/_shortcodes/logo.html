@@ -1,5 +1,5 @@
 {{ $local := resources.Get .Params.src }}
-{{ $inline := $local.Fit "500x500" }}
+{{ $inline := $local.Fit "1000x1000" }}
 {{ $class := .Get "class" | default "floatleft35" }}
 {{ $alt := .Get "logo" | default "logo" }}
 
