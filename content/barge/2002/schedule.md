@@ -16,6 +16,8 @@ Archive](https://web.archive.org/web/20020526074602/http://www.barge.org/).*
 * Saturday, 8/3/2002, 10:00am, **No-Limit Hold'em tournament**
 * Saturday, 8/3/2002, 8:00pm, **Banquet**
 
+Costs:
+
 * Buffet, $TBD
 * BARGE Symposium, $TBD
 * Annual BARGE Banquet, $15.00
