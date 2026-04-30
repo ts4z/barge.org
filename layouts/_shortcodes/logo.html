@@ -1,0 +1,8 @@
+{{ $local := resources.Get .Params.src }}
+{{ $inline := $local.Fit "500x500" }}
+{{ $class := .Get "class" | default "floatleft35" }}
+{{ $alt := .Get "logo" | default "logo" }}
+
+<img class="{{- $class -}}"
+     alt="{{- $alt -}}"
+     src="{{- $inline.RelPermalink -}}">
