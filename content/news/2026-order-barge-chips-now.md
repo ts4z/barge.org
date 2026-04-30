@@ -63,7 +63,7 @@ send money.  Details are in the form.
 
 Chips will be delivered to BARGE.  Or, for an extra $20, we will ship them to you.
 
-Please send money for your chips to me by either PayPal, Venmo, or (gasp) check after you place your order..  Details are in the order form.
+Please send money for your chips to me by either PayPal, Venmo, or (gasp) check after you place your order.  Details are in the order form.
 
 Tim {{< br >}}
 on behalf of the Reformed BARGE Chip Committee
