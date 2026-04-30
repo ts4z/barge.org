@@ -53,10 +53,11 @@ Top 3 players chopped.
     entries=33
     prize-pool="$3,300" >}}
 
-|   |                 |        |
-|---|-----------------|--------|
-| 1 | Gregory Zarefes | $1,352 |
-| 2 | Bruce Kramer    | $809   |
-| 3 | Lee Ilagan      | $512   |
-| 4 | Christian Jones | $363   |
-| 5 | Steven Chandler | $264   |
+|   |                 |             |
+|---|-----------------|-------------|
+| 1 | Gregory Zarefes | $1,332      |
+| 2 | Bruce Kramer    | $789        |
+| 3 | Lee Ilagan      | $492        |
+| 4 | Christian Jones | $343        |
+| 5 | Steven Chandler | $244        |
+| 6 | Ron Lyons       | $100 (save) |
