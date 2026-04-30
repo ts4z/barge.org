@@ -6,7 +6,7 @@ cover:
   image: /chips/gallery/2026/barge_2026_detail.png
 ---
 
-Order 2026 chip sample sets here: https://secure.barge.org/order-chips/ Order before May 1!
+Order 2026 chip sample sets here: https://secure.barge.org/order-chips/ Order before May 31!
 
 ---
 
