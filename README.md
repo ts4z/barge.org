@@ -128,24 +128,24 @@ contexts, you *cannot* include HTML in general, and Hugo will *omit* it ... but
 you *can* bracket a section like this:
 
 ```
-    {{< rawhtml }}}
+    {{< rawhtml >}}}
     this<br>
     supports<br>
     any<br>
     markup<br>
-    {{< /rawhtml }}}
+    {{< /rawhtml >}}}
 ```
 
 ... but please avoid doing this, especially for complex elements.  Do *not* use
 this to modify CSS.
 
-If you write HTML (`some_filename.html`), you are writing only the "body"
-portion of the document, not the HEAD.  Hugo will supply the head portion and
-will wrap your text in the standard page framework.  This allows using more
-HTML features without worrying about how raw HTML will interact with Markdown.
-This is not recommended, but you can find some examples where we have done
-that.  One of them is the root page, which uses HTML because of bad
-interactions with the slideshow gadget and HTML validation.
+If you write HTML (`some_filename.html`), you are writing only the guts of the
+"body" portion of the document.  Hugo will supply the head portion and will
+wrap your text in the standard page framework.  This allows using more HTML
+features without worrying about how raw HTML will interact with Markdown.  This
+is not recommended, but you can find some examples where we have done that.
+One of them is the root page, which uses HTML because of bad interactions with
+the slideshow gadget and HTML validation.
 
 If all you want to do is add br tags, there is a Hugo shortcode for this.
 (These are particularly important for certain trip reports which don't look
