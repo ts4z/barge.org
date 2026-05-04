@@ -14,7 +14,7 @@ summary: >-
  A bonus for BARGE 2025 attendees.
 ---
 
-Tim was so happy we were making chips, he commissioned an extra one.
+Tim Showalter ([2024 ME winner](../2025/)) was so happy we were making chips, he commissioned an extra one.
 Patrick Milligan did the design, reviewed by the RBCC.
 
 These were made in addition to the usual tournament set.  140 were produced.
