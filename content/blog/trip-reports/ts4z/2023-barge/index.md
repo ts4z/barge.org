@@ -9,6 +9,8 @@ tags:
  - barge
  - 2023
 summary: Space Dust.
+cover:
+  image: cover.jpg
 ---
 
 {{< as-seen-on-the-barge-list >}}
