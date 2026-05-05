@@ -35,14 +35,6 @@ SOFTWARE.
 
 {{- partial "common-header.html" . }}
 
-{{- if .Content }}
-<div class="post-content">
-  {{- if not (.Param "disableAnchoredHeadings") }}
-  {{- partial "anchored_headings.html" .Content -}}
-  {{- else }}{{ .Content }}{{ end }}
-</div>
-{{- end }}
-
 {{- $pages := union .RegularPages .Sections }}
 
 {{- if .IsHome }}
@@ -51,6 +43,14 @@ SOFTWARE.
 {{- end }}
 
 {{- $paginator := .Paginate $pages }}
+
+{{- if and .Content (eq $paginator.PageNumber 1) }}
+<div class="post-content">
+  {{- if not (.Param "disableAnchoredHeadings") }}
+  {{- partial "anchored_headings.html" .Content -}}
+  {{- else }}{{ .Content }}{{ end }}
+</div>
+{{- end }}
 
 {{- if and .IsHome site.Params.homeInfoParams (eq $paginator.PageNumber 1) }}
 {{- partial "home_info.html" . }}
