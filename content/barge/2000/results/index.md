@@ -1,6 +1,4 @@
 ---
-aliases:
-- /barge-2001
 date: 2000-09-01
 draft: false
 summary: Complete? results for BARGE 2000.
@@ -9,11 +7,15 @@ tags:
 - 2000
 - results
 title: BARGE 2000 Results
+cover:
+  image: logos/barge_2000_logo.png
 ---
 
 *\[We recovered these from a page on [Andy Hughes'
 site](http://nevadacasinochips.com/barge00.htm) and believe they are complete
-and correct. --Ed., 2026\]*
+and correct. ---Ed., 2026\]*
+
+---
 
 Binion's generously provided all cashing players with a WSOP
 Jacket!
@@ -66,7 +68,8 @@ Jacket!
 {{< tournament
     date="Saturday, August 6th, 2000"
     event="TEXAS HOLDEM"
-    parentheticals="(NO LIMIT)" >}}
+    parentheticals="(NO LIMIT)" 
+    image="jeffb.jpg" >}}
 
 |    |                           |        |
 |----|---------------------------|--------|
@@ -110,6 +113,12 @@ Jacket!
 |---|------------------------|----|
 | 1 | Chris "Jesus" Ferguson | $5 |
 
-## BEST OVERALL PLAYER OF BARGE 2000
+{{< tournament
+    event="BEST OVERALL PLAYER OF BARGE 2000"
+    image="donperryii.jpg" >}}
 
 Don "trythat" Perry
+
+{{< rawhtml >}}
+<br clear="all">
+{{< /rawhtml >}}
