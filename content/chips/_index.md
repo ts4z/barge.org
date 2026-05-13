@@ -27,7 +27,7 @@ in order to fund the trophy set, and also because the BARGE community likes
 chips.
 
 [The gallery](gallery/) starts in [1993](gallery/1993/) and ends in
-[2025](gallery/2025/).  There is also a [gallery table of contents](toc/).
+[2026](gallery/2026/).  There is also a [gallery table of contents](toc/).
 We've got images of each of the chip sets and a little bit of information on
 their history.
 
