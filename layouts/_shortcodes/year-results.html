@@ -1,0 +1,13 @@
+{{- $section := site.GetPage (.Get "section") -}}
+<div class="title-gallery">
+  {{- range $section.Sections }}
+    {{- $results := .GetPage "results" }}
+    {{- if $results }}
+    <a class="title-card" href="{{ $results.RelPermalink }}">
+      <div class="title-card">
+        <div class="title-text">{{ .File.ContentBaseName }}</div>
+      </div>
+    </a>
+    {{- end }}
+  {{- end }}
+</div>
