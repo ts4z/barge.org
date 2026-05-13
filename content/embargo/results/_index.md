@@ -8,3 +8,5 @@ tags:
  - embargo
  - results
 ---
+
+{{< year-results section="/embargo" >}}

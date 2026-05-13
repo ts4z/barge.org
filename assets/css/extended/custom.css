@@ -161,12 +161,14 @@ body {
   gap: 8px;
 }
 
-.title-card {
+.title-card,
+a.title-card {
   padding: 12px;
   border-radius: 16px;
   background-color: #0000ff;
   object-fit: cover;
   color: #eeeeee;
+  box-shadow: none;
 }
 
 .title-text {

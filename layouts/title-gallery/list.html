@@ -16,6 +16,7 @@
 
 {{- partial "home_info.html" . }}
 
+  {{- if .Pages }}
   <div class="title-gallery">
     {{ range .Pages }}
     <a class="title-card" href="{{ .RelPermalink }}">
@@ -25,6 +26,7 @@
     </a>
     {{ end }}
   </div>
+  {{- end }}
 
 {{- end }}{{/* end profileMode */}}
 

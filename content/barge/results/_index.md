@@ -12,3 +12,5 @@ tags:
 ---
 
 We don't have complete results prior to 2001.
+
+{{< year-results section="/barge" >}}
