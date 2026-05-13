@@ -6,7 +6,7 @@ tags:
  - barge
  - 2026
 cover:
-  image: barge_2026_logo.png
+  image: logos/barge_2026_logo.png
 aliases:
  - /2026
 summary: >-
