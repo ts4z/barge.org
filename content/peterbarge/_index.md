@@ -5,15 +5,11 @@ type: event-root
 params:
   notInMainMenu: true
 cover:
-  image: cover.png
+  image: logos/peterbarge_logo.png
 ---
 
-Quick Links: 
-[2025 Information](2025/) &mdash;
-[Results](results/)
-
-PeterBARGE is a semi-private event held in the Bay Area in honor of Peter
-Secor.  It is open to members of the BARGE community.
+PeterBARGE was a semi-private event held in the Bay Area in honor of Peter
+Secor.  It was open to members of the BARGE community.
 
 ---
 
