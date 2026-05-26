@@ -20,6 +20,8 @@ hugo server --buildDrafts
 
 The site builds to `public/`. The staging config in `config/staging/hugo.yaml` overrides the base URL to `https://test.bjrge.org/`.
 
+The PaperMod theme is a git submodule. If `themes/PaperMod` is empty (fresh clone or missed `--recurse-submodules`), Hugo will build but most list/section pages will 404 because `baseof.html` lives in the theme. Fix with `git submodule update --init --recursive`.
+
 ### git
 
 We use `git` for storing the site.  All pushes to main are deployed to production.
