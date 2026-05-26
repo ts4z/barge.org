@@ -75,6 +75,17 @@ Ask Doug.
 On GitHub, just above and to the right of this text area, go to the Code
 dropdown and pick "ssh".  Run that.
 
+The PaperMod theme is a git submodule, so you need to either clone with
+`--recurse-submodules` or, after cloning, run:
+
+```sh
+git submodule update --init --recursive
+```
+
+Without this, `themes/PaperMod` will be empty and most pages will 404 (Hugo
+falls through to a bare "Page Not Found" because the theme's `baseof.html` is
+missing).
+
 #### Test your edits
 
 To run a local server that shows edits:
