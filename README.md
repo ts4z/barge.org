@@ -189,7 +189,7 @@ Examples of both can be found throughout the input files.
 Feel free to reorganize the site.  It is OK to relocate pages, but as you do,
 use "aliases" in the front matter.  [Cool links don't
 change.](https://www.w3.org/Provider/Style/URI) Try to salvage dead links by
-pointing them at the most interesting content.  There are many old links to
+pointing them at the most relevant content.  There are many old links to
 barge.org floating around on the web, and it is sad to see them 404.
 
 ### Organization
@@ -223,15 +223,14 @@ for bold.  Underlining is right out.
 
 ### Frontmtter
 
-All pages need frontmatter headers.  This is the bit between the "---" lines.
+All pages need frontmatter headers.  This is the bit between the `---` lines.
 Pages will not work correctly if this is omitted.
 
-Make sure every page has a "title" field.  Additionally, most pages will need a
-"summary" field.  When PaperMod renders a card for a link, it will use the
-initial text of a page without a summary, and this usually looks mediocre.
+Make sure every page has a "title" field.  A "summary" field is strongly
+advised.  When PaperMod renders a card for a link, it will use the initial text
+of a page without a summary, and this usually looks mediocre.
 
-Write all frontmatter in YAML.  JSON might be OK if we had to, but it hasn't
-come up yet.  Avoid TOML entirely.
+Write all frontmatter in YAML.
 
 If you find yourself repeating something, or having trouble styling something
 in Markdown, make a "shortcode" for it.  See `layouts/_shortcodes`.  This is
@@ -241,10 +240,10 @@ likely to confuse; that said, it is better to use a shortcode than raw HTML.
 If you find you need a different layout for a directory, see
 `layouts/title-gallery` for an example.
 
-*Don't* write a lot of custom HTML, or depend on the details of Markdown.  If
-you can't do it with the structure of the documents, make new structure with a
-shortcode.  If you care about the structure of HTML (rare, but it happens) make
-the whole page HTML.
+*Don't* write custom HTML, or depend on the details of Markdown.  If you can't
+do it with the structure of the documents, make new structure with a shortcode.
+If you care about the structure of HTML (rare, but it happens) make the whole
+page HTML.
 
 ### House style
 
@@ -293,9 +292,6 @@ This is used for a few different purposes:
   another one that is likely a duplicate and misplaced.
 - A few simple client-side redirects are managed via the static directory.
   These include old links to `/rules/`.
-- Some unmanaged content still lives in the static directory.  This is
-  particularly true for `atlarge`, which still has some old logos, etc., that
-  should be cleaned up.
 
 In general, content should *not* go into static.  Hugo won't validate it, and
 it's hard to make it mesh with the rest of the site.  It is best if we clean
