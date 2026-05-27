@@ -13,7 +13,7 @@ tags:
 - 2026
 title: BARGE 2026 Schedule
 ---
-BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boydgaming.com/) from July 20 through July 25.<!--more-->
+BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boydgaming.com/) from July 20 through July 25.
 
 |                     Date | Time    | Event                                                                                                              | Entry                     |
 |-------------------------:|:--------|:-------------------------------------------------------------------------------------------------------------------|:--------------------------|
