@@ -38,7 +38,7 @@ place winners in Second Chance events.
 ---
 
 We are making new ["Welcome" chips](/chips/gallery/2026-welcome/), reviving
-what BCC did this back in 2017.  The intent is that these chips can be given to
+what BCC did back in 2017.  The intent is that these chips can be given to
 anyone you'd like to invite to BARGE. We have six of these available in six
 colors and three different basic designs. These chips are $5 each or 6 chips,
 $12. 18 chips, $24.  90 chips, $90.  Mix and match!
