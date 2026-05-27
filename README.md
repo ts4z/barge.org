@@ -53,22 +53,20 @@ brew install git hugo
 
 ##### Linux
 
-If you're on Debian Linux, you'll need hugo.  The Debian build of hugo is too
-old, so you'll need to get it and build it with Go.  Of course this means
-getting Go, and the Debian build of that is too old, too.
+If you're on Debian Linux, the Debian build of hugo is too old, so you'll need
+to get it and build it with Go.  Of course this means getting Go, and the
+Debian build of that is too old, too.
 
 ```sh
 go install gohugoio/hugo@latest   # if on debian
-git submodule update --init --recursive
 ```
 
-Note that not everyone uses Linux, so avoid filenames that differ only by case
-and filenames that contain scary punctuation characters like `:` and `?`.
-(Tim: this means you.)
+Take special care to avoid filenames that differ only by case, or that contain
+scary punctuation characters like `:` and `?`.  (Tim: this means you.)
 
 ##### Windows
 
-Ask Doug.
+Good luck.
 
 #### Clone this repository
 
