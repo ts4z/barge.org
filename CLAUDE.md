@@ -29,6 +29,10 @@ Make small, self-contained git commits whenever possible.
 
 When pulling from remote, use `git pull --rebase`, not `git pull`.
 
+### PaperMod
+
+PaperMod must be installed.  `git submodule update --init --recursive` will fetch it.
+
 ## Architecture Overview
 
 This is a [Hugo](https://gohugo.io/) static site for BARGE.org, the website for BARGE (Big Annual Rec.Gambling Excursion) and related poker community events. The theme is [PaperMod](https://github.com/adityatelange/hugo-PaperMod), with significant custom layouts extending it.
@@ -127,6 +131,8 @@ Windows-1252 or ISO-8859-1 or ISO-8859-15.  It is safe to assume invalid UTF-8
 sequences are a Windows-1252 character set.  Avoid using the Unicode
 replacement character, or at least highlight it as part of a response to
 refactoring.
+
+Do not commit data in an invalid character set.  Convert it first.
 
 ### Tags
 
