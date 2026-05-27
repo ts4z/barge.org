@@ -52,7 +52,7 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
    - Team Rubicon (Tanya Peck-Devenport’s preferred charity)
    - The Bread Project (Alan Bostick’s preferred charity)
    - American Association for the Advancement of Science (Art Reber’s preferred charity)
-   - [Gillian Groves’s preferred charity TBA]
+   - Friends of Cabrillo Marine Aquarium (Gillian Groves’s preferred charity)
    - American Cancer Society
    - Dogs On Deployment
    - Habitat for Humanity
