@@ -49,9 +49,10 @@ chippiness. These are $2 each.
 
 ---
 
-Finally, we have a VERY limited number of chips for sale from [last
+~~Finally, we have a VERY limited number of chips for sale from [last
 year](/tags/2025-batch/).  As is BCC tradition, these are a little pricier than
-they were last year. But we can offer a $16 discount if you buy all four sets!
+they were last year. But we can offer a $16 discount if you buy all four sets!~~
+*These are sold out.*
 
 ---
 
