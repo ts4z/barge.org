@@ -1,0 +1,169 @@
+# Canonical ATLARGE 2026 registration list.
+# Hand-edited 2026-05-27 to add registrations missed by Zeffy during early hiccups.
+# Running zeffy_poll.py will OVERWRITE this file — don't, unless you're prepared
+# to re-merge the canonical list yourself.
+- full_name: John Timm
+  ticket: 1
+  nickname: JT
+- full_name: Andy Bartalone
+  ticket: 2
+  nickname: Buffalo
+- full_name: Stephen Rosenblatt
+  ticket: 3
+  nickname: STEPHEN
+- full_name: Mike Fujita
+  ticket: 4
+  nickname: Omaha Fool
+- full_name: David Kuznick
+  ticket: 5
+  nickname: DavidK
+- full_name: Linda M Lewis
+  ticket: 6
+  nickname: LLEW
+- full_name: Ron Grossberg
+  ticket: 7
+  nickname: Playing for JD
+- full_name: Shawn Grigus
+  ticket: 8
+  nickname: AllTheGames
+- full_name: Alan Stuart
+  ticket: 9
+  nickname: uncle al
+- full_name: Rick Becker
+  ticket: 10
+  nickname: Fred Garvin
+- full_name: Ricky Becker
+  ticket: 11
+  nickname: Ricky
+- full_name: Tracy Becker
+  ticket: 12
+  nickname: TracyB
+- full_name: Ron Lyons
+  ticket: 13
+  nickname: 8-2 Ron
+- full_name: Charles Natkins
+  ticket: 14
+  nickname: Boomerman
+- full_name: Nancy Robertson
+  ticket: 15
+  nickname: NancyR13
+- full_name: John Segovia
+  ticket: 16
+  nickname: Mango
+- full_name: Deron Brod
+  ticket: 17
+  nickname: ADB Neon
+- full_name: Christian Jones
+  ticket: 18
+  nickname: Dr.Doofenshmirtz
+- full_name: Jodi Shapiro
+  ticket: 19
+  nickname: Jodi Ess
+- full_name: Tom Bessoir
+  ticket: 20
+  nickname: Chaos
+- full_name: Ted Hennessey
+  ticket: 21
+  nickname: Ted
+- full_name: Scott Byron
+  ticket: 22
+  nickname: Bwana
+- full_name: Len Greenberg
+  ticket: 23
+  nickname: Len G
+- full_name: Thomas Abraham
+  ticket: 24
+  nickname: Tom
+- full_name: Caryl Aronson
+  ticket: 25
+  nickname: MrsTCAo
+- full_name: David Aronson
+  ticket: 26
+  nickname: Meeee
+- full_name: Guy Berentsen
+  ticket: 27
+  nickname: Grizz
+- full_name: Steven Chandler
+  ticket: 28
+  nickname: Chandler
+- full_name: Ray Didonato
+  ticket: 29
+  nickname: RAYDON
+- full_name: Bob Lauria
+  ticket: 30
+  nickname: ScsuHockey10
+- full_name: Dave Filipek
+  ticket: 31
+  nickname: Big Guy
+- full_name: Stevan Goldman
+  ticket: 32
+  nickname: goldie
+- full_name: Jim Hawkins
+  ticket: 33
+  nickname: Papa Hawk
+- full_name: Meredith Holtzman
+  ticket: 34
+  nickname: Meredith
+- full_name: LeeMarie Ilagan
+  ticket: 35
+  nickname: Lee
+- full_name: Michael Kouvarakos
+  ticket: 36
+  nickname: Mike K9
+- full_name: Sal Mazzurco
+  ticket: 37
+  nickname: Dead Money
+- full_name: Paul McMullin
+  ticket: 38
+  nickname: prmcm/framistat
+- full_name: Donna Kracinovich
+  ticket: 39
+  nickname: JerseyGirl
+- full_name: Tom Kracinovich
+  ticket: 40
+  nickname: TomLikesPoker
+- full_name: Thomas R Hummel
+  ticket: 41
+  nickname: Aardvark
+- full_name: Peter Segal
+  ticket: 42
+  nickname: TrayRacer
+- full_name: Jack Tepper
+  ticket: 43
+  nickname: plummet
+- full_name: David Watt
+  ticket: 44
+  nickname: David
+- full_name: Chuck Weinstock
+  ticket: 45
+  nickname: Enabler
+- full_name: Dean White
+  ticket: 46
+  nickname: DeantheDream
+- full_name: Cynthia Yannette
+  ticket: 47
+  nickname: Cindy
+- full_name: Steve Eisenstein
+  ticket: 48
+  nickname: Ice
+- full_name: Richard Vehlow
+  ticket: 49
+  nickname: Majoracehole
+- full_name: Gregory Zarefes
+  ticket: 50
+  nickname: Miscalculated Mage
+- full_name: Kevin Conlon
+  ticket: 51
+  nickname: GolfMan
+- full_name: Patricia Conlon
+  ticket: 52
+  nickname: GolfMom
+- full_name: Bruce Kramer
+  ticket: 53
+  nickname: ADB Bigboy
+- full_name: Rich Angelo
+  ticket: 54
+  nickname: RICH
+- full_name: Barry Kornspan
+  ticket: 55
+  nickname: Mr. Raise
