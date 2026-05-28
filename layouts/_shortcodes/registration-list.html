@@ -1,33 +1,85 @@
 {{- /*
     registration-list
 
-    Renders a numbered list of registrants from a Hugo data file.
+    Renders a sortable 3-column table of registrants from a Hugo data file.
     The data file is a YAML list of {full_name, ticket, nickname}.
 
     Usage:
         {{< registration-list data="atlarge_2026_registrations" >}}
 
-    Each entry renders as:
-        Firstname, "<strong>NICKNAME</strong>", first-3-of-lastname...
+    Columns:
+        #         — registration order (ticket number); numeric sort
+        Name      — Firstname + last-initial (e.g. "Andy B."); text sort
+        Nickname  — bolded; text sort
 
-    The last name is truncated to 3 chars followed by an ellipsis when the
-    real last name is longer; shorter last names render verbatim.
-
-    Sorted by ticket ascending; the ordered-list number is registration order.
+    Initial sort is by registration order ascending. Click any column header
+    to re-sort by that column; click again to reverse.
 */ -}}
 {{- $key := .Get "data" -}}
 {{- $rows := index hugo.Data $key -}}
 {{- if not $rows -}}
 <p><em>No registrations to display.</em></p>
 {{- else -}}
-<ol class="registration-list">
-{{- range sort $rows "ticket" "asc" -}}
+<table class="registration-list sortable">
+  <thead>
+    <tr>
+      <th data-sort="numeric" scope="col">#</th>
+      <th data-sort="text" scope="col">Name</th>
+      <th data-sort="text" scope="col">Nickname</th>
+    </tr>
+  </thead>
+  <tbody>
+{{- range sort $rows "ticket" "asc" }}
 {{- $parts := split (.full_name | default "") " " -}}
 {{- $first := index $parts 0 -}}
 {{- $last := index $parts (sub (len $parts) 1) -}}
-{{- $lastShort := substr $last 0 3 -}}
-{{- if gt (len $last) 3 -}}{{- $lastShort = printf "%s..." $lastShort -}}{{- end -}}
-  <li>{{ $first }}{{ with .nickname }} &ldquo;<strong>{{ . }}</strong>&rdquo;{{ end }} {{ $lastShort }}</li>
+{{- $lastInitial := substr $last 0 1 -}}
+    <tr>
+      <td>{{ .ticket }}</td>
+      <td>{{ $first }} {{ $lastInitial }}.</td>
+      <td>{{ with .nickname }}<strong>{{ . }}</strong>{{ end }}</td>
+    </tr>
 {{- end }}
-</ol>
+  </tbody>
+</table>
+<script>
+(function() {
+  document.querySelectorAll('table.registration-list.sortable').forEach(function(table) {
+    if (table.dataset.sortableInit) return;
+    table.dataset.sortableInit = 'true';
+    var ths = table.querySelectorAll('thead th');
+    ths.forEach(function(th, idx) {
+      th.style.cursor = 'pointer';
+      th.style.userSelect = 'none';
+      th.addEventListener('click', function() {
+        var tbody = table.querySelector('tbody');
+        var rows = Array.prototype.slice.call(tbody.querySelectorAll('tr'));
+        var sortType = th.dataset.sort || 'text';
+        var asc = th.dataset.sortAsc !== 'true';
+        ths.forEach(function(h) {
+          delete h.dataset.sortAsc;
+          h.removeAttribute('aria-sort');
+          var existing = h.querySelector('.sort-arrow');
+          if (existing) existing.remove();
+        });
+        th.dataset.sortAsc = asc ? 'true' : 'false';
+        th.setAttribute('aria-sort', asc ? 'ascending' : 'descending');
+        var arrow = document.createElement('span');
+        arrow.className = 'sort-arrow';
+        arrow.textContent = asc ? ' ▲' : ' ▼';
+        th.appendChild(arrow);
+        rows.sort(function(a, b) {
+          var av = a.children[idx].textContent.trim();
+          var bv = b.children[idx].textContent.trim();
+          if (sortType === 'numeric') {
+            return (parseFloat(av) - parseFloat(bv)) * (asc ? 1 : -1);
+          }
+          return av.localeCompare(bv, undefined, {sensitivity: 'base'}) * (asc ? 1 : -1);
+        });
+        rows.forEach(function(r) { tbody.appendChild(r); });
+      });
+    });
+  });
+})();
+</script>
 {{- end -}}
