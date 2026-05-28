@@ -4,3 +4,8 @@ resources/_gen
 tmp
 .DS_Store
 .claude
+scripts/cookies.json
+scripts/last_export.xlsx
+scripts/.venv
+scripts/__pycache__
+scripts/logs
