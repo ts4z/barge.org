@@ -20,10 +20,10 @@ ATLARGE stands for the ATLantic city Annual Rec.Gambling Excursion. We are a
 diverse group of people with a common hobby: Poker! We've been gathering once
 each year in the springtime in Atlantic City since 1995 (with a short break).
 We dine, we drink, we laugh and we play poker, including LOTS of ring games
-plus three tournaments that we organize ourselves. This year, ATLARGE2026 will
-be the 30th in-person gathering (and 32nd overall!), and will take place at 
-The Borgata, the largest poker room in Atlantic City. Our three tournaments will
-be April 17, 18, and 19.
+plus three tournaments that we organize ourselves. This year, ATLARGE2026 was
+the 30th in-person gathering (and 32nd overall!), and took place at The
+Borgata, the largest poker room in Atlantic City. Our three tournaments were on
+April 17, 18, and 19.
 
 ATLARGE is the New Jersey version of [BARGE](/barge/) (our group's biggest
 event, our annual gathering in Las Vegas in August). Roughly 200 people attend
