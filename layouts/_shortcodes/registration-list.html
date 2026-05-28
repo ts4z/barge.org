@@ -1,0 +1,29 @@
+{{- /*
+    registration-list
+
+    Renders a numbered list of registrants from a Hugo data file.
+    The data file is a YAML list of {full_name, ticket, nickname}.
+
+    Usage:
+        {{< registration-list data="atlarge_2026_registrations" >}}
+
+    Each entry renders as:
+        Firstname, "<strong>NICKNAME</strong>", first-3-of-lastname
+
+    Sorted by ticket ascending; the ordered-list number is registration order.
+*/ -}}
+{{- $key := .Get "data" -}}
+{{- $rows := index .Site.Data $key -}}
+{{- if not $rows -}}
+<p><em>No registrations to display.</em></p>
+{{- else -}}
+<ol class="registration-list">
+{{- range sort $rows "ticket" "asc" -}}
+{{- $parts := split (.full_name | default "") " " -}}
+{{- $first := index $parts 0 -}}
+{{- $last := index $parts (sub (len $parts) 1) -}}
+{{- $lastShort := substr $last 0 3 -}}
+  <li>{{ $first }}{{ with .nickname }} &ldquo;<strong>{{ . }}</strong>&rdquo;{{ end }} {{ $lastShort }}</li>
+{{- end }}
+</ol>
+{{- end -}}
