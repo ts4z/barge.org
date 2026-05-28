@@ -16,7 +16,7 @@
     Sorted by ticket ascending; the ordered-list number is registration order.
 */ -}}
 {{- $key := .Get "data" -}}
-{{- $rows := index .Site.Data $key -}}
+{{- $rows := index hugo.Data $key -}}
 {{- if not $rows -}}
 <p><em>No registrations to display.</em></p>
 {{- else -}}
