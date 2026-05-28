@@ -63,12 +63,20 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 ### Triple Draw Dealer’s Choice
 
  - 6 handed; all games are played limit
- - Dealer’s choice of the following games: A-5 Triple Draw, 2-7 Triple Draw, Archie, Badugi, Badacey, Badeucey, Draw High (no bug)
+ - Dealer’s choice of the following games: 
+   [A-5 Triple Draw](/rulebook/ace-to-5-triple-draw.html), 
+   [2-7 Triple Draw](/rulebook/deuce-to-seven-triple-draw.html), 
+   [Archie](/rulebook/archie.html), 
+   [Badugi](/rulebook/badugi.html), 
+   [Badacey](/rulebook/badacey.html), 
+   [Badeucey](/rulebook/badeucy.html),
+   [Draw High](/rulebook/five-card-triple-draw.html) (no bug)
  - *featuring chaos-style reshuffling (seating at each table is redrawn at first two breaks; button is awarded to player who last paid the big blind)*
 
 ### OE
 
- - alternating rounds of Omaha/8 and Stud/8.  forever.
+ - alternating rounds of [Omaha/8](/rulebook/omaha-high-low-eight-or-better.html) and 
+   [Stud/8](/rulebook/stud-high-low-eight-or-better.html).  forever.
 
 ### Savage Average No Limit Hold’em with Nit Levels
 
@@ -82,7 +90,7 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 
 ### Wonky Action Razz
 
- - Limit mix of Wonky Donkey and Action Razz; games change by level
+ - Limit mix of [Wonky Donkey](/rulebook/wonky-donkey.html) and [Action Razz](/rulebook/action-razz.html); games change by level
  - In Wonky Donkey, players receive two cards.  If the majority of the flop is red, the game is hold’em.  If the majority of the flop is black, players receive two more cards and the game is Omaha 8 or better.
  - *featuring chaos-style reshuffling (seating at each table is redrawn at first two breaks; button is awarded to player who last paid the big blind)*
 
@@ -90,7 +98,7 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 
  - this will once again be run informally and rake-free
 
-### Funbook Pot Limit Omaha
+### Funbook [Pot Limit Omaha](/rulebook/omaha-high-only.html)
 
  - Players start with 10k and get 2 lammers worth 5k each
  - Each entry comes with a special coupon book – redeem ’em and weep!
@@ -98,12 +106,13 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 ### Team CHORSE
 
  - this is a six person team event where each team member plays one CHORSE game
-   (HORSE + Crazy Pineapple 8 or better)
+   (HORSE + [Crazy Pineapple 8 or Better](/rulebook/crazy-pineapple-high-low.html))
 
 ### TOC-Style
 
- - mix of limit Hold’em, Omaha/8 or better, Stud High before switching to no
-   limit Hold’em with 1-2 tables remaining
+ - mix of [Limit](/rulebook/limit.html) [Hold’em](/rulebook/texas-holdem.html), [Omaha/8 or
+   Better](/rulebook/omaha-high-low-eight-or-better.html), [Stud High](/rulebook/seven-card-stud.html) before
+   switching to [No Limit](/rulebook/no-limit.html) [Hold’em](/rulebook/texas-holdem.html) with 1-2 tables remaining
 
 ### BARGE Annual Dinner
 
@@ -113,7 +122,7 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 ### Crayfish Atomic Pineapple
 
  - In Atomic Pineapple, players receive five cards and discard one after the betting on the flop, turn, and river to end up with a two card hand.
- - In Crayfish poker, all five board cards are dealt on the flop.  Instead of a turn, the dealer rolls a die and the corresponding card is taken out of play (or if a 6 is rolled all cards remain).  Instead of a river, the dealer rolls another die and the corresponding card is taken out of play (or if a 6 is rolled all cards remain; if the prior roll is repeated nothing changes and the four board cards remain).
+ - In [Crayfish](/rulebook/crayfish.html) poker, all five board cards are dealt on the flop.  Instead of a turn, the dealer rolls a die and the corresponding card is taken out of play (or if a 6 is rolled all cards remain).  Instead of a river, the dealer rolls another die and the corresponding card is taken out of play (or if a 6 is rolled all cards remain; if the prior roll is repeated nothing changes and the four board cards remain).
  - *featuring chaos-style reshuffling (seating at each table is redrawn at first two breaks; button is awarded to player who last paid the big blind)*
 
 ### Reindeer Games
