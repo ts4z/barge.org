@@ -8,7 +8,10 @@
         {{< registration-list data="atlarge_2026_registrations" >}}
 
     Each entry renders as:
-        Firstname, "<strong>NICKNAME</strong>", first-3-of-lastname
+        Firstname, "<strong>NICKNAME</strong>", first-3-of-lastname...
+
+    The last name is truncated to 3 chars followed by an ellipsis when the
+    real last name is longer; shorter last names render verbatim.
 
     Sorted by ticket ascending; the ordered-list number is registration order.
 */ -}}
@@ -23,6 +26,7 @@
 {{- $first := index $parts 0 -}}
 {{- $last := index $parts (sub (len $parts) 1) -}}
 {{- $lastShort := substr $last 0 3 -}}
+{{- if gt (len $last) 3 -}}{{- $lastShort = printf "%s..." $lastShort -}}{{- end -}}
   <li>{{ $first }}{{ with .nickname }} &ldquo;<strong>{{ . }}</strong>&rdquo;{{ end }} {{ $lastShort }}</li>
 {{- end }}
 </ol>
