@@ -10,6 +10,7 @@ aliases:
  - /chips/order
  - /chips/2024/07/31/once-upon-a-time/
  - /chips/2024/08/04/work-in-progress/
+ - /news/2026-order-barge-chips-now/
 type: directory
 cover:
   image: cover.png
@@ -52,17 +53,9 @@ corrections.
 
 ## Chips for Sale
 
-Chip orders will be taken until May 31.  [Order here](https://secure.barge.org/order-chips/).
+We will have (a very few) 2026, 2024, and 2022 sets once those are produced.
 
-We are taking orders for chips for
-[2026](gallery/2026/),
-[2024](gallery/2024/), and
-[2022](gallery/2022/),
-as well as new [Welcome Chips](gallery/2026-welcome/).
-
-We also are selling the old [2017 Welcome Chips](gallery/2017-welcome/).
-
-We also have an inventory of *some* old BARGE chips, including some complete
+We have an inventory of *some* old BARGE chips, including some complete
 sample sets.  Contact [Tim Showalter](mailto:tjs@psaux.com) to see if we have
 figured out how to sell these yet.
 
@@ -89,7 +82,6 @@ In 2025, the BCC was revived, and chips were produced for
 [2020](gallery/2020/) and were delivered at BARGE.
 
 We are currently producing chips for [2026](gallery/2026/), and make-up sets
-for [2024](gallery/2024/) and [2022](gallery/2022/).  [Order
-now!](https://secure.barge.org/order-chips/)
+for [2024](gallery/2024/) and [2022](gallery/2022/).
 
 -----
