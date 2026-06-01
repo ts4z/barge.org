@@ -44,6 +44,8 @@ params:
   # nextEvents, these will wrap if they get too long.
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
+    - link: https://www.zeffy.com/en-US/ticketing/barge--2026
+      text: "Register now for BARGE 2026!"
     - link: https://argempoker.com/registration/
       text: "Register now for ARGEM 2026!"
   selfHosted: true
