@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 12:44 PDT
+last_updated: 2026-06-01 13:04 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -48,3 +48,6 @@ registrations:
 - full_name: JK Scheinberg
   ticket: 16
   nickname: JZK
+- full_name: Lee Crocker
+  ticket: 17
+  nickname: Bowtie
