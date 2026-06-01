@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 13:19 PDT
+last_updated: 2026-06-01 14:29 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -60,3 +60,6 @@ registrations:
 - full_name: Martin Veneroso
   ticket: 20
   nickname: Slick
+- full_name: Mike Fujita
+  ticket: 21
+  nickname: Omahafool
