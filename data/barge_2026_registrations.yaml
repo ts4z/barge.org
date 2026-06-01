@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 13:09 PDT
+last_updated: 2026-06-01 13:19 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -57,3 +57,6 @@ registrations:
 - full_name: Steve Watanabe
   ticket: 19
   nickname: stevew
+- full_name: Martin Veneroso
+  ticket: 20
+  nickname: Slick
