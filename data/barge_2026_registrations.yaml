@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 13:09 PDT
+last_updated: 2026-06-01 13:19 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -76,3 +76,7 @@ registrations:
   last_initial: W
   nickname: stevew
   ticket: 19
+- first: Martin
+  last_initial: V
+  nickname: Slick
+  ticket: 20
