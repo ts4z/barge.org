@@ -51,6 +51,9 @@ SOFTWARE.
 
 {{- $pages := (union .RegularPages .Sections).ByDate.Reverse }}
 
+{{- /* Pointer pages are redirect stubs; never surface them as section tiles. */ -}}
+{{- $pages = where $pages "Type" "!=" "pointer" }}
+
 {{- if .IsHome }}
 {{- $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true"  }}
