@@ -14,7 +14,7 @@ Reads scripts/cookies.json (produced by zeffy_login.py), hits the Zeffy
 internal export endpoint for the named campaign, decodes the returned XLSX,
 and writes a Hugo data file in the form:
 
-    last_updated: "2026-06-01 17:30 UTC"
+    last_updated: "2026-06-01 10:30 PDT"
     registrations:
       - full_name: ...
         ticket: 1
@@ -33,14 +33,18 @@ import io
 import json
 import re
 import sys
-from datetime import datetime, timezone
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 import openpyxl
 import yaml
 
 ENDPOINT = "https://api.zeffy.com/_new/trpc/exportGuestList"
+
+# Timestamp on the rendered page: Pacific time (PDT or PST per date).
+DISPLAY_TZ = ZoneInfo("America/Los_Angeles")
 
 SCRIPT_DIR = Path(__file__).parent
 COOKIES_PATH = SCRIPT_DIR / "cookies.json"
@@ -202,7 +206,7 @@ def main() -> int:
         return 0
 
     payload = {
-        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "last_updated": datetime.now(DISPLAY_TZ).strftime("%Y-%m-%d %H:%M %Z"),
         "registrations": rows,
     }
     args.output.parent.mkdir(parents=True, exist_ok=True)

@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 17:39 UTC
+last_updated: 2026-06-01 10:48 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -27,4 +27,16 @@ registrations:
 - first: Kenny
   last_initial: K
   nickname: QB
+  ticket: 7
+- first: Andy
+  last_initial: B
+  nickname: Buffalo
+  ticket: 8
+- first: Russell
+  last_initial: F
+  nickname: Messenger of Doom
+  ticket: 9
+- first: Jared
+  last_initial: A
+  nickname: Mr3putt
   ticket: null
