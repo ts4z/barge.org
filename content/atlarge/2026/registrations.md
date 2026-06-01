@@ -1,5 +1,5 @@
 ---
-date: 2026-05-27
+date: 2026-04-13
 draft: false
 summary: Who's signed up for ATLARGE 2026.
 tags:
