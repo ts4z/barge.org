@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 10:48 PDT
+last_updated: 2026-06-01 10:54 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -28,5 +28,8 @@ registrations:
   ticket: 9
   nickname: Messenger of Doom
 - full_name: Jared Anderson
-  ticket: null
+  ticket: 10
   nickname: Mr3putt
+- full_name: Nancy Robertson
+  ticket: 11
+  nickname: NancyR13
