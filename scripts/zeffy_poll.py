@@ -8,17 +8,23 @@
 # ]
 # ///
 """
-One-shot poll of the Zeffy guest list for ATLARGE 2026.
+One-shot poll of a Zeffy campaign's guest list.
 
 Reads scripts/cookies.json (produced by zeffy_login.py), hits the Zeffy
-internal export endpoint, decodes the returned XLSX, and writes a Hugo
-data file at data/atlarge_2026_registrations.yaml.
+internal export endpoint for the named campaign, decodes the returned XLSX,
+and writes a Hugo data file in the form:
+
+    last_updated: "2026-06-01 17:30 UTC"
+    registrations:
+      - full_name: ...
+        ticket: 1
+        nickname: ...
 
 Run zeffy_login.py first to capture cookies.
 
 Usage:
-    uv run scripts/zeffy_poll.py             # writes the data file
-    uv run scripts/zeffy_poll.py --dry-run   # prints rows, writes nothing
+    uv run scripts/zeffy_poll.py --campaign <UUID> --output <PATH>
+    uv run scripts/zeffy_poll.py --campaign <UUID> --output <PATH> --dry-run
 """
 
 import argparse
@@ -27,6 +33,7 @@ import io
 import json
 import re
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -35,12 +42,8 @@ import yaml
 
 ENDPOINT = "https://api.zeffy.com/_new/trpc/exportGuestList"
 
-# ATLARGE 2026 — ticketingId visible as formId in the campaign URL.
-CAMPAIGN_ID = "ee9287db-4983-429c-b131-719fa3eb93b6"
-
 SCRIPT_DIR = Path(__file__).parent
 COOKIES_PATH = SCRIPT_DIR / "cookies.json"
-DATA_PATH = SCRIPT_DIR.parent / "data" / "atlarge_2026_registrations.yaml"
 
 
 def build_body(campaign_id: str) -> dict:
@@ -124,12 +127,20 @@ def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
                     return i
         return None
 
+    # Column-preference order for the displayed name:
+    #   "Name For Badge"  — custom question, used by campaigns where one
+    #                       buyer can register multiple attendees (BARGE).
+    #   "Guest name"      — Zeffy's built-in column (populated when each
+    #                       ticket has its own guest profile; e.g. ATLARGE).
+    #   "Buyer name"      — last-resort fallback.
+    badge_col = find_col("name for badge", "badge name")
     guest_col = find_col("guest")
     buyer_col = find_col("buyer")
     ticket_col = find_col("ticket")
     notes_col = find_col("nickname", "questions", "notes")
 
-    if ticket_col is None or (guest_col is None and buyer_col is None):
+    if ticket_col is None or (badge_col is None and guest_col is None
+                              and buyer_col is None):
         sys.exit(f"Could not find name/ticket columns in header: {header}")
 
     def cell(row: tuple, idx: int | None) -> str:
@@ -143,7 +154,8 @@ def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
     for r in rows[1:]:
         if not r or all(c is None for c in r):
             continue
-        full_name = cell(r, guest_col) or cell(r, buyer_col)
+        full_name = (cell(r, badge_col) or cell(r, guest_col)
+                     or cell(r, buyer_col))
         if not full_name:
             continue
         ticket_num = parse_ticket_number(cell(r, ticket_col))
@@ -160,12 +172,16 @@ def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--campaign", required=True,
+                    help="Zeffy campaign ID (the formId in the campaign URL).")
+    ap.add_argument("--output", required=True, type=Path,
+                    help="Path to the Hugo data YAML file to write.")
     ap.add_argument("--dry-run", action="store_true",
                     help="Print parsed rows, do not write the data file.")
     args = ap.parse_args()
 
     session = load_session()
-    xlsx_bytes = fetch_xlsx_bytes(session, CAMPAIGN_ID)
+    xlsx_bytes = fetch_xlsx_bytes(session, args.campaign)
 
     raw_path = SCRIPT_DIR / "last_export.xlsx"
     raw_path.write_bytes(xlsx_bytes)
@@ -185,9 +201,15 @@ def main() -> int:
                   f"nick={r['nickname']!r}")
         return 0
 
-    DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
-    DATA_PATH.write_text(yaml.safe_dump(rows, sort_keys=False, allow_unicode=True))
-    print(f"Wrote {DATA_PATH}")
+    payload = {
+        "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC"),
+        "registrations": rows,
+    }
+    args.output.parent.mkdir(parents=True, exist_ok=True)
+    args.output.write_text(
+        yaml.safe_dump(payload, sort_keys=False, allow_unicode=True)
+    )
+    print(f"Wrote {args.output}")
     return 0
 
 
