@@ -6,6 +6,8 @@ tmp
 .claude
 scripts/cookies.json
 scripts/last_export.xlsx
+scripts/state.json
+scripts/.lock
 scripts/.venv
 scripts/__pycache__
 scripts/logs
