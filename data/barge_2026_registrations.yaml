@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 11:28 PDT
+last_updated: 2026-06-01 12:44 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -60,3 +60,7 @@ registrations:
   last_initial: N
   nickname: dann
   ticket: 15
+- first: JK
+  last_initial: S
+  nickname: JZK
+  ticket: 16
