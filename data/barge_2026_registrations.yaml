@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 10:48 PDT
+last_updated: 2026-06-01 10:54 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -39,4 +39,8 @@ registrations:
 - first: Jared
   last_initial: A
   nickname: Mr3putt
-  ticket: null
+  ticket: 10
+- first: Nancy
+  last_initial: R
+  nickname: NancyR13
+  ticket: 11
