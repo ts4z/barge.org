@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 13:19 PDT
+last_updated: 2026-06-01 14:29 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -80,3 +80,7 @@ registrations:
   last_initial: V
   nickname: Slick
   ticket: 20
+- first: Mike
+  last_initial: F
+  nickname: Omahafool
+  ticket: 21
