@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 13:04 PDT
+last_updated: 2026-06-01 13:09 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -68,3 +68,11 @@ registrations:
   last_initial: C
   nickname: Bowtie
   ticket: 17
+- first: Patti
+  last_initial: B
+  nickname: Patti
+  ticket: 18
+- first: Steve
+  last_initial: W
+  nickname: stevew
+  ticket: 19
