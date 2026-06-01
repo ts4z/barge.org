@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+    com.doug.zeffy-poll
+
+    launchd LaunchAgent that runs zeffy_poll.py every 5 minutes against
+    the active Zeffy campaign.  On any real change the poller commits to
+    git and pushes (it's a no-op when nothing changed, so most fires
+    write nothing).
+
+    Install:
+        cp scripts/com.doug.zeffy-poll.plist ~/Library/LaunchAgents/
+        launchctl bootstrap "gui/$(id -u)" \
+            ~/Library/LaunchAgents/com.doug.zeffy-poll.plist
+
+    Check status:
+        launchctl list | grep zeffy
+        tail -f scripts/logs/poll.out scripts/logs/poll.err
+
+    Stop:
+        launchctl bootout "gui/$(id -u)" \
+            ~/Library/LaunchAgents/com.doug.zeffy-poll.plist
+
+    When the active campaign rolls over (e.g. BARGE 2026 → BARGE 2027),
+    update the --campaign and --output arguments below and re-bootstrap.
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.doug.zeffy-poll</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/opt/homebrew/bin/uv</string>
+        <string>run</string>
+        <string>scripts/zeffy_poll.py</string>
+        <string>--campaign</string>
+        <string>4d592512-3aff-484e-a5dc-c59bf6fa2e2c</string>
+        <string>--output</string>
+        <string>data/barge_2026_registrations.yaml</string>
+        <string>--push</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/dgr/projects/barge</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string>
+    </dict>
+
+    <key>StartInterval</key>
+    <integer>300</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/dgr/projects/barge/scripts/logs/poll.out</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/dgr/projects/barge/scripts/logs/poll.err</string>
+</dict>
+</plist>
