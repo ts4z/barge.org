@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 11:13 PDT
+last_updated: 2026-06-01 11:28 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -52,3 +52,11 @@ registrations:
   last_initial: ''
   nickname: Dr.Doofenshmirtz
   ticket: 13
+- first: Deron
+  last_initial: B
+  nickname: ADB Neon
+  ticket: 14
+- first: Dan
+  last_initial: N
+  nickname: dann
+  ticket: 15
