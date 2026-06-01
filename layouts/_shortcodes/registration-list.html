@@ -2,10 +2,32 @@
     registration-list
 
     Renders a sortable 3-column table of registrants from a Hugo data file.
-    The data file is a YAML list of {full_name, ticket, nickname}.
 
     Usage:
-        {{< registration-list data="atlarge_2026_registrations" >}}
+        {{< registration-list data="barge_2026_registrations" >}}
+
+    Supports two data-file shapes:
+
+    1.  Live shape (current active event; written by zeffy_poll.py):
+
+            last_updated: "2026-06-01 17:30 UTC"
+            registrations:
+              - full_name: Andy Bartalone
+                ticket: 2
+                nickname: Buffalo
+              - ...
+
+        When this shape is detected, a "Last updated: ..." line is rendered
+        above the table to signal that the automation is alive.
+
+    2.  Legacy / past-event shape (e.g. ATLARGE 2026; hand-merged):
+
+            - full_name: ...
+              ticket: 1
+              nickname: ...
+            - ...
+
+        No "Last updated" line; the file is static.
 
     Columns:
         #         — registration order (ticket number); numeric sort
@@ -16,10 +38,19 @@
     to re-sort by that column; click again to reverse.
 */ -}}
 {{- $key := .Get "data" -}}
-{{- $rows := index hugo.Data $key -}}
+{{- $data := index hugo.Data $key -}}
+{{- $rows := $data -}}
+{{- $lastUpdated := "" -}}
+{{- if reflect.IsMap $data -}}
+{{-   $rows = index $data "registrations" -}}
+{{-   $lastUpdated = index $data "last_updated" -}}
+{{- end -}}
 {{- if not $rows -}}
 <p><em>No registrations to display.</em></p>
 {{- else -}}
+{{- with $lastUpdated }}
+<p class="registration-last-updated"><em>Last updated: {{ . }}</em></p>
+{{- end }}
 <table class="registration-list sortable">
   <thead>
     <tr>
