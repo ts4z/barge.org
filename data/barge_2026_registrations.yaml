@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 12:44 PDT
+last_updated: 2026-06-01 13:04 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -64,3 +64,7 @@ registrations:
   last_initial: S
   nickname: JZK
   ticket: 16
+- first: Lee
+  last_initial: C
+  nickname: Bowtie
+  ticket: 17
