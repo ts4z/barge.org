@@ -1,4 +1,4 @@
-last_updated: 2026-06-02 09:45 PDT
+last_updated: 2026-06-02 12:12 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -108,3 +108,7 @@ registrations:
   last_initial: H
   nickname: Blues
   ticket: 27
+- first: Dan
+  last_initial: G
+  nickname: ADB smalltalk
+  ticket: 28
