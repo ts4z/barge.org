@@ -1,4 +1,4 @@
-last_updated: 2026-06-02 02:22 PDT
+last_updated: 2026-06-02 09:45 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -104,3 +104,7 @@ registrations:
   last_initial: B
   nickname: Grizz
   ticket: 26
+- first: Bob
+  last_initial: H
+  nickname: Blues
+  ticket: 27
