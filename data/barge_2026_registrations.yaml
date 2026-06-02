@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 15:35 PDT
+last_updated: 2026-06-01 19:01 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -88,3 +88,7 @@ registrations:
   last_initial: M
   nickname: Prof Chaos
   ticket: 22
+- first: David
+  last_initial: C
+  nickname: ProfDC
+  ticket: 23
