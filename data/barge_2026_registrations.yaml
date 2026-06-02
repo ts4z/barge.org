@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 19:01 PDT
+last_updated: 2026-06-01 20:01 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -69,3 +69,6 @@ registrations:
 - full_name: David Croson
   ticket: 23
   nickname: ProfDC
+- full_name: Tim Showalter
+  ticket: 24
+  nickname: ADB ts4z
