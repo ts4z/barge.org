@@ -1,4 +1,4 @@
-last_updated: 2026-06-02 12:12 PDT
+last_updated: 2026-06-02 13:12 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -112,3 +112,7 @@ registrations:
   last_initial: G
   nickname: ADB smalltalk
   ticket: 28
+- first: Randal
+  last_initial: H
+  nickname: Randal
+  ticket: 29
