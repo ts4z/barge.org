@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 19:01 PDT
+last_updated: 2026-06-01 20:01 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -92,3 +92,7 @@ registrations:
   last_initial: C
   nickname: ProfDC
   ticket: 23
+- first: Tim
+  last_initial: S
+  nickname: ADB ts4z
+  ticket: 24
