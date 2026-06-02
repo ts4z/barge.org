@@ -1,4 +1,4 @@
-last_updated: 2026-06-02 09:45 PDT
+last_updated: 2026-06-02 12:12 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -81,3 +81,6 @@ registrations:
 - full_name: Bob Herlien
   ticket: 27
   nickname: Blues
+- full_name: Dan Goldman
+  ticket: 28
+  nickname: ADB smalltalk
