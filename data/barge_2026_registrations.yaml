@@ -1,4 +1,4 @@
-last_updated: 2026-06-01 21:51 PDT
+last_updated: 2026-06-02 02:22 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -100,3 +100,7 @@ registrations:
   last_initial: ''
   nickname: Scoop
   ticket: 25
+- first: Guy
+  last_initial: B
+  nickname: Grizz
+  ticket: 26
