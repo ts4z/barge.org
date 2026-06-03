@@ -1,4 +1,4 @@
-last_updated: 2026-06-02 13:12 PDT
+last_updated: 2026-06-02 19:38 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -116,3 +116,11 @@ registrations:
   last_initial: H
   nickname: Randal
   ticket: 29
+- first: John
+  last_initial: L
+  nickname: John
+  ticket: 30
+- first: Scott
+  last_initial: B
+  nickname: Bwana
+  ticket: 31
