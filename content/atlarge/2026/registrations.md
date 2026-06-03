@@ -6,6 +6,8 @@ tags:
 - atlarge
 - 2026
 title: ATLARGE 2026 Registrations
+cover:
+  image: logos/AtLarge_v5.png
 ---
 
 ## Who's coming

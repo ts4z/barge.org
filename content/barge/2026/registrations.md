@@ -6,6 +6,8 @@ tags:
 - barge
 - 2026
 title: BARGE 2026 Registrations
+cover:
+  image: logos/barge_2026_logo.png
 ---
 
 ## Who's coming
