@@ -1,4 +1,4 @@
-last_updated: 2026-06-02 13:12 PDT
+last_updated: 2026-06-02 19:38 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -87,3 +87,9 @@ registrations:
 - full_name: Randal Hennemuth
   ticket: 29
   nickname: Randal
+- full_name: John Lloyd
+  ticket: 30
+  nickname: John
+- full_name: Scott Byron
+  ticket: 31
+  nickname: Bwana
