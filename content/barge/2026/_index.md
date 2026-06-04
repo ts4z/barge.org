@@ -10,10 +10,13 @@ cover:
 aliases:
  - /2026
 summary: >-
- July 20-July 25. Details coming soon. Watch this space!
+ July 20-July 25 at the Orleans in Las Vegas!
 date: 2025-11-04
 ---
 
 BARGE 2026 will be held at [The Orleans Hotel &
-Casino](https://orleans.boydgaming.com/) from July 20 through July 25.  More
-information will follow soon.  Hope to see you there!
+Casino](https://orleans.boydgaming.com/) from July 20 through July 25.
+
+[Register for BARGE 2026!](https://www.zeffy.com/en-US/ticketing/barge--2026)
+
+[Event Schedule is now available.]({{< relref "schedule/" >}})

@@ -19,10 +19,10 @@ cover:
   image: cover.jpg
 menu: events
 ---
-Quick Links for BARGE: [2026]({{< relref "2026/" >}})
-&mdash; [2026 Schedule]({{< relref "2026/schedule/" >}})
-&mdash; [2025 Results]({{< relref "2025/results/" >}})
-&mdash; [other Results]({{< relref "results/" >}})
+Quick Links for [BARGE 2026]({{< relref "2026/" >}}):
+[Registration](https://www.zeffy.com/en-US/ticketing/barge--2026)
+[Schedule]({{< relref "2026/schedule/" >}})
+&mdash; [Previous BARGE Results]({{< relref "results/" >}})
 
 BARGE is the **Big Annual Rec.Gambling Excursion** (to Las Vegas). This is our
 annual venture out of cyberspace into the Real World in which we get together
@@ -42,7 +42,7 @@ on July 20-25, 2026.
 
 ### Registration
 
-Registration will open in the weeks before the event.
+[Register now for BARGE 2026](https://www.zeffy.com/en-US/ticketing/barge--2026)
         
 ### Who is Eligible to Register for BARGE?
               
