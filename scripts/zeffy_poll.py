@@ -288,7 +288,15 @@ def commit_changes(output_path: Path, n_new: int) -> None:
 
 
 def push_changes() -> None:
-    """Push HEAD to origin.  Exits nonzero on failure.
+    """Pull-rebase then push HEAD to origin.  Exits nonzero on failure.
+
+    The rebase handles the common case where someone else (Tim, a deploy
+    job, anyone) has pushed since our last sync.  Our commit only ever
+    touches the YAML data file; outside changes essentially never touch
+    that file (it's auto-managed), so the rebase succeeds cleanly almost
+    always.  A conflict means someone manually edited the YAML on origin
+    — we abort the rebase and exit loud rather than risk silently
+    overwriting their work.
 
     Critically, the caller must save state.json BEFORE calling this — a
     failed push must not leave state thinking nothing was published.
@@ -296,6 +304,14 @@ def push_changes() -> None:
     re-commit them (bumping just the timestamp), re-fail to push, and
     pile up hundreds of redundant local commits.  We learned this the
     hard way on 2026-06-03; don't undo the ordering."""
+    pull = run_git(["pull", "--rebase", "origin", "main"])
+    if pull.returncode != 0:
+        # Make sure we don't leave the repo stuck mid-rebase.
+        run_git(["rebase", "--abort"])
+        sys.exit("git pull --rebase failed before push.  Investigate "
+                 "manually — likely a conflict on the YAML data file.\n"
+                 f"stderr: {pull.stderr.strip()}")
+
     pushres = run_git(["push"])
     if pushres.returncode != 0:
         sys.exit("git push failed.  Investigate manually — DO NOT force-push.\n"
