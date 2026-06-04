@@ -11,7 +11,7 @@ aliases:
  - /2026
 summary: >-
  July 20-July 25 at the Orleans in Las Vegas!
-date: 2025-11-04
+date: 2026-06-01
 ---
 
 BARGE 2026 will be held at [The Orleans Hotel &
