@@ -265,7 +265,8 @@ def run_git(args: list[str]) -> subprocess.CompletedProcess:
     )
 
 
-def commit_and_maybe_push(output_path: Path, n_new: int, push: bool) -> None:
+def commit_changes(output_path: Path, n_new: int) -> None:
+    """Stage and commit the output file.  No push — the caller decides."""
     msg = (f"Zeffy: +{n_new} new registration"
            f"{'s' if n_new != 1 else ''} ({output_path.name})")
     add = run_git(["add", str(output_path.resolve())])
@@ -285,9 +286,16 @@ def commit_and_maybe_push(output_path: Path, n_new: int, push: bool) -> None:
         sys.exit(f"git commit failed: {commit.stderr.strip()}")
     print(f"Committed: {msg}")
 
-    if not push:
-        return
 
+def push_changes() -> None:
+    """Push HEAD to origin.  Exits nonzero on failure.
+
+    Critically, the caller must save state.json BEFORE calling this — a
+    failed push must not leave state thinking nothing was published.
+    Otherwise every subsequent run will re-detect the same "new" entries,
+    re-commit them (bumping just the timestamp), re-fail to push, and
+    pile up hundreds of redundant local commits.  We learned this the
+    hard way on 2026-06-03; don't undo the ordering."""
     pushres = run_git(["push"])
     if pushres.returncode != 0:
         sys.exit("git push failed.  Investigate manually — DO NOT force-push.\n"
@@ -368,8 +376,12 @@ def main() -> int:
         print("No new registrations; data file and state unchanged.")
         return 0
 
-    # Write the YAML, then commit + maybe push, then update state.  Order
-    # matters: if the commit fails, we don't want state to lie about it.
+    # Order:
+    #   1. Write the YAML.
+    #   2. git add + commit (succeeds locally even if origin is ahead).
+    #   3. Save state.json — state reflects what's now in local HEAD.
+    #   4. THEN attempt the push.
+    # Push failures must not leave state stale; see push_changes() docstring.
     payload = {
         "last_updated": datetime.now(DISPLAY_TZ).strftime("%Y-%m-%d %H:%M %Z"),
         "registrations": rows,
@@ -380,7 +392,7 @@ def main() -> int:
     )
     print(f"Wrote {args.output}")
 
-    commit_and_maybe_push(args.output, len(new_keys), push=args.push)
+    commit_changes(args.output, len(new_keys))
 
     state["campaign_id"] = args.campaign
     state["published_keys"] = sorted(current_keys)
@@ -388,6 +400,9 @@ def main() -> int:
     state["last_run_status"] = "ok"
     state["cookies_expired"] = False
     save_state(args.state, state)
+
+    if args.push:
+        push_changes()
     return 0
 
 
