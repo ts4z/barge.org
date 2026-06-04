@@ -11,6 +11,7 @@ tags:
  - results
 ---
 
-We don't have complete results prior to 2001.
+We didn't track results well before 2001.  We believe the 2000 results are
+complete, and we only have partial results for 1999.
 
 {{< year-results section="/barge" >}}
