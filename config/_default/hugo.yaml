@@ -65,7 +65,7 @@ params:
   #   Text: "Suggest Changes" # edit text
   #   appendFilePath: true # to append file path to Edit link
   label:
-    icon: /logos/barge_v2.png
+    icon: /logos/barge_simple.png
   footer:
     text: ""
     hideCopyright: true
