@@ -299,8 +299,8 @@ This is used for a few different purposes:
   - Migrated content that hasn't been cleaned up may be in static.
 - A few unmanaged PDFs live here.  These include `rulebook.pdf` as well as
   another one that is likely a duplicate and misplaced.
-- A few simple client-side redirects are managed via the static directory.
-  These include old links to `/rules/`.
+- A few miscellaneous redirects are here, generally for bad inbound links.
+- Some content here is simply mistakes.
 
 In general, content should *not* go into static.  Hugo won't validate it, and
 it's hard to make it mesh with the rest of the site.  It is best if we clean
