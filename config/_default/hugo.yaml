@@ -38,14 +38,16 @@ params:
       text: "ARGEM June 12-14"
     - link: "/barge/2026/"
       text: "BARGE July 20-25"
+    - link: "/news/2026-barge-registration-paused/"
+      text: "(BARGE Registration Paused)"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.  As with
   # nextEvents, these will wrap if they get too long.
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
-    - link: https://www.zeffy.com/en-US/ticketing/barge--2026
-      text: "Register now for BARGE 2026!"
+    # - link: https://www.zeffy.com/en-US/ticketing/barge--2026
+    #   text: "Register now for BARGE 2026!"
     - link: https://argempoker.com/registration/
       text: "Register now for ARGEM 2026!"
   selfHosted: true

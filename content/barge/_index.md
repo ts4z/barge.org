@@ -20,7 +20,7 @@ cover:
 menu: events
 ---
 Quick Links for [BARGE 2026]({{< relref "2026/" >}}):
-[Registration](https://www.zeffy.com/en-US/ticketing/barge--2026)
+[Registration](/register)
 [Schedule]({{< relref "2026/schedule/" >}})
 &mdash; [Previous BARGE Results]({{< relref "results/" >}})
 
@@ -42,7 +42,7 @@ on July 20-25, 2026.
 
 ### Registration
 
-[Register now for BARGE 2026](https://www.zeffy.com/en-US/ticketing/barge--2026)
+[Register now for BARGE 2026](/register)
         
 ### Who is Eligible to Register for BARGE?
               
