@@ -38,7 +38,7 @@ params:
       text: "ARGEM June 12-14"
     - link: "/barge/2026/"
       text: "BARGE July 20-25"
-    - link: "/news/2026-barge-registration-paused/"
+    - link: "/register/"
       text: "(BARGE Registration Paused)"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs

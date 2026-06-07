@@ -17,7 +17,6 @@ date: 2026-06-01
 BARGE 2026 will be held at [The Orleans Hotel &
 Casino](https://orleans.boydgaming.com/) from July 20 through July 25.
 
-[Registration will re-open soon.](/news/2026-barge-registration-paused/)
-{{< comment >}}[Register for BARGE 2026!](https://www.zeffy.com/en-US/ticketing/barge--2026){{< /comment >}}
+[Register for BARGE 2026!](register/)
 
 [Event Schedule is now available.]({{< relref "schedule/" >}})
