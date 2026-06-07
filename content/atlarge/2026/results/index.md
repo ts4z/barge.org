@@ -35,15 +35,16 @@ ICM chop at 5 handed.
     entries=51
     prize-pool="$7,650" >}}
 
-|   |                 |        |
-|---|-----------------|--------|
-| 1 | S Rosenblatt    | $2,215 |
-| 2 | Louis Bartalone | $1,937 |
-| 3 | Ron Grossberg   | $1,315 |
-| 4 | Bruce Kramer    | $754   |
-| 5 | Richard Vehlow  | $558   |
-| 6 | Paul McMullin   | $468   |
-| 7 | Russell Diaz    | $403   |
+|   |                    |        |
+|---|--------------------|--------|
+| 1 | Stephen Rosenblatt | $2,195 |
+| 2 | Andy Bartalone     | $1,917 |
+| 3 | Ron Grossberg      | $1,265 |
+| 4 | Bruce Kramer       | $734   |
+| 5 | Rich Vehlow        | $538   |
+| 6 | Paul McMullin      | $448   |
+| 7 | Russell Diaz       | $383   |
+| 8 | Deron Brod         | $170   |
 
 Top 3 players chopped.
 
