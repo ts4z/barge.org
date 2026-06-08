@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 18:57 PDT
+last_updated: 2026-06-07 19:12 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -144,3 +144,7 @@ registrations:
   ticket: 41
   nickname: Omaha Fool
   ticket_type: Banquet
+- full_name: Oliver
+  ticket: 42
+  nickname: Oliver
+  ticket_type: BARGE
