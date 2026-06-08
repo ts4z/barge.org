@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 19:17 PDT
+last_updated: 2026-06-07 19:42 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -14,7 +14,7 @@ registrations:
   last_initial: A
   nickname: Meeee
   ticket: 3
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Carol
   last_initial: A
   nickname: CKBWoP
@@ -190,3 +190,8 @@ registrations:
   nickname: ''
   ticket: 43
   ticket_type: BARGE & Banquet
+- first: Caryl
+  last_initial: A
+  nickname: Mrstcao
+  ticket: 44
+  ticket_type: Banquet
