@@ -30,9 +30,11 @@
         No "Last updated" line; the file is static.
 
     Columns:
-        #         — registration order (ticket number); numeric sort
-        Name      — Firstname + last-initial (e.g. "Andy B."); text sort
-        Nickname  — bolded; text sort
+        #            — registration order (ticket number); numeric sort
+        Name         — Firstname + last-initial (e.g. "Andy B."); text sort
+        Nickname     — bolded; text sort
+        Ticket Type  — "BARGE", "Banquet", or "BARGE & Banquet" (live shape
+                       only — past events don't carry this); text sort
 
     Initial sort is by registration order ascending. Click any column header
     to re-sort by that column; click again to reverse.
@@ -41,9 +43,11 @@
 {{- $data := index hugo.Data $key -}}
 {{- $rows := $data -}}
 {{- $lastUpdated := "" -}}
+{{- $showTicketType := false -}}
 {{- if reflect.IsMap $data -}}
 {{-   $rows = index $data "registrations" -}}
 {{-   $lastUpdated = index $data "last_updated" -}}
+{{-   $showTicketType = true -}}
 {{- end -}}
 {{- if not $rows -}}
 <p><em>No registrations to display.</em></p>
@@ -57,6 +61,9 @@
       <th data-sort="numeric" scope="col">#</th>
       <th data-sort="text" scope="col">Name</th>
       <th data-sort="text" scope="col">Nickname</th>
+{{- if $showTicketType }}
+      <th data-sort="text" scope="col">Ticket Type</th>
+{{- end }}
     </tr>
   </thead>
   <tbody>
@@ -69,6 +76,9 @@
       <td>{{ .ticket }}</td>
       <td>{{ $first }} {{ $lastInitial }}.</td>
       <td>{{ with .nickname }}<strong>{{ . }}</strong>{{ end }}</td>
+{{- if $showTicketType }}
+      <td>{{ .ticket_type | default "" }}</td>
+{{- end }}
     </tr>
 {{- end }}
   </tbody>

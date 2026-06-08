@@ -87,7 +87,7 @@ def build_body(campaign_id: str) -> dict:
         "exportFileType": "Excel",
         "columnsSelection": {
             "selectedColumns": ["guestName", "buyerName", "ticketNumber",
-                                "customQuestions"],
+                                "ticketType", "customQuestions"],
         },
     }
 
@@ -131,6 +131,38 @@ def parse_ticket_number(s: str) -> int | None:
     return int(m.group(1)) if m else None
 
 
+# Map Zeffy's per-ticket-type strings to abstract attendance flags so we
+# can aggregate across an attendee's multiple tickets and produce a
+# display label.  Adding a new ticket type means adding it here; unknown
+# strings pass through verbatim in format_ticket_type_flags.
+TICKET_TYPE_FLAGS: dict[str, set[str]] = {
+    "BARGE 2026 (no Banquet)": {"BARGE"},
+    "Banquet Only":            {"Banquet"},
+    "BARGE 2026 + Banquet":    {"BARGE", "Banquet"},
+}
+
+
+def ticket_type_to_flags(raw: str) -> set[str]:
+    """Map a raw Zeffy ticket-type to {"BARGE"} / {"Banquet"} / both."""
+    if raw in TICKET_TYPE_FLAGS:
+        return set(TICKET_TYPE_FLAGS[raw])
+    # Unknown ticket type — pass the raw string through as a single flag
+    # so format_ticket_type_flags surfaces it in the display.
+    return {raw} if raw else set()
+
+
+def format_ticket_type_flags(flags: set[str]) -> str:
+    """Compose the display string from an attendee's aggregated flags."""
+    if "BARGE" in flags and "Banquet" in flags:
+        return "BARGE & Banquet"
+    if "BARGE" in flags:
+        return "BARGE"
+    if "Banquet" in flags:
+        return "Banquet"
+    # Only unknown flags left — show them verbatim.
+    return " & ".join(sorted(flags)) if flags else ""
+
+
 def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
     wb = openpyxl.load_workbook(io.BytesIO(xlsx_bytes), read_only=True, data_only=True)
     if debug:
@@ -164,7 +196,8 @@ def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
     badge_col = find_col("name for badge", "badge name")
     guest_col = find_col("guest")
     buyer_col = find_col("buyer")
-    ticket_col = find_col("ticket")
+    ticket_col = find_col("ticket number")
+    type_col = find_col("ticket type")
     notes_col = find_col("nickname", "questions", "notes")
 
     if ticket_col is None or (badge_col is None and guest_col is None
@@ -188,14 +221,46 @@ def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
             continue
         ticket_num = parse_ticket_number(cell(r, ticket_col))
         nickname = cell(r, notes_col)
+        ticket_type_raw = cell(r, type_col)
         out.append({
             "full_name": full_name,
             "ticket": ticket_num,
             "nickname": nickname,
+            "ticket_type_raw": ticket_type_raw,
         })
 
     out.sort(key=lambda r: (r["ticket"] is None, r["ticket"] or 0))
-    return out
+
+    # Dedup + aggregate ticket types.  A single buyer may purchase
+    # multiple ticket types (e.g. BARGE registration + Banquet, or a
+    # bundle) and appears as one XLSX row per ticket.  Collapse to one
+    # entry per attendee, keyed by (Name For Badge, Nickname For Badge):
+    # both are user-supplied custom-question values consistent across
+    # the same person's purchases, and the pair is more unique than
+    # full_name alone (which can collide).  After sorting by ticket
+    # above, the first occurrence wins for the displayed ticket number,
+    # yielding the smallest (earliest) ticket per attendee — a
+    # reasonable "registration order" proxy.  Across the group we union
+    # the ticket-type flags so e.g. someone with BARGE + Banquet shows
+    # as "BARGE & Banquet" just like someone who bought the bundle.
+    by_key: dict[tuple[str, str], dict] = {}
+    flags_by_key: dict[tuple[str, str], set[str]] = {}
+    for r in out:
+        key = (r["full_name"], r["nickname"])
+        if key not in by_key:
+            by_key[key] = {
+                "full_name": r["full_name"],
+                "ticket": r["ticket"],
+                "nickname": r["nickname"],
+            }
+            flags_by_key[key] = set()
+        flags_by_key[key] |= ticket_type_to_flags(r["ticket_type_raw"])
+
+    deduped: list[dict] = []
+    for key, entry in by_key.items():
+        entry["ticket_type"] = format_ticket_type_flags(flags_by_key[key])
+        deduped.append(entry)
+    return deduped
 
 
 def key_for(row: dict) -> str:
