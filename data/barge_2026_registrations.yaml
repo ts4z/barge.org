@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 20:33 PDT
+last_updated: 2026-06-08 10:32 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -19,7 +19,7 @@ registrations:
 - full_name: Patrick Kirwan
   ticket: 5
   nickname: CtheTurn
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Chuck Weinstock
   ticket: 6
   nickname: Enabler
@@ -35,7 +35,7 @@ registrations:
 - full_name: Russell Fox
   ticket: 9
   nickname: Messenger of Doom
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Jared Anderson
   ticket: 10
   nickname: Mr3putt
@@ -55,11 +55,11 @@ registrations:
 - full_name: Deron Brod
   ticket: 14
   nickname: ADB Neon
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Dan Nussbaum
   ticket: 15
   nickname: dann
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: JK Scheinberg
   ticket: 16
   nickname: JZK
@@ -79,7 +79,7 @@ registrations:
 - full_name: Martin Veneroso
   ticket: 20
   nickname: Slick
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Mike Fujita
   ticket: 21
   nickname: Omahafool
@@ -164,3 +164,7 @@ registrations:
   ticket: 48
   nickname: JazzLover
   ticket_type: BARGE & Banquet
+- full_name: Len G
+  ticket: 54
+  nickname: Len G
+  ticket_type: BARGE
