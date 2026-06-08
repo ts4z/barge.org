@@ -1,4 +1,4 @@
-last_updated: 2026-06-08 11:02 PDT
+last_updated: 2026-06-08 14:54 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -75,7 +75,7 @@ registrations:
 - full_name: Steve Watanabe
   ticket: 19
   nickname: stevew
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Martin Veneroso
   ticket: 20
   nickname: Slick
@@ -87,7 +87,7 @@ registrations:
 - full_name: Diana Mercer
   ticket: 22
   nickname: Prof Chaos
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: David Croson
   ticket: 23
   nickname: ProfDC
@@ -172,3 +172,7 @@ registrations:
   ticket: 55
   nickname: deadhead
   ticket_type: BARGE
+- full_name: Chris Kluchman
+  ticket: 58
+  nickname: SharkBait
+  ticket_type: BARGE & Banquet
