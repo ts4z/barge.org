@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 18:01 PDT
+last_updated: 2026-06-07 18:22 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -43,7 +43,7 @@ registrations:
 - full_name: Nancy Robertson
   ticket: 11
   nickname: NancyR13
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Steve Daniel
   ticket: 12
   nickname: Crunch
@@ -136,3 +136,7 @@ registrations:
   ticket: 37
   nickname: TrebleMaker
   ticket_type: BARGE & Banquet
+- full_name: Stephanie
+  ticket: 40
+  nickname: Sassy
+  ticket_type: BARGE
