@@ -5,6 +5,8 @@ summary: Registration is paused while we figure out the banquet details.
 cover:
   image: logos/barge_2026_logo.png
 ---
+**Update 2026-06-07: [Registration has resumed.](https://www.zeffy.com/en-US/ticketing/barge--2026)** Banquet tickets are now available alongside the regular registration.
+
 [BARGE 2026](/barge/2026/) registration will reopen soon.
 
 We paused registration because we opened it without offering the ability to get
