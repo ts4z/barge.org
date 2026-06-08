@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 20:23 PDT
+last_updated: 2026-06-07 20:33 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -59,7 +59,7 @@ registrations:
   last_initial: D
   nickname: Crunch
   ticket: 12
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Christian
   last_initial: ''
   nickname: Dr.Doofenshmirtz
@@ -199,4 +199,9 @@ registrations:
   last_initial: P
   nickname: gerdog
   ticket: 46
+  ticket_type: BARGE & Banquet
+- first: Patrick
+  last_initial: M
+  nickname: JazzLover
+  ticket: 48
   ticket_type: BARGE & Banquet
