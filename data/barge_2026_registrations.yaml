@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 18:22 PDT
+last_updated: 2026-06-07 18:57 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -175,3 +175,8 @@ registrations:
   nickname: Sassy
   ticket: 40
   ticket_type: BARGE
+- first: Mike
+  last_initial: F
+  nickname: Omaha Fool
+  ticket: 41
+  ticket_type: Banquet
