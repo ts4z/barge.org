@@ -6,4 +6,5 @@ draft: false
 aliases:
   - /barge/2026/register
   - /register
+  - /news/2026-barge-registration-paused
 ---
