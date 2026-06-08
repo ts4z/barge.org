@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 19:17 PDT
+last_updated: 2026-06-07 19:42 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -11,7 +11,7 @@ registrations:
 - full_name: David Aronson
   ticket: 3
   nickname: Meeee
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Carol Anderson
   ticket: 4
   nickname: CKBWoP
@@ -152,3 +152,7 @@ registrations:
   ticket: 43
   nickname: ''
   ticket_type: BARGE & Banquet
+- full_name: Caryl Aronson
+  ticket: 44
+  nickname: Mrstcao
+  ticket_type: Banquet
