@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 19:12 PDT
+last_updated: 2026-06-07 19:17 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -148,3 +148,7 @@ registrations:
   ticket: 42
   nickname: Oliver
   ticket_type: BARGE
+- full_name: Rich Strauss
+  ticket: 43
+  nickname: ''
+  ticket_type: BARGE & Banquet
