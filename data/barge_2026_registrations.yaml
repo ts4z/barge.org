@@ -1,4 +1,4 @@
-last_updated: 2026-06-08 10:32 PDT
+last_updated: 2026-06-08 11:02 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -209,4 +209,9 @@ registrations:
   last_initial: G
   nickname: Len G
   ticket: 54
+  ticket_type: BARGE
+- first: Cliff
+  last_initial: M
+  nickname: deadhead
+  ticket: 55
   ticket_type: BARGE
