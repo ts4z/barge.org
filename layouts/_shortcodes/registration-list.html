@@ -53,7 +53,11 @@
 <p><em>No registrations to display.</em></p>
 {{- else -}}
 {{- with $lastUpdated }}
-<p class="registration-last-updated"><em>Last updated: {{ . }}</em></p>
+<p class="registration-last-updated">
+  <em>
+  {{ len $rows }} registrants <br>
+  Last updated: {{ . }}</em>
+</p>
 {{- end }}
 <table class="registration-list sortable">
   <thead>
