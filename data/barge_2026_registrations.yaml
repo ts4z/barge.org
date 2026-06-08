@@ -1,4 +1,4 @@
-last_updated: 2026-06-08 10:32 PDT
+last_updated: 2026-06-08 11:02 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -167,4 +167,8 @@ registrations:
 - full_name: Len G
   ticket: 54
   nickname: Len G
+  ticket_type: BARGE
+- full_name: Cliff Matthews
+  ticket: 55
+  nickname: deadhead
   ticket_type: BARGE
