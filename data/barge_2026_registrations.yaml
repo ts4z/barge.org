@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 20:33 PDT
+last_updated: 2026-06-08 10:32 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -24,7 +24,7 @@ registrations:
   last_initial: K
   nickname: CtheTurn
   ticket: 5
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Chuck
   last_initial: W
   nickname: Enabler
@@ -44,7 +44,7 @@ registrations:
   last_initial: F
   nickname: Messenger of Doom
   ticket: 9
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Jared
   last_initial: A
   nickname: Mr3putt
@@ -69,12 +69,12 @@ registrations:
   last_initial: B
   nickname: ADB Neon
   ticket: 14
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Dan
   last_initial: N
   nickname: dann
   ticket: 15
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: JK
   last_initial: S
   nickname: JZK
@@ -99,7 +99,7 @@ registrations:
   last_initial: V
   nickname: Slick
   ticket: 20
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Mike
   last_initial: F
   nickname: Omahafool
@@ -205,3 +205,8 @@ registrations:
   nickname: JazzLover
   ticket: 48
   ticket_type: BARGE & Banquet
+- first: Len
+  last_initial: G
+  nickname: Len G
+  ticket: 54
+  ticket_type: BARGE
