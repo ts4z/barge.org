@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 19:42 PDT
+last_updated: 2026-06-07 20:23 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -156,3 +156,7 @@ registrations:
   ticket: 44
   nickname: Mrstcao
   ticket_type: Banquet
+- full_name: Gerald Petersen
+  ticket: 46
+  nickname: gerdog
+  ticket_type: BARGE & Banquet
