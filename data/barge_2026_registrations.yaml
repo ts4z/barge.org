@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 18:22 PDT
+last_updated: 2026-06-07 18:57 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -140,3 +140,7 @@ registrations:
   ticket: 40
   nickname: Sassy
   ticket_type: BARGE
+- full_name: Mike Fujita
+  ticket: 41
+  nickname: Omaha Fool
+  ticket_type: Banquet
