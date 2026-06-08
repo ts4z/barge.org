@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 17:24 PDT
+last_updated: 2026-06-07 17:29 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -132,3 +132,11 @@ registrations:
   last_initial: W
   nickname: Enabler
   ticket: 33
+- first: Lee
+  last_initial: C
+  nickname: Bowtie
+  ticket: 34
+- first: Tim
+  last_initial: S
+  nickname: ADB ts4z
+  ticket: 35
