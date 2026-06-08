@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 20:23 PDT
+last_updated: 2026-06-07 20:33 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -47,7 +47,7 @@ registrations:
 - full_name: Steve Daniel
   ticket: 12
   nickname: Crunch
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Christian
   ticket: 13
   nickname: Dr.Doofenshmirtz
@@ -159,4 +159,8 @@ registrations:
 - full_name: Gerald Petersen
   ticket: 46
   nickname: gerdog
+  ticket_type: BARGE & Banquet
+- full_name: Patrick Milligan
+  ticket: 48
+  nickname: JazzLover
   ticket_type: BARGE & Banquet
