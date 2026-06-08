@@ -1,4 +1,4 @@
-last_updated: 2026-06-08 11:02 PDT
+last_updated: 2026-06-08 14:54 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -94,7 +94,7 @@ registrations:
   last_initial: W
   nickname: stevew
   ticket: 19
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Martin
   last_initial: V
   nickname: Slick
@@ -109,7 +109,7 @@ registrations:
   last_initial: M
   nickname: Prof Chaos
   ticket: 22
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: David
   last_initial: C
   nickname: ProfDC
@@ -215,3 +215,8 @@ registrations:
   nickname: deadhead
   ticket: 55
   ticket_type: BARGE
+- first: Chris
+  last_initial: K
+  nickname: SharkBait
+  ticket: 58
+  ticket_type: BARGE & Banquet
