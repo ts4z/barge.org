@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 19:12 PDT
+last_updated: 2026-06-07 19:17 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -185,3 +185,8 @@ registrations:
   nickname: Oliver
   ticket: 42
   ticket_type: BARGE
+- first: Rich
+  last_initial: S
+  nickname: ''
+  ticket: 43
+  ticket_type: BARGE & Banquet
