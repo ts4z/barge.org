@@ -1,4 +1,4 @@
-last_updated: 2026-06-07 18:01 PDT
+last_updated: 2026-06-07 18:22 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -54,7 +54,7 @@ registrations:
   last_initial: R
   nickname: NancyR13
   ticket: 11
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Steve
   last_initial: D
   nickname: Crunch
@@ -170,3 +170,8 @@ registrations:
   nickname: TrebleMaker
   ticket: 37
   ticket_type: BARGE & Banquet
+- first: Stephanie
+  last_initial: ''
+  nickname: Sassy
+  ticket: 40
+  ticket_type: BARGE
