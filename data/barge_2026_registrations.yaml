@@ -1,4 +1,4 @@
-last_updated: 2026-06-08 14:54 PDT
+last_updated: 2026-06-08 19:30 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -34,7 +34,7 @@ registrations:
   last_initial: K
   nickname: QB
   ticket: 7
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Andy
   last_initial: B
   nickname: Buffalo
@@ -149,7 +149,7 @@ registrations:
   last_initial: L
   nickname: John
   ticket: 30
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Scott
   last_initial: B
   nickname: Bwana
@@ -219,4 +219,9 @@ registrations:
   last_initial: K
   nickname: SharkBait
   ticket: 58
+  ticket_type: BARGE & Banquet
+- first: Ron
+  last_initial: D
+  nickname: Dutch
+  ticket: 61
   ticket_type: BARGE & Banquet
