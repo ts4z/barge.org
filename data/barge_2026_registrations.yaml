@@ -1,4 +1,4 @@
-last_updated: 2026-06-09 13:26 PDT
+last_updated: 2026-06-09 15:01 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -192,3 +192,7 @@ registrations:
   ticket: 64
   nickname: Joe
   ticket_type: BARGE
+- full_name: Christopher Kuntz
+  ticket: 65
+  nickname: Luckbucket
+  ticket_type: BARGE & Banquet
