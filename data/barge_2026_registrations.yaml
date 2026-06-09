@@ -1,4 +1,4 @@
-last_updated: 2026-06-08 14:54 PDT
+last_updated: 2026-06-08 19:30 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -27,7 +27,7 @@ registrations:
 - full_name: Kenny Kubey
   ticket: 7
   nickname: QB
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Andy Bartalone
   ticket: 8
   nickname: Buffalo
@@ -119,7 +119,7 @@ registrations:
 - full_name: John Lloyd
   ticket: 30
   nickname: John
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Scott Byron
   ticket: 31
   nickname: Bwana
@@ -175,4 +175,8 @@ registrations:
 - full_name: Chris Kluchman
   ticket: 58
   nickname: SharkBait
+  ticket_type: BARGE & Banquet
+- full_name: Ron Duursma
+  ticket: 61
+  nickname: Dutch
   ticket_type: BARGE & Banquet
