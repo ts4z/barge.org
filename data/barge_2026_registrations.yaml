@@ -1,4 +1,4 @@
-last_updated: 2026-06-09 12:40 PDT
+last_updated: 2026-06-09 13:26 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -235,3 +235,8 @@ registrations:
   nickname: Stone Donkey
   ticket: 63
   ticket_type: BARGE & Banquet
+- first: Joe
+  last_initial: S
+  nickname: Joe
+  ticket: 64
+  ticket_type: BARGE
