@@ -1,4 +1,4 @@
-last_updated: 2026-06-09 12:40 PDT
+last_updated: 2026-06-09 13:26 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -188,3 +188,7 @@ registrations:
   ticket: 63
   nickname: Stone Donkey
   ticket_type: BARGE & Banquet
+- full_name: Joe Santagata
+  ticket: 64
+  nickname: Joe
+  ticket_type: BARGE
