@@ -18,7 +18,7 @@ aliases:
 Our \*ARG\* community, spawned by the old rec.gambling newsgroup,
 has events in Atlantic City, Connecticut, Maryland, and multiple in Las Vegas!
 
-{{< logo-left href="/atlarge/" src="/logos/AtLarge_v5.png" >}}
+{{< logo-left href="/atlarge/" src="/logos/AtLarge_v5.png" alt="ATLARGE logo" >}}
 
 ## ATLARGE
 
@@ -32,7 +32,7 @@ the mailing list](/resources/mailing-lists/).
 
 {{< hr-clear >}}
 
-{{< logo-left href=http://www.fargopoker.org/ src=/logos/fargo_logo_v1.png >}}
+{{< logo-left href=http://www.fargopoker.org/ src=/logos/fargo_logo_v1.png alt="FARGO logo" >}}
 
 ## FARGO
 
@@ -44,21 +44,22 @@ information.
 
 {{< hr-clear >}}
 
-{{< logo-left href=https://argempoker.com src="/logos/argem2.jpg" >}}
+{{< logo-left href=https://argempoker.com src="/logos/argem2.jpg" alt="ARGEM logo" >}}
 
 ## ARGEM
 
 ARGEM (Annual Recreational Gambling Excursion Maryland) is
-usually held in the early SUmmer.
+usually held in the early summer.
 
-ARGEM VI was held June 20-22, 2025 at Maryland Live!
+ARGEM VI was held June 20-22, 2025 at Maryland Live!,
+and ARGEM will be back there from June 12-14, 2026!
 
 Please visit the [ARGEM website](https://argempoker.com) for more
 information...hope to see you in the future!
 
 {{< hr-clear >}}
 
-{{< logo-left src="/logos/target.png" href=/target/ >}}
+{{< logo-left src="/logos/target.png" href=/target/ alt="TARGET logo" >}}
 
 ## TARGET
 
@@ -69,7 +70,7 @@ It is held in Las Vegas during the World Series of Poker.
 
 {{< hr-clear >}}
 
-{{< logo-left href=/barge/ src=/logos/barge_v2.png >}}
+{{< logo-left href=/barge/ src=/logos/barge_v2.png alt="BARGE logo" >}}
 
 ## BARGE
 
@@ -81,7 +82,7 @@ back at the Orleans in summer 2026.
 
 {{< hr-clear >}}
 
-{{< logo-left href="/embargo/" src="/logos/embargo_logo_2026.png" >}}
+{{< logo-left href="/embargo/" src="/logos/embargo_logo_2026.png" alt="EMBARGO logo" >}}
 
 ## EMBARGO
 
