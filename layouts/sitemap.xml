@@ -5,25 +5,32 @@
   {{- /* The default Hugo sitemap doesn't index static pages.  We want to
   encourage search engines to index the rulebook pages in particular, because
   they are valuable.  So, we walk the static files, looking for html things,
-  and add sitemap entries for them. */ -}}
-  
+  and add sitemap entries for them.  We skip pages with noindex since including
+  noindex pages in the sitemap sends contradictory signals to search engines. */ -}}
+
   {{- range $.Site.Params.sitemapStaticDirectories }}
     {{- $subdir := . }}
     {{- range readDir (printf "static/%s" .) }}
       {{- if and (findRE ".html$" .Name) (ne .Name "404.html") }}
-        <url>
-          <loc>{{ printf "%s%s/%s" $.Site.BaseURL $subdir .Name }}</loc>
-          <changefreq>{{ "yearly" }}</changefreq>
-          <priority>{{ "0.3" }}</priority>
-        </url>
+        {{- $fullPath := printf "static/%s/%s" $subdir .Name }}
+        {{- $fileContent := readFile $fullPath }}
+        {{- if not (findRE `<meta name="robots" content="noindex"` $fileContent) }}
+          <url>
+            <loc>{{ printf "%s%s/%s" $.Site.BaseURL $subdir .Name }}</loc>
+            <changefreq>{{ "yearly" }}</changefreq>
+            <priority>{{ "0.3" }}</priority>
+          </url>
+        {{- end }}
       {{- end }}
     {{- end }}
   {{- end }}
 
   {{- /* This is just stolen from the Hugo configuration, and we just walk the pages
-  and if they want to be in the sitemap, we add stuff for them. */ -}}
+  and if they want to be in the sitemap, we add stuff for them.
+  Pointer pages are meta-refresh redirects with noindex; exclude them from the
+  sitemap automatically so we don't have to mark each one individually. */ -}}
 
-  {{ range where .Pages "Sitemap.Disable" "ne" true }}
+  {{ range where (where .Pages "Sitemap.Disable" "ne" true) "Type" "ne" "pointer" }}
     {{- if .Permalink }}
       <url>
         <loc>{{ .Permalink }}</loc>
