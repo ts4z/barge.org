@@ -20,9 +20,9 @@ title: BARGE 2003 Results
 
 |   |                                    |        |
 |--:|------------------------------------|--------|
-| 1 | Keith &quot;Fich&quot; Fichtemaier | $1,740 |
+| 1 | Keith "Fich" Fichtemaier | $1,740 |
 | 2 | Tiger123                           | $1,390 |
-| 3 | Mike &quot;Howler&quot; McBride    | $1,040 |
+| 3 | Mike "Howler" McBride    | $1,040 |
 | 4 | Shelley Louie                      | $870   |
 | 5 | Steve Pierce                       | $700   |
 | 6 | Ming Lee                           | $520   |
@@ -56,11 +56,11 @@ title: BARGE 2003 Results
 |   |                                       |        |
 |--:|---------------------------------------|--------|
 | 1 | Michael Maurer                        | $1.650 |
-| 2 | Perry &quot;The Baiter&quot; Friedman | $1,330 |
+| 2 | Perry "The Baiter" Friedman | $1,330 |
 | 3 | Jerrod Ankenman                       | $1,000 |
 | 4 | Chuck Weinstock                       | $800   |
 | 5 | Ken Kubey                             | $660   |
-| 6 | Peter &quot;Taki&quot; Caldes         | $530   |
+| 6 | Peter "Taki" Caldes         | $530   |
 | 7 | Tom Hubbell                           | $400   |
 | 8 | Dan Locaric                           | $270   |
 
@@ -71,14 +71,14 @@ title: BARGE 2003 Results
 
 |   |                                    |        |
 |--:|------------------------------------|--------|
-| 1 | Gavin &quot;Raffi&quot; Smith      | $2,880 |
+| 1 | Gavin "Raffi" Smith      | $2,880 |
 | 2 | Gillian Groves                     | $2,300 |
 | 3 | David Huberman                     | $1,730 |
-| 4 | Keith &quot;Fich&quot; Fichtemaier | $1,440 |
+| 4 | Keith "Fich" Fichtemaier | $1,440 |
 | 5 | Steve Watanabi                     | $1,150 |
 | 6 | North Shore Mike McManus           | $860   |
-| 7 | Robert &quot;ActionBob&quot; Hwang | $580   |
-| 8 | Peter &quot;Foldem&quot; Secor     | $350   |
+| 7 | Robert "ActionBob" Hwang | $580   |
+| 8 | Peter "Foldem" Secor     | $350   |
 | 9 | Beth Even                          |        |
 
 {{< tournament
@@ -92,20 +92,20 @@ title: BARGE 2003 Results
 |  2 | Patti Beadles                      | $2,550 |
 |  3 | John Davis                         | $1,910 |
 |  4 | Tony Corral                        | $1,530 |
-|  5 | Tom &quot;Rebuy&quot; Goodwin      | $1,280 |
-|  6 | Marc &quot;SoCal&quot; Kolstad     | $1.020 |
+|  5 | Tom "Rebuy" Goodwin      | $1,280 |
+|  6 | Marc "SoCal" Kolstad     | $1.020 |
 |  7 | Dave Marshall                      | $770   |
-|  8 | Josh &quot;Tank&quot; Paley        | $510   |
+|  8 | Josh "Tank" Paley        | $510   |
 |  9 | Caryl Aronson                      | $300   |
 | 10 | Dean Waters                        | $200   |
-| 11 | Paul &quot;ET&quot; White          | $200   |
+| 11 | Paul "ET" White          | $200   |
 | 12 | Harry Baldwin                      | $200   |
-| 13 | Keith &quot;Fich&quot; Fichtemaier | $150   |
-| 14 | Andy &quot;Rullah&quot; Block      | $150   |
+| 13 | Keith "Fich" Fichtemaier | $150   |
+| 14 | Andy "Rullah" Block      | $150   |
 | 15 | Barry Tanenbaum                    | $150   |
 | 16 | Tom McEvoy                         | $100   |
 | 17 | Ken Zarifes                        | $100   |
-| 18 | Charles &quot;Chaz&quot; Haynes    | $100   |
+| 18 | Charles "Chaz" Haynes    | $100   |
 
 {{< tournament
     date="Saturday, August 1st, 2003"
@@ -114,14 +114,14 @@ title: BARGE 2003 Results
 
 |   |                               |      |
 |--:|-------------------------------|------|
-| 1 | Andy &quot;Rullah&quot; Bloch | $900 |
+| 1 | Andy "Rullah" Bloch | $900 |
 
 ## 2002 - 2003 Rec.Gambling.Poker Best All Around Player
 
 |   |                                 |
 |--:|---------------------------------|
-| 1 | Peter &quot;Foldem&quot; Secor  |
+| 1 | Peter "Foldem" Secor  |
 | 2 | Brad Edmonds                    |
-| 3 | Jim &quot;Bulbert&quot; Bullard |
+| 3 | Jim "Bulbert" Bullard |
 
    
