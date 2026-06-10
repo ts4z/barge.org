@@ -1,4 +1,4 @@
-last_updated: 2026-06-09 18:02 PDT
+last_updated: 2026-06-10 10:47 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -103,7 +103,7 @@ registrations:
 - full_name: Guy Berentsen
   ticket: 26
   nickname: Grizz
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Bob Herlien
   ticket: 27
   nickname: Blues
@@ -204,3 +204,11 @@ registrations:
   ticket: 67
   nickname: Maggie
   ticket_type: Banquet
+- full_name: Regis Donovan
+  ticket: 69
+  nickname: Regis
+  ticket_type: BARGE & Banquet
+- full_name: Claudia Mastroianni
+  ticket: 70
+  nickname: ClauClauClaudia
+  ticket_type: BARGE & Banquet
