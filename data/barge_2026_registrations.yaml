@@ -1,4 +1,4 @@
-last_updated: 2026-06-09 15:01 PDT
+last_updated: 2026-06-09 18:02 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -196,3 +196,11 @@ registrations:
   ticket: 65
   nickname: Luckbucket
   ticket_type: BARGE & Banquet
+- full_name: Larry Stone
+  ticket: 66
+  nickname: Larry
+  ticket_type: BARGE & Banquet
+- full_name: Maggie Jongleux
+  ticket: 67
+  nickname: Maggie
+  ticket_type: Banquet
