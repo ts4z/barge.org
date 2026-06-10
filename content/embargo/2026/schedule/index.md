@@ -30,7 +30,7 @@ will open later this month.
 
 Remember that our room block is only available until January 6, so please book
 now if you want to take advantage of our group rate!  See
-https://www.barge.org/embargo/2026/hotel-info/ for details.
+[https://www.barge.org/embargo/2026/hotel-info/]({{< relref "/embargo/2026/hotel-info" >}}) for details.
 
 Hope to see you there!
 

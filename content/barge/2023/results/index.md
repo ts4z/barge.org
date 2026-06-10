@@ -24,14 +24,14 @@ $4,240 total donated to [Bicycle Colorado](https://www.bicyclecolorado.org/)!
 
 |   |                                           |      |
 |--:|-------------------------------------------|------|
-| 1 | Russell &quot;Messenger of Doom&quot; Fox | $300 |
-| 2 | Patti &quot;Patti&quot; Beadles           | $300 |
+| 1 | Russell "Messenger of Doom" Fox | $300 |
+| 2 | Patti "Patti" Beadles           | $300 |
 | 3 | Shinichiro Hatakeyama*                    | $300 |
-| 4 | Dan &quot;ADB smalltalk&quot; Goldman     | $300 |
-| 5 | Deron &quot;ADB Neon&quot; Brod           | $300 |
+| 4 | Dan "ADB smalltalk" Goldman     | $300 |
+| 5 | Deron "ADB Neon" Brod           | $300 |
 | 6 | Bill Chen                                 | $300 |
-| 7 | Stephen &quot;Tysor&quot; Tysor           | $300 |
-| 8 | Steve &quot;Crunch&quot; Daniel           | $300 |
+| 7 | Stephen "Tysor" Tysor           | $300 |
+| 8 | Steve "Crunch" Daniel           | $300 |
 
 \* Shinichiro Hatakeyama finished third after temporarily being eliminated in fourth! He rolled a 7 on his dead button and was revived.
 
@@ -42,12 +42,12 @@ prize-pool="$3,280" >}}
 
 |   |                                              |        |
 |--:|----------------------------------------------|--------|
-| 1 | Lee &quot;Bowtie&quot; Crocker               | $1,016 |
-| 2 | Ron &quot;Playing For Haigen&quot; Grossberg | $722   |
-| 3 | Scott &quot;Bwana&quot; Byron                | $558   |
-| 4 | Charles &quot;Dr. Chako&quot; Stillman       | $426   |
+| 1 | Lee "Bowtie" Crocker               | $1,016 |
+| 2 | Ron "Playing For Haigen" Grossberg | $722   |
+| 3 | Scott "Bwana" Byron                | $558   |
+| 4 | Charles "Dr. Chako" Stillman       | $426   |
 | 5 | Laurie &ldquo;Sky&rdquo; Skywalker           | $328   |
-| 6 | Kevin &quot;ADB UN&quot; Un                  | $230   |
+| 6 | Kevin "ADB UN" Un                  | $230   |
 
 {{< tournament
     event="Six Game"
@@ -59,7 +59,7 @@ prize-pool="$3,280" >}}
 | 1 | Terrance Reid                 | $1,408 |
 | 2 | Salim Valimahomed             | $1,051 |
 | 3 | Nolan Dalla                   | $796   |
-| 4 | Scott &quot;Bwana&quot; Byron | $643   |
+| 4 | Scott "Bwana" Byron | $643   |
 | 5 | Matt Grapenthien              | $490   |
 | 6 | Jeanne David                  | $337   |
 | 7 | David Kluchman                | $235   |
@@ -145,8 +145,8 @@ prize-pool="$3,280" >}}
 
 #### Video Poker Tournament
 
-|||
-|:-|:-|
+||||
+|:-|:-|:-|
 |Patti "Patti" Beadles  | +365 | 16 pts |
 |Steve "Ice" Eisenstein  | +70 | 11.5 pts |
 |Rich "Omaholic" Bremer  | +70 | 11.5 pts |
@@ -166,8 +166,8 @@ prize-pool="$3,280" >}}
 
 #### Slot Tournament
 
-|||
-|:-|:-|
+||||
+|:-|:-|:-|
 |Kyle "Super-I-40 Sucks" Minnis  | +5600 | 16 pts  |
 |Doug "Snoop" Grismore  | +4535 | 13 pts |
 |Sabyl "kaismom" Landrum  | +4390 | 10 pts |
@@ -208,13 +208,13 @@ prize-pool="$3,280" >}}
 
 |   |                                                 |        |
 |--:|-------------------------------------------------|--------|
-| 1 | Richard &quot;Ricky&quot; Jaglarski             | $1,309 |
-| 2 | Dean &quot;MrBookworm*&quot; Kerl               | $858   |
-| 3 | Guy &quot;Grizz&quot; Berentsen                 | $760   |
-| 4 | Terry &quot;TerryJ&quot; Jaglarski              | $730   |
-| 5 | Christin &quot;NICE &amp; SUNNY&quot; Maschmann | $276   |
-| 6 | Scott &quot;Bwana&quot; Byron                   | $218   |
-| 7 | Paul &quot;Aggie83&quot; Stine                  | $199   |
+| 1 | Richard "Ricky" Jaglarski             | $1,309 |
+| 2 | Dean "MrBookworm*" Kerl               | $858   |
+| 3 | Guy "Grizz" Berentsen                 | $760   |
+| 4 | Terry "TerryJ" Jaglarski              | $730   |
+| 5 | Christin "NICE &amp; SUNNY" Maschmann | $276   |
+| 6 | Scott "Bwana" Byron                   | $218   |
+| 7 | Paul "Aggie83" Stine                  | $199   |
 
 {{< tournament
     event=CHORSE
@@ -236,28 +236,29 @@ Team Unlawful won an additional $40 first place prize per player.
 
 |   | Team Unlawful                             |
 |--:|-------------------------------------------|
-| C | Kathy &quot;Royal Flush&quot; Chang       |
-| H | Rick &quot;Rick&quot; Halvorsen           |
-| O | Ron &quot;8-2 Ron&quot; Lyons             |
-| R | David &quot;Heldar&quot; Heller           |
-| S | Russell &quot;Messenger of Doom&quot; Fox |
-| E | Andrew &quot;drewster&quot; Prock         |
+| C | Kathy "Royal Flush" Chang       |
+| H | Rick "Rick" Halvorsen           |
+| O | Ron "8-2 Ron" Lyons             |
+| R | David "Heldar" Heller           |
+| S | Russell "Messenger of Doom" Fox |
+| E | Andrew "drewster" Prock         |
 
 
 {{< tournament
     event="3 Hand Holdem"
     entries=42
     image="3hh_rich_bremer.jpg"
+    image-alt="Rich Bremer"
     prize-pool="$3,360" >}}
 
 |   |                                     |        |
 |--:|-------------------------------------|--------|
-| 1 | Rich &quot;Omaholic&quot; Bremer    | $1,042 |
+| 1 | Rich "Omaholic" Bremer    | $1,042 |
 | 2 | Jon Regashus                        | $739   |
-| 3 | Guy &quot;Grizz&quot; Berentsen     | $571   |
-| 4 | Randal &quot;Randal&quot; Hennemuth | $437   |
+| 3 | Guy "Grizz" Berentsen     | $571   |
+| 4 | Randal "Randal" Hennemuth | $437   |
 | 5 | Sam Scheinberg                      | $336   |
-| 6 | Kathy &quot;Royal Flush&quot; Chang | $235   |
+| 6 | Kathy "Royal Flush" Chang | $235   |
 
 
 {{< tournament
@@ -267,46 +268,48 @@ Team Unlawful won an additional $40 first place prize per player.
 
 |   |                                           |        |
 |--:|-------------------------------------------|--------|
-| 1 | Corey &quot;LingCod&quot; Imsdahl         | $1,582 |
+| 1 | Corey "LingCod" Imsdahl         | $1,582 |
 | 2 | James Hammer                              | $1,199 |
-| 3 | Patrick &quot;CtheTurn&quot; Kirwan       | $924   |
-| 4 | Rich &quot;Omaholic&quot; Bremer          | $767   |
-| 5 | Christopher &quot;Luckbucket&quot; Kuntz  | $590   |
-| 6 | Kathy &quot;Royal Flush&quot; Chang       | $413   |
-| 7 | Paul &quot;Aggie83&quot; Stine            | $295   |
-| 8 | Russell &quot;Messenger of Doom&quot; Fox | $130   |
+| 3 | Patrick "CtheTurn" Kirwan       | $924   |
+| 4 | Rich "Omaholic" Bremer          | $767   |
+| 5 | Christopher "Luckbucket" Kuntz  | $590   |
+| 6 | Kathy "Royal Flush" Chang       | $413   |
+| 7 | Paul "Aggie83" Stine            | $295   |
+| 8 | Russell "Messenger of Doom" Fox | $130   |
 
 {{< tournament
     event=KoMex
     entries=16
     image="komex_randal_hennemuth.jpg"
+    image-alt="Randal Hennemuth"
     prize-pool="$1,280" >}}
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Randal &quot;Randal&quot; Hennemuth   | $386 |
-| 2 | Jeff &quot;Blofeld&quot; Deitch       | $435 |
-| 3 | Dan &quot;ADB smalltalk&quot; Goldman | $230 |
-| 4 | Scott &quot;samarai&quot; Samarel     | $179 |
+| 1 | Randal "Randal" Hennemuth   | $386 |
+| 2 | Jeff "Blofeld" Deitch       | $435 |
+| 3 | Dan "ADB smalltalk" Goldman | $230 |
+| 4 | Scott "samarai" Samarel     | $179 |
 | 5 | Jesse Capps                           | $50  |
  
 {{< tournament
     event="Mike Sexton Original TOC-Style"
     entries=68
     image="toc_russ_fox.jpg"
+    image-alt="Russ Fox"
     prize-pool="$8,500" >}}
 
 |   |                                              |        |
 |--:|----------------------------------------------|--------|
-| 1 | Russell &quot;Messenger of Doom&quot; Fox    | $2,275 |
-| 2 | Guy &quot;Grizz&quot; Berentsen              | $1,680 |
-| 3 | Lori &quot;PokerVixen&quot; Miller           | $1,255 |
+| 1 | Russell "Messenger of Doom" Fox    | $2,275 |
+| 2 | Guy "Grizz" Berentsen              | $1,680 |
+| 3 | Lori "PokerVixen" Miller           | $1,255 |
 | 4 | Jan Fisher                                   | $1,000 |
-| 5 | Sabyl &quot;kaismom&quot; Landrum            | $830   |
+| 5 | Sabyl "kaismom" Landrum            | $830   |
 | 6 | Bill Chen                                    | $575   |
-| 7 | Brandon &quot;Drexel&quot; Gerson            | $405   |
-| 8 | Ron &quot;Playing For Haigen&quot; Grossberg | $320   |
-| 9 | Chuck &quot;Enabler&quot; Weinstock          | $160   |
+| 7 | Brandon "Drexel" Gerson            | $405   |
+| 8 | Ron "Playing For Haigen" Grossberg | $320   |
+| 9 | Chuck "Enabler" Weinstock          | $160   |
 
 {{< tournament
     event="TOC 2.0"
@@ -315,41 +318,43 @@ Team Unlawful won an additional $40 first place prize per player.
 
 |   |                                           |      |
 |--:|-------------------------------------------|------|
-| 1 | Stephanie &quot;Sassy&quot; Wasserman     | $656 |
-| 2 | Scott &quot;samarai&quot; Samarel         | $412 |
-| 3 | Kelly &quot;Short Stack Queen&quot; Kania | $277 |
-| 4 | Dean &quot;MrBookworm*&quot; Kerl         | $210 |
-| 5 | Chris &quot;SharkBait&quot; Kluchman      | $125 |
+| 1 | Stephanie "Sassy" Wasserman     | $656 |
+| 2 | Scott "samarai" Samarel         | $412 |
+| 3 | Kelly "Short Stack Queen" Kania | $277 |
+| 4 | Dean "MrBookworm*" Kerl         | $210 |
+| 5 | Chris "SharkBait" Kluchman      | $125 |
 
 {{< tournament
     image="sot_dan_goldman.jpg"
+    image-alt="Dan Goldman"
     event="Super Old-Timer No Limit Holdem"
     entries=20
     prize-pool="$2,000" >}}
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Dan &quot;ADB smalltalk&quot; Goldman | $720 |
+| 1 | Dan "ADB smalltalk" Goldman | $720 |
 | 2 | Ben Gamble                            | $500 |
 | 3 | Nolan Dalla                           | $500 |
-| 4 | Corey &quot;LingCod&quot; Imsdahl     | $280 |
+| 4 | Corey "LingCod" Imsdahl     | $280 |
 
 {{< tournament
     event="No Limit Holdem Main Event"
     entries="98"
     image="nlhe_rich_bremer.jpg"
+    image-alt="Rich Bremer"
     prize-pool="$13,720" >}}
 
 |    |                                        |        |
 |---:|----------------------------------------|--------|
-|  1 | Rich &quot;Omaholic&quot; Bremer       | $3,568 |
+|  1 | Rich "Omaholic" Bremer       | $3,568 |
 |  2 | Nolan Dalla                            | $2,607 |
 |  3 | David Kluchman                         | $2,058 |
-|  4 | Larry &quot;AzAlphaPoker&quot; Bierman | $1,646 |
-|  5 | Sheila Stimson                         | $1.235 |
-|  6 | Doug &quot;Snoop&quot; Grismore        | $960   |
-|  7 | Len &quot;Len G&quot; Greenberg        | $686   |
-|  8 | Bruce &quot;ADB Bigboy&quot; Kramer    | $412   |
-|  9 | Eric &quot;NiceHandSir&quot; Schneller | $274   |
-| 10 | Michael &quot;mickdog&quot; Patterson  | $274   |
+|  4 | Larry "AzAlphaPoker" Bierman | $1,646 |
+|  5 | Sheila Stimson                         | $1,235 |
+|  6 | Doug "Snoop" Grismore        | $960   |
+|  7 | Len "Len G" Greenberg        | $686   |
+|  8 | Bruce "ADB Bigboy" Kramer    | $412   |
+|  9 | Eric "NiceHandSir" Schneller | $274   |
+| 10 | Michael "mickdog" Patterson  | $274   |
 

@@ -15,8 +15,8 @@ aliases:
 This year's expanded BARGE was held at Binion's Casino. This year's speaker was
 Stanford Wong, who gave his talk at the Symposium on Friday night. The lowball
 tournament moved again, this time to Monday night where it was won by Andy
-Hughes. Chris &quot;Rev. Tom Bayz&quot; Mecklin finished second, and Rich
-&quot;Omaholic&quot; Bremer finished third. The Tuesday tournament this year
+Hughes. Chris "Rev. Tom Bayz" Mecklin finished second, and Rich
+"Omaholic" Bremer finished third. The Tuesday tournament this year
 was Chinese poker. It was won by Caryl Aronson with Patti Beadles in second and
 Paul Gibbony in third. The blackjack and video poker events saw a resurgance
 this year due to their inclusion into the new triathlon of gambling. Barbara

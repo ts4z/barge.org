@@ -19,13 +19,13 @@ aliases:
     >}}
 
 In 2000, BARGE returned to Binion's Horseshoe. Jeff Bartoszewicz won the
-NL hold'em tournament, John &quot;JRX&quot; Reed finished second, and Stephen
-&quot;Bozo&quot; Blackstock finished 3rd. Chris &quot;Jesus&quot; Ferguson was
+NL hold'em tournament, John "JRX" Reed finished second, and Stephen
+"Bozo" Blackstock finished 3rd. Chris "Jesus" Ferguson was
 the banquet speaker and winner of the chip castle building contest. No video
 poker or blackjack tournament was held this year. This was the first year for
 the Tournament of Champions-style event, in honor of BARGEr and ToC winner,
-Spencer &quot;Zorak&quot; Sun. The winner of this event was Tony
-&quot;Karma&quot; Goldstein. Peter &quot;Fold'em&quot; Secor finished second,
+Spencer "Zorak" Sun. The winner of this event was Tony
+"Karma" Goldstein. Peter "Fold'em" Secor finished second,
 and Jeff Siegel finished third. I believe the History of Poker event was first
 played at this BARGE, featuring alternating rounds of 5-card stud, 5-card draw
 high, and 5-card draw lowball. After the early rounds, 5-card stud was removed

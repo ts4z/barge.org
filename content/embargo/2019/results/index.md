@@ -22,13 +22,13 @@ aliases:
 
 |   |                                        |      |
 |--:|----------------------------------------|------|
-| 1 | Han &quot;Deadpool&quot; Hoai          | $886 |
+| 1 | Han "Deadpool" Hoai          | $886 |
 | 2 | Kenny Shei                             | $622 |
 | 3 | Randy Hudson                           | $475 |
-| 4 | David &quot;sam_6&quot; Lawful         | $357 |
+| 4 | David "sam_6" Lawful         | $357 |
 | 5 | Jim Anderson                           | $294 |
-| 6 | Kyle &quot;Super-ev&quot; Minnis       | $206 |
-| 7 | Keith &quot;ODB Phat Mack&quot; Troell | $100 |
+| 6 | Kyle "Super-ev" Minnis       | $206 |
+| 7 | Keith "ODB Phat Mack" Troell | $100 |
 
 {{< tournament
 buyin="$70 + $20 + $10 "
@@ -38,12 +38,12 @@ prize-pool=$2,730 >}}
 
 |   |                                          |      |
 |--:|------------------------------------------|------|
-| 1 | Ron &quot;Schmuckbox&quot; Grossberg     | $846 |
-| 2 | Rich &quot;omaholic&quot; Bremer         | $601 |
-| 3 | Jordan &quot;FellKnight&quot; Devenport  | $464 |
-| 4 | Tanya &quot;MissT74&quot; Peck-Devenport | $355 |
+| 1 | Ron "Schmuckbox" Grossberg     | $846 |
+| 2 | Rich "omaholic" Bremer         | $601 |
+| 3 | Jordan "FellKnight" Devenport  | $464 |
+| 4 | Tanya "MissT74" Peck-Devenport | $355 |
 | 5 | Patrick Milligan                         | $273 |
-| 6 | Diana &quot;Prof Chaos&quot; Mercer      | $191 |
+| 6 | Diana "Prof Chaos" Mercer      | $191 |
 
 {{< tournament
     buyin="$70 + $20 + $10"
@@ -53,11 +53,11 @@ prize-pool=$2,730 >}}
 
 |   |                                         |      |
 |--:|-----------------------------------------|------|
-| 1 | Stevan &quot;goldie&quot; Goldman       | $806 |
-| 2 | Jordan &quot;FellKnight&quot; Devenport | $538 |
-| 3 | Steve &quot;Crunch&quot; Daniel         | $381 |
+| 1 | Stevan "goldie" Goldman       | $806 |
+| 2 | Jordan "FellKnight" Devenport | $538 |
+| 3 | Steve "Crunch" Daniel         | $381 |
 | 4 | Jim Anderson                            | $291 |
-| 5 | Ken &quot;QB&quot; Kubey                | $224 |
+| 5 | Ken "QB" Kubey                | $224 |
 
 {{< tournament
     buyin="$100 + $20 + $10"
@@ -70,24 +70,24 @@ prize-pool=$2,730 >}}
 
 |         |                                         |         |
 |--------:|-----------------------------------------|---------|
-|       1 | Russ &quot;Messenger of Doom&quot; Fox  | $400    |
-|       2 | Stevan &quot;goldie&quot; Goldman       | $500    |
-|       3 | Mark &quot;Oldbear&quot; Hughes         | $600    |
-|       4 | Sean &quot;oscar&quot; McGuinness       | $400    |
-|       5 | Doug &quot;Snoop&quot; Grismore         | $100    |
-|       6 | Jordan &quot;FellKnight&quot; Devenport | $400    |
+|       1 | Russ "Messenger of Doom" Fox  | $400    |
+|       2 | Stevan "goldie" Goldman       | $500    |
+|       3 | Mark "Oldbear" Hughes         | $600    |
+|       4 | Sean "oscar" McGuinness       | $400    |
+|       5 | Doug "Snoop" Grismore         | $100    |
+|       6 | Jordan "FellKnight" Devenport | $400    |
 |       7 | Jesse Capps                             | $700    |
 | &mdash; | Also earning bounties:                  | &mdash; |
-|         | Scott &quot;Samarai&quot; Samarel       | $300    |
-|         | Stephen &quot;bozo&quot; Blackstock     | $200    |
-|         | Rich &quot;omaholic&quot; Bremer        | $200    |
-|         | Adam &quot;Allknight&quot; Bachrach     | $100    |
-|         | Patti &quot;Patti&quot; Beadles         | $100    |
+|         | Scott "Samarai" Samarel       | $300    |
+|         | Stephen "bozo" Blackstock     | $200    |
+|         | Rich "omaholic" Bremer        | $200    |
+|         | Adam "Allknight" Bachrach     | $100    |
+|         | Patti "Patti" Beadles         | $100    |
 |         | Rodney Chen                             | $100    |
-|         | Sharon &quot;ADB Shaza&quot; Goldman    | $100    |
-|         | Asya &quot;Aaahhh-see-ya&quot; Kamsky   | $100    |
-|         | Don &quot;ADBBingo&quot; Rieck          | $100    |
-|         | Peter &quot;ADB Foldem&quot; Secor      | $100    |
+|         | Sharon "ADB Shaza" Goldman    | $100    |
+|         | Asya "Aaahhh-see-ya" Kamsky   | $100    |
+|         | Don "ADBBingo" Rieck          | $100    |
+|         | Peter "ADB Foldem" Secor      | $100    |
 
 {{< tournament
     buyin="$70 + $20 + $10"
@@ -97,12 +97,12 @@ prize-pool=$2,730 >}}
 
 |   |                                    |      |
 |--:|------------------------------------|------|
-| 1 | Jared &quot;Mr3putt&quot; Anderson | $843 |
+| 1 | Jared "Mr3putt" Anderson | $843 |
 | 2 | Dennis Axel                        | $591 |
 | 3 | Kenny Shei                         | $451 |
-| 4 | Kirk &quot;RogueRat&quot; Oshiro   | $339 |
-| 5 | Han &quot;Deadpool&quot; Hoai      | $280 |
+| 4 | Kirk "RogueRat" Oshiro   | $339 |
+| 5 | Han "Deadpool" Hoai      | $280 |
 | 6 | Jim Anderson                       | $196 |
-| 7 | Karen &quot;LR&quot; Adams         | $100 |
+| 7 | Karen "LR" Adams         | $100 |
 
 

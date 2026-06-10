@@ -48,7 +48,8 @@ title: BARGE 2013 Results
     event="Triathalon of Gambling"
     date="Tuesday, July 31st, 2013"
     buyin="$30+$5"
-    image="MPHShoe.jpg" >}}
+    image="MPHShoe.jpg"
+    image-alt="Triathlon of Gambling Champion horseshoe trophy" >}}
 
 |   |                   |      |
 |--:|-------------------|------|
@@ -80,7 +81,8 @@ title: BARGE 2013 Results
     event="Pot Limit Omaha"
     date="Thursday, August 1st, 2013"
     buyin="$75+$20" 
-    image="RS2013PLO.jpg" >}}
+    image="RS2013PLO.jpg"
+    image-alt="Rich Strauss" >}}
 
 |    |                |        |
 |---:|----------------|--------|
@@ -119,7 +121,8 @@ title: BARGE 2013 Results
     event="No Limit Holdem Championship"
     buyin="$100 + $20"
     date="Saturday, August 3rd, 2013" 
-    image="DavidLaw.jpg" >}}
+    image="DavidLaw.jpg"
+    image-alt="David Lawful" >}}
 
 |    |                    |        |
 |---:|--------------------|--------|
@@ -168,8 +171,8 @@ These are rounded up payouts and may deviate slightly (+/- $1)  from actual amou
 
 Impressive that 7/10 teams made money; probably the worst placing Team Sleeping In has ever done.
 
-At the Symposium, foldem renamed the Virgin Team the &quot;Like a Virgin
-Team&quot; since only half of their members were actually virgins.
+At the Symposium, foldem renamed the Virgin Team the "Like a Virgin
+Team" since only half of their members were actually virgins.
  
 ## 2013-2014 ARG Best All-Around Player
 

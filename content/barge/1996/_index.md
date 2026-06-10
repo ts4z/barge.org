@@ -11,7 +11,7 @@ cover:
 ---
 
 BARGE 1996 was held at the Horseshoe. The NL tournament was won by organizer
-Mike &quot;KidZee&quot; Zimmers who outlasted around 144 players. Steve Jacobs won
+Mike "KidZee" Zimmers who outlasted around 144 players. Steve Jacobs won
 the blackjack tournament, Andy Latto finished second, and Frank Irwin finished
 third.
 

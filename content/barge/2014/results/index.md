@@ -20,27 +20,27 @@ title: BARGE 2014 Results
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Katie &quot;Power of V&quot; Baxter   | $940 |
-| 2 | Sharon &quot;Lil Angel&quot; Lewis    | $685 |
-| 3 | Steve &quot;Ice&quot; Eisenstein      | $545 |
+| 1 | Katie "Power of V" Baxter   | $940 |
+| 2 | Sharon "Lil Angel" Lewis    | $685 |
+| 3 | Steve "Ice" Eisenstein      | $545 |
 | 4 | David Low                             | $435 |
-| 5 | Scott &quot;Bwana&quot; Byron         | $365 |
-| 6 | Steve &quot;Crunch&quot; Daniel       | $255 |
-| 7 | Doug &quot;@dgr&quot; Grismore        | $180 |
-| 8 | Tanya &quot;MissT74&quot; Devenport   | $145 |
-| 9 | Alex &quot;maverick600&quot; Ziselman | $80  |
+| 5 | Scott "Bwana" Byron         | $365 |
+| 6 | Steve "Crunch" Daniel       | $255 |
+| 7 | Doug "@dgr" Grismore        | $180 |
+| 8 | Tanya "MissT74" Devenport   | $145 |
+| 9 | Alex "maverick600" Ziselman | $80  |
 
 {{< tournament event="History of Poker" buyin="$60" entrants=57 >}}
 
 |   |                                     |      |
 |--:|-------------------------------------|------|
-| 1 | Bob &quot;Blues&quot; Herlien       | $960 |
-| 2 | Scott &quot;Bwana&quot; Byron       | $720 |
-| 3 | Rich &quot;Omaholic&quot; Bremer    | $545 |
-| 4 | Mike &quot;ADB Howler&quot; McBride | $445 |
-| 5 | Shawna &quot;AAmazon&quot; Madrigal | $340 |
-| 6 | Tom &quot;Chaos&quot; Bessoir       | $240 |
-| 7 | Alan &quot;Bearsfan&quot; Veach     | $170 |
+| 1 | Bob "Blues" Herlien       | $960 |
+| 2 | Scott "Bwana" Byron       | $720 |
+| 3 | Rich "Omaholic" Bremer    | $545 |
+| 4 | Mike "ADB Howler" McBride | $445 |
+| 5 | Shawna "AAmazon" Madrigal | $340 |
+| 6 | Tom "Chaos" Bessoir       | $240 |
+| 7 | Alan "Bearsfan" Veach     | $170 |
 
 
 {{< tournament
@@ -65,35 +65,35 @@ title: BARGE 2014 Results
 
 |    |                                       |       |
 |---:|---------------------------------------|-------|
-|  1 | Erin &quot;Spitecall&quot; Ramsay     | $1585 |
-|  2 | Bree &quot;Dan's Kid&quot; Goldman    | $1155 |
-|  3 | Tina &quot;Dilligaf&quot; Gonzalez    | $910  |
+|  1 | Erin "Spitecall" Ramsay     | $1585 |
+|  2 | Bree "Dan's Kid" Goldman    | $1155 |
+|  3 | Tina "Dilligaf" Gonzalez    | $910  |
 |  4 | Bryan Juliano                         | $730  |
-|  5 | Mark &quot;Oldbear&quot; Hughes       | $545  |
-|  6 | Ed &quot;ERB2000&quot; Baker          | $425  |
-|  7 | David &quot;sam_6&quot; Lawful        | $305  |
-|  8 | Rick &quot;Rick M&quot; Mombourquette | $180  |
-|  9 | Charles &quot;Bommerman&quot; Natkins | $120  |
-| 10 | Alan &quot;Bearsfan&quot; Veach       | $120  |
+|  5 | Mark "Oldbear" Hughes       | $545  |
+|  6 | Ed "ERB2000" Baker          | $425  |
+|  7 | David "sam_6" Lawful        | $305  |
+|  8 | Rick "Rick M" Mombourquette | $180  |
+|  9 | Charles "Bommerman" Natkins | $120  |
+| 10 | Alan "Bearsfan" Veach       | $120  |
 
 {{< tournament event="Mike Sexton Original TOC-Style" buyin="$75" entrants=134 >}}
 
 |    |                                            |       |
 |---:|--------------------------------------------|-------|
-|  1 | Arthur &quot;Cider&quot; Goltz             | $2505 |
-|  2 | Brian &quot;Nick Name&quot; O'Grady        | $1910 |
+|  1 | Arthur "Cider" Goltz             | $2505 |
+|  2 | Brian "Nick Name" O'Grady        | $1910 |
 |  3 | David Low                                  | $1405 |
-|  4 | Alex &quot;Maverick600&quot; Ziselman      | $1105 |
-|  5 | Chris &quot;SharkBait&quot; Kluchman       | $805  |
-|  6 | Bruce &quot;Cyberchomp&quot; Iwamoto       | $605  |
-|  7 | Dianne &quot;DivaDianne&quot; Pickels      | $400  |
-|  8 | Rebecca &quot;Redbird&quot; Kerl           | $300  |
-|  9 | Rick &quot;Fred Garvin&quot; Becker        | $200  |
-| 10 | Corey &quot;LingCod&quot; Imsdahl          | $200  |
-| 11 | Chris &quot;Jep Stone Bastard&quot; Jepsen | $150  |
-| 12 | Katie &quot;Power of V&quot; Baxter        | $150  |
-| 13 | Scott &quot;Samarai Bastard&quot; Samarel  | $105  |
-| 14 | Erin &quot;Spitecall&quot; Ramsay          | $105  |
+|  4 | Alex "Maverick600" Ziselman      | $1105 |
+|  5 | Chris "SharkBait" Kluchman       | $805  |
+|  6 | Bruce "Cyberchomp" Iwamoto       | $605  |
+|  7 | Dianne "DivaDianne" Pickels      | $400  |
+|  8 | Rebecca "Redbird" Kerl           | $300  |
+|  9 | Rick "Fred Garvin" Becker        | $200  |
+| 10 | Corey "LingCod" Imsdahl          | $200  |
+| 11 | Chris "Jep Stone Bastard" Jepsen | $150  |
+| 12 | Katie "Power of V" Baxter        | $150  |
+| 13 | Scott "Samarai Bastard" Samarel  | $105  |
+| 14 | Erin "Spitecall" Ramsay          | $105  |
 | 15 | Bryan Juliano                              | $105  |
 
 {{< tournament event="No Limit Hold'Em" buyin="$100" entrants=151 >}}
@@ -101,23 +101,23 @@ title: BARGE 2014 Results
 |    |                                            |       |
 |---:|--------------------------------------------|-------|
 |  1 | Andreas Wolfram                            | $3150 |
-|  2 | Bob &quot;scsuhockey10&quot; Lauria        | $3150 |
-|  3 | Randy &quot;ADB Schmengie&quot; Collack    | $2115 |
-|  4 | Mike &quot;ADB Howler&quot; McBride        | $1660 |
-|  5 | Rick &quot;Rick M&quot; Mombourquette      | $1210 |
-|  6 | Steve &quot;Ice&quot; Eisenstein           | $905  |
-|  7 | John &quot;da pickle&quot; Pickels         | $605  |
-|  8 | Christopher &quot;Tom Bayz&quot; Mecklin   | $455  |
-|  9 | John &quot;muscatel&quot; Grout            | $300  |
-| 10 | Ken &quot;QB&quot; Kubey                   | $300  |
+|  2 | Bob "scsuhockey10" Lauria        | $3150 |
+|  3 | Randy "ADB Schmengie" Collack    | $2115 |
+|  4 | Mike "ADB Howler" McBride        | $1660 |
+|  5 | Rick "Rick M" Mombourquette      | $1210 |
+|  6 | Steve "Ice" Eisenstein           | $905  |
+|  7 | John "da pickle" Pickels         | $605  |
+|  8 | Christopher "Tom Bayz" Mecklin   | $455  |
+|  9 | John "muscatel" Grout            | $300  |
+| 10 | Ken "QB" Kubey                   | $300  |
 | 11 | Eric Rosenberger                           | $225  |
-| 12 | Monte &quot;hodger&quot; Christensen       | $225  |
-| 13 | Louis &quot;Bob_O&quot; Ogus               | $150  |
-| 14 | Steve &quot;Paul the Octopus&quot; Sherman | $150  |
-| 15 | Pete &quot;TrayRacer&quot; Segal           | $150  |
-| 16 | Scott &quot;Bwana&quot; Byron              | $150  |
-| 17 | Tina &quot;Dilligaf&quot; Gonzalez         | $100  |
-| 18 | Gillian &quot;Gillian Groves&quot; Groves  | $100  |
+| 12 | Monte "hodger" Christensen       | $225  |
+| 13 | Louis "Bob_O" Ogus               | $150  |
+| 14 | Steve "Paul the Octopus" Sherman | $150  |
+| 15 | Pete "TrayRacer" Segal           | $150  |
+| 16 | Scott "Bwana" Byron              | $150  |
+| 17 | Tina "Dilligaf" Gonzalez         | $100  |
+| 18 | Gillian "Gillian Groves" Groves  | $100  |
 
 ## Triathalon of Gambling
 
@@ -128,12 +128,12 @@ title: BARGE 2014 Results
 
 |   |                                             |      |
 |--:|---------------------------------------------|------|
-| 1 | Michael &quot;mickdog&quot; Patterson       | $475 |
-| 2 | (tie) Alex &quot;maverick600&quot; Ziselman | $300 |
-| 2 | (tie) Connie &quot;baguette&quot; Kellers   | $300 |
-| 4 | Doug &quot;@dgr&quot; Grismore              | $225 |
-| 5 | Chuck &quot;ADB Enabler&quot; Weinstock     | $150 |
-| 6 | Guy &quot;Grizz&quot; Berentsen             | $100 |
+| 1 | Michael "mickdog" Patterson       | $475 |
+| 2 | (tie) Alex "maverick600" Ziselman | $300 |
+| 2 | (tie) Connie "baguette" Kellers   | $300 |
+| 4 | Doug "@dgr" Grismore              | $225 |
+| 5 | Chuck "ADB Enabler" Weinstock     | $150 |
+| 6 | Guy "Grizz" Berentsen             | $100 |
 
 {{< tournament
     event=Craps
@@ -142,12 +142,12 @@ title: BARGE 2014 Results
 
 |   |                                         |      |
 |--:|-----------------------------------------|------|
-| 1 | Kyle &quot;Super-ev&quot; Minnis        | $400 |
-| 2 | Stevan &quot;goldie&quot; Goldman       | $300 |
-| 3 | Chuck &quot;ADB Enabler&quot; Weinstock | $225 |
-| 4 | Derek &quot;CindrllaMan&quot; Gomez     | $200 |
-| 5 | Aaron &quot;MyEvilTwin&quot; Lion       | $125 |
-| 6 | Matt &quot;grapes&quot; Grapenthien     | $70  |
+| 1 | Kyle "Super-ev" Minnis        | $400 |
+| 2 | Stevan "goldie" Goldman       | $300 |
+| 3 | Chuck "ADB Enabler" Weinstock | $225 |
+| 4 | Derek "CindrllaMan" Gomez     | $200 |
+| 5 | Aaron "MyEvilTwin" Lion       | $125 |
+| 6 | Matt "grapes" Grapenthien     | $70  |
 
 {{< tournament
     event="Video Poker"
@@ -156,11 +156,11 @@ title: BARGE 2014 Results
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Rich &quot;Omaholic&quot; Bremer      | $575 |
-| 2 | Scott &quot;Bwana&quot; Byron         | $300 |
-| 3 | Dan &quot;ABD smalltalk&quot; Goldman | $175 |
+| 1 | Rich "Omaholic" Bremer      | $575 |
+| 2 | Scott "Bwana" Byron         | $300 |
+| 3 | Dan "ABD smalltalk" Goldman | $175 |
 | 4 | Ryan Troll                            | $100 |
-| 5 | Connie &quot;baguette&quot; Kellers   | $50  |
+| 5 | Connie "baguette" Kellers   | $50  |
 
 {{< tournament
     event="Overall - Triathlon of Gambling"
@@ -169,40 +169,40 @@ title: BARGE 2014 Results
 
 |   |                                         |      |
 |--:|-----------------------------------------|------|
-| 1 | Alex &quot;Maverick600&quot; Ziselman   | $360 |
-| 2 | Michael &quot;mickdog&quot; Patterson   | $175 |
-| 3 | Chuck &quot;ADB Enabler&quot; Weinstock | $125 |
-| 4 | Stevan &quot;goldiefish&quot; Goldman   | $75  |
+| 1 | Alex "Maverick600" Ziselman   | $360 |
+| 2 | Michael "mickdog" Patterson   | $175 |
+| 3 | Chuck "ADB Enabler" Weinstock | $125 |
+| 4 | Stevan "goldiefish" Goldman   | $75  |
 
 {{< tournament event="Second Chance Binglaha" buyin="$55" entrants=53 >}}
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Dan &quot;ADB smalltalk&quot; Goldman | $820 |
+| 1 | Dan "ADB smalltalk" Goldman | $820 |
 | 2 | Ira Wiedman                           | $610 |
-| 3 | Steve &quot;Crunch&quot; Daniel       | $465 |
-| 4 | Warren &quot;mustbefirst&quot; Sander | $380 |
-| 5 | Alex &quot;maverick600&quot; Ziselman | $290 |
-| 6 | Michael &quot;mickdog&quot; Patterson | $205 |
-| 7 | Dean &quot;MrBookworm&quot; Kerl      | $145 |
+| 3 | Steve "Crunch" Daniel       | $465 |
+| 4 | Warren "mustbefirst" Sander | $380 |
+| 5 | Alex "maverick600" Ziselman | $290 |
+| 6 | Michael "mickdog" Patterson | $205 |
+| 7 | Dean "MrBookworm" Kerl      | $145 |
 
 {{< tournament event="Second Chance Open Face Chinese Poker" buyin="$55" entrants=24 >}}
 
 |   |                                         |      |
 |--:|-----------------------------------------|------|
-| 1 | Jordan &quot;FellKnight&quot; Devenport | $520 |
-| 2 | Alex &quot;Maverick600&quot; Ziselman   | $320 |
-| 3 | Michael &quot;mickdog&quot; Patterson   | $220 |
+| 1 | Jordan "FellKnight" Devenport | $520 |
+| 2 | Alex "Maverick600" Ziselman   | $320 |
+| 3 | Michael "mickdog" Patterson   | $220 |
 | 4 | Kenny Shei                              | $160 |
-| 5 | Katie &quot;Power of V&quot; Baxter     | $100 |
+| 5 | Katie "Power of V" Baxter     | $100 |
 
 {{< tournament event="Second Chance Limit Hold'em" buyin="$55" entrants=11 >}}
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Tracy &quot;TracyB&quot; Becker       | $300 |
-| 2 | Blake &quot;Blake&quot; Mombourquette | $180 |
-| 3 | Lynsy &quot;Lynsy&quot; Higgs Iwamoto | $125 |
+| 1 | Tracy "TracyB" Becker       | $300 |
+| 2 | Blake "Blake" Mombourquette | $180 |
+| 3 | Lynsy "Lynsy" Higgs Iwamoto | $125 |
 
 ## CHORSE
                      

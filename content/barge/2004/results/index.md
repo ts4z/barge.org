@@ -26,11 +26,11 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
 |   |                                   |      |
 |--:|-----------------------------------|------|
 | 1 | Dave Orr                          | $430 |
-| 2 | Greg &quot;Fossilman&quot; Raymer | $320 |
+| 2 | Greg "Fossilman" Raymer | $320 |
 | 3 | Sabyl Cohen                       | $250 |
 | 4 | John Reeves                       | $180 |
-| 5 | Steve &quot;Achbleh&quot; Day     | $140 |
-| 6 | Andy &quot;The Rock&quot; Bloch   | $110 |
+| 5 | Steve "Achbleh" Day     | $140 |
+| 6 | Andy "The Rock" Bloch   | $110 |
 
 
 {{< tournament
@@ -41,12 +41,12 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
 
 |   |                                        |      |
 |--:|----------------------------------------|------|
-| 1 | Barry &quot;PokerBear&quot; Tanenbaum  | $775 |
-| 2 | David &quot;ADB Iceman&quot; Trinidad  | $465 |
-| 3 | Rick &quot;RLM&quot; Mombourquette     | $310 |
-| 4 | Chic &quot;Garnishmensch&quot; Natkins | $50  |
-| 5 | Paul &quot;prm&quot; McMullin          | $50  |
-| 6 | Scott &quot;Bwana&quot; Byron          | $50  |
+| 1 | Barry "PokerBear" Tanenbaum  | $775 |
+| 2 | David "ADB Iceman" Trinidad  | $465 |
+| 3 | Rick "RLM" Mombourquette     | $310 |
+| 4 | Chic "Garnishmensch" Natkins | $50  |
+| 5 | Paul "prm" McMullin          | $50  |
+| 6 | Scott "Bwana" Byron          | $50  |
 
 
 {{< tournament
@@ -58,9 +58,9 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
 |   |                                    |      |
 |--:|------------------------------------|------|
 | 1 | Dave McVay                         | $545 |
-| 2 | Betty &quot;BLT&quot; Tanenbaum    | $410 |
-| 3 | Peter &quot;ADB Foldem&quot; Secor | $270 |
-| 4 | Mike &quot;Howler&quot; McBride    | $135 |
+| 2 | Betty "BLT" Tanenbaum    | $410 |
+| 3 | Peter "ADB Foldem" Secor | $270 |
+| 4 | Mike "Howler" McBride    | $135 |
 
 {{< tournament
     event="Team HORSE"
@@ -81,12 +81,12 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
 
 |         | Math Is Hard 5                         |
 |--------:|----------------------------------------|
-|    CP/8 | Steven &quot;Marlin&quot; Cohen        |
-|  Holdem | Rick &quot;RLM&quot; Mombourquette     |
-| Omaha/8 | Chic &quot;Garnishmensch&quot; Natkins |
-|    Razz | Steven &quot;Goldiefish&quot; Goldman  |
+|    CP/8 | Steven "Marlin" Cohen        |
+|  Holdem | Rick "RLM" Mombourquette     |
+| Omaha/8 | Chic "Garnishmensch" Natkins |
+|    Razz | Steven "Goldiefish" Goldman  |
 |    Stud | George Wattman                         |
-|  Stud/8 | Randy &quot;Mitch&quot; Collack        |
+|  Stud/8 | Randy "Mitch" Collack        |
 
 {{< tournament
     date="Thursday, July 29th, 2004"
@@ -96,15 +96,15 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
 
 |   |                                         |        |
 |--:|-----------------------------------------|--------|
-| 1 | David &quot;GreatPlans&quot; Fruchter   | $2,620 |
-| 2 | Jim &quot;Bullbert&quot; Bullard        | $2,090 |
-| 3 | Chris &quot;ADB Ploink&quot; Straghalis | $1,560 |
-| 4 | Adam &quot;Allknight&quot; Bachrach     | $1,300 |
-| 5 | Michael &quot;Pygmyhipo&quot; Maurer    | $1,040 |
+| 1 | David "GreatPlans" Fruchter   | $2,620 |
+| 2 | Jim "Bullbert" Bullard        | $2,090 |
+| 3 | Chris "ADB Ploink" Straghalis | $1,560 |
+| 4 | Adam "Allknight" Bachrach     | $1,300 |
+| 5 | Michael "Pygmyhipo" Maurer    | $1,040 |
 | 6 | Warren Sander                           | $780   |
-| 7 | Barry &quot;PokerBear&quot; Tanenbaum   | $520   |
-| 8 | Dan &quot;PokerStar&quot; Goldman       | $310   |
-| 9 | Patrick &quot;CtheTurn&quot; Kirwan     | $210   |
+| 7 | Barry "PokerBear" Tanenbaum   | $520   |
+| 8 | Dan "PokerStar" Goldman       | $310   |
+| 9 | Patrick "CtheTurn" Kirwan     | $210   |
 
 {{< tournament
     date="Friday, July 30th, 2004"
@@ -114,19 +114,19 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
 
 |    |                                       |          |
 |---:|---------------------------------------|----------|
-|  1 | Peter &quot;Taki&quot; Caldes         | $1,420   |
+|  1 | Peter "Taki" Caldes         | $1,420   |
 |  2 | Sabyl Cohen                           | $1,130   |
-|  3 | Perry &quot;The Baiter&quot; Friedman | $850     |
-|  4 | Tony &quot;Karma&quot; Goldstein      | $680     |
-|  5 | Stephen &quot;Marlin&quot; Cohen      | $570     |
+|  3 | Perry "The Baiter" Friedman | $850     |
+|  4 | Tony "Karma" Goldstein      | $680     |
+|  5 | Stephen "Marlin" Cohen      | $570     |
 |  6 | Paul Zuzelo                           | $450     |
-|  7 | Michael &quot;Pygmyhipo&quot; Maurer  | $340     |
+|  7 | Michael "Pygmyhipo" Maurer  | $340     |
 |  8 | Russell Fox                           | $230     |
-|  9 | Bob &quot;Blues&quot; Herlien         | $140     |
-| 10 | Alan &quot;AJ&quot; Bernstein         | $140     |
+|  9 | Bob "Blues" Herlien         | $140     |
+| 10 | Alan "AJ" Bernstein         | $140     |
 | 11 | Patti Beadles                         | $140     |
-| 12 | James &quot;JP&quot; Massar           | $140     |
-| 13 | Dave &quot;davet&quot; Tahajian       | $140     |
+| 12 | James "JP" Massar           | $140     |
+| 13 | Dave "davet" Tahajian       | $140     |
 |    | 2nd Place at original tables          | $70 each |
 
 {{< tournament
@@ -137,24 +137,24 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
 
 |    |                                       |        |
 |---:|---------------------------------------|--------|
-|  1 | Gavin &quot;Raffi&quot; Smith         | $3,710 |
-|  2 | Frank &quot;ADB Nut-Z&quot; Brabec    | $2,970 |
+|  1 | Gavin "Raffi" Smith         | $3,710 |
+|  2 | Frank "ADB Nut-Z" Brabec    | $2,970 |
 |  3 | Dan Nussbaum                          | $2,220 |
 |  4 | Russ Fox                              | $1,780 |
-|  5 | Alan &quot;ADB Tiger123&quot;         | $1,460 |
-|  6 | Tony &quot;Karma&quot; Goldstein      | $1,190 |
+|  5 | Alan "ADB Tiger123"         | $1,460 |
+|  6 | Tony "Karma" Goldstein      | $1,190 |
 |  7 | Steve Pierce                          | $890   |
-|  8 | Perry &quot;The Baiter&quot; Friedman | $590   |
+|  8 | Perry "The Baiter" Friedman | $590   |
 |  9 | Michelle Lancaster                    | $300   |
 | 10 | Marc Howard                           | $200   |
 | 11 | Brian Judd                            | $200   |
-| 12 | Sassoun &quot;Sass&quot; Sarhadian    | $200   |
-| 13 | Dave &quot;Hitman&quot; Roemer        | $150   |
+| 12 | Sassoun "Sass" Sarhadian    | $200   |
+| 13 | Dave "Hitman" Roemer        | $150   |
 | 14 | Jeff Siegal                           | $150   |
-| 15 | Paul &quot;prm&quot; McMullin         | $150   |
-| 16 | Jim LockDown&quot; Watson             | $100   |
+| 15 | Paul "prm" McMullin         | $150   |
+| 16 | Jim LockDown" Watson             | $100   |
 | 17 | Steve Evans                           | $100   |
-| 18 | Lee &quot;Bowtie&quot; Crocker        | $100   |
+| 18 | Lee "Bowtie" Crocker        | $100   |
 
 
 ## 2003/2004 RGP Best All Around Player

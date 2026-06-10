@@ -26,5 +26,5 @@ a question and it was answered."
       this event.
 
 This was the first BARGE for eventual organizer Nick Christenson. This was also
-the first truly &quot;organized&quot; BARGE, by Mike Zimmers and Chuck
+the first truly "organized" BARGE, by Mike Zimmers and Chuck
 Weinstock.
