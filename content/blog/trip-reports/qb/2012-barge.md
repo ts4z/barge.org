@@ -560,7 +560,9 @@ Back to the HORSE game.  I get stuck $40 in the wink of an eye.
 
 {{< figure alt="GamboMouse guarding QB's chip castle." class="floatright40"
 src="../2012-gambomouse-chipcastle.jpg"
-link="../2012-gambomouse-chipcastle.jpg" >}} I still have enough chips to build
+link="../2012-gambomouse-chipcastle.jpg" >}}
+
+I still have enough chips to build
 my usual chip structure.  GamboMouse is looking through the top window ([see
 pic on
 facebook](http://www.facebook.com/media/set/?set=a.4496149528800.2183497.1442217272&type=3)). [Editor:
