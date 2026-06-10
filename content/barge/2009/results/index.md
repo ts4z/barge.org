@@ -24,13 +24,13 @@ title: BARGE 2009 Results
 |---:|-----------------------------------------|------|
 |  1 | Rick Mombourquette                      | $875 |
 |  2 | Rodney Chen                             | $695 |
-|  3 | Guy &quot;Grizz&quot; Berenstein        | $530 |
-|  4 | Barry &quot;Mr. Raise&quot; Kornspan    | $420 |
+|  3 | Guy "Grizz" Berenstein        | $530 |
+|  4 | Barry "Mr. Raise" Kornspan    | $420 |
 |  5 | Tina Gonzalez                           | $350 |
 |  6 | J P Massar                              | $280 |
-|  7 | Warren &quot;Must Be First&quot; Sander | $210 |
-|  8 | Jeff &quot;Blofeld&quot; Deitch         | $140 |
-|  9 | Dan &quot;ADB smalltalk&quot; Goldman   | $50  |
+|  7 | Warren "Must Be First" Sander | $210 |
+|  8 | Jeff "Blofeld" Deitch         | $140 |
+|  9 | Dan "ADB smalltalk" Goldman   | $50  |
 | 10 | Jeanne David                            | $50  |
 
 {{< tournament
@@ -42,13 +42,13 @@ title: BARGE 2009 Results
 
 |   |                                           |      |
 |--:|-------------------------------------------|------|
-| 1 | Matt &quot;Grapes&quot; Grapenthien       | $590 |
-| 2 | Charles &quot;Chic&quot; Natkins          | $460 |
-| 3 | Bree &quot;Dan's Kid&quot; Goldman        | $350 |
-| 4 | Richard &quot;Quiet Lion&quot; Brodie     | $90  |
+| 1 | Matt "Grapes" Grapenthien       | $590 |
+| 2 | Charles "Chic" Natkins          | $460 |
+| 3 | Bree "Dan's Kid" Goldman        | $350 |
+| 4 | Richard "Quiet Lion" Brodie     | $90  |
 | 5 | David Low                                 | $80  |
-| 6 | Leslie &quot;iloveshoes&quot; Walker      | $70  |
-| 7 | Sharon &quot;ADB meretseger&quot; Goldman | $60  |
+| 6 | Leslie "iloveshoes" Walker      | $70  |
+| 7 | Sharon "ADB meretseger" Goldman | $60  |
 
 {{< tournament
     date="Wednesday, July 29, 2009"
@@ -59,10 +59,10 @@ title: BARGE 2009 Results
 
 |   |                                   |      |
 |--:|-----------------------------------|------|
-| 1 | Rich &quot;Omaholic&quot; Bremer  | $560 |
-| 2 | Charles &quot;Chic&quot; Natkins  | $420 |
+| 1 | Rich "Omaholic" Bremer  | $560 |
+| 2 | Charles "Chic" Natkins  | $420 |
 | 3 | Stephen Landrum                   | $280 |
-| 4 | Spencer &quot;ADB Zorak&quot; Sun | $140 |
+| 4 | Spencer "ADB Zorak" Sun | $140 |
 
 {{< tournament
     date="Wednesday, July 29, 2009"
@@ -74,13 +74,13 @@ title: BARGE 2009 Results
 |   |                                 |        |
 |--:|---------------------------------|--------|
 | 1 | Gillian Groves                  | $910   |
-| 2 | Rick &quot;Zbigniew&quot; Bevan | $1,005 |
+| 2 | Rick "Zbigniew" Bevan | $1,005 |
 | 3 | Steve Bartnyk                   | $815   |
 | 4 | Rich Strauss                    | $580   |
-| 5 | Betty &quot;BLT&quot; Tanenbaum | $490   |
-| 6 | John &quot;JRX&quot; Reed       | $390   |
+| 5 | Betty "BLT" Tanenbaum | $490   |
+| 6 | John "JRX" Reed       | $390   |
 | 7 | Bryan Slick                     | $290   |
-| 8 | Bob &quot;Blues&quot; Herlein   | $100   |
+| 8 | Bob "Blues" Herlein   | $100   |
 | 9 | Bart Simpson                    | $190   |
 
 {{< tournament
@@ -88,7 +88,8 @@ title: BARGE 2009 Results
     event="Team CHORSE"
     buyin=$400
     entries=17 
-    image="chorse-winners.jpg" >}}
+    image="chorse-winners.jpg"
+    image-alt="the winning CHORSE team" >}}
 
 |    |                                                        |      |
 |---:|--------------------------------------------------------|------|
@@ -113,12 +114,12 @@ title: BARGE 2009 Results
 
 | The Math Is Hard 5 Sans That Talentless Commie Bastard |
 |--------------------------------------------------------|
-| Steven &quot;Marlin&quot; Cohen, ADB                   |
-| Charles &quot;Chic&quot; Natkins                       |
+| Steven "Marlin" Cohen, ADB                   |
+| Charles "Chic" Natkins                       |
 | Rick Mombourquette                                     |
-| Bob &quot;Hose-R&quot; Lauria                          |
-| &quot;Big&quot; Matt Ivestor                           |
-| Jeff &quot;Joey&quot; Merritt                          |
+| Bob "Hose-R" Lauria                          |
+| "Big" Matt Ivestor                           |
+| Jeff "Joey" Merritt                          |
 
 {{< tournament
     date="Thursday, July 30, 2009"
@@ -129,22 +130,22 @@ title: BARGE 2009 Results
 
 |      |                                        |          |
 |-----:|----------------------------------------|----------|
-|    1 | David &quot;StoneDonkey&quot; Kluchman | $1,010   |
-|    2 | Cliff &quot;deadhead&quot; Matthews    | $810     |
-|    3 | Michael &quot;pygmyhipo&quot; Maurer   | $610     |
-|    4 | Matt &quot;Grapes&quot; Grapenthien    | $490     |
+|    1 | David "StoneDonkey" Kluchman | $1,010   |
+|    2 | Cliff "deadhead" Matthews    | $810     |
+|    3 | Michael "pygmyhipo" Maurer   | $610     |
+|    4 | Matt "Grapes" Grapenthien    | $490     |
 |    5 | Serrina Monnin                         | $410     |
-|    6 | Charles &quot;Chic&quot; Natkins       | $320     |
+|    6 | Charles "Chic" Natkins       | $320     |
 |    7 | Sabyl Landrum                          | $240     |
 |    8 | Rick Mombourquette                     | $160     |
 | 9-16 |                                        | $75 each |
 |      | David Low                              |          |
 |      | Bryan Slick                            |          |
-|      | Jim &quot;Bullbert&quot; Bullard       |          |
-|      | Scott &quot;Bwana&quot; Byron          |          |
-|      | Dave &quot;BronzeDodger&quot; O'Grady  |          |
+|      | Jim "Bullbert" Bullard       |          |
+|      | Scott "Bwana" Byron          |          |
+|      | Dave "BronzeDodger" O'Grady  |          |
 |      | J P Massar                             |          |
-|      | James &quot;Jimmy&quot; Angotti        |          |
+|      | James "Jimmy" Angotti        |          |
 |      | Erin Ramsey                            |          |
 
 {{< tournament
@@ -156,25 +157,25 @@ title: BARGE 2009 Results
 
 | event=" |                                                |        |
 |--------:|------------------------------------------------|--------|
-|       1 | Michael &quot;pygmyhipo&quot; Maurer           | $3,120 |
+|       1 | Michael "pygmyhipo" Maurer           | $3,120 |
 |       2 | Doug Grismore                                  | $1,465 |
-|       3 | Stephanie &quot;Sassy Bikebabe&quot; Wasserman | $1,790 |
-|       4 | Tom &quot;Tomcat&quot; Overton                 | $1,680 |
+|       3 | Stephanie "Sassy Bikebabe" Wasserman | $1,790 |
+|       4 | Tom "Tomcat" Overton                 | $1,680 |
 |       5 | Keith Troll                                    | $990   |
 |       6 | Rick Mombourquette                             | $740   |
-|       7 | Russell Messenger of Doom&quot; Fox            | $500   |
+|       7 | Russell Messenger of Doom" Fox            | $500   |
 |       8 | Paul Gibboney                                  | $340   |
-|       9 | Patrick &quot;CtheTurn&quot; Kirwan            | $250   |
+|       9 | Patrick "CtheTurn" Kirwan            | $250   |
 |      10 | Steve Watanabe                                 | $190   |
-|      11 | Mike &quot;ADB Howler&quot; McBride            | $190   |
+|      11 | Mike "ADB Howler" McBride            | $190   |
 |      12 | Tina Gonzalez                                  | $190   |
-|      13 | Chris &quot;Jepstonian&quot; Jepsen            | $150   |
-|      14 | Tim &quot;ts4z&quot; Showalter                 | $150   |
+|      13 | Chris "Jepstonian" Jepsen            | $150   |
+|      14 | Tim "ts4z" Showalter                 | $150   |
 |      15 | Paul Person                                    | $150   |
-|      16 | Kyle &quot;Supe&quot; Minnis                   | $120   |
-|      17 | Leslie &quot;iloveshoes&quot; Walker           | $120   |
+|      16 | Kyle "Supe" Minnis                   | $120   |
+|      17 | Leslie "iloveshoes" Walker           | $120   |
 |      18 | Bryan Slick                                    | $120   |
-|      19 | Masanobu &quot;Masa&quot; Fujioka              | $120   |
+|      19 | Masanobu "Masa" Fujioka              | $120   |
 
 
 {{< tournament
@@ -207,25 +208,25 @@ title: BARGE 2009 Results
 
 |    |                                         |        |
 |---:|-----------------------------------------|--------|
-|  1 | David &quot;Heldar&quot; Heller         | $5,035 |
-|  2 | Brenda &quot;SunnyGirl&quot; Mowrey     | $3,765 |
-|  3 | Bruce &quot;ADB Bigboy&quot; Kramer     | $2,720 |
+|  1 | David "Heldar" Heller         | $5,035 |
+|  2 | Brenda "SunnyGirl" Mowrey     | $3,765 |
+|  3 | Bruce "ADB Bigboy" Kramer     | $2,720 |
 |  4 | Kenny Shei                              | $2,090 |
-|  5 | Corey &quot;Lingcod&quot; Imsdahl       | $1,670 |
-|  6 | Ben &quot;recdot&quot; Gamble           | $1,250 |
+|  5 | Corey "Lingcod" Imsdahl       | $1,670 |
+|  6 | Ben "recdot" Gamble           | $1,250 |
 |  7 | J P Massar                              | $840   |
 |  8 | David Soussan                           | $570   |
-|  9 | James &quot;Sir Donksalot&quot; Kittock | $420   |
-| 10 | James &quot;Jimmy&quot; Angotti         | $310   |
-| 11 | David &quot;StoneDonkey&quot; Kluchman  | $310   |
-| 12 | Ken &quot;ADB QB&quot; Kubey            | $310   |
+|  9 | James "Sir Donksalot" Kittock | $420   |
+| 10 | James "Jimmy" Angotti         | $310   |
+| 11 | David "StoneDonkey" Kluchman  | $310   |
+| 12 | Ken "ADB QB" Kubey            | $310   |
 | 13 | Deron Brod                              | $260   |
-| 14 | Robert &quot;Bob&quot; Jones            | $260   |
+| 14 | Robert "Bob" Jones            | $260   |
 | 15 | Larry Stone                             | $260   |
-| 16 | Dave &quot;AIYAH&quot; Tall             | $210   |
-| 17 | Mary &quot;MadMary&quot; Massey         | $210   |
+| 16 | Dave "AIYAH" Tall             | $210   |
+| 17 | Mary "MadMary" Massey         | $210   |
 | 18 | Merlynn Schuck                          | $210   |
-| 19 | Corey &quot;No Limp&quot; Means         | $200   |
+| 19 | Corey "No Limp" Means         | $200   |
 
 
 ## 2008 - 2009 RGP Best All Around Player

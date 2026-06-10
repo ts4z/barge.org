@@ -122,7 +122,7 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 ### Crayfish Atomic Pineapple
 
  - In [Atomic Pineapple](/rulebook/atomic-pineapple.html), players receive five
-   cards and discard one before the the flop, turn, and river are dealt to end
+   cards and discard one before the flop, turn, and river are dealt to end
    up with a two card hand.
  - In [Crayfish](/rulebook/crayfish.html) poker, all five board cards are dealt on the flop.  Instead of a turn, the dealer rolls a die and the corresponding card is taken out of play (or if a 6 is rolled all cards remain).  Instead of a river, the dealer rolls another die and the corresponding card is taken out of play (or if a 6 is rolled all cards remain; if the prior roll is repeated nothing changes and the four board cards remain).
  - *featuring chaos-style reshuffling (seating at each table is redrawn at first two breaks; button is awarded to player who last paid the big blind)*

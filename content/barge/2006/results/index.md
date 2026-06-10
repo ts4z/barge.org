@@ -24,12 +24,12 @@ title: BARGE 2006 Results
 |--:|--------------------------------------|--------|
 | 1 | Keith Troell                         | $1,240 |
 | 2 | Warren Sander                        | $1,000 |
-| 3 | Claude &quot;cocky&quot; Carlson     | $480   |
-| 4 | Dan &quot;smalltalkdan&quot; Goldman | $400   |
-| 5 | Eugene &quot;Peyton&quot; Coles      | $320   |
-| 6 | Rich &quot;Omaholic&quot; Bremer     | $240   |
-| 7 | Mike &quot;Howler&quot; McBride      | $160   |
-| 8 | Peter &quot;ADB Foldem&quot; Secor   | $100   |
+| 3 | Claude "cocky" Carlson     | $480   |
+| 4 | Dan "smalltalkdan" Goldman | $400   |
+| 5 | Eugene "Peyton" Coles      | $320   |
+| 6 | Rich "Omaholic" Bremer     | $240   |
+| 7 | Mike "Howler" McBride      | $160   |
+| 8 | Peter "ADB Foldem" Secor   | $100   |
 | 9 | Eileen Milligan                      | $60    |
 
 {{< tournament
@@ -38,13 +38,13 @@ title: BARGE 2006 Results
 
 |   |                                       |        |
 |--:|---------------------------------------|--------|
-| 1 | Kenny &quot;tiltcity&quot; Shei       | $1,270 |
+| 1 | Kenny "tiltcity" Shei       | $1,270 |
 | 2 | Bob Jones                             | $1,020 |
-| 3 | Randy &quot;Schmengie&quot; Collack   | $770   |
+| 3 | Randy "Schmengie" Collack   | $770   |
 | 4 | Chris Mlinarich                       | $610   |
-| 5 | Lee &quot;Bowtie&quot; Crocker        | $510   |
-| 6 | Richard &quot;Quiet Lion&quot; Brodie | $410   |
-| 7 | Guy &quot;Grizz&quot; Brentsen        | $310   |
+| 5 | Lee "Bowtie" Crocker        | $510   |
+| 6 | Richard "Quiet Lion" Brodie | $410   |
+| 7 | Guy "Grizz" Brentsen        | $310   |
 | 8 | Warren Sander                         | $200   |
 
 {{< tournament
@@ -75,10 +75,10 @@ title: BARGE 2006 Results
 | 17/18 | Team Moosecock             |        |
 
 Icicles:
-* Steven &quot;Ice&quot; Eisenstein
-* Chuck &quot;TrainMan&quot; Weinstock
-* Sandi &quot;Siona&quot; Benditt
-* Bob &quot;Betty Ann&quot; Ogus
+* Steven "Ice" Eisenstein
+* Chuck "TrainMan" Weinstock
+* Sandi "Siona" Benditt
+* Bob "Betty Ann" Ogus
 * Ross Poppel
 * Stacy Conrad
 
@@ -89,16 +89,16 @@ Icicles:
 |       |                                                |          |
 |------:|------------------------------------------------|----------|
 |     1 | Jeff Landgraf                                  | $1,330   |
-|     2 | Daniel &quot;mockturtle&quot; Lykins           | $1,070   |
-|     3 | Nolan &quot;ADB Darkside&quot; Dalla           | $800     |
+|     2 | Daniel "mockturtle" Lykins           | $1,070   |
+|     3 | Nolan "ADB Darkside" Dalla           | $800     |
 |     4 | Bob Irons                                      | $640     |
-|     5 | Tom &quot;Blk M Coupe&quot; Abraham            | $530     |
+|     5 | Tom "Blk M Coupe" Abraham            | $530     |
 |     6 | Sabyl Cohen                                    | $430     |
 |     7 | Patti Beadles                                  | $320     |
-|     8 | Kenny &quot;tiltcity&quot; Shei                | $210     |
-|     9 | Gavin &quot;Birdguts&quot; Smith               | $150     |
+|     8 | Kenny "tiltcity" Shei                | $210     |
+|     9 | Gavin "Birdguts" Smith               | $150     |
 |    10 | Ross Poppel                                    | $150     |
-|    11 | Charles &quot;Chic&quot; Natkins               | $150     |
+|    11 | Charles "Chic" Natkins               | $150     |
 | 12-22 |                                                | $75 each |
 |       | Michelle Lancaster, Michael Maurer, Tim Gomes, |          |
 |       | Bobo Barzamati, Andrew Kuttig, Don Condit,     |          |
@@ -112,7 +112,7 @@ Icicles:
 |   |                                       |
 |--:|---------------------------------------|
 | 1 | Lynne Higgs                           |
-| 2 | Rachel &quot;Survey Lady&quot; Croson |
+| 2 | Rachel "Survey Lady" Croson |
 | 3 | Sandra Joe                            |
 
 {{< tournament
@@ -122,13 +122,13 @@ Icicles:
 |   |                                       |        |
 |--:|---------------------------------------|--------|
 | 1 | Don Condit                            | $3,040 |
-| 2 | Steve &quot;Lunchbox&quot; Forcash    | $2,430 |
-| 3 | Bill &quot;SOB&quot; Campion          | $1,820 |
+| 2 | Steve "Lunchbox" Forcash    | $2,430 |
+| 3 | Bill "SOB" Campion          | $1,820 |
 | 4 | David Fruchter                        | $1,520 |
-| 5 | Richard &quot;Quiet Lion&quot; Brodie | $1,220 |
+| 5 | Richard "Quiet Lion" Brodie | $1,220 |
 | 6 | Leslie Walker                         | $910   |
-| 7 | Peter &quot;PeteZaa&quot; Stephenson  | $610   |
-| 8 | Tony &quot;Karma&quot; Goldstein      | $360   |
+| 7 | Peter "PeteZaa" Stephenson  | $610   |
+| 8 | Tony "Karma" Goldstein      | $360   |
 | 9 | Larry Lumley                          | $240   |
 
 {{< tournament
@@ -150,24 +150,24 @@ Icicles:
 |    |                                      |        |
 |---:|--------------------------------------|--------|
 |  1 | Mordecai Schwartz                    | $4,800 |
-|  2 | David &quot;Heldar&quot; Heller      | $3,820 |
-|  3 | Don &quot;ADB Bingo&quot; Rieck      | $2,940 |
-|  4 | Frank &quot;ADB Nut-Z&quot; Brabec   | $2,350 |
-|  5 | Edmund &quot;RktSci&quot; Hack       | $1,960 |
+|  2 | David "Heldar" Heller      | $3,820 |
+|  3 | Don "ADB Bingo" Rieck      | $2,940 |
+|  4 | Frank "ADB Nut-Z" Brabec   | $2,350 |
+|  5 | Edmund "RktSci" Hack       | $1,960 |
 |  6 | Andrew Prock                         | $1,570 |
 |  7 | Sabyl Cohen                          | $1,180 |
-|  8 | Adam &quot;AllKnight&quot; Bachrach  | $780   |
+|  8 | Adam "AllKnight" Bachrach  | $780   |
 |  9 | Bob Irons                            | $400   |
-| 10 | Corey &quot;LingCod&quot; Imsdahl    | $250   |
-| 11 | Dan &quot;smalltalkdan&quot; Goldman | $250   |
+| 10 | Corey "LingCod" Imsdahl    | $250   |
+| 11 | Dan "smalltalkdan" Goldman | $250   |
 | 12 | Matt Repinski                        | $250   |
-| 13 | Charles &quot;Chic&quot; Natkins     | $200   |
-| 14 | Tom &quot;Tomcat&quot; Overton       | $200   |
-| 15 | Rick &quot;Zbigniew&quot; Bevan      | $200   |
+| 13 | Charles "Chic" Natkins     | $200   |
+| 14 | Tom "Tomcat" Overton       | $200   |
+| 15 | Rick "Zbigniew" Bevan      | $200   |
 | 16 | David Huberman                       | $150   |
-| 17 | Kyle &quot;Super K&quot; Minnis      | $150   |
-| 18 | Steve &quot;BIA&quot; Nissman        | $150   |
-| 19 | Bob &quot;Betty Ann&quot; Ogus       | $100   |
+| 17 | Kyle "Super K" Minnis      | $150   |
+| 18 | Steve "BIA" Nissman        | $150   |
+| 19 | Bob "Betty Ann" Ogus       | $100   |
 | 20 | Frank Castagna                       | $100   |
 
 {{< tournament
@@ -177,8 +177,8 @@ Icicles:
 |   |                                       |   |
 |--:|---------------------------------------|---|
 | 1 | Barry Goren                           |   |
-| 2 | Perry &quot;The Baiter&quot; Friedman |   |
+| 2 | Perry "The Baiter" Friedman |   |
     
 ## Chip Castle Contest
 
-Winner: Rich &quot;Zbigniew&quot; Bevan
+Winner: Rich "Zbigniew" Bevan

@@ -23,8 +23,8 @@ aliases:
 |--:|---------------------------------------|------|
 | 1 | Nolan Dalla                           | $770 |
 | 2 | Justin Harms *                        | $770 |
-| 3 | Dan &quot;ADB smalltalk&quot; Goldman | $770 |
-| 4 | Ron &quot;Schmuckbox&quot; Grossberg  | $390 |
+| 3 | Dan "ADB smalltalk" Goldman | $770 |
+| 4 | Ron "Schmuckbox" Grossberg  | $390 |
 | 5 | Joe Santagata                         | $300 |
 
 * denotes unregistered player
@@ -37,9 +37,9 @@ aliases:
 
 |  | | |
 |--:|---|---|
-|1| Kyle &quot;Super-ev&quot; Minnis | $864 |
-|2| Kevin &quot;Action Razz&quot; Un | $550 |
-|3| Dan &quot;ADB smalltalk&quot; Goldman | $650 |
+|1| Kyle "Super-ev" Minnis | $864 |
+|2| Kevin "Action Razz" Un | $550 |
+|3| Dan "ADB smalltalk" Goldman | $650 |
 |4| Dominic Terreri | $336
 
 {{< tournament
@@ -50,9 +50,9 @@ aliases:
 
 |   |                                      |      |
 |--:|--------------------------------------|------|
-| 1 | Ron &quot;SchmuckBox&quot; Grossberg | $816 |
-| 2 | Corey &quot;LingCod&quot; Imsdahl    | $816 |
-| 3 | Adam &quot;Allknight&quot; Bachrach  | $432 |
+| 1 | Ron "SchmuckBox" Grossberg | $816 |
+| 2 | Corey "LingCod" Imsdahl    | $816 |
+| 3 | Adam "Allknight" Bachrach  | $432 |
 | 4 | Guist Rigo *                         | $336 |
 
 * denotes unregistered player
@@ -68,12 +68,12 @@ aliases:
 |---:|-----------------------------------|--------|
 |  1 | Abraham Katan *                   | $2,407 |
 |  2 | Eugene Tito *                     | $1,986 |
-|  3 | Steve &quot;Crunch&quot; Daniel   | $1,675 |
+|  3 | Steve "Crunch" Daniel   | $1,675 |
 |  4 | Joseph Schumacher *               | $1,455 |
-|  5 | Scott &quot;Samarai&quot; Samarel | $1,446 |
+|  5 | Scott "Samarai" Samarel | $1,446 |
 |  6 | Scott Freund *                    | $1,303 |
 |  7 | Andrew MacKenzie *                | $1,111 |
-|  8 | Paul &quot;Paul&quot; Stine       | $502   |
+|  8 | Paul "Paul" Stine       | $502   |
 |  9 | Judith Alto *                     | $402   |
 | 10 | Arthur Rafaeli *                  | $301   |
 | 11 | Richard Ziskind *                 | $301   |
@@ -91,10 +91,10 @@ aliases:
 |   |                                              |        |
 |--:|----------------------------------------------|--------|
 | 1 | Dominic Terreri                              | $1,000 |
-| 2 | Christian &quot;Dr.Doofenshmirtz&quot; Jones | $624   |
-| 3 | David &quot;sam_6&quot; Lawful               | $432   |
+| 2 | Christian "Dr.Doofenshmirtz" Jones | $624   |
+| 3 | David "sam_6" Lawful               | $432   |
 | 4 | Winton Lemoine *                             | $336   |
-| 5 | Ron &quot;SchmuckBox&quot; Grossberg         | $8     |
+| 5 | Ron "SchmuckBox" Grossberg         | $8     |
 
 * denotes unregistered player
  

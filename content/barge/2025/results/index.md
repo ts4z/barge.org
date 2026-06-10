@@ -20,7 +20,8 @@ cover:
     entries=25
     rebuys="$60" 
     prize-pool="$2,875"
-    image="snoop.jpg" >}}
+    image="snoop.jpg"
+    image-alt="Doug Grismore" >}}
 
 We raised $3600 to be split evenly between Habitat for Humanity and World Central Kitchen!
 
@@ -38,7 +39,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$140"
     prize-pool="$4,600"
     entries=40 
-    image="also-bremer-but-on-wednesday.jpg" >}}
+    image="also-bremer-but-on-wednesday.jpg"
+    image-alt="Rich Bremer" >}}
 
 |   |                         |        |
 |--:|-------------------------|-------:|
@@ -72,7 +74,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     entries=57
     prize-pool="$5,359"
     bonus="plus $1,196 bounties" 
-    image="rich-jaglarski.jpg" >}}
+    image="rich-jaglarski.jpg"
+    image-alt="Richard Jaglarski" >}}
 
 |    |                                 |        |
 |---:|---------------------------------|-------:|
@@ -101,7 +104,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$100" 
     entries=24
     prize-pool="$1,920" 
-    image="jones.jpg" >}}
+    image="jones.jpg"
+    image-alt="Christian Jones" >}}
 
 |   |                                    |      |
 |--:|------------------------------------|-----:|
@@ -117,7 +121,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$440+40" 
     entries=6 
     prize-pool="$2640" 
-    image="chorse.jpg" >}}
+    image="chorse.jpg"
+    image-alt="Black Widow, the winning CHORSE team" >}}
 
 |   |   |                                       |      |
 |--:|--:|---------------------------------------|------|
@@ -141,7 +146,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$50"
     players=11
     prize-pool="$550" 
-    image="bremer-but-on-thursday.jpg" >}}
+    image="bremer-but-on-thursday.jpg"
+    image-alt="Rich Bremer" >}}
 
 |   |                        |      |
 |--:|------------------------|-----:|
@@ -156,7 +162,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$140"
     entries=53
     prize-pool="$6,095" 
-    image="plo.jpg" >}}
+    image="plo.jpg"
+    image-alt="Carol Anderson" >}}
 
 |   |                                 |        |
 |--:|---------------------------------|-------:|
@@ -175,7 +182,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$100"
     entries=33
     prize-pool="$2,640"
-    image="taki.jpg" >}}
+    image="taki.jpg"
+    image-alt="Peter Caldes" >}}
 
 |   |                                |      |
 |--:|--------------------------------|-----:|
@@ -192,7 +200,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$115"
     entries=15
     prize-pool="$1,500" 
-    image="samarai.jpg" >}}
+    image="samarai.jpg"
+    image-alt="Scott Samarel" >}}
 
 |   |                                 |      |
 |--:|---------------------------------|-----:|
@@ -208,7 +217,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$160" 
     entries=86
     prize-pool="$11,610" 
-    image="watanabe.jpg" >}}
+    image="watanabe.jpg"
+    image-alt="Steve Watanabe" >}}
 
 |    |                             |        |
 |---:|-----------------------------|-------:|
@@ -231,7 +241,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$100"
     entries=43
     prize-pool="$3,440" 
-    image="bremer.jpg" >}}
+    image="bremer.jpg"
+    image-alt="Rich Bremer" >}}
 
 |   |                                  |      |
 |--:|----------------------------------|-----:|
@@ -248,7 +259,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$180"
     entries=101
     prize-pool="$15,150" 
-    image="tegwin.jpg" >}}
+    image="tegwin.jpg"
+    image-alt="Gillian Groves" >}}
 
 |    |                             |        |
 |---:|-----------------------------|-------:|
@@ -275,7 +287,8 @@ We raised $3600 to be split evenly between Habitat for Humanity and World Centra
     buyin="$40"
     entries=4
     prize-pool="$160" 
-    image="eileen.jpg" >}}
+    image="eileen.jpg"
+    image-alt="Eileen Milligan" >}}
 
 |   |                 |      |
 |--:|-----------------|-----:|

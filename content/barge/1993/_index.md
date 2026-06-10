@@ -13,6 +13,6 @@ and 18 people played in a two-table poker tournament at that venue. Roy
 Hashimoto was the eventual winner.  He flew into town the day of the
 tournament, and flew out after winning.  He took home [the inaugural BARGE chip
 set]({{< relref "chips/gallery/1993/" >}}). It isn't known who finished second, but
-Stephen &quot;Bozo&quot; Blackstock finished 3rd. Also at the event was BARGE
+Stephen "Bozo" Blackstock finished 3rd. Also at the event was BARGE
 organizer and current BARGE organizer emeritus, Chuck Weinstock. Frank Irwin
 organized the tournament at the Rio.

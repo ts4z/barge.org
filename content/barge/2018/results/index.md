@@ -20,14 +20,14 @@ summary: Complete results for BARGE 2018.
 
 |   |                                       |        |
 |--:|---------------------------------------|--------|
-| 1 | Dan &quot;ADB smalltalk&quot; Goldman | $1,100 |
+| 1 | Dan "ADB smalltalk" Goldman | $1,100 |
 | 2 | Paul Stine                            | $915   |
-| 3 | Peter &quot;ADB Foldem&quot; Secor    | $695   |
+| 3 | Peter "ADB Foldem" Secor    | $695   |
 | 4 | Jensen Teng                           | $565   |
-| 5 | Sharon &quot;ADB Shaza&quot; Goldman  | $435   |
+| 5 | Sharon "ADB Shaza" Goldman  | $435   |
 | 6 | Doug &ldquo;Snoop&rdquo; Grismore     | $305   |
 | 7 | Steven Markowitz                      | $220   |
-| 8 | Rich &quot;Omaholic&quot; Bremer      | $115   |
+| 8 | Rich "Omaholic" Bremer      | $115   |
 
 ## Triathalon of Gambling (ToGa)
 
@@ -79,13 +79,13 @@ summary: Complete results for BARGE 2018.
 
 |   |                                     |        |
 |--:|-------------------------------------|--------|
-| 1 | Rich &quot;Omaholic&quot; Bremer    | $1,318 |
+| 1 | Rich "Omaholic" Bremer    | $1,318 |
 | 2 | Kenny Shei                          | $985   |
-| 3 | Bruce &quot;ADB Bigboy&quot; Kramer | $750   |
+| 3 | Bruce "ADB Bigboy" Kramer | $750   |
 | 4 | Gail Sarett                         | $610   |
-| 5 | Scott &quot;Samarai&quot; Samarel   | $470   |
+| 5 | Scott "Samarai" Samarel   | $470   |
 | 6 | Voltaire Ronquillo                  | $330   |
-| 7 | Patti &quot;Patti&quot; Beadles     | $235   |
+| 7 | Patti "Patti" Beadles     | $235   |
 
 {{< tournament
     event="Pot Limit Mississippi Stud"
@@ -94,10 +94,10 @@ summary: Complete results for BARGE 2018.
 
 |   |                                          |      |
 |--:|------------------------------------------|------|
-| 1 | Tanya &quot;MissT74&quot; Peck-Devenport | $365 |
-| 2 | Ron &quot;SHH-MOOK-BAWKS&quot; Grossberg | $230 |
-| 3 | Nancy &quot;Nance&quot; Robertson        | $160 |
-| 4 | Ronald &quot;HappyRaiser&quot; Nutt      | $125 |
+| 1 | Tanya "MissT74" Peck-Devenport | $365 |
+| 2 | Ron "SHH-MOOK-BAWKS" Grossberg | $230 |
+| 3 | Nancy "Nance" Robertson        | $160 |
+| 4 | Ronald "HappyRaiser" Nutt      | $125 |
 
 {{< tournament
     event="No Limit California Lowball/London Lowball"
@@ -106,13 +106,13 @@ summary: Complete results for BARGE 2018.
 
 |   |                                              |        |
 |--:|----------------------------------------------|--------|
-| 1 | Christopher &quot;Tom Bayz &quot; Mecklin    | $1,060 |
-| 2 | Sean &quot;oscar&quot; McGuiness             | $745   |
-| 3 | Russell &quot;Messenger of Doom&quot; Fox    | $570   |
-| 4 | Sharon &quot;ADB Shaza&quot; Goldman         | $430   |
-| 5 | David &quot;Meeee&quot; Aronson              | $330   |
-| 6 | Kent &quot;Heisenberg&quot; Beck             | $225   |
-| 7 | Christian &quot;Dr.Doofenshmirtz&quot; Jones | $120   |
+| 1 | Christopher "Tom Bayz " Mecklin    | $1,060 |
+| 2 | Sean "oscar" McGuiness             | $745   |
+| 3 | Russell "Messenger of Doom" Fox    | $570   |
+| 4 | Sharon "ADB Shaza" Goldman         | $430   |
+| 5 | David "Meeee" Aronson              | $330   |
+| 6 | Kent "Heisenberg" Beck             | $225   |
+| 7 | Christian "Dr.Doofenshmirtz" Jones | $120   |
 
 {{< tournament
     event="Triple Draw Dramaha"
@@ -122,9 +122,9 @@ summary: Complete results for BARGE 2018.
 |   |                                           |      |
 |--:|-------------------------------------------|------|
 | 1 | Jesse Capps                               | $450 |
-| 2 | Mark &quot;@MarkHaroldson&quot; Haroldson | $275 |
-| 3 | Ken &quot;QB&quot; Kubey                  | $190 |
-| 4 | Jaydon &quot;VegasJaydon&quot; Ogden      | $145 |
+| 2 | Mark "@MarkHaroldson" Haroldson | $275 |
+| 3 | Ken "QB" Kubey                  | $190 |
+| 4 | Jaydon "VegasJaydon" Ogden      | $145 |
 | 5 | Bryan Juliano                             | $40  |
 
 {{< tournament
@@ -135,12 +135,12 @@ summary: Complete results for BARGE 2018.
 
 |   |                                          |        |
 |--:|------------------------------------------|--------|
-| 1 | Sabyl &quot;kaismom&quot; Landrum        | $1,689 |
+| 1 | Sabyl "kaismom" Landrum        | $1,689 |
 | 2 | Richard Korbin                           | $1,255 |
 | 3 | Larry Bierman                            | $940   |
-| 4 | David &quot;Hand Namer&quot; Soussan     | $750   |
-| 5 | Randy &quot;ADB Schmengie&quot; Collack  | $625   |
-| 6 | Murray &quot;Not that Murray&quot; Logan | $440   |
+| 4 | David "Hand Namer" Soussan     | $750   |
+| 5 | Randy "ADB Schmengie" Collack  | $625   |
+| 6 | Murray "Not that Murray" Logan | $440   |
 | 7 | Gillian Groves                           | $315   |
 | 8 | Jesse Capps                              | $250   |
 
@@ -155,11 +155,11 @@ summary: Complete results for BARGE 2018.
 
 | Team Donk                                |
 |------------------------------------------|
-| Rich &quot;Omaholic&quot; Bremer         |
-| Tanya &quot;MissT74&quot; Peck-Devenport |
-| Doug &quot;Snoop&quot; Grismore          |
+| Rich "Omaholic" Bremer         |
+| Tanya "MissT74" Peck-Devenport |
+| Doug "Snoop" Grismore          |
 | David Low                                |
-| John &quot;JZK&quot; Scheinberg          |
+| John "JZK" Scheinberg          |
 | Kenny Shei                               |
 
 {{< tournament
@@ -169,15 +169,15 @@ summary: Complete results for BARGE 2018.
 
 |   |                                              |        |
 |--:|----------------------------------------------|--------|
-| 1 | Christian &quot;Dr.Doofenshmirtz&quot; Jones | $1,664 |
+| 1 | Christian "Dr.Doofenshmirtz" Jones | $1,664 |
 | 2 | Bob Gilbert                                  | $1,230 |
-| 3 | Steve &quot;Crunch&quot; Daniel              | $920   |
-| 4 | Stephen &quot;SteveLB&quot; Lewin-Berlin     | $735   |
+| 3 | Steve "Crunch" Daniel              | $920   |
+| 4 | Stephen "SteveLB" Lewin-Berlin     | $735   |
 | 5 | Patrick Milligan                             | $615   |
-| 6 | Rich &quot;Omaholic&quot; Bremer             | $430   |
-| 7 | Nolan &quot;ADB DARKSIDE&quot; Dalla         | $305   |
-| 8 | Barry &quot;Mr. Raise&quot; Kornspan         | $245   |
-| 9 | Adam &quot;Allknight&quot; Bachrach          | $120   |
+| 6 | Rich "Omaholic" Bremer             | $430   |
+| 7 | Nolan "ADB DARKSIDE" Dalla         | $305   |
+| 8 | Barry "Mr. Raise" Kornspan         | $245   |
+| 9 | Adam "Allknight" Bachrach          | $120   |
 
 {{< tournament
     event="TOC-Style"
@@ -186,44 +186,45 @@ summary: Complete results for BARGE 2018.
 
 |    |                                     |        |
 |---:|-------------------------------------|--------|
-|  1 | Peter &quot;ADB Foldem&quot; Secor  | $2,550 |
-|  2 | Josh &quot;Len Fuego&quot; Paley    | $2,112 |
-|  3 | Len &quot;Len G&quot; Greenberg     | $1,470 |
-|  4 | Paul &quot;prmcm&quot; McMullin     | $1,190 |
-|  5 | Dave &quot;sam_6&quot; Lawful       | $975   |
-|  6 | JP &quot;Mr. M&quot; Massar         | $755   |
+|  1 | Peter "ADB Foldem" Secor  | $2,550 |
+|  2 | Josh "Len Fuego" Paley    | $2,112 |
+|  3 | Len "Len G" Greenberg     | $1,470 |
+|  4 | Paul "prmcm" McMullin     | $1,190 |
+|  5 | Dave "sam_6" Lawful       | $975   |
+|  6 | JP "Mr. M" Massar         | $755   |
 |  7 | Gillian Groves                      | $540   |
-|  8 | Jared &quot;Mr3Putt&quot; Anderson  | $325   |
-|  9 | Patrick &quot;CtheTurn&quot; Kirwan | $215   |
-| 10 | Janace &quot;Jan&quot; Pierce       | $215   |
-| 11 | Mike &quot;ADBHOWLER&quot; McBride  | $160   |
-| 12 | Regis &quot;Regis&quot; Donovan     | $160   |
-| 13 | Dan &quot;dann&quot; Nussbaum       | $135   |
+|  8 | Jared "Mr3Putt" Anderson  | $325   |
+|  9 | Patrick "CtheTurn" Kirwan | $215   |
+| 10 | Janace "Jan" Pierce       | $215   |
+| 11 | Mike "ADBHOWLER" McBride  | $160   |
+| 12 | Regis "Regis" Donovan     | $160   |
+| 13 | Dan "dann" Nussbaum       | $135   |
 
 {{< tournament
     event="No Limit Hold'em Main Event"
     players=128
     image="nlhe_bingo.jpg"
+    image-alt="Donald Rieck"
     prize-pool=$15,616 >}}
 
 |    |                                         |        |
 |---:|-----------------------------------------|--------|
-|  1 | Donald &quot;ADBBingo&quot; Rieck       | $3,811 |
-|  2 | Regis &quot;Regis&quot; Donovan         | $2,865 |
-|  3 | Jared &quot;Mr3Putt&quot; Anderson      | $2,085 |
-|  4 | Bruce &quot;ADB Bigboy&quot; Kramer     | $1,620 |
+|  1 | Donald "ADBBingo" Rieck       | $3,811 |
+|  2 | Regis "Regis" Donovan         | $2,865 |
+|  3 | Jared "Mr3Putt" Anderson      | $2,085 |
+|  4 | Bruce "ADB Bigboy" Kramer     | $1,620 |
 |  5 | John Lloyd                              | $1,200 |
-|  6 | Sean &quot;oscar&quot; McGuiness        | $935   |
-|  7 | Bob &quot;Blues&quot; Herlien           | $625   |
-|  8 | Chris &quot;Jepstonian&quot; Jepsen     | $470   |
+|  6 | Sean "oscar" McGuiness        | $935   |
+|  7 | Bob "Blues" Herlien           | $625   |
+|  8 | Chris "Jepstonian" Jepsen     | $470   |
 |  9 | Michael Hunter                          | $310   |
-| 10 | Doug &quot;Snoop&quot; Grismore         | $310   |
-| 11 | Chuck &quot;ADB Enabler&quot; Weinstock | $235   |
+| 10 | Doug "Snoop" Grismore         | $310   |
+| 11 | Chuck "ADB Enabler" Weinstock | $235   |
 | 12 | Dave Trinidad                           | $235   |
-| 13 | David &quot;David&quot; Kluchman        | $155   |
-| 14 | Chris &quot;Sharkbait&quot; Kluchman    | $155   |
-| 15 | Dean &quot;MrBookworm &quot; Kerl       | $155   |
-| 16 | Sheri &quot;ADB Lorframag&quot; Brabec  | $150   |
-| 17 | Steven &quot;Ice&quot; Eisenstein       | $150   |
-| 18 | Patti &quot;Patti&quot; Beadles         | $150   |
+| 13 | David "David" Kluchman        | $155   |
+| 14 | Chris "Sharkbait" Kluchman    | $155   |
+| 15 | Dean "MrBookworm " Kerl       | $155   |
+| 16 | Sheri "ADB Lorframag" Brabec  | $150   |
+| 17 | Steven "Ice" Eisenstein       | $150   |
+| 18 | Patti "Patti" Beadles         | $150   |
 

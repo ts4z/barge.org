@@ -21,11 +21,11 @@ title: BARGE 2016 Results
 |   |                                          |        |
 |--:|------------------------------------------|--------|
 | 1 | Rich Strauss                             | $1,410 |
-| 2 | Rick &quot;Rick M&quot; Mombourquette    | $1,080 |
-| 3 | John &quot;SciFiWriter&quot; Campbell    | $800   |
-| 4 | Stephen &quot;Bozo&quot; Blackstock      | $610   |
-| 5 | Masanobu &quot;MASA&quot; Fujioka        | $470   |
-| 6 | Christopher &quot;Tom Bayz&quot; Mecklin | $328   |
+| 2 | Rick "Rick M" Mombourquette    | $1,080 |
+| 3 | John "SciFiWriter" Campbell    | $800   |
+| 4 | Stephen "Bozo" Blackstock      | $610   |
+| 5 | Masanobu "MASA" Fujioka        | $470   |
+| 6 | Christopher "Tom Bayz" Mecklin | $328   |
 
 {{< tournament
     event="26 Game Mix"
@@ -35,12 +35,12 @@ title: BARGE 2016 Results
 |   |                                                       |        |
 |--:|-------------------------------------------------------|--------|
 | 1 | Chris Quan                                            | $1,552 |
-| 2 | Ron &quot;8=====B=O=X=====&gt;&quot; Grossberg &nbsp; | $1,150 |
-| 3 | Gerald &quot;gerdog&quot; Petersen                    | $860   |
-| 4 | Matt &quot;grapes&quot; Grapenthien                   | $690   |
-| 5 | Stephen &quot;Stevie Lowball&quot; Rokitka            | $575   |
+| 2 | Ron "8=====B=O=X=====&gt;" Grossberg &nbsp; | $1,150 |
+| 3 | Gerald "gerdog" Petersen                    | $860   |
+| 4 | Matt "grapes" Grapenthien                   | $690   |
+| 5 | Stephen "Stevie Lowball" Rokitka            | $575   |
 | 6 | David Low                                             | $400   |
-| 7 | Masanobu &quot;MASA&quot; Fujioka                     | $285   |
+| 7 | Masanobu "MASA" Fujioka                     | $285   |
 | 8 | Blair Rodman                                          | $230   |
 
 {{< tournament
@@ -50,12 +50,12 @@ title: BARGE 2016 Results
 
 |   |                                          |      |
 |--:|------------------------------------------|------|
-| 1 | Darlene &quot;Diamond D&quot; Springman  | $460 |
-| 2 | Linda M &quot;Llew&quot; Lewis           | $305 |
-| 3 | Joe &quot;ChipRider&quot; Long           | $215 |
-| 4 | Christopher &quot;Tom Bayz&quot; Mecklin | $165 |
-| 5 | Brandon &quot;Drexel&quot; Gerson        | $130 |
-| 6 | Matt &quot;grapes&quot; Grapenthien      | $100 |
+| 1 | Darlene "Diamond D" Springman  | $460 |
+| 2 | Linda M "Llew" Lewis           | $305 |
+| 3 | Joe "ChipRider" Long           | $215 |
+| 4 | Christopher "Tom Bayz" Mecklin | $165 |
+| 5 | Brandon "Drexel" Gerson        | $130 |
+| 6 | Matt "grapes" Grapenthien      | $100 |
 
 {{< tournament
     event="California Lowball/Deuce to Seven Triple Draw Mix"
@@ -65,14 +65,14 @@ title: BARGE 2016 Results
 
 |   |                                      |        |
 |--:|--------------------------------------|--------|
-| 1 | David &quot;Meeee&quot; Aronson      | $1,286 |
+| 1 | David "Meeee" Aronson      | $1,286 |
 | 2 | David Low                            | $1,285 |
 | 3 | Patrick Milligan                     | $820   |
-| 4 | Rich &quot;Omaholic&quot; Bremer     | $660   |
-| 5 | Nolan &quot;ADB DARKSIDE&quot; Dalla | $550   |
-| 6 | Bob &quot;Blues&quot; Herlien        | $385   |
-| 7 | Sabyl &quot;kaismom&quot; Landrum    | $275   |
-| 8 | Betty &quot;BLT&quot; Tanenbaum      | $220   |
+| 4 | Rich "Omaholic" Bremer     | $660   |
+| 5 | Nolan "ADB DARKSIDE" Dalla | $550   |
+| 6 | Bob "Blues" Herlien        | $385   |
+| 7 | Sabyl "kaismom" Landrum    | $275   |
+| 8 | Betty "BLT" Tanenbaum      | $220   |
 
 {{< tournament
     event="Team CHORSE"
@@ -94,16 +94,16 @@ title: BARGE 2016 Results
 
 |    |                                           |        |
 |---:|-------------------------------------------|--------|
-|  1 | David &quot;Dave F&quot; Fruchter         | $1,981 |
-|  2 | Dean &quot;MrBookworm&quot; Kerl          | $1,455 |
-|  3 | Adam &quot;Allknight&quot; Bachrach       | $1,150 |
+|  1 | David "Dave F" Fruchter         | $1,981 |
+|  2 | Dean "MrBookworm" Kerl          | $1,455 |
+|  3 | Adam "Allknight" Bachrach       | $1,150 |
 |  4 | Randal Hennemuth                          | $920   |
-|  5 | Dan &quot;ADB smalltalk&quot; Goldman     | $690   |
-|  6 | Tracy &quot;TracyB&quot; Becker           | $535   |
-|  7 | Justin &quot;Matt Savage Jr.&quot; Hammer | $385   |
-|  8 | Len &quot;Len G&quot; Greenberg           | $230   |
+|  5 | Dan "ADB smalltalk" Goldman     | $690   |
+|  6 | Tracy "TracyB" Becker           | $535   |
+|  7 | Justin "Matt Savage Jr." Hammer | $385   |
+|  8 | Len "Len G" Greenberg           | $230   |
 |  9 | Paul Zuzelo                               | $155   |
-| 10 | Cliff &quot;deadhead&quot; Matthews       | $155   |
+| 10 | Cliff "deadhead" Matthews       | $155   |
 
 {{< tournament
     event="Pot Limit Crazy Pineapple High Win the Button"
@@ -113,9 +113,9 @@ title: BARGE 2016 Results
 
 |   |                                          |      |
 |--:|------------------------------------------|------|
-| 1 | Ira &quot;Shakypaws&quot; Wiedman        | $510 |
-| 2 | Alex &quot;Maverick600&quot; Ziselman    | $345 |
-| 3 | Christopher &quot;Tom Bayz&quot; Mecklin | $245 |
+| 1 | Ira "Shakypaws" Wiedman        | $510 |
+| 2 | Alex "Maverick600" Ziselman    | $345 |
+| 3 | Christopher "Tom Bayz" Mecklin | $245 |
 | 4 | Kenny Shei                               | $185 |
 | 5 | David Low                                | $145 |
 
@@ -178,9 +178,9 @@ title: BARGE 2016 Results
 |         |                                  |         |
 |--------:|----------------------------------|---------|
 |       1 | Marc Howard                      | $420    |
-| (tie) 2 | Guy &quot;Grizz&quot; Berentsen  | $262.50 |
+| (tie) 2 | Guy "Grizz" Berentsen  | $262.50 |
 | (tie) 2 | Blair Rodman                     | $262.50 |
-|       4 | Sean &quot;oscar&quot; McGuiness | $105    |
+|       4 | Sean "oscar" McGuiness | $105    |
 
 {{< tournament
     event="Video Poker"
@@ -193,7 +193,7 @@ title: BARGE 2016 Results
 | 1 | Mike Chow $450                          |   |
 | 2 | Gillian Groves $300                     |   |
 | 3 | David Low $200                          |   |
-| 4 | Gerald &quot;gerdog&quot; Petersen $100 |   |
+| 4 | Gerald "gerdog" Petersen $100 |   |
 
 {{< tournament
     event="Craps"
@@ -206,7 +206,7 @@ title: BARGE 2016 Results
 | 1 | Steven Markowitz                 | $350 |
 | 2 | Ryan Troll                       | $225 |
 | 3 | Bryan Juliano                    | $150 |
-| 4 | Sean &quot;oscar&quot; McGuiness | $75  |
+| 4 | Sean "oscar" McGuiness | $75  |
 
 {{< tournament
     event="Triathlon of Gambling - Overall"
@@ -217,7 +217,7 @@ title: BARGE 2016 Results
 |    |                                  |      |
 |---:|----------------------------------|------|
 | 1T | David Low                        | $170 |
-| 1T | Sean &quot;oscar&quot; McGuiness | $170 |
+| 1T | Sean "oscar" McGuiness | $170 |
 |  2 | Gillian Groves                   | $80  |
 
 {{< tournament
@@ -239,21 +239,21 @@ title: BARGE 2016 Results
 
 |    |                                           |        |
 |---:|-------------------------------------------|--------|
-|  1 | Rebecca &quot;Redbird&quot; Kerl          | $3,886 |
+|  1 | Rebecca "Redbird" Kerl          | $3,886 |
 |  2 | Rodney Chen                               | $3,385 |
-|  3 | Alex &quot;Maverick600&quot; Ziselman     | $2,320 |
-|  4 | Len &quot;Len G&quot; Greenberg           | $1,850 |
-|  5 | Erin &quot;Skippy&quot; Ramsay            | $1,345 |
-|  6 | Susan &quot;pokerphan&quot; Abraham       | $1,010 |
-|  7 | John &quot;SciFiWriter&quot; Campbell     | $675   |
-|  8 | Doug &quot;dgr&quot; Grismore             | $505   |
-|  9 | Rick &quot;Fred Garvin&quot; Becker       | $335   |
-| 10 | Russell &quot;Messenger of Doom&quot; Fox | $335   |
-| 11 | Peter &quot;ADB FOLDEM&quot; Secor        | $255   |
-| 12 | Kevin &quot;Un&quot; Knourek              | $255   |
-| 13 | Carol &quot;CKBWoP&quot; Anderson         | $170   |
-| 14 | David &quot;sam_6&quot; Lawful            | $170   |
-| 15 | Pete &quot;TrayRacer&quot; Segal          | $170   |
+|  3 | Alex "Maverick600" Ziselman     | $2,320 |
+|  4 | Len "Len G" Greenberg           | $1,850 |
+|  5 | Erin "Skippy" Ramsay            | $1,345 |
+|  6 | Susan "pokerphan" Abraham       | $1,010 |
+|  7 | John "SciFiWriter" Campbell     | $675   |
+|  8 | Doug "dgr" Grismore             | $505   |
+|  9 | Rick "Fred Garvin" Becker       | $335   |
+| 10 | Russell "Messenger of Doom" Fox | $335   |
+| 11 | Peter "ADB FOLDEM" Secor        | $255   |
+| 12 | Kevin "Un" Knourek              | $255   |
+| 13 | Carol "CKBWoP" Anderson         | $170   |
+| 14 | David "sam_6" Lawful            | $170   |
+| 15 | Pete "TrayRacer" Segal          | $170   |
 | 16 | Martin Davidson                           | $170   |
 
 ## 2015-2016 ARG Best All Around Player

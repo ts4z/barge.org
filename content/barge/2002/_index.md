@@ -20,7 +20,7 @@ History of Poker tournament with Rich Strauss and Bob Herlien finishing second
 and third. In the ToC-style tournament Chris Straghalis was victorious over
 Steve Jacobs and Mike M. (Maurer?). ADV Vanguard won the Team CHORSE
 event. This was the first year for the 7-card stud shootout. The winner of this
-event was Don &quot;trythat&quot; Perry. John Miller came in second and Lenny
+event was Don "trythat" Perry. John Miller came in second and Lenny
 Augustine finished third. Mike McBride won the NL hold'em tournament outlasting
 Andrew Prock and Gavin Smith. This was Peter Secor's first BARGE as an
 organizer.
