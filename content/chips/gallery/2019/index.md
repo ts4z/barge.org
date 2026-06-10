@@ -28,6 +28,7 @@ Of course, these chips look especially great stacked up!
 {{< figure src="side1.jpg"
   link="side1.jpg"
   caption="Photo by Ken Kubey" >}}
+
 {{< figure src="side2.jpg"
   link="side2.jpg"
   caption="Photo by Ken Kubey" >}}

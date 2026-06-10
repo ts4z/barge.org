@@ -26,6 +26,7 @@ belligerent, tiresome insistence.
 
 {{< figure src="stack1.jpg" class="floatleft40" link="stack1.jpg"
   caption="Prototype black chips in a stack." >}}
+
 The edge design, stacked neatly, makes a repeating nut pattern.  (See [*Caro's
 Book of Poker
 Tells*](https://books.google.com/books?id=CNJDAgAAQBAJ&printsec=frontcover#v=onepage&q&f=false),

@@ -191,6 +191,7 @@ I look forward to checking it out.
 
 {{< figure class="floatleft40" src="/barge/2005/cover.jpg" link="https://www.flickr.com/photos/adbfoldem/32942160/" 
     caption="Don Perry's BARGE Last Supper plaque, intended as a bustout gift." >}}
+
 Don Perry showed me something that looked like the last supper
 with BARGEr faces.  Someone have that online?
 

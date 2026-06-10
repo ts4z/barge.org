@@ -39,6 +39,7 @@ when it got to 3-handed.
     caption="Thank You card from Binion's Horseshoe."
     class="floatright40"
     link="barge-card1.jpeg" >}}
+
 We found an old Thank You card from the Binion's Horseshoe staff on an [old version of 
 the barge.org site in the Internet Archive.](https://web.archive.org/web/20020331111106/http://barge.org/barge-card1.jpeg)
 Unfortunately we don't have the inside of the card.

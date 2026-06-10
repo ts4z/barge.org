@@ -18,6 +18,7 @@ available in both red (common) and blue (rarer).
 The dice were produced for Ken by Kardwell.
 
 {{< figure src="IMG_6428.jpg" caption="Blue dice, showing 11." >}}
+
 {{< figure src="IMG_6429.jpg" caption="Top down view of the BARGE YO 11 ace." >}}
 
 All photos by Ken "QB" Kubey.

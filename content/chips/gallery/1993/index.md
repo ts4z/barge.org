@@ -22,6 +22,7 @@ summary: >-
     link="1993_chip_case.png"
     class="floatright40" 
     caption="The first chip set. Picture provided by Roy Hashimoto." >}}
+
 This was the very first BARGE chip set, created by Steve Jacobs. A 300 chip
 home set of these chips was presented to the 1993 BARGE NLHE Champ, Roy
 Hashimoto. Each attendee at BARGE 1993 also received a purple chip.
