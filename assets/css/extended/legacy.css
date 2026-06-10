@@ -1,0 +1,9 @@
+/* Emulates the obsolete <center> element for imported legacy HTML pages. */
+.legacy-center {
+  text-align: center;
+}
+
+.legacy-center table {
+  margin-left: auto;
+  margin-right: auto;
+}
