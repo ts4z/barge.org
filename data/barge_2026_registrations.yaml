@@ -1,4 +1,4 @@
-last_updated: 2026-06-09 15:01 PDT
+last_updated: 2026-06-09 18:02 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -245,3 +245,13 @@ registrations:
   nickname: Luckbucket
   ticket: 65
   ticket_type: BARGE & Banquet
+- first: Larry
+  last_initial: S
+  nickname: Larry
+  ticket: 66
+  ticket_type: BARGE & Banquet
+- first: Maggie
+  last_initial: J
+  nickname: Maggie
+  ticket: 67
+  ticket_type: Banquet
