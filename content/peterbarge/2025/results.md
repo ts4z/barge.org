@@ -4,7 +4,7 @@ summary: Results for the tournament.
 ---
 
 {{< tournament 
-    title="PeterBARGE Main Event"
+    event="PeterBARGE Main Event"
     entries="29" 
     buy-in="$100"
     prize-pool="$2,900" >}}
