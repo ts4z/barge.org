@@ -1,4 +1,4 @@
-last_updated: 2026-06-09 18:02 PDT
+last_updated: 2026-06-10 10:47 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -129,7 +129,7 @@ registrations:
   last_initial: B
   nickname: Grizz
   ticket: 26
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Bob
   last_initial: H
   nickname: Blues
@@ -255,3 +255,13 @@ registrations:
   nickname: Maggie
   ticket: 67
   ticket_type: Banquet
+- first: Regis
+  last_initial: D
+  nickname: Regis
+  ticket: 69
+  ticket_type: BARGE & Banquet
+- first: Claudia
+  last_initial: M
+  nickname: ClauClauClaudia
+  ticket: 70
+  ticket_type: BARGE & Banquet
