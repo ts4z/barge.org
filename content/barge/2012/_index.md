@@ -17,10 +17,10 @@ was Karina Jett. The lowball tournament moved to Tuesday this year and was won
 by Keith Fichtemaier with Ryan Troll in second and Rich Strauss in 3rd. The
 Tuesday tournament moved to Wednesday. This year it was pot-limit
 Binglaha. Caryl Aronson won. Keith Troell finished second. Bree Goldman was
-third. Rich &quot;Omahalic&quot; Bremer won the blackjack event and Michael
+third. Rich "Omahalic" Bremer won the blackjack event and Michael
 Patterson was victorious in video poker. The Deadheads won the team CHORSE
 event. Thursday evening Andrew Prock won the 6-game tournament with Rich
-&quot;Omahalic&quot; Bremer finishing second and Arthur Reber coming in
+"Omahalic" Bremer finishing second and Arthur Reber coming in
 third. In the Tournament of Champions-style event it was Steve Lewin-Berlin
 winning it for a second year in a row, the first time that has happened in a
 BARGE event. John Pickels came in second, and Rick Mombourquette was

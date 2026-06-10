@@ -23,13 +23,13 @@ cover:
 
 |   |                                        |        |
 |--:|----------------------------------------|--------|
-| 1 | Sam &quot;Sooted&quot; Scheinberg      | $1,427 |
-| 2 | Sabyl &quot;kaismom&quot; Landrum      | $1004  |
-| 3 | Nolan &quot;COMMUNITY&quot; Hee        | $680   |
+| 1 | Sam "Sooted" Scheinberg      | $1,427 |
+| 2 | Sabyl "kaismom" Landrum      | $1004  |
+| 3 | Nolan "COMMUNITY" Hee        | $680   |
 | 4 | Pete Primiano                          | $581   |
-| 5 | Andrew &quot;Drew&quot; Prock          | $440   |
-| 6 | Darlene &quot;Dee&quot; Springman      | $280   |
-| 7 | Eric &quot;NiceHandSir&quot; Schneller | $180   |
+| 5 | Andrew "Drew" Prock          | $440   |
+| 6 | Darlene "Dee" Springman      | $280   |
+| 7 | Eric "NiceHandSir" Schneller | $180   |
 
 {{< tournament
     event="World Chowaha Championship"

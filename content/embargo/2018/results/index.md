@@ -21,12 +21,12 @@ tags:
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Charles &quot;Boomerman&quot; Natkins | $765 |
-| 2 | Monte &quot;hodger&quot; Christensen  | $500 |
-| 3 | Jodi &quot;Jodi S.&quot; Shapiro      | $350 |
-| 4 | Doug &quot;dgr&quot; Grismore         | $260 |
-| 5 | Alex &quot;Maverick600&quot; Ziselman | $195 |
-| 6 | Kent &quot;kentlbeck&quot; Beck       | $100 |
+| 1 | Charles "Boomerman" Natkins | $765 |
+| 2 | Monte "hodger" Christensen  | $500 |
+| 3 | Jodi "Jodi S." Shapiro      | $350 |
+| 4 | Doug "dgr" Grismore         | $260 |
+| 5 | Alex "Maverick600" Ziselman | $195 |
+| 6 | Kent "kentlbeck" Beck       | $100 |
 
 {{< tournament
     buyin="$70 + $20 + $10"
@@ -37,12 +37,12 @@ tags:
 
 |   |                                     |      |
 |--:|-------------------------------------|------|
-| 1 | Steve &quot;Crunch&quot; Daniel     | $955 |
-| 2 | Peter &quot;ADB Foldem&quot; Secor  | $675 |
-| 3 | Ken &quot;QB&quot; Kubey            | $525 |
+| 1 | Steve "Crunch" Daniel     | $955 |
+| 2 | Peter "ADB Foldem" Secor  | $675 |
+| 3 | Ken "QB" Kubey            | $525 |
 | 4 | Lynsy Higgs Iwamoto                 | $400 |
-| 5 | David &quot;dave&quot; Low          | $310 |
-| 6 | Ronald &quot;HappyRaiser&quot; Nutt | $215 |
+| 5 | David "dave" Low          | $310 |
+| 6 | Ronald "HappyRaiser" Nutt | $215 |
 
 {{< tournament
     buyin="$70 + $20 + $10"
@@ -53,11 +53,11 @@ tags:
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Alex &quot;Maverick600&quot; Ziselman | $660 |
-| 2 | Nancy &quot;Nance&quot; Robertson     | $375 |
-| 3 | Adam &quot;Allknight&quot; Bachrach   | $370 |
+| 1 | Alex "Maverick600" Ziselman | $660 |
+| 2 | Nancy "Nance" Robertson     | $375 |
+| 3 | Adam "Allknight" Bachrach   | $370 |
 | 4 | Stephen Blackstock                    | $235 |
-| 5 | Charles &quot;Boomerman&quot; Natkins | $180 |
+| 5 | Charles "Boomerman" Natkins | $180 |
 
 {{< tournament
     buyin="$110 + $20 + $10"
@@ -70,11 +70,11 @@ tags:
 |   |                                           |        |
 |--:|-------------------------------------------|--------|
 | 1 | Kathy Chang                               | $1,750 |
-| 2 | Dan &quot;ADB smalltalk&quot; Goldman     | $1,240 |
+| 2 | Dan "ADB smalltalk" Goldman     | $1,240 |
 | 3 | Patrick Milligan                          | $960   |
-| 4 | Russell &quot;Messenger of Doom&quot; Fox | $735   |
-| 5 | Katie &quot;Power of V&quot; Baxter       | $565   |
-| 6 | Scott &quot;scottro&quot; Harker          | $390   |
+| 4 | Russell "Messenger of Doom" Fox | $735   |
+| 5 | Katie "Power of V" Baxter       | $565   |
+| 6 | Scott "scottro" Harker          | $390   |
 
 {{< tournament
     buyin="$70 + $20 + $10"
@@ -86,9 +86,9 @@ tags:
 |   |                                       |      |
 |--:|---------------------------------------|------|
 | 1 | Voltaire Ronquillo                    | $600 |
-| 2 | Dan &quot;ADB smalltalk&quot; Goldman | $560 |
+| 2 | Dan "ADB smalltalk" Goldman | $560 |
 | 3 | Bree Goldman                          | $355 |
-| 4 | Steve &quot;Crunch&quot; Daniel       | $275 |
+| 4 | Steve "Crunch" Daniel       | $275 |
 | 5 | David Kluchman                        | $210 |
-| 6 | Charles &quot;Boomerman&quot; Natkins | $100 |
+| 6 | Charles "Boomerman" Natkins | $100 |
 

@@ -21,14 +21,14 @@ title: BARGE 2008 Results
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Guy &quot;Grizz&quot;  Berentsen      | $920 |
-| 2 | Chris &quot;Jepstonian&quot; Jepsen   | $720 |
-| 3 | Bob &quot;BettyAnn&quot; Ogus         | $720 |
+| 1 | Guy "Grizz"  Berentsen      | $920 |
+| 2 | Chris "Jepstonian" Jepsen   | $720 |
+| 3 | Bob "BettyAnn" Ogus         | $720 |
 | 4 | Dan Nussbam                           | $470 |
 | 5 | Asya Kamsky                           | $400 |
 | 6 | Rick Mombourquette                    | $320 |
-| 7 | Cliff &quot;Deadhead&quot; Matthews   | $240 |
-| 8 | Richard &quot;Quiet Lion&quot; Brodie | $160 |
+| 7 | Cliff "Deadhead" Matthews   | $240 |
+| 8 | Richard "Quiet Lion" Brodie | $160 |
 
 {{< tournament
     date="July 30, 2008"
@@ -38,12 +38,12 @@ title: BARGE 2008 Results
 
 |   |                                     |      |
 |--:|-------------------------------------|------|
-| 1 | Matt &quot;Grapes&quot; Grapenthien | $595 |
-| 2 | Charles &quot;Chic&quot; Natkins    | $475 |
-| 3 | Gerald &quot;Gerdog&quot; Peterson  | $380 |
+| 1 | Matt "Grapes" Grapenthien | $595 |
+| 2 | Charles "Chic" Natkins    | $475 |
+| 3 | Gerald "Gerdog" Peterson  | $380 |
 | 4 | Marc Howard                         | $100 |
-| 5 | Michael &quot;mjoseph&quot; Brennan | $100 |
-| 6 | Gavin &quot;Birdguts&quot; Smith    | $100 |
+| 5 | Michael "mjoseph" Brennan | $100 |
+| 6 | Gavin "Birdguts" Smith    | $100 |
 
 {{< tournament
     date="July 30, 2008"
@@ -53,8 +53,8 @@ title: BARGE 2008 Results
 
 |   |                                            |      |
 |--:|--------------------------------------------|------|
-| 1 | Charles &quot;Chic&quot; Natkins           | $560 |
-| 2 | Nichole &quot;Noisy Tigress&quot; Chartier | $420 |
+| 1 | Charles "Chic" Natkins           | $560 |
+| 2 | Nichole "Noisy Tigress" Chartier | $420 |
 | 3 | Shirley Kramer                             | $280 |
 | 4 | Doug Grismore                              | $140 |
 
@@ -66,12 +66,12 @@ title: BARGE 2008 Results
 
 |   |                                       |        |
 |--:|---------------------------------------|--------|
-| 1 | Richard &quot;Quiet Lion&quot; Brodie | $1,290 |
-| 2 | Chris &quot;Tom Bayes&quot; Mecklin   | $1,030 |
-| 3 | Ken &quot;ADB QB&quot; Kubey          | $770   |
-| 4 | Steve &quot;LGHO&quot; Clayton        | $620   |
+| 1 | Richard "Quiet Lion" Brodie | $1,290 |
+| 2 | Chris "Tom Bayes" Mecklin   | $1,030 |
+| 3 | Ken "ADB QB" Kubey          | $770   |
+| 4 | Steve "LGHO" Clayton        | $620   |
 | 5 | Jim Anderson                          | $520   |
-| 6 | Betty &quot;BLT&quot; Tanenbaum       | $410   |
+| 6 | Betty "BLT" Tanenbaum       | $410   |
 | 7 | John Grout                            | $310   |
 | 8 | David Low                             | $210   |
 
@@ -81,12 +81,12 @@ title: BARGE 2008 Results
 
 | Team Moosecock                          |
 |-----------------------------------------|
-| Barbara &quot;Kevan's Mom&quot; Garrett |
-| Kevan &quot;Barbara's Son&quot; Garrett |
-| Murray &quot;ADB Moosecock&quot; Logan  |
+| Barbara "Kevan's Mom" Garrett |
+| Kevan "Barbara's Son" Garrett |
+| Murray "ADB Moosecock" Logan  |
 | Asya Kamsky                             |
-| Ken &quot;ADB QB&quot; Kubey            |
-| Ron &quot;HappyRaiser&quot; Nutt        |
+| Ken "ADB QB" Kubey            |
+| Ron "HappyRaiser" Nutt        |
 
 {{< tournament
     date="July 31, 2008"
@@ -96,27 +96,27 @@ title: BARGE 2008 Results
 
 |       |                                          |           |
 |------:|------------------------------------------|-----------|
-|     1 | Steve &quot;BIA&quot; Nissman            | $1,110    |
-|     2 | Stephen &quot;Marlin&quot; Cohen, ADB    | $1,110    |
+|     1 | Steve "BIA" Nissman            | $1,110    |
+|     2 | Stephen "Marlin" Cohen, ADB    | $1,110    |
 |     3 | Greg Pappas                              | $740      |
 |     4 | Steven McLoughlin                        | $590      |
-|     5 | Gavin &quot;Birdguts&quot; Smith         | $500      |
-|     6 | Bob &quot;SCSUHockey10&quot; Lauria      | $400      |
-|     7 | Steve &quot;LGHO&quot; Clayton           | $300      |
+|     5 | Gavin "Birdguts" Smith         | $500      |
+|     6 | Bob "SCSUHockey10" Lauria      | $400      |
+|     7 | Steve "LGHO" Clayton           | $300      |
 |     8 | Kelly Sprankle                           | $200      |
 |     9 | Michelle Ankenman                        | $150      |
-|    10 | Guy &quot;Grizz&quot;  Berentsen         | $150      |
+|    10 | Guy "Grizz"  Berentsen         | $150      |
 | 11-20 |                                          | $75 each  |
-|       | Charles &quot;Chic&quot; Natkins         |           |
-|       | Randy &quot;Schmengie&quot; Collack      |           |
+|       | Charles "Chic" Natkins         |           |
+|       | Randy "Schmengie" Collack      |           |
 |       | Steven Evans                             |           |
-|       | Murray &quot;ADB Moosecock&quot; Logan   |           |
+|       | Murray "ADB Moosecock" Logan   |           |
 |       | Brenda Mowrey                            |           |
-|       | Jeff &quot;ADB Jester&quot; Woods        |           |
-|       | Christopher &quot;Luckbucket&quot; Kuntz |           |
-|       | Mike &quot;ADB Howler&quot; McBride      |           |
+|       | Jeff "ADB Jester" Woods        |           |
+|       | Christopher "Luckbucket" Kuntz |           |
+|       | Mike "ADB Howler" McBride      |           |
 |       | Lou Krieger                              |           |
-|       | Ed &quot;ERB2000&quot; Baker             |           |
+|       | Ed "ERB2000" Baker             |           |
 
 {{< tournament
     date="July 31, 2008"
@@ -139,21 +139,21 @@ title: BARGE 2008 Results
 |    |                                       |        |
 |---:|---------------------------------------|--------|
 |  1 | Barry Tanenbaum                       | $3,000 |
-|  2 | Marc &quot;The Occupant&quot; Gilutin | $2,240 |
-|  3 | Chuck &quot;Train Man&quot; Weinstock | $1,625 |
-|  4 | Tom &quot;Rebuy&quot; Goodwin         | $1,250 |
-|  5 | Richard &quot;Quiet Lion&quot; Brodie | $1,000 |
-|  6 | Ron &quot;Ronsrants&quot; Grossberg   | $750   |
+|  2 | Marc "The Occupant" Gilutin | $2,240 |
+|  3 | Chuck "Train Man" Weinstock | $1,625 |
+|  4 | Tom "Rebuy" Goodwin         | $1,250 |
+|  5 | Richard "Quiet Lion" Brodie | $1,000 |
+|  6 | Ron "Ronsrants" Grossberg   | $750   |
 |  7 | Merlynn Schuck                        | $500   |
 |  8 | James Hammer                          | $340   |
 |  9 | Brenda Mowrey                         | $250   |
 | 10 | Raffy Kaloustian                      | $190   |
-| 11 | Robert &quot;Bobo&quot; Borzomati     | $190   |
-| 12 | Sean &quot;Oscar&quot; McGuiness      | $190   |
-| 13 | Kyle &quot;Super-K&quot; Minnis       | $160   |
+| 11 | Robert "Bobo" Borzomati     | $190   |
+| 12 | Sean "Oscar" McGuiness      | $190   |
+| 13 | Kyle "Super-K" Minnis       | $160   |
 | 14 | Bob Herlien                           | $160   |
-| 15 | Steve &quot;Lunchbox&quot; Forcash    | $160   |
-| 16 | Ronald &quot;HappyRaiser&quot; Nutt   | $130   |
+| 15 | Steve "Lunchbox" Forcash    | $160   |
+| 16 | Ronald "HappyRaiser" Nutt   | $130   |
 | 17 | Dave McVay                            | $130   |
 | 18 | David Soussan                         | $130   |
 | 19 | Rodney Chen                           | $130   |
@@ -178,26 +178,26 @@ title: BARGE 2008 Results
 |    |                                      |        |
 |---:|--------------------------------------|--------|
 |  1 | Dan Chevrie                          | $4,550 |
-|  2 | Mark &quot;Dagon&quot; Rafn          | $3,640 |
-|  3 | Steve &quot;Lunchbox&quot; Forcash   | $2,730 |
-|  4 | Ed &quot;ERB2000&quot; Baker         | $2,180 |
+|  2 | Mark "Dagon" Rafn          | $3,640 |
+|  3 | Steve "Lunchbox" Forcash   | $2,730 |
+|  4 | Ed "ERB2000" Baker         | $2,180 |
 |  5 | Rich Strauss                         | $1,820 |
 |  6 | Fred Lawful                          | $1,460 |
-|  7 | Patrick &quot;CtheTurn&quot; Kirwan  | $1,090 |
+|  7 | Patrick "CtheTurn" Kirwan  | $1,090 |
 |  8 | Dennis Krein                         | $730   |
-|  9 | Tom &quot;Rebuy&quot; Goodwin        | $400   |
-| 10 | Nolan &quot;ADB Darkside&quot; Dalla | $250   |
-| 11 | Mark &quot;Old Bear&quot; Hughes     | $250   |
-| 12 | Larry &quot;pltrgyst&quot; Larson    | $250   |
-| 13 | Don &quot;ADB Bingo&quot; Rieck      | $200   |
+|  9 | Tom "Rebuy" Goodwin        | $400   |
+| 10 | Nolan "ADB Darkside" Dalla | $250   |
+| 11 | Mark "Old Bear" Hughes     | $250   |
+| 12 | Larry "pltrgyst" Larson    | $250   |
+| 13 | Don "ADB Bingo" Rieck      | $200   |
 | 14 | Jason Newitt                         | $200   |
 | 15 | Dave Green                           | $200   |
 | 16 | Mordecai Schwartz                    | $150   |
-| 17 | Barry &quot;Mr Raise&quot; Kornspan  | $150   |
-| 18 | Masanobu &quot;Masa&quot; Fujioka    | $150   |
+| 17 | Barry "Mr Raise" Kornspan  | $150   |
+| 18 | Masanobu "Masa" Fujioka    | $150   |
 
 ## 2007-2008 RGP Best All Around Player
 (From FARGO, ATLARGE, ESCARGOT, MARGE &amp; BARGE combined)
 
-Larry &quot;pltrgyst&quot; Larson
+Larry "pltrgyst" Larson
 

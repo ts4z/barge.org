@@ -21,14 +21,14 @@ title: BARGE 2007 Results
     
 |   |                                         |        |
 |--:|-----------------------------------------|--------|
-| 1 | Andy &quot;WAR&quot; Bloch              | $1,090 |
-| 2 | Tim &quot;ts4z&quot; Showalter          | $870   |
-| 3 | Chris &quot;ADB Ploink&quot; Straghalis | $650   |
+| 1 | Andy "WAR" Bloch              | $1,090 |
+| 2 | Tim "ts4z" Showalter          | $870   |
+| 3 | Chris "ADB Ploink" Straghalis | $650   |
 | 4 | Chuck Humphrey                          | $520   |
-| 5 | Keith &quot;ADB Fich&quot; Fichtemaier  | $440   |
-| 6 | Chuck &quot;Trainman&quot; Weinstock    | $350   |
-| 7 | Steve &quot;Ice&quot; Eisenstein        | $260   |
-| 8 | John &quot;Dead Money&quot; Harkness    | $170   |
+| 5 | Keith "ADB Fich" Fichtemaier  | $440   |
+| 6 | Chuck "Trainman" Weinstock    | $350   |
+| 7 | Steve "Ice" Eisenstein        | $260   |
+| 8 | John "Dead Money" Harkness    | $170   |
 
 
 {{< tournament
@@ -41,10 +41,10 @@ title: BARGE 2007 Results
 |--:|-------------------------------------------|------|
 | 1 | Nolan Hee                                 | $850 |
 | 2 | Greg Pappas                               | $500 |
-| 3 | Chic &quot;Boomerman&quot; Natkins        | $350 |
-| 4 | Guy &quot;Grizz&quot; Berentsen           | $100 |
-| 5 | Sharon &quot;ADB meretseger&quot; Goldman | $100 |
-| 6 | Paul &quot;prm&quot; McMullin             | $100 |
+| 3 | Chic "Boomerman" Natkins        | $350 |
+| 4 | Guy "Grizz" Berentsen           | $100 |
+| 5 | Sharon "ADB meretseger" Goldman | $100 |
+| 6 | Paul "prm" McMullin             | $100 |
 
  {{< tournament 
      event="Video Poker"
@@ -54,9 +54,9 @@ title: BARGE 2007 Results
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Michael &quot;Mickdog&quot; Patterson | $595 |
+| 1 | Michael "Mickdog" Patterson | $595 |
 | 2 | Orlando Rojas                         | $480 |
-| 3 | Kevin &quot;ADB Un&quot; Knourek      | $320 |
+| 3 | Kevin "ADB Un" Knourek      | $320 |
 | 4 | Patrick Kirwan                        | $165 |
 
 {{< tournament
@@ -67,13 +67,13 @@ title: BARGE 2007 Results
 
 |   |                                        |        |
 |--:|----------------------------------------|--------|
-| 1 | Patti &quot;ADB Patti&quot; Beadles    | $1,275 |
+| 1 | Patti "ADB Patti" Beadles    | $1,275 |
 | 2 | Warren Sander                          | $1,015 |
-| 3 | Nolan &quot;ADB Darkside&quot; Dalla   | $770   |
+| 3 | Nolan "ADB Darkside" Dalla   | $770   |
 | 4 | Bree Goldman                           | $610   |
-| 5 | Keith &quot;ADB Fich&quot; Fichtemaier | $510   |
+| 5 | Keith "ADB Fich" Fichtemaier | $510   |
 | 6 | Michelle Ankenman                      | $410   |
-| 7 | Michael &quot;pygmyhippo&quot; Maurer  | $310   |
+| 7 | Michael "pygmyhippo" Maurer  | $310   |
 | 8 | Gavin Smith                            | $200   |
 
 {{< tournament
@@ -130,29 +130,29 @@ title: BARGE 2007 Results
 
 |       |                                        |          |
 |------:|----------------------------------------|----------|
-|     1 | Chic &quot;Boomerman&quot; Natkins     | $1,275   |
-|     2 | John &quot;Dead Money&quot; Harkness   | $1,015   |
-|     3 | Chieu &quot;Choo Choo&quot; Tran       | $770     |
-|     4 | Mike &quot;ADB Howler&quot; McBride    | $610     |
+|     1 | Chic "Boomerman" Natkins     | $1,275   |
+|     2 | John "Dead Money" Harkness   | $1,015   |
+|     3 | Chieu "Choo Choo" Tran       | $770     |
+|     4 | Mike "ADB Howler" McBride    | $610     |
 |     5 | Gavin Smith                            | $510     |
-|     6 | Guy &quot;Grizz&quot; Berentsen        | $410     |
+|     6 | Guy "Grizz" Berentsen        | $410     |
 |     7 | Michelle Ankenman                      | $310     |
-|     8 | Michael &quot;pygmyhippo&quot; Maurer  | $200     |
+|     8 | Michael "pygmyhippo" Maurer  | $200     |
 |     9 | Jerrod Ankenman                        | $150     |
-|    10 | Joe &quot;ChipRider&quot; Long         | $150     |
-|    11 | Steve &quot;Lunchbox&quot; Forcash     | $150     |
+|    10 | Joe "ChipRider" Long         | $150     |
+|    11 | Steve "Lunchbox" Forcash     | $150     |
 | 12-22 |                                        | $75 each |
-|       | Peter &quot;PeteZaa&quot; Stephenson   |          |
+|       | Peter "PeteZaa" Stephenson   |          |
 |       | Lou Krieger                            |          |
-|       | Andy &quot;WAR&quot; Bloch             |          |
+|       | Andy "WAR" Bloch             |          |
 |       | Kenny Shei                             |          |
-|       | Patrick &quot;JazzLover&quot; Milligan |          |
+|       | Patrick "JazzLover" Milligan |          |
 |       | Kyle Minnis                            |          |
 |       | Mark Trombley                          |          |
 |       | Alan Bernstein                         |          |
-|       | Steve &quot;BIA&quot; Nissman          |          |
-|       | Peter &quot;ADB Foldem&quot; Secor     |          |
-|       | Paul &quot;prm&quot; McMullin          |          |
+|       | Steve "BIA" Nissman          |          |
+|       | Peter "ADB Foldem" Secor     |          |
+|       | Paul "prm" McMullin          |          |
 
 {{< tournament
     event="TOC™ Style"
@@ -163,22 +163,22 @@ title: BARGE 2007 Results
 |    |                                       |        |
 |---:|---------------------------------------|--------|
 |  1 | Kenny Shei                            | $3,205 |
-|  2 | Stevan &quot;goldiefish&quot; Goldman | $2,310 |
-|  3 | Dave &quot;BronzeDodger&quot; O'Grady | $1,670 |
+|  2 | Stevan "goldiefish" Goldman | $2,310 |
+|  3 | Dave "BronzeDodger" O'Grady | $1,670 |
 |  4 | Doug Grismore                         | $1,280 |
-|  5 | Robert &quot;Bob&quot; Jones          | $1,030 |
+|  5 | Robert "Bob" Jones          | $1,030 |
 |  6 | JP Massar                             | $770   |
 |  7 | Chuck Humphrey                        | $510   |
-|  8 | Steve &quot;Lunchbox&quot; Forcash    | $350   |
+|  8 | Steve "Lunchbox" Forcash    | $350   |
 |  9 | Stephen Landrum                       | $260   |
-| 10 | Michael &quot;Mickdog&quot; Patterson | $190   |
+| 10 | Michael "Mickdog" Patterson | $190   |
 | 11 | Bryan Juliano                         | $190   |
 | 12 | Brett Pisor                           | $190   |
 | 13 | Sabyl Cohen                           | $160   |
 | 14 | Nick Christenson                      | $160   |
-| 15 | Michael &quot;pygmyhippo&quot; Maurer | $160   |
-| 16 | Michael &quot;mjoseph&quot; Brennan   | $130   |
-| 17 | Peter &quot;ADB Foldem&quot; Secor    | $130   |
+| 15 | Michael "pygmyhippo" Maurer | $160   |
+| 16 | Michael "mjoseph" Brennan   | $130   |
+| 17 | Peter "ADB Foldem" Secor    | $130   |
 | 18 | Don Condit                            | $130   |
 
 {{< tournament
@@ -204,21 +204,21 @@ title: BARGE 2007 Results
 
 |    |                                       |        |
 |---:|---------------------------------------|--------|
-|  1 | John &quot;daPickle&quot; Pickels     | $4,600 |
-|  2 | Don &quot;ADB Bingo&quot; Rieck       | $3,680 |
-|  3 | David &quot;ADB Iceman&quot; Trinidad | $2.760 |
+|  1 | John "daPickle" Pickels     | $4,600 |
+|  2 | Don "ADB Bingo" Rieck       | $3,680 |
+|  3 | David "ADB Iceman" Trinidad | $2,760 |
 |  4 | Mark Trombley                         | $2,210 |
 |  5 | JP Massar                             | $1,840 |
 |  6 | Kenny Shei                            | $1,470 |
-|  7 | Nolan &quot;ADB Darkside&quot; Dalla  | $1,100 |
+|  7 | Nolan "ADB Darkside" Dalla  | $1,100 |
 |  8 | Harry Baldwin                         | $740   |
-|  9 | Frank &quot;ADB Nut-Z&quot; Brabec    | $400   |
+|  9 | Frank "ADB Nut-Z" Brabec    | $400   |
 | 10 | Michelle Ankenman                     | $250   |
 | 11 | Lynne Higgs Iwamoto                   | $250   |
 | 12 | Michael Hunter                        | $250   |
-| 13 | Mike &quot;ADB Howler&quot; McBride   | $200   |
+| 13 | Mike "ADB Howler" McBride   | $200   |
 | 14 | John Moser                            | $200   |
-| 15 | Steve &quot;ADB Marlin&quot; Cohen    | $200   |
+| 15 | Steve "ADB Marlin" Cohen    | $200   |
 | 16 | Ross Poppel                           | $150   |
 | 17 | Hector Lozano                         | $150   |
 | 18 | David Fruchter                        | $150   |

@@ -37,7 +37,7 @@ mailing list, I read lots of discussion about a Calcutta.  Well, I had never
 heard of a Calcutta and didn't have a clue.  Someone suggested that newcomers
 form their own syndicate to pool their limited knowledge of the players.  I
 wasn't sure if I would get much response, but I stepped forward and called out
-for any interested &quot;Virgins&quot; like myself to email me.  Immediately I
+for any interested "Virgins" like myself to email me.  Immediately I
 received seven responses!  Eventually, we had a group of 20+ 1999 Escargot
 Virgins who formed a syndicate (a successful one, I might add), won last-longer
 challenges issued by the ADB'ers and the Boston BARGE Brigade, and generally
@@ -65,7 +65,7 @@ Scottro and the 2001 Virgins led by North Shore Mike.
 * 2009	Sean Frame
 * 2010	Yolanda Kerr
 * 2011	Drew Boyett
-* 2012 Rod &quot;SURFER-1&quot; Crane
+* 2012 Rod "SURFER-1" Crane
 * 2013	Chris O'Connor
 * 2014 David Kullmann
 * 2015	Jennifer Shahade

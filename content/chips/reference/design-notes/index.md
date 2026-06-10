@@ -125,7 +125,7 @@ Denomination Labels
 
 Having, or lacking, denominations is up to the chip designer.
 
-BARGE sets never had denominations until thr 2025 batch. The 2023 and and 2025 chips are denominated.
+BARGE sets never had denominations until the 2025 batch. The 2023 and 2025 chips are denominated.
 
 Early chips were produced as a trophy for someone else, so having no-denom chips made sense, because this covered every possible winner and home game.  
 

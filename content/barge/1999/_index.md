@@ -25,7 +25,7 @@ games: Limit Hold'em, Limit Omaha/8, and limit Stud, followed by a No Limit
 Hold'em final table.  BARGE has been running a TOC-Style tournament since 2000,
 greatly outlasting the original event[^2]. 
 
-1999 marked the first year in which the &quot;virgin&quot; class was
+1999 marked the first year in which the "virgin" class was
 specifically called out, led by ["virgin queen" Beth
 Evan](/resources/virgin-queen/).
 

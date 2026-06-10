@@ -17,7 +17,8 @@ title: BARGE 2001 Results
     date="Thursday, August 2, 2001"
     event="History of Poker Tournament"
     parentheticals="(5 card draw, lowball)" 
-    image="andybloch.jpg" >}}
+    image="andybloch.jpg"
+    image-alt="Andy Bloch" >}}
 
 |   |                    |        |
 |--:|--------------------|--------|
@@ -34,7 +35,8 @@ title: BARGE 2001 Results
 {{< tournament
     date="Friday, August 3, 2001"
     event="Tournament of Champions™-style Poker Tournament" 
-    image="frankjerome.jpg" >}}
+    image="frankjerome.jpg"
+    image-alt="Frank Jerome" >}}
 
 Alternating limit hold'em, Omaha/8, and seven-card stud, followed by No-Limit
 Hold'em at the later levels.
@@ -50,7 +52,7 @@ Hold'em at the later levels.
 |  7 | Monty Christiansen                  | $215   |
 |  8 | Kevin Un                            | $175   |
 |  9 | Tom Overton                         | $175   |
-| 10 | Joan &quot;AlwaysAware&quot; Hadley | $140   |
+| 10 | Joan "AlwaysAware" Hadley | $140   |
 | 11 | John Cervanyk                       | $140   |
 | 12 | Peter Secor                         | $105   |
 | 13 | Andy Hughes                         | $105   |
@@ -74,13 +76,14 @@ Friday, August 3, 2001
     date="Saturday, August 4, 2001"
     buyin="$70" 
     event="No-Limit Hold'em" 
-    image="russ-nlhe.jpg" >}}
+    image="russ-nlhe.jpg"
+    image-alt="Russ Fox" >}}
 
 |    |                                   |        |
 |---:|-----------------------------------|--------|
 |  1 | Russ Fox                          | $4,320 |
 |  2 | John Fleming                      | $2,280 |
-|  3 | Don &quot;ABD 'Bingo'&quot; Rieck | $1,695 |
+|  3 | Don "ABD 'Bingo'" Rieck | $1,695 |
 |  4 | Nathan Hess                       | $1,130 |
 |  5 | Peter Caldes                      | $775   |
 |  6 | Mark Trombley                     | $565   |

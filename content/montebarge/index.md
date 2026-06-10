@@ -28,6 +28,7 @@ The MonteBARGE tournament was held at Red Dragon Casino on September 29, 2019.
     event="MonteBARGE Mixed Game Tournament Results"
     buyin="$100+$15"
     image="jeff+monte.jpg"
+    image-alt="Jeff Deitch"
     entries=23 >}}
 
 |     |              |       |

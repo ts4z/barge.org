@@ -41,7 +41,7 @@ title: BARGE 2003 Results
 | 1 | Chinese Poker          | $1,451 |
 | 2 | Coney Island Whitefish | $1,242 |
 | 3 | ADV Vanguard           | $1,199 |
-| 4 | IRCsomes               | $1.016 |
+| 4 | IRCsomes               | $1,016 |
 | 5 | Team Presto!           | $950   |
 | 6 | Team Moosecock         | $875   |
 | 7 | Phoeish &amp; Chips    | $467   |
@@ -55,7 +55,7 @@ title: BARGE 2003 Results
 
 |   |                                       |        |
 |--:|---------------------------------------|--------|
-| 1 | Michael Maurer                        | $1.650 |
+| 1 | Michael Maurer                        | $1,650 |
 | 2 | Perry "The Baiter" Friedman | $1,330 |
 | 3 | Jerrod Ankenman                       | $1,000 |
 | 4 | Chuck Weinstock                       | $800   |
@@ -93,7 +93,7 @@ title: BARGE 2003 Results
 |  3 | John Davis                         | $1,910 |
 |  4 | Tony Corral                        | $1,530 |
 |  5 | Tom "Rebuy" Goodwin      | $1,280 |
-|  6 | Marc "SoCal" Kolstad     | $1.020 |
+|  6 | Marc "SoCal" Kolstad     | $1,020 |
 |  7 | Dave Marshall                      | $770   |
 |  8 | Josh "Tank" Paley        | $510   |
 |  9 | Caryl Aronson                      | $300   |

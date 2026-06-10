@@ -1,31 +1,7 @@
 {{ define "main" }}
-<style>
-.memoriam-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
-  gap: 5px;
-}
-
-.memoriam-card {
-  /*border: 1px solid #ddd;*/
-  padding: 5px;
-  border-radius: 8px;
-  /*background-color: #f9f9f9;*/
-  width: 160px;
-  height: 320px;
-  object-fit: cover;
-  float: left;
-}
-
-.memoriam-text {
-  text-align: center;
-  font-size: 1.53vh;
-}
-
-  </style>
-  
+  {{- /* styles for these classes live in assets/css/extended/memoriam.css */}}
   <h1>{{ .Title }}</h1>
-  <p>{{ .Content }}</p>
+  {{ .Content }}
 
   <hr>
 
@@ -41,7 +17,7 @@
             <div class="post-description memoriam-text">{{ .Title }}</div>
             <div class="post-description memoriam-text">
               {{- if and .Params.born .Params.died -}}
-                <nobr>{{- .Params.born }}</nobr>&mdash;<nobr>{{- .Params.died -}}</nobr>
+                <span class="memoriam-nowrap">{{- .Params.born }}</span>&mdash;<span class="memoriam-nowrap">{{- .Params.died -}}</span>
               {{- else if .Params.died -}}
                 {{- .Params.died }}
               {{- else if .Params.date -}}

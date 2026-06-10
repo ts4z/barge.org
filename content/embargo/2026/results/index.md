@@ -19,6 +19,7 @@ cover:
     prize-pool="$4,125"
     buyin="$125+35"
     image="ham_pineapple_nolan_hee.jpg"
+    image-alt="Nolan Hee"
     date="Thursday, January 29, 2026" >}}
 
 |   |                            |      |
@@ -38,6 +39,7 @@ cover:
     prize-pool="$5,000"
     buyin="$125+35"
     image="chowaha_zach_jarvis.jpg"
+    image-alt="Zach Jarvis"
     date="Friday, January 30, 2026" >}}
 
 |   |                            |        |
@@ -57,6 +59,7 @@ cover:
     entries=30
     prize-pool="$3,750"
     image="binglaha_christian_jones.jpg"
+    image-alt="Christian Jones"
     date="Friday, January 30, 2026" >}}
 
 |   |                                    |        |
@@ -74,6 +77,7 @@ cover:
     entries=47
     prize-pool="$7,755"
     image="nlhe_jim_anderson.jpg"
+    image-alt="Jim Anderson"
     date="Saturday, January 31, 2026" >}}
 
 |   |                             |        |
@@ -94,6 +98,7 @@ cover:
     entries=41
     prize-pool="$5,125"
     image="secor_jared_anderson.jpg"
+    image-alt="Jared Anderson"
     date="Saturday, January 31, 2026" >}}
 
 This event, named for Peter Secor, was a limit mix of [Stud](/rulebook/stud.html), [Stud 8 or
@@ -118,6 +123,7 @@ Better](/rulebook/omaha-high-low-eight-or-better.html), and
     entries=27
     prize-pool="$3,375"
     image="dramaha_stephanie_anderson.jpg"
+    image-alt="Stephanie Anderson"
     date="Sunday, February 1, 2026" >}}
 
 |   |                        |        |

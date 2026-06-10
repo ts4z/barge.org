@@ -22,12 +22,12 @@ tags:
 
 |   |                                   |      |
 |--:|-----------------------------------|------|
-| 1 | Shari &quot;pokerchimp&quot; Silk | $904 |
-| 2 | John &quot;JZK&quot; Scheinberg   | $628 |
+| 1 | Shari "pokerchimp" Silk | $904 |
+| 2 | John "JZK" Scheinberg   | $628 |
 | 3 | Patti Beadles                     | $524 |
-| 4 | Nolan &quot;Omanyte&quot; Hee     | $400 |
-| 5 | Rich &quot;Omaholic&quot; Bremer  | $308 |
-| 6 | Steve &quot;Ice&quot; Eisenstein  | $216 |
+| 4 | Nolan "Omanyte" Hee     | $400 |
+| 5 | Rich "Omaholic" Bremer  | $308 |
+| 6 | Steve "Ice" Eisenstein  | $216 |
 | 7 | Patrick Milligan                  | $100 |
 
 {{< tournament
@@ -39,11 +39,11 @@ tags:
 
 |   |                                      |      |
 |--:|--------------------------------------|------|
-| 1 | David &quot;sam\_6&quot; Lawful      | $857 |
+| 1 | David "sam\_6" Lawful      | $857 |
 | 2 | Oliver Juang                         | $571 |
-| 3 | Bruce &quot;Cyberchomp&quot; Iwamoto | $405 |
+| 3 | Bruce "Cyberchomp" Iwamoto | $405 |
 | 4 | Jesse Capps                          | $309 |
-| 5 | Ken &quot;QB&quot; Kubey             | $238 |
+| 5 | Ken "QB" Kubey             | $238 |
 
 {{< tournament
 buyin="$70 + $20 + $10"
@@ -55,10 +55,10 @@ prize-pool=$1,820 >}}
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
-| 1 | Dan &quot;ADB smalltalk&quot; Goldman | $655 |
-| 2 | Louis &quot;BOB\_O&quot; Ogus         | $437 |
+| 1 | Dan "ADB smalltalk" Goldman | $655 |
+| 2 | Louis "BOB\_O" Ogus         | $437 |
 | 3 | Adam Haman                            | $309 |
-| 4 | David &quot;sam\_6&quot; Lawful       | $237 |
+| 4 | David "sam\_6" Lawful       | $237 |
 | 5 | Kenny Shei                            | $182 |
 
 {{< tournament
@@ -74,8 +74,8 @@ prize-pool=$1,820 >}}
 | 2 | Gillian Groves                      | $1016 |
 | 3 | Kenny Shei                          | $785  |
 | 4 | Ryan Beauregard                     | $601  |
-| 5 | Derek &quot;CindrllaMan&quot; Gomez | $462  |
-| 6 | Diana &quot;Prof Chaos&quot; Mercer | $323  |
+| 5 | Derek "CindrllaMan" Gomez | $462  |
+| 6 | Diana "Prof Chaos" Mercer | $323  |
 |   |                                     |       |
 
 {{< tournament
@@ -88,7 +88,7 @@ prize-pool=$1,820 >}}
 |   |                                 |      |
 |--:|---------------------------------|------|
 | 1 | Jesse Capps                     | $630 |
-| 2 | David &quot;sam\_6&quot; Lawful | $420 |
+| 2 | David "sam\_6" Lawful | $420 |
 | 3 | Patrick Milligan                | $298 |
 | 4 | Eileen Milligan                 | $228 |
-| 5 | Louis &quot;BOB\_O&quot; Ogus   | $176 |
+| 5 | Louis "BOB\_O" Ogus   | $176 |

@@ -8,7 +8,7 @@ tags:
  - baap
 ---
 
-Per Stephen &quot;Crunch&quot; Daniel, the creator of the BAAP (BARGE All-Around Player) calculation, 
+Per Stephen "Crunch" Daniel, the creator of the BAAP (BARGE All-Around Player) calculation, 
 otherwise known as PeterPoints (and previously known as "Crunchy" Points):
 
 There is a lot of interest by a few people in being able to know where they

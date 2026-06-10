@@ -12,7 +12,7 @@ summary: Remember that you are ALWAYS WELCOME.
 
 Let&rsquo;s first examine the meaning of OUTSIDER shall we?
 
-The Merriam-Webster dictionary's first definition of &quot;outsider&quot; is as follows:
+The Merriam-Webster dictionary's first definition of "outsider" is as follows:
 
 out&middot;sid&middot;er noun  (/ˌoutˈsīdər/) 1. a person who does not belong to a particular group
 
@@ -90,7 +90,7 @@ the BARGE community and all that entails.  I look forward each year to trekking
 to Vegas for BARGE and me and the wife use that time as one of our yearly
 vacations.  Hopefully, I have given you a feel for what you can expect at
 BARGE.  Now, I would like to provide some pointers for the BARGE first timer
-that may help you overcome your feeling of &quot;outsiderness&quot;.
+that may help you overcome your feeling of "outsiderness".
 
 * Read all you can about Barge.  All information about BARGE can be found at
   www.barge.org.  There is a very detailed description of the long and storied
@@ -136,7 +136,7 @@ that may help you overcome your feeling of &quot;outsiderness&quot;.
 I have always thought of BARGE as the world&rsquo;s largest home game.  So sit
 down, have a drink, play a little cards, relax and enjoy yourself!
 
-As Peter Secor says when asked about BARGE &quot;There are no strangers here,
-just friends you haven't met yet...&quot;.
+As Peter Secor says when asked about BARGE "There are no strangers here,
+just friends you haven't met yet...".
 
 Hope to see you at Barge.

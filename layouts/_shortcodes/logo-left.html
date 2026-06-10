@@ -4,6 +4,7 @@
 <a href="{{ .Get "href" }}">
   <span class="logo-pad">
     <img class="logo-left"
+         alt="{{- .Get "alt" | default "logo" -}}"
          src="{{- $inline.RelPermalink -}}">
   </span>
 </a>

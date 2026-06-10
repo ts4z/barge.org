@@ -20,7 +20,7 @@ has been edited for presentation.*
 | Tue | Jul 27 | 11:00am | 6 Handed [Paradise Road Pick’em](/rulebook/paradise-road-pickem.html) (limit)      | $100   | [(2)](#2) |
 |     |        | 5:00pm  | No Limit [California Lowball](/rulebook/california-lowball.html) Green Chip Bounty | $130   |           |
 | Wed | Jul 28 | 11:00am | 6 Handed [Binglaha](/rulebook/binglaha.html) (pot limit)                           | $130   |           |
-|     |        | 4:00pm  | [Dramaha 49](https://www.barge.org/rulebook/dramaha-49.html) (limit)               | $100   | [(3)](#3) |
+|     |        | 4:00pm  | [Dramaha 49](/rulebook/dramaha-49.html) (limit)               | $100   | [(3)](#3) |
 |     |        | 7:00pm  | 6 Game (limit)                                                                     | $130   | [(4)](#4) |
 | Thu | Jul 29 | 10:00am | Team CHORSE ($480/team)                                                            |        |           |
 |     |        | 4:00pm  | [Pot Limit Omaha](/rulebook/omaha-high-only.html) (with lammers)                   | $130   |           |

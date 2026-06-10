@@ -20,17 +20,18 @@ title: BARGE 2005 Results
     date="Tuesday, August 2, 2005"
     entries=50
     prize-pool="$2,500 Prize Pool" 
-    image="GrizzBARGE2005.jpg" >}}
+    image="GrizzBARGE2005.jpg"
+    image-alt="Guy Berentsen" >}}
 
-Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
+Charity:  Chris "ADB Kfish" Hartman's Family  $500
 
 |   |                                      |      |
 |--:|--------------------------------------|------|
-| 1 | Guy &quot;Grizz&quot; Berentsen      | $500 |
-| 2 | Sarah &quot;Sarahbellum&quot; Boston | $400 |
+| 1 | Guy "Grizz" Berentsen      | $500 |
+| 2 | Sarah "Sarahbellum" Boston | $400 |
 | 3 | Matthew Kursar                       | $300 |
-| 4 | &quot;Allknight&quot; Adam Bachrach  | $250 |
-| 5 | Nolan &quot;Darkside&quot; Dalla     | $200 |
+| 4 | "Allknight" Adam Bachrach  | $250 |
+| 5 | Nolan "Darkside" Dalla     | $200 |
 | 6 | Michelle Lancaster                   | $150 |
 | 7 | Rick Mombourquette                   | $100 |
 | 8 | Dan Goldman                          | $60  |
@@ -42,12 +43,13 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     date="Wednesday, August 3, 2005"
     entries=29
     prize-pool="$1,450 Prize Pool" 
-    image="StevenBARGE2005.jpg" >}}
+    image="StevenBARGE2005.jpg"
+    image-alt="Steven Markowitz" >}}
 
 |   |                                       |      |
 |--:|---------------------------------------|------|
 | 1 | Steven Markowitz                      | $450 |
-| 2 | Stevan &quot;Goldiefish&quot; Goldman | $350 |
+| 2 | Stevan "Goldiefish" Goldman | $350 |
 | 3 | Marc Howard                           | $250 |
 | 4 | Ken Tierney                           | $200 |
 | 5 | Greg Pappas                           | $200 |
@@ -58,13 +60,14 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     date="Wednesday, August 3, 2005"
     entries=27
     prize-pool="$1,080 Prize Pool" 
-    image="ConnieBarge2005.jpg" >}}
+    image="ConnieBarge2005.jpg"
+    image-alt="Connie Kellers" >}}
 
 |   |                                       |              |
 |--:|---------------------------------------|--------------|
-| 1 | Connie &quot;baguette&quot; Kellers   | $432 (4,940) |
-| 2 | &quot;Tuscaloosa&quot; Johnny Kampis  | $324 (1,290) |
-| 3 | Stevan &quot;Goldiefish&quot; Goldman | $216 (1,285) |
+| 1 | Connie "baguette" Kellers   | $432 (4,940) |
+| 2 | "Tuscaloosa" Johnny Kampis  | $324 (1,290) |
+| 3 | Stevan "Goldiefish" Goldman | $216 (1,285) |
 | 4 | Patti Beadles                         | $108 (1,185) |
 
 
@@ -73,24 +76,26 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     date="Wednesday, August 3, 2005"
     entries=71
     prize-pool="$4,260 Prize Pool" 
-    image="AlexBARGE2005.jpg" >}}
+    image="AlexBARGE2005.jpg"
+    image-alt="Alex Ziselman" >}}
 
 |   |                                            |        |
 |--:|--------------------------------------------|--------|
-| 1 | Alex &quot;Mav&quot;  Ziselman             | $1,060 |
+| 1 | Alex "Mav"  Ziselman             | $1,060 |
 | 2 | Mark Trombley                              | $850   |
 | 3 | Barry Tanenbaum                            | $640   |
-| 4 | Lee &quot;Bowtie&quot; Crocker             | $510   |
-| 5 | Joshua &quot;Vash the Stampedo&quot; DeBoo | $430   |
-| 6 | Jim &quot;Bullbert&quot; Bullard           | $340   |
+| 4 | Lee "Bowtie" Crocker             | $510   |
+| 5 | Joshua "Vash the Stampedo" DeBoo | $430   |
+| 6 | Jim "Bullbert" Bullard           | $340   |
 | 7 | Sabyl Cohen                                | $260   |
-| 8 | Ken &quot;QB&quot; Kubey                   | $170   |
+| 8 | Ken "QB" Kubey                   | $170   |
 
 
 {{< tournament event="Team CHORSE"
     date="Thursday, August 4, 2005"
     entries=17 
-    image="CHORSEWinnerBARGE2005.jpg" >}}
+    image="CHORSEWinnerBARGE2005.jpg"
+    image-alt="Luck Factor Zero, the winning CHORSE team" >}}
 
 |    |                                                       |        |
 |---:|-------------------------------------------------------|--------|
@@ -118,7 +123,7 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
 |          &nbsp;Holdem | Warren Sander                     |
 |         &nbsp;Omaha/8 | Michelle Lancaster                |
 |            &nbsp;Razz | Greg Pappas                       |
-|            &nbsp;Stud | Greg &quot;Fossilman&quot; Raymer |
+|            &nbsp;Stud | Greg "Fossilman" Raymer |
 |          &nbsp;Stud/8 | Gavin Smith                       |
 | &nbsp;Crazy Pineapple | Jerrod Ankenman                   |
 
@@ -127,7 +132,8 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     date="Thursday, August 4, 2005"
     entries=11
     prize-pool="$100 Prize Pool" 
-    image="KerryBARGE2005.jpg" >}}
+    image="KerryBARGE2005.jpg"
+    image-alt="Kerry Planow" >}}
 
 |   |                   |     |
 |--:|-------------------|-----|
@@ -141,20 +147,21 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     date="Thursday, August 4, 2005"
     entries=80
     prize-pool="$6,000 Prize Pool" 
-    image="SabylBARGE2005.jpg" >}}
+    image="SabylBARGE2005.jpg"
+    image-alt="Sabyl Cohen" >}}
 
 |       |                                        |          |
 |------:|----------------------------------------|----------|
 |     1 | Sabyl Cohen                            | $1,240   |
 |     2 | Ross Poppel                            | $990     |
-|     3 | Don &quot;ADB Bingo&quot; Rieck        | $740     |
+|     3 | Don "ADB Bingo" Rieck        | $740     |
 |     4 | Paul Zuzelo                            | $590     |
 |     5 | John Harkness                          | $500     |
 |     6 | Andy Bloch                             | $400     |
-|     7 | Paul &quot;Aggie83&quot; Stine         | $300     |
+|     7 | Paul "Aggie83" Stine         | $300     |
 |     8 | Greg Pappas                            | $200     |
-|     9 | Patrick &quot;JazzLover&quot; Milligan | $150     |
-|    10 | Rick &quot;Zbigniew&quot; Bevan        | $150     |
+|     9 | Patrick "JazzLover" Milligan | $150     |
+|    10 | Rick "Zbigniew" Bevan        | $150     |
 | 11-20 | Second Place Finishers                 | $75 Each |
 
 {{< tournament
@@ -162,18 +169,19 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     date="Friday, August 5, 2005"
     entries=159
     prize-pool="$11,925 Prize Pool" 
-    image="MikeBARGE2005.jpg" >}}
+    image="MikeBARGE2005.jpg"
+    image-alt="Mike Osborne" >}}
 
 |   |                                     |        |
 |--:|-------------------------------------|--------|
-| 1 | Mike &quot;Oz&quot; Osborne         | $2,975 |
+| 1 | Mike "Oz" Osborne         | $2,975 |
 | 2 | David Kuznick                       | $2,390 |
 | 3 | Sabyl Cohen                         | $1,790 |
 | 4 | Rick Mombourquette                  | $1,490 |
 | 5 | Brandon Schaeffer                   | $1,190 |
-| 6 | Chris &quot;Minny&quot; Mlinarich   | $890   |
+| 6 | Chris "Minny" Mlinarich   | $890   |
 | 7 | Walter Hunt                         | $600   |
-| 8 | Cliff &quot;Deadhead&quot; Matthews | $360   |
+| 8 | Cliff "Deadhead" Matthews | $360   |
 | 9 | Steve Pierce                        | $240   |
 
 
@@ -182,27 +190,28 @@ Charity:  Chris &quot;ADB Kfish&quot; Hartman's Family  $500
     date="Saturday, August 6, 2005"
     entries=219
     prize-pool="$21,900 Prize Pool" 
-    image="DonBarge2005.jpg" >}}
+    image="DonBarge2005.jpg"
+    image-alt="Don Perry" >}}
     
 |    |                                     |        |
 |---:|-------------------------------------|--------|
 |  1 | Don Perry                           | $5,050 |
 |  2 | Nick Christiansen                   | $4,050 |
 |  3 | Dave McVay                          | $3,040 |
-|  4 | Steve &quot;Ackbleh&quot; Day       | $2,430 |
+|  4 | Steve "Ackbleh" Day       | $2,430 |
 |  5 | Ben Gamble                          | $2,030 |
-|  6 | &quot;Allknight&quot; Adam Bachrach | $1,620 |
+|  6 | "Allknight" Adam Bachrach | $1,620 |
 |  7 | Jonathon Lieberman                  | $1,220 |
 |  8 | Steve Pierce                        | $810   |
 |  9 | Scott Burrington                    | $300   |
-| 10 | Jim &quot;Bullbert&quot; Bullard    | $200   |
-| 11 | Lawrence &quot;Larry&quot; Leahy    | $200   |
+| 10 | Jim "Bullbert" Bullard    | $200   |
+| 11 | Lawrence "Larry" Leahy    | $200   |
 | 12 | Jessica Kuznick                     | $200   |
-| 13 | Frank &quot;Nut-Z&quot; Brabec      | $150   |
-| 14 | Trent &quot;Polka&quot; Gresh       | $150   |
+| 13 | Frank "Nut-Z" Brabec      | $150   |
+| 14 | Trent "Polka" Gresh       | $150   |
 | 15 | John Lloyd                          | $150   |
-| 16 | Bob &quot;prettybadboy&quot; Irons  | $100   |
-| 17 | Mitch &quot;ADB BFB&quot; Firestone | $100   |
+| 16 | Bob "prettybadboy" Irons  | $100   |
+| 17 | Mitch "ADB BFB" Firestone | $100   |
 | 18 | Bryan Juliano                       | $100   |
 
 

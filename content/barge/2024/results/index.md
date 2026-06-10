@@ -19,6 +19,7 @@ title: BARGE 2024 Results
     parentheticals="(with rebuys)"
     prizepool="$2,145"
     image="dbbp_dan_goldman.jpg"
+    image-alt="Dan Goldman"
     players="23" >}}
 
 There were a total of 34 total rebuys and add-ons, for a total of $2,040 to be
@@ -73,6 +74,7 @@ prizepool="$7,035" >}}
     event="Blackjack"
     players=10
     image="blackjack_kyle_minnis.jpg"
+    image-alt="Kyle Minnis"
     prizepool="$500" >}}
 
 |   |                                    |      |
@@ -105,6 +107,7 @@ prizepool="$7,035" >}}
     event="No Limit Funbook Hold'em"
     entries="54"
     image="funbook_dan_nussbaum.jpg"
+    image-alt="Dan Nussbaum"
     prizepool="$5,670" >}}
 
 |   |                                               |      |
@@ -124,6 +127,7 @@ prizepool="$7,035" >}}
     parentheticals="(no reentry)"
     entries=48
     image="tss_rich_bremer.jpg"
+    image-alt="Rich Bremer"
     prizepool="$3,600" >}}
 
 
@@ -146,6 +150,7 @@ prizepool="$7,035" >}}
 event="Chinese Poker Mix"
     entries="12"
     image="cpm_eric_schneller.jpg"
+    image-alt="Eric Schneller"
     prizepool="$900" >}}
 
 |   |                                             |      |
@@ -161,6 +166,7 @@ event="Chinese Poker Mix"
     parentheticals="(with lammers) (reentry permitted)"
     entries="54"
     image="5plo_rick_mombourquette.jpg"
+    image-alt="Rick Mombourquette"
     prizepool="$5,670" >}}
 
 |   |                                                 |        |
@@ -179,7 +185,8 @@ event="Chinese Poker Mix"
     event="Mike Sexton Original TOC-Style"
     players=78
     image="toc_jesse_capps.jpg"
-    prizepool="$9.360" >}}
+    image-alt="Jesse Capps"
+    prizepool="$9,360" >}}
 
 |    |                                           |        |
 |---:|-------------------------------------------|--------|
@@ -204,6 +211,7 @@ event="Chinese Poker Mix"
     event="No Limit Holdem Main Event"
     players="99"
     image="nlhe_tim_showalter.jpg"
+    image-alt="Tim Showalter"
     prizepool="$13,365" >}}
 
 |    |                                           |        |

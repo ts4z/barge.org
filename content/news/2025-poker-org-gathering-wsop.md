@@ -9,7 +9,7 @@ aliases:
 ---
 
 *Long-time BARGEr and rec.gambler 
-[Lee](https://www.barge.org/barge/1998/)[ ](https://www.barge.org/chips/gallery/1999/)[Jones](https://www.amazon.com/Winning-Low-Limit-Holdem-Lee-Jones/dp/1886070237) 
+[Lee]({{< relref "/barge/1998" >}})[ ]({{< relref "/chips/gallery/1999" >}})[Jones](https://www.amazon.com/Winning-Low-Limit-Holdem-Lee-Jones/dp/1886070237) 
 sent this in:*
 
 [PokerOrg](https://poker.org/) will be hosting a player lounge at the

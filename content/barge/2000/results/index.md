@@ -69,7 +69,8 @@ Jacket!
     date="Saturday, August 6th, 2000"
     event="TEXAS HOLDEM"
     parentheticals="(NO LIMIT)" 
-    image="jeffb.jpg" >}}
+    image="jeffb.jpg"
+    image-alt="Jeff Bartoszewicz" >}}
 
 |    |                           |        |
 |----|---------------------------|--------|
@@ -104,6 +105,7 @@ Jacket!
 
 {{< tournament
     image="chipcastlewinner.jpg"
+    image-alt="Chris Ferguson with his chip castle"
     date="Saturday, August 6th, 2000 into Sunday, August 7th, 2000"
     event="CHIP CASTLE CHAMPIONSHIP"
     parentheticals="(Unofficial Event)" >}}
@@ -115,7 +117,8 @@ Jacket!
 
 {{< tournament
     event="BEST OVERALL PLAYER OF BARGE 2000"
-    image="donperryii.jpg" >}}
+    image="donperryii.jpg"
+    image-alt="Don Perry with the Best Overall Player trophy" >}}
 
 Don "trythat" Perry
 

@@ -11,12 +11,12 @@ cover:
 ---
 
 This is the last year our most frequent host casino would bear the
-&quot;Horseshoe&quot; name, and be run by a Binion.
+"Horseshoe" name, and be run by a Binion.
 
 Keith Fichtemaier won the limit hold'em event. Tiger came in second
-and Mike &quot;ADB Howler&quot; McBride finished third. Team Chinese Poker won
+and Mike "ADB Howler" McBride finished third. Team Chinese Poker won
 the Team CHORSE event. This was the last year for the History of Poker
-event. It was won by Michael Maurer with Perry &quot;The Baiter&quot; Friedman
+event. It was won by Michael Maurer with Perry "The Baiter" Friedman
 and Jerrod Ankenman finishing second and third. In the ToC-style event, Gavin
 Smith was victorious over Gillian Groves followed by David Huberman. Howard
 Lederer spoke at the banquet which was held upstairs at Binion's. The NL

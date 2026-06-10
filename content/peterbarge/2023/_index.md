@@ -11,7 +11,7 @@ PeterBARGE was held as a surprise for Peter Secor.  Peter lives in the Bay Area
 and was unable to make BARGE in 2023.
 
 Details on this event are a little thin because we had to keep it off the
-[BARGE lists](https://www.barge.org/resources/mailing-lists/) so Peter wouldn't
+[BARGE lists]({{< relref "/resources/mailing-lists" >}}) so Peter wouldn't
 know.
 
 We met at the California Grand the night before, and a private game was held at

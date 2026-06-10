@@ -23,10 +23,10 @@ title: BARGE 2011 Results
 |--:|--------------------------------------|------|
 | 1 | David Kluchman                       | $950 |
 | 2 | Len Greenberg                        | $950 |
-| 3 | Sharon &quot;ADB Shaza&quot; Goldman | $640 |
+| 3 | Sharon "ADB Shaza" Goldman | $640 |
 | 4 | Bob Irons                            | $530 |
 | 5 | Ron Grossberg                        | $440 |
-| 6 | Nolan &quot;ADB Darkside&quot; Dalla | $350 |
+| 6 | Nolan "ADB Darkside" Dalla | $350 |
 | 7 | Darlene Springman                    | $260 |
 | 8 | Erin Ramsey                          | $180 |
 | 9 | Lynsey Iwamoto                       | $100 |
@@ -66,14 +66,14 @@ title: BARGE 2011 Results
 
 |   |                                     |        |
 |--:|-------------------------------------|--------|
-| 1 | Chris &quot;Tom Bayes&quot; Mecklin | $1,065 |
-| 2 | Scott &quot;Bwana&quot; Byron       | $845   |
-| 3 | Joe &quot;ChipRider&quot; Long      | $640   |
+| 1 | Chris "Tom Bayes" Mecklin | $1,065 |
+| 2 | Scott "Bwana" Byron       | $845   |
+| 3 | Joe "ChipRider" Long      | $640   |
 | 4 | Drew Boyett                         | $510   |
-| 5 | James &quot;JP&quot; Massar         | $430   |
-| 6 | Keith &quot;Fich&quot; Fichtemaier  | $340   |
+| 5 | James "JP" Massar         | $430   |
+| 6 | Keith "Fich" Fichtemaier  | $340   |
 | 7 | Chuck Humphrey                      | $260   |
-| 8 | Corey &quot;Lingcod&quot; Imsdahl   | $170   |
+| 8 | Corey "Lingcod" Imsdahl   | $170   |
 
 {{< tournament
     date="Thursday. August 4, 2011"
@@ -99,12 +99,12 @@ title: BARGE 2011 Results
 
 |                Team I Don't Give A Damn |                 |
 |----------------------------------------:|-----------------|
-|          Katie &quot;Ianal&quot; Baxter | Razz            |
+|          Katie "Ianal" Baxter | Razz            |
 |                             Tom Bessoir | Omaha/8         |
 |                       Meredith Holtzman | Holdem          |
-|           Bob &quot;Barbie&quot; Lauria | Crazy Pineapple |
+|           Bob "Barbie" Lauria | Crazy Pineapple |
 |                            Chic Natkins | Stud            |
-| Warren &quot;Must Be First&quot; Sander | Stud/8          |
+| Warren "Must Be First" Sander | Stud/8          |
 
 {{< tournament
     date="Thursday  August 4, 2011"
@@ -114,16 +114,16 @@ title: BARGE 2011 Results
 
 |    |                                         |        |
 |----|-----------------------------------------|--------|
-| 1  | Spencer &quot;ADB Zorak&quot; Sun       | $2,047 |
+| 1  | Spencer "ADB Zorak" Sun       | $2,047 |
 | 2  | David Low                               | $1,557 |
 | 3  | Arthur Goltz                            | $1,152 |
-| 4  | Randy &quot;ADB Schmengie&quot; Collack | $902   |
+| 4  | Randy "ADB Schmengie" Collack | $902   |
 | 5  | Sabyl Landrum                           | $732   |
-| 6  | Guy &quot;Grizz&quot; Berentsen         | $572   |
-| 7  | Michael &quot;Big Mike&quot; Klein      | $402   |
+| 6  | Guy "Grizz" Berentsen         | $572   |
+| 7  | Michael "Big Mike" Klein      | $402   |
 | 8  | Ming Lee                                | $242   |
 | 9  | John Pickles                            | $162   |
-| 10 | James &quot;JP&quot; Massar             | $162   |
+| 10 | James "JP" Massar             | $162   |
 | 11 | Regis Donovan                           | $112   |
 | 12 | John Anderson                           | $112   |
 | 13 | Kyle Minnis                             | $96    |
@@ -137,8 +137,8 @@ title: BARGE 2011 Results
 |    |                                         |        |
 |----|-----------------------------------------|--------|
 | 1 | Steve Lewin-Berlin | $2,215 |
-| 2 | John &quot;JRX&quot; Reed | $2,215 |
-| 3 | Tim &quot;Timmer&quot; Stine | $1,410 |
+| 2 | John "JRX" Reed | $2,215 |
+| 3 | Tim "Timmer" Stine | $1,410 |
 | 4 | Leonard Pisciotta | $1,110 |
 | 5 | Ross Poppel | $800 |
 | 6 | Dan Nussbaum | $600 |
@@ -149,7 +149,7 @@ title: BARGE 2011 Results
 | 11 | Steven McLaughlin | $150 |
 | 12 | Drew Boyett | $150 |
 | 13 | Patti Beadles | $100 |
-| 14 | Cliff &quot;deadhead&quot; Matthews | $100 |
+| 14 | Cliff "deadhead" Matthews | $100 |
 | 15 | Connie Kellers | $100 |
 
 {{< tournament
@@ -160,7 +160,7 @@ title: BARGE 2011 Results
 
 |    |                                         |        |
 |----|-----------------------------------------|--------|
-| 1 | Rich &quot;Omaholic&quot; Bremer | $4,290 |
+| 1 | Rich "Omaholic" Bremer | $4,290 |
 | 2 | Rodney Chen | $3,090 |
 | 3 | Dave Tahajian | $2,230 |
 | 4 | Steve Sherman  | $1,710 |
@@ -169,15 +169,15 @@ title: BARGE 2011 Results
 | 7 | Jeff Deitch | $685 |
 | 8 | Bob Herlien | $465 |
 | 9 | Michael Maurer | $335 |
-| 10 | Tom &quot;Tominator&quot; White | $255 |
-| 11 | Joe &quot;Pink Panther&quot; Long | $255 |
-| 1 | Brian &quot;Not Micon&quot; Goldstein  | $255 |
-| 13 | John &quot;JZK&quot; Scheinberg | $215 |
-| 14 | James &quot;JP&quot; Massar | $215 |
+| 10 | Tom "Tominator" White | $255 |
+| 11 | Joe "Pink Panther" Long | $255 |
+| 1 | Brian "Not Micon" Goldstein  | $255 |
+| 13 | John "JZK" Scheinberg | $215 |
+| 14 | James "JP" Massar | $215 |
 | 15 | John Moser | $215 |
-| 16 | Chris &quot;Tom Bayes&quot; Mecklin | $165 |
+| 16 | Chris "Tom Bayes" Mecklin | $165 |
 | 17 | Nick Christenson | $165 |
-| 18 | Gerald &quot;Gerdog&quot; Peterson | $165 |
+| 18 | Gerald "Gerdog" Peterson | $165 |
 | 19 | David Soussan | $90 |
 
 {{< tournament
