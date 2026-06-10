@@ -12,6 +12,8 @@ title: BARGE.org
 theme: ["PaperMod"]
 sectionPagesMenu: main
 enableRobotsTXT: true
+taxonomies:
+  tag: tags
 params:
   env: production
   # Directories to scan in static directory for extra stuff for sitemap.xml.
