@@ -123,7 +123,7 @@ prize-pool="$3,280" >}}
     event="Full Results and ToGa Point Awards"
     level=3 >}}
     
-#### Blackjack Tournament
+#### Blackjack Tournament Full Results
 
 |                                                         |                  |         |
 |:--------------------------------------------------------|:-----------------|---------|
@@ -143,7 +143,7 @@ prize-pool="$3,280" >}}
 | Christian "Dr.Doofenshmirtz" Jones                      | busted hand 9    | 1 pt    |
 | James Hammer                                            | busted hand 4    | 0 pts   |
 
-#### Video Poker Tournament
+#### Video Poker Tournament Full Results
 
 ||||
 |:-|:-|:-|
@@ -164,7 +164,7 @@ prize-pool="$3,280" >}}
 |Ron "8-2 Ron" Lyons  | -195 | 1 pt |
 |James Hammer  | -205 | 0 pts |
 
-#### Slot Tournament
+#### Slot Tournament Full Results
 
 ||||
 |:-|:-|:-|
