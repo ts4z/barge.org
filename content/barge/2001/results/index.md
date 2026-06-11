@@ -83,7 +83,7 @@ Friday, August 3, 2001
 |---:|-----------------------------------|--------|
 |  1 | Russ Fox                          | $4,320 |
 |  2 | John Fleming                      | $2,280 |
-|  3 | Don "ABD 'Bingo'" Rieck | $1,695 |
+|  3 | Don "ADB Bingo" Rieck | $1,695 |
 |  4 | Nathan Hess                       | $1,130 |
 |  5 | Peter Caldes                      | $775   |
 |  6 | Mark Trombley                     | $565   |
