@@ -1,6 +1,6 @@
 ---
 aliases:
-- /barge-2001
+- /barge-2002
 cover:
   image: logos/barge_2002_logo.png
 date: 2002-09-01
