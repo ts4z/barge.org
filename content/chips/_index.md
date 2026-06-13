@@ -53,7 +53,8 @@ corrections.
 
 ## Chips for Sale
 
-We will have (a very few) 2026, 2024, and 2022 sets once those are produced.
+We will have (a very few) extra 2026, 2024, and 2022 sets once those are
+produced.
 
 We have an inventory of *some* old BARGE chips, including some complete
 sample sets.  Contact [Tim Showalter](mailto:tjs@psaux.com) to see if we have
