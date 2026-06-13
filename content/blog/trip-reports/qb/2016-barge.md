@@ -976,12 +976,12 @@ he is?  Anyway, there you have it.
 
 Thanks to the board: Becca, Barry, Heldar, Patti and Kluchman. {{< br >}}
 Thanks to the organizers: Russ, Bremer, Deitch and Goldie. {{< br >}}
-Tech Crew: Doug G., David Low and Barry.  [barge.org](/) is better than ever. {{< br >}}
+Tech Crew: Doug G., David Low and Barry.  [barge.org]({{< relref "/" >}}) is better than ever. {{< br >}}
 Another Great BARGE in the books.
 
 Patrick Milligan with badges, pins, structure sheets, BAAG and rule book.
 
-The [BARGE Chip Committee](/chips/bcc/)... oh wait.  Double duty next year, okay guys?
+The [BARGE Chip Committee]({{< relref "/chips/bcc" >}})... oh wait.  Double duty next year, okay guys?
 
 Rodney... see above.
 
@@ -997,4 +997,4 @@ CHY;BIME = Can't Hear You;Beans In My Ears.
 
 ---
 
-Can I sign up for [BARGE 2017](../2017-barge/) now?
+Can I sign up for [BARGE 2017]({{< relref "/blog/trip-reports/qb/2017-barge" >}}) now?

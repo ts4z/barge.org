@@ -20,15 +20,15 @@ params:
 
 {{< figure class="floatright40" src="bargechipslogo.png" alt="BARGE Chips Logo" >}}
 
-QUICK LINKS: [Chip orders open now!](https://secure.barge.org/order-chips/) &mdash; [the gallery](gallery/)
+QUICK LINKS: [Chip orders open now!](https://secure.barge.org/order-chips/) &mdash; [the gallery]({{< relref "/chips/gallery" >}})
 
 It is a tradition of BARGE that each Main Event winner wins a custom
 chipset... that they "get to" design.  These chips are also sold as sample sets
 in order to fund the trophy set, and also because the BARGE community likes
 chips.
 
-[The gallery](gallery/) starts in [1993](gallery/1993/) and ends in
-[2026](gallery/2026/).  There is also a [gallery table of contents](toc/).
+[The gallery]({{< relref "/chips/gallery" >}}) starts in [1993]({{< relref "/chips/gallery/1993" >}}) and ends in
+[2026]({{< relref "/chips/gallery/2026" >}}).  There is also a [gallery table of contents]({{< relref "/chips/toc" >}}).
 We've got images of each of the chip sets and a little bit of information on
 their history.
 
@@ -45,7 +45,7 @@ and
 [Archive](https://web.archive.org/web/20180902101041/https://bargechips.org/)
 for the opportunity to dig through their archives.
 
-There is even more [BARGE memorabilia](../memorabilia/) that we will add in the future.
+There is even more [BARGE memorabilia]({{< relref "/memorabilia" >}}) that we will add in the future.
 
 Please [contact us](mailto:tim.showalter@gmail.com) if you have images or
 corrections.
@@ -61,27 +61,27 @@ figured out how to sell these yet.
 
 ## History
 
-Starting with [1993](gallery/1993/), and through [1999](gallery/1999/), chips
+Starting with [1993]({{< relref "/chips/gallery/1993" >}}), and through [1999]({{< relref "/chips/gallery/1999" >}}), chips
 were produced by the Main Event winner.  For the first few events, the chipset
 was presented at BARGE and designed by the previous year's winner, but starting
-with [1997](gallery/1997/), the winner started designing their set for
+with [1997]({{< relref "/chips/gallery/1997" >}}), the winner started designing their set for
 themselves.
 
 In 2000, the main event winner did not make the chips.  [Ken &#8220;QB&#8221;
-Kubey](/tags/qb/) [made a set](gallery/2000-qb/) for distribution at
-[BARGE 2000](../../barge/2000/).
+Kubey]({{< relref "/tags/qb" >}}) [made a set]({{< relref "/chips/gallery/2000-qb" >}}) for distribution at
+[BARGE 2000]({{< relref "/barge/2000" >}}).
 
-So starting from the [2001](gallery/2001/) BARGE, and retroactive to the
-[2000](gallery/2000-bcc/) chipset, the [BARGE Chip Committee](bcc/) formed to
+So starting from the [2001]({{< relref "/chips/gallery/2001" >}}) BARGE, and retroactive to the
+[2000]({{< relref "/chips/gallery/2000-bcc" >}}) chipset, the [BARGE Chip Committee]({{< relref "/chips/bcc" >}}) formed to
 ensure chipsets were produced every year. Input from the Main Event winners
 varied from very active to none at all.  Chip production stalled, partially due
-to the pandemic, after [2019](gallery/2019/).
+to the pandemic, after [2019]({{< relref "/chips/gallery/2019" >}}).
 
 In 2025, the BCC was revived, and chips were produced for
-[2025](gallery/2025/), [2023](gallery/2023/), [2021](gallery/2021/), and
-[2020](gallery/2020/) and were delivered at BARGE.
+[2025]({{< relref "/chips/gallery/2025" >}}), [2023]({{< relref "/chips/gallery/2023" >}}), [2021]({{< relref "/chips/gallery/2021" >}}), and
+[2020]({{< relref "/chips/gallery/2020" >}}) and were delivered at BARGE.
 
-We are currently producing chips for [2026](gallery/2026/), and make-up sets
-for [2024](gallery/2024/) and [2022](gallery/2022/).
+We are currently producing chips for [2026]({{< relref "/chips/gallery/2026" >}}), and make-up sets
+for [2024]({{< relref "/chips/gallery/2024" >}}) and [2022]({{< relref "/chips/gallery/2022" >}}).
 
 -----

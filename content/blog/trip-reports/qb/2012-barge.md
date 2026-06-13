@@ -714,4 +714,4 @@ floormen, waitresses, waiters, bartenders, cooks, etc.
 
 ---
 
-Can I sign up for [BARGE 2013](../2013-barge/) now?
+Can I sign up for [BARGE 2013]({{< relref "/blog/trip-reports/qb/2013-barge" >}}) now?

@@ -23,9 +23,9 @@ EMBARGO 2026 was held at Resorts World Las Vegas from January 29-February 1, 202
 We had an extra event on Sunday morning, stretching the weekend a little
 longer.  This was the first Sunday event when it wasn't a three-day weekend.
 
-* [Schedule](schedule/)
+* [Schedule]({{< relref "/embargo/2026/schedule" >}})
 * [Structure sheet](2026_EMBARGO_Structures.pdf)
-* [Results](results/)
+* [Results]({{< relref "/embargo/2026/results" >}})
 
 ---
 

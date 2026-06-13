@@ -33,7 +33,7 @@ instead of blues and sometimes gave away a white chip.
 
 These chips also look suspiciously like the cover of [Winning Low Limit
 Hold'em](https://www.amazon.com/Winning-Low-Limit-Holdem-Lee-Jones/dp/1886070237)
-by [Lee Jones](../1999/).  (Lee doesn't know where the art came from, and the
+by [Lee Jones]({{< relref "/chips/gallery/1999" >}}).  (Lee doesn't know where the art came from, and the
 edge spots are not the same.)
 
 * [Ordering information from the rec.gambling post](very-old-ordering-info.txt)

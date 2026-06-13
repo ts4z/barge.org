@@ -23,7 +23,7 @@ summary: >-
 
 BARGE 2025 was held at [The Orleans Hotel &
 Casino](https://orleans.boydgaming.com/) from July 28 through August 2.
-This was our first time back at the Orleans since [1999](../1999/)!
+This was our first time back at the Orleans since [1999]({{< relref "/barge/1999" >}})!
 
 Our banquet speaker was Chris "Fox" Wallace.  101 players entered the No Limit
 event, won by Gillian “tegwin” Groves.  Tournaments included pot-limit Omaha,
@@ -32,7 +32,7 @@ named Whammy CAR, and, in a true throwback, a Limit Hold'em tournament.
 [Binglaha](/rulebook/binglaha.html) made its triumphant return to the Reindeer
 Games.
 
-We have [full results](results/) as well as the archived [schedule](schedule/)
+We have [full results]({{< relref "/barge/2025/results" >}}) as well as the archived [schedule]({{< relref "/barge/2025/schedule" >}})
 and [tournament structures](2025_BARGE_Structures.pdf).
 
 ---

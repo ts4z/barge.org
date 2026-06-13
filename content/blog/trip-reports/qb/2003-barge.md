@@ -456,4 +456,4 @@ None of them exploded into flames and world continues to spin.
 Thanks to Chuck and Peter for bringing off a fantastic event.
 Thanks also to Nolan and Patrick and anyone else who helped out.
 Zimmers, Don Perry, Quick, we missed ya!  But we didn't miss a beat.
-Can I sign up for [BARGE 2004](../2004-barge/) now?
+Can I sign up for [BARGE 2004]({{< relref "/blog/trip-reports/qb/2004-barge" >}}) now?

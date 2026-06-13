@@ -13,6 +13,7 @@ title: BARGE.org
 theme: ["PaperMod"]
 sectionPagesMenu: main
 enableRobotsTXT: true
+relativeURLS: true
 taxonomies:
   tag: tags
 params:

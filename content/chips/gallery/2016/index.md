@@ -24,5 +24,5 @@ From the 2016 message that announced the sampler sets were available:
 > chess set is also available in 34 pieces so you have a complete chess set.
 
 Due to some design delays, these chips were actually produced at the same time
-as the [2017 chips](../2017/).
+as the [2017 chips]({{< relref "/chips/gallery/2017" >}}).
 

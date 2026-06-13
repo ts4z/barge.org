@@ -23,7 +23,7 @@ summary: >-
 Our 2020 chips were designed by 2019 Main Event winner Scott "Scottro" Harker
 with help from Patrick Milligan and Michael Brennan.
 
-Scott's chips were not produced until the [2025 batch](/tags/2025-batch/), but
+Scott's chips were not produced until the [2025 batch]({{< relref "/tags/2025-batch" >}}), but
 Scott had a design in mind dating back to 2020.  From his comments about these
 chips:
 
@@ -35,7 +35,7 @@ chips:
 > the desert sunset and I wanted to incorporate the sevens in there to replace
 > the sun, with rays of light behind them. [...]  I wanted to keep the common
 > reverse classic BARGE, so I incorporated some ideas from past sets. I really
-> like the sunburst design from the [2005](../2005/) chips[.]
+> like the sunburst design from the [2005]({{< relref "/chips/gallery/2005" >}}) chips[.]
 
 The purple chip is a little different:
 

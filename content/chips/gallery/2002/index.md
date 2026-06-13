@@ -28,7 +28,7 @@ standard &#8220;Southern California&#8221; set.
 This was the original appearance of what became the BARGE logo.  The X in XII
 is subtly split into two Vs, putting Presto on every chip.
 
-Russ won the main event again in [2020](../../../barge/2020/), and so was the first one to get [a second chip set](../2021/).
+Russ won the main event again in [2020]({{< relref "/barge/2020" >}}), and so was the first one to get [a second chip set]({{< relref "/chips/gallery/2021" >}}).
 
 ## Development Notes
 

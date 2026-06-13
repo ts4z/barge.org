@@ -17,6 +17,6 @@ This set was designed by 1995 NLHE champ Tom Sims. A 300 chip home set of these 
 presented to the 1996 BARGE NLHE Champ, Mike Zimmers.
 
 There were some issues with this chipset, which [Tom would periodically
-enumerate on rec.gambling.poker](/blog/chipco-manifesto/).
+enumerate on rec.gambling.poker]({{< relref "/blog/chipco-manifesto" >}}).
 
 Chip images provided from the collection of Tom Sims.
