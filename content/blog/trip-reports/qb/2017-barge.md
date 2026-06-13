@@ -938,7 +938,7 @@ Thanks to the board: Becca, Barry, Patti, Edmund and Bozo.
 Thanks to the organizers: Russ, Bremer, Deitch and Goldie.
 Remember to thank these people online and live.
 
-Tech Crew: Doug G., David Low and Barry.  [barge.org](/)
+Tech Crew: Doug G., David Low and Barry.  [barge.org]({{< relref "/" >}})
 is better than ever.[^1]  I wait all year for BARGE and somehow it doesn't
 disappoint.
 
@@ -961,4 +961,4 @@ Thanks also to all the other people who make BARGE go.
 
 ---
 
-Can I sign up for [BARGE 2018](../2018-barge/) now?
+Can I sign up for [BARGE 2018]({{< relref "/blog/trip-reports/qb/2018-barge" >}}) now?

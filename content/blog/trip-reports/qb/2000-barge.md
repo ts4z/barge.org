@@ -14,7 +14,7 @@ Wednesday, August 2nd
 ---------------------
 Driving to work, I remember Ed Baker's message about making your
 own BARGE chips.  I buy some plastic chips and my office-mate
-Cindy and I spend well over two hours constructing [BARGE chips](/chips/gallery/2000-qb/).
+Cindy and I spend well over two hours constructing [BARGE chips]({{< relref "/chips/gallery/2000-qb" >}}).
 Note to self: buy sticker paper with pre-cut circles next time.
 
 Fly down from San Jose.  Meet up with Jeff Okamoto, Mike Chow,
@@ -356,4 +356,4 @@ I arrived with and had a whole lot of fun with all of my poker playing
 pals.  Say *that* three times fast.  What a great group!
 
 Thanks once again to Mike and Chuck for bringing off a terrific event.
-Can I sign up for [BARGE 2001](../2001-barge/) now?
+Can I sign up for [BARGE 2001]({{< relref "/blog/trip-reports/qb/2001-barge" >}}) now?

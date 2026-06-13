@@ -17,7 +17,7 @@ finished second, and Spencer Sun was third. At the ToC-style event, Frank
 Jerome emerged victorious over David Croson and Connie Kellers. The banquet was
 held at the Golden Nugget, the speaker was Phil Hellmuth. The NL winner was
 Russ Fox who outlasted John Fleming and Don "ADB Bingo" Rieck. The
-[BARGE Chip Committee](/chips/bcc/) was formed and created this year's
+[BARGE Chip Committee]({{< relref "/chips/bcc" >}}) was formed and created this year's
 set. Eventual organizer Michael Patterson's first BARGE.
 
 -----

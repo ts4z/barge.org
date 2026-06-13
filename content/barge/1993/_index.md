@@ -8,7 +8,7 @@ tags:
 date: 1993-09-01
 ---
 
-Following the [1992 event](../1992/), A second meet-up was planned at the Rio,
+Following the [1992 event]({{< relref "/barge/1992" >}}), A second meet-up was planned at the Rio,
 and 18 people played in a two-table poker tournament at that venue. Roy
 Hashimoto was the eventual winner.  He flew into town the day of the
 tournament, and flew out after winning.  He took home [the inaugural BARGE chip

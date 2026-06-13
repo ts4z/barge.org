@@ -487,4 +487,4 @@ I hope BARGE 2005 will be at Binion's Horseshoe.
 Thanks to Chuck and Peter for all of their efforts. {{< br >}}
 Thanks also to Patrick, JZK, Kim, Fich, Rafn, Ploink and all the other 
 people that helped out.  Also have to thank PokerStars and Paradise. {{< br >}}
-Can I sign up for [BARGE 2005](../2005-barge/) now?
+Can I sign up for [BARGE 2005]({{< relref "/blog/trip-reports/qb/2005-barge" >}}) now?

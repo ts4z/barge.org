@@ -22,8 +22,8 @@ Ron Grossberg came up with the concept of a BARGE Welcome chip shortly after
 the end of BARGE 2016.  These are something that BARGErs could hand out, like a
 business card, to folks that might be interested in attending future BARGEs.
 The design effort was a collaboration between the [BARGE Chip
-Committee](../../bcc) and the [BARGE Welcoming
-Committee](/resources/barge-welcoming-committee/).
+Committee]({{< relref "/chips/bcc" >}}) and the [BARGE Welcoming
+Committee]({{< relref "/resources/barge-welcoming-committee" >}}).
 
 Michael McBride managed the design for the BARGE Chip Committee.  The chip
 designer was Michael Brennan.  The final design had the BARGE logo on one side

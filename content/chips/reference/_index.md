@@ -9,7 +9,7 @@ itemsOnTop: true
 We have various pieces of reference material available here of interest to
 those making chips, as well as others.
 
-The [BARGE Chip Committee](../bcc/) page has some history about the folks who
+The [BARGE Chip Committee]({{< relref "/chips/bcc" >}}) page has some history about the folks who
 help make chips.
 
 ### Chip Links

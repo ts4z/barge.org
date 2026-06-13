@@ -291,4 +291,4 @@ that I sat near or played against or said "hi" to.  You know who you
 are, thanks for making it a great long weekend.
 
 Thanks to Mike and Chuck for bringing off another terrific event.
-When do sign-ups for [BARGE 2000](../2000-barge/) start?
+When do sign-ups for [BARGE 2000]({{< relref "/blog/trip-reports/qb/2000-barge" >}}) start?

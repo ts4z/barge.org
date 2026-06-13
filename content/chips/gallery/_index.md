@@ -26,4 +26,4 @@ We also have [irregularly]({{< relref "2025-bonus" >}})
 [produced]({{< relref "2015-commemorative" >}})
 [one-off]({{< relref "2017-welcome" >}}) special chips.
 
-Scroll down, or just look at the [table of contents](../toc/).
+Scroll down, or just look at the [table of contents]({{< relref "/chips/toc" >}}).

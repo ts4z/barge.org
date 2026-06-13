@@ -27,7 +27,7 @@ his second win was in 2020 when the event was held online.  Because of this,
 his win merits an Asterisk.
 
 This, Russ' second set, highlights major sporting events that merit an
-Asterisk.  His first chip set, back in [2002](../2002/), used the theme of
+Asterisk.  His first chip set, back in [2002]({{< relref "/chips/gallery/2002" >}}), used the theme of
 “Rocks”.
 
 

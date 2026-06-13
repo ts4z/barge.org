@@ -151,4 +151,4 @@ BARGE Poker Tournament - build the dealer toke into the buy-in.
 
 Mike and Chuck, you guys R00L!
 
-I had a terrific time.  Hope to see you all again [next year](../1998-barge/)!
+I had a terrific time.  Hope to see you all again [next year]({{< relref "/blog/trip-reports/qb/1998-barge" >}})!

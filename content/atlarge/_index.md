@@ -25,7 +25,7 @@ the 30th in-person gathering (and 32nd overall!), and took place at The
 Borgata, the largest poker room in Atlantic City. Our three tournaments were on
 April 17, 18, and 19.
 
-ATLARGE is the New Jersey version of [BARGE](/barge/) (our group's biggest
+ATLARGE is the New Jersey version of [BARGE]({{< relref "/barge" >}}) (our group's biggest
 event, our annual gathering in Las Vegas in August). Roughly 200 people attend
 BARGE each year, and about 100 attend ATLARGE each year.
 

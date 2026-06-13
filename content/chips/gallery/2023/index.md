@@ -30,5 +30,5 @@ This set includes ducks for Independence Day, Valentine’s Day, Christmas,
 Thanksgiving, Easter, Mardi Gras, Halloween, and Summer Vacation.
 
 Sequentially, these are the first BARGE chips to feature denominations.
-They were produced as part of the [2025 batch](/tags/2025-batch/)
-and the [2025 chips](../2025/) also have denominations.
+They were produced as part of the [2025 batch]({{< relref "/tags/2025-batch" >}})
+and the [2025 chips]({{< relref "/chips/gallery/2025" >}}) also have denominations.

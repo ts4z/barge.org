@@ -380,4 +380,4 @@ the next BARGE.
 
 Thanks to Chuck and Peter for bringing off a terrific event.
 Zimmers, we missed ya! {{< br >}}
-Can I sign up for [BARGE 2003](../2003-barge/) now?
+Can I sign up for [BARGE 2003]({{< relref "/blog/trip-reports/qb/2003-barge" >}}) now?

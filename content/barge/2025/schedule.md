@@ -77,7 +77,7 @@ BARGE 2025 was held July 28 through August 2 at the Orleans Hotel &amp; Casino i
        Jones would have a $198 bounty ($100+’98), and Rich Bremer would have a
        $134 bounty ($100+’11+’23)
      - Even though it was an online free event, Russ Fox gets credit for his
-       2020 main event win[*](/chips/gallery/2021/) so his bounty would be $121 ($100+’01+’20)
+       2020 main event win[*]({{< relref "/chips/gallery/2021" >}}) so his bounty would be $121 ($100+’01+’20)
    - Bounties are funded from the prize pool
    - Bounties apply to all reentries should a champion bust and reenter
  - *featuring:*

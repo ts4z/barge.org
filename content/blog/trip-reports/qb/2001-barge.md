@@ -360,4 +360,4 @@ Thanks for making this such a great BARGE.  You can have the Mirage
 and Bellagio.  For gambling, I like Binion's Horseshoe.
 
 Thanks once again to Mike and Chuck for bringing off a terrific event.
-Can I sign up for [BARGE 2002](../2002-barge/) now?
+Can I sign up for [BARGE 2002]({{< relref "/blog/trip-reports/qb/2002-barge" >}}) now?
