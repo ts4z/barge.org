@@ -264,8 +264,9 @@ a.title-card {
 }
 
 .unmarked-link {
-    /* we have abused this to underline links differently */
-    box-shadow: none !important;
+    /* Easter-egg links that should not look like links. PaperMod v8+ draws
+       link underlines with text-decoration. */
+    text-decoration: none !important;
 }
 
 /* Cover image constraints */
