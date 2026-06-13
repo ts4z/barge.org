@@ -5,8 +5,11 @@ all of the subpages of that page.
 
 */ -}}
 
+{{- $arg := $.Get "ofPage" -}}
+{{- $page := .Page.GetPage $arg -}}
+{{- if not $page }}{{ errorf "subdirs: ofPage %q not found (%s)" $arg .Position }}{{ end -}}
 <ul>
-  {{ range (.Page.GetPage ($.Get "ofPage")).Pages }}
+  {{ range $page.Pages }}
   <li>
     <a href="{{ relref $ .Permalink }}">{{ .Title }}</a>
   </li>
