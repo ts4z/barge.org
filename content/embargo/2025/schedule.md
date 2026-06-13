@@ -2,8 +2,6 @@
 title: EMBARGO 2025 Schedule
 draft: false
 date: 2024-12-02
-aliases:
- - /embargo/schedule
 cover:
   image: logos/embargo_logo_2025.png
 summary: Event schedule for EMBARGO 2025 (which already happened).
