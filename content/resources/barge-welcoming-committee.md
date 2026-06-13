@@ -1,9 +1,5 @@
 ---
 title: BARGE Welcoming Committee
-aliases:
- - /welcoming-committee
- - /barge-welcoming-committee
- - /welcome
 tags:
  - welcome
 ---
