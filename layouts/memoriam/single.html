@@ -52,7 +52,7 @@
        alt="{{ .Title }}" class="friend-image"/>
 
   {{- if .Content }}
-  <div class="post-content">
+  <div class="post-content md-content">
     {{- if not (.Param "disableAnchoredHeadings") }}
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
