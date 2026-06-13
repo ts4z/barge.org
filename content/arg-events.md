@@ -22,13 +22,13 @@ has events in Atlantic City, Connecticut, Maryland, and multiple in Las Vegas!
 
 ## ATLARGE
 
-[ATLARGE](/atlarge/) (the *Atl*antic City *A*nnual *R*ec.*G*ambling
+[ATLARGE]({{< relref "/atlarge" >}}) (the *Atl*antic City *A*nnual *R*ec.*G*ambling
 *E*xcursion) is held annually in Atlantic City, NJ in the early spring.
 
 ATLARGE 2026 was April 16-19, 2026, at the Borgata.
 
-For more information, see the [ATLARGE page](/atlarge/) and [subscribe to
-the mailing list](/resources/mailing-lists/).
+For more information, see the [ATLARGE page]({{< relref "/atlarge" >}}) and [subscribe to
+the mailing list]({{< relref "/resources/mailing-lists" >}}).
 
 {{< hr-clear >}}
 
@@ -63,7 +63,7 @@ information...hope to see you in the future!
 
 ## TARGET
 
-[TARGET](/target/) is The Annual Rec.Gambling Entry Tournament.  It is a
+[TARGET]({{< relref "/target" >}}) is The Annual Rec.Gambling Entry Tournament.  It is a
 satellite into the World Series of Poker.  Created by Ken Kubey in 1994, it is
 the second oldest Rec.Gambling live event (after BARGE, which began in 1991.)
 It is held in Las Vegas during the World Series of Poker.
@@ -75,9 +75,9 @@ It is held in Las Vegas during the World Series of Poker.
 ## BARGE
 
 Our original and longest-running event, the original meet-up game,
-[BARGE](/barge/) has happened every year since 1991.
+[BARGE]({{< relref "/barge" >}}) has happened every year since 1991.
 
-[BARGE](/barge/) happens each summer in late July or early August.  We'll be
+[BARGE]({{< relref "/barge" >}}) happens each summer in late July or early August.  We'll be
 back at the Orleans in summer 2026.
 
 {{< hr-clear >}}
@@ -86,7 +86,7 @@ back at the Orleans in summer 2026.
 
 ## EMBARGO
 
-[EMBARGO](/embargo/) is a winter mini-BARGE, usually hosted early in the year
+[EMBARGO]({{< relref "/embargo" >}}) is a winter mini-BARGE, usually hosted early in the year
 and tends to run some more creative tournaments.
 
 Our most recent events have been at Resorts World in Las Vegas.

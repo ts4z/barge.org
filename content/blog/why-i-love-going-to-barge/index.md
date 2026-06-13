@@ -76,7 +76,7 @@ any circumstances and something that I do not want to waste my time working. I
 want to participate, and I want to enjoy myself.
 
 If you would like to know more about BARGE, and have an interest in any sort of
-Gaming, I highly suggest that you head over to [BARGE.org](/),
+Gaming, I highly suggest that you head over to [BARGE.org]({{< relref "/" >}}),
 check out the list of events, and see if there is something that you might like
 to participate in. Events include poker tournaments, of course, but there are
 also craps tournaments and craps crawls, blackjack tournaments, video poker
@@ -99,7 +99,7 @@ to play some of them after you get a chance to in the future.
 
 So, head on over to BARGE at Binion&rsquo;s starting on July 30th through
 August 5th (but if you want to participate in the tournaments you must register
-at [BARGE.org](/) by July 21st) and be prepared to have the
+at [BARGE.org]({{< relref "/" >}}) by July 21st) and be prepared to have the
 time of your life. And be sure to tell them that you heard about it on
 PokerTelegraph. Maybe we might get a chance to meet! And it&rsquo;s a great way
 to introduce yourself to one of the most fun group of poker players that you

@@ -580,4 +580,4 @@ Thanks again to Binion's.  The home of BARGE.
 Thanks also to all the other people who make BARGE go.
 Great job everyone!
 
-Can I sign up for [BARGE 2011](../2011-barge/) now?
+Can I sign up for [BARGE 2011]({{< relref "/blog/trip-reports/qb/2011-barge" >}}) now?

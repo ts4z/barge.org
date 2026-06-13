@@ -91,8 +91,8 @@ In the 1990s, CHIPCO made the first ceramic chips, which allowed designs right
 out to the edge.
 
 Paulson, the dominant maker of casino clay chips, countered by making "grand
-inlay" chips.  These include chips like the [1998](../../gallery/1998/) and
-[1999](../../gallery/1999/) BARGE chips.  These combine the advantages of clay
+inlay" chips.  These include chips like the [1998]({{< relref "/chips/gallery/1998" >}}) and
+[1999]({{< relref "/chips/gallery/1999" >}}) BARGE chips.  These combine the advantages of clay
 chips (better handling and wear) with the graphic flexibility of ceramic chips.
 
 Though we have complete freedom in printing, we have found we like our chips

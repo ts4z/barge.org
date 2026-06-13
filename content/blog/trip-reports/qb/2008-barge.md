@@ -795,4 +795,4 @@ Thanks also to all the other people who make BARGE go... {{< br >}}
 Dan, Sharon, Mark, David, Ice, Bruce, Ploink, Asya, Kevan,
 Bob, Patrick, Rodney, Un, Patti, Fich, the rest of the BCC
 and everyone else. {{< br >}}
-Can I sign up for [BARGE 2009](../2009-barge/) now?
+Can I sign up for [BARGE 2009]({{< relref "/blog/trip-reports/qb/2009-barge" >}}) now?

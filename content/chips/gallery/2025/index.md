@@ -20,7 +20,7 @@ summary: The 2025 chip theme, chosen by 2024 Main Event winner Tim Showalter, is
 The 2025 chip theme, chosen by 2024 Main Event winner Tim Showalter, is "Nuts".
 The reverse sides of the chips depict a variety of nuts, more or less.
 
-This is the second chipset with denominations.  The first was [2023](../2023/).
+This is the second chipset with denominations.  The first was [2023]({{< relref "/chips/gallery/2023" >}}).
 BARGE chips have traditionally eschewed them.  They were included at Tim's
 belligerent, tiresome insistence.
 
@@ -31,7 +31,7 @@ The edge design, stacked neatly, makes a repeating nut pattern.  (See [*Caro's
 Book of Poker
 Tells*](https://books.google.com/books?id=CNJDAgAAQBAJ&printsec=frontcover#v=onepage&q&f=false),
 tell \#1, "When I was a boy, I liked to play with blocks.")  This was inspired by the [2019 chip
-set](../2019/).
+set]({{< relref "/chips/gallery/2019" >}}).
 
 The common obverse side depicts a pinball bumper cap that also appears on Tim's
 cash game set, which Patrick also designed some years ago.

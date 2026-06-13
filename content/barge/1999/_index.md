@@ -12,7 +12,7 @@ cover:
 
 BARGE was held at the Orleans this year for the first[^1] time.
 
-[^1]: We returned to the Orleans in [2025](../2025/).
+[^1]: We returned to the Orleans in [2025]({{< relref "/barge/2025" >}}).
 
 The NL hold'em tournament saw 177 people enter. John Harkness won, Russ
 Rosenblum finished second, and Doug Langdon finished third. Rick Mombourquette
@@ -27,7 +27,7 @@ greatly outlasting the original event[^2].
 
 1999 marked the first year in which the "virgin" class was
 specifically called out, led by ["virgin queen" Beth
-Evan](/resources/virgin-queen/).
+Evan]({{< relref "/resources/virgin-queen" >}}).
 
 [^2]: The first two TOC events were won by rec.gambling folks, Chris "Jesus"
 Ferguson and Spencer "Zorak" Sun.

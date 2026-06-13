@@ -502,4 +502,4 @@ Thanks also to Patrick, Fich, Rafn, Warren and all the other
 people that helped out.  Sorry if I left out some names. {{< br >}}
 Also have to thank the mystery people
 that ponied up the cash to save BARGE 2006.  Thank you so much! {{< br >}}
-Can I sign up for [BARGE 2007](../2007-barge/) now?
+Can I sign up for [BARGE 2007]({{< relref "/blog/trip-reports/qb/2007-barge" >}}) now?

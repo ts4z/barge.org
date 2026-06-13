@@ -20,7 +20,7 @@ cover:
 menu: events
 ---
 Quick Links for [BARGE 2026]({{< relref "2026/" >}}):
-[Registration](/register)
+[Registration]({{< relref "/barge/2026/register" >}})
 [Schedule]({{< relref "2026/schedule/" >}})
 &mdash; [Previous BARGE Results]({{< relref "results/" >}})
 
@@ -42,7 +42,7 @@ on July 20-25, 2026.
 
 ### Registration
 
-[Register now for BARGE 2026](/register)
+[Register now for BARGE 2026]({{< relref "/barge/2026/register" >}})
         
 ### Who is Eligible to Register for BARGE?
               
@@ -103,9 +103,9 @@ All BARGE events are non-smoking.
 
 If you have a complaint, gripe, or other issue with anything you see above
 about BARGE (the event), remember that it is organized by the organizers under
-the direction of the [BARGE, Inc.](/inc/) directors &mdash; the directors are
+the direction of the [BARGE, Inc.]({{< relref "/inc" >}}) directors &mdash; the directors are
 probably who you want to work with.  A list of directors can be found
-[here](/inc/officers/).
+[here]({{< relref "/inc/officers" >}}).
 
 -----
 
@@ -118,5 +118,5 @@ Cover image: TOC in progress at BARGE 2024.
 
 We have a little bit of history split up by year.  (If you have any memories to
 share, please contact us!  Some years are quite light on detail.)  Start from
-the most recent, [2025](/barge/2025/), or the beginning, [1991](/barge/1991/).
+the most recent, [2025]({{< relref "/barge/2025" >}}), or the beginning, [1991]({{< relref "/barge/1991" >}}).
 

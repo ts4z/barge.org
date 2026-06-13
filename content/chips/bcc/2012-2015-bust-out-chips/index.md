@@ -21,6 +21,6 @@ were also no longer available for home use, so 39mm chips were produced.
 
 These chips were produced by 
 [Chipco International]({{< relref chipco-manifesto >}}),
-who produced the [2012 chipset](../../gallery/2012/).
+who produced the [2012 chipset]({{< relref "/chips/gallery/2012" >}}).
 
 These chips were designed by Patrick Milligan.

@@ -1132,4 +1132,4 @@ Thanks also to all the other people who make BARGE go.
 
 ---
 
-Can I sign up for [BARGE 2015](../2015-barge/) now?
+Can I sign up for [BARGE 2015]({{< relref "/blog/trip-reports/qb/2015-barge" >}}) now?

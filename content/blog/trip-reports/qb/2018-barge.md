@@ -1043,4 +1043,4 @@ I hope you do to.
 
 ---
 
-Can I sign up for [BARGE 2019](../2019-barge/) now?
+Can I sign up for [BARGE 2019]({{< relref "/blog/trip-reports/qb/2019-barge" >}}) now?

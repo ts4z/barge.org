@@ -37,14 +37,14 @@ mix:
   [***C***howaha](/rulebook/chowaha.html), 
   [***O***maha 8 or Better](/rulebook/omaha-high-low-eight-or-better.html), 
   and [***R***azz](/rulebook/razz.html).  This mix was played in memory
-  of Peter Secor at [EMBARGO 2026](/embargo/2026/).
+  of Peter Secor at [EMBARGO 2026]({{< relref "/embargo/2026" >}}).
 * EBOLA:
   [Stud ***E***ight or Better](/rulebook/stud-high-low-eight-or-better.html),
   [***B***adugi](/rulebook/badugi.html),
   [***O***maha 8 or Better](/rulebook/omaha-high-low-eight-or-better.html), 
   [***L***owball](/rulebook/california-lowball.html), and
   [Omah***a*** (high only)](/rulebook/omaha-high-only.html).
-  This was a tournament rotation at [EMBARGO 2015](/embargo/2015/).
+  This was a tournament rotation at [EMBARGO 2015]({{< relref "/embargo/2015" >}}).
 * SHOE:
   [***S***tud](/rulebook/stud.html), 
   [***H***old'em](/rulebook/texas-holdem.html), 

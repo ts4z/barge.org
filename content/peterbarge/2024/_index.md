@@ -16,6 +16,6 @@ at the nearby [Oaks Club](https://www.oakscardclub.com/).  They even let us run
 a player-dealt lowball game.  Sabyl got a text during dinner letting us know
 they found the bugs!
 
-Our tournament was held on Sunday, November 10th.  [Results are available](results/).
+Our tournament was held on Sunday, November 10th.  [Results are available]({{< relref "/peterbarge/2024/results" >}}).
 The tournament was held at the [Pinball Pirate](https://www.pinballpirate.com/) in Benicia.
 

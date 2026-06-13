@@ -8,10 +8,10 @@ tags:
  - Tom Sims
 ---
 
-Tom Sims did a lot of work on [BARGE chips](/chips/) even before the
-[BCC](/chips/bcc/).  He was an active participant on rec.gambling.poker, and
+Tom Sims did a lot of work on [BARGE chips]({{< relref "/chips" >}}) even before the
+[BCC]({{< relref "/chips/bcc" >}}).  He was an active participant on rec.gambling.poker, and
 every year, he'd share this, having been burned by quality issues with Chipco
-chips [for the 1996 chips](/chips/gallery/1996/).
+chips [for the 1996 chips]({{< relref "/chips/gallery/1996" >}}).
 
 BARGE switched to Paulson as our vendor for the next few chipsets, then back to
 Chipco, when Paulson proved difficult to work with.  Paulson no longer sells to

@@ -537,4 +537,4 @@ Thanks to Chuck, Peter, Mickdog and Nick for all of their efforts.
 Big thanks to the Binion's.  Truly my favorite hotel/casino in the world.
 Thanks also to Patrick, Fich, Rafn, Tim, Asya, Ice and all the other 
 people that helped out.  Sorry if I left out some names.
-Can I sign up for [BARGE 2008](../2008-barge/) now?
+Can I sign up for [BARGE 2008]({{< relref "/blog/trip-reports/qb/2008-barge" >}}) now?

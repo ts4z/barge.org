@@ -265,5 +265,5 @@ for about 10 seconds before resuming my jog to gate C22.
 I made it with about 4 minutes to spare.  Jim Bullard is on
 the same flight and we recap the trip on the way back to San Jose.
 
-I had a terrific time at my first BARGE and hope to be back [next year](../1997-barge/).
+I had a terrific time at my first BARGE and hope to be back [next year]({{< relref "/blog/trip-reports/qb/1997-barge" >}}).
 Zimmers r00lz, but Don Rieck is my hero.

@@ -442,4 +442,4 @@ Thanks to Chuck and Peter for all of their efforts. {{< br >}}
 Big thanks to the Plaza for having us and doing a very good job. {{< br >}}
 Thanks also to Patrick, Fich, Rafn, Warren and all the other 
 people that helped out.  Also have to thank PokerStars and Paradise. {{< br >}}
-Can I sign up for [BARGE 2006](../2006-barge/) now?
+Can I sign up for [BARGE 2006]({{< relref "/blog/trip-reports/qb/2006-barge" >}}) now?

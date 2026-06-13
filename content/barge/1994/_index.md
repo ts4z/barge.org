@@ -24,6 +24,6 @@ In fact, Chuck Weinstock tells us:
 > I had an appointment to meet with Jim Albrecht at Binion’s regarding 
 > [ConJelCo](https://www.conjelco.com/)
 > hosting results for the WSOP the following May. Mike Zimmers tagged along and
-> we also discussed the idea of holding [BARGE 1995](../1995/) there. Jim
+> we also discussed the idea of holding [BARGE 1995]({{< relref "/barge/1995" >}}) there. Jim
 > wholeheartedly embraced us.
 

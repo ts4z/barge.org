@@ -220,4 +220,4 @@ Did okay on the few slots I played.
 I met lots of nice people at this BARGE and was glad to see so many
 poker playing friends. {{< br >}}
 Thanks to Mike and Chuck for bringing off another wonderful event.
-When do sign-ups start for [BARGE ’99](../1999-barge/)?
+When do sign-ups start for [BARGE ’99]({{< relref "/blog/trip-reports/qb/1999-barge" >}})?

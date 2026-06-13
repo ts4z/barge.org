@@ -21,7 +21,7 @@ fund.
 
 We held our tournament as scheduled at the Pinball Pirate shop in Benicia,
 Buyin was $100, and we had 29 players for a prize pool of $2900.  Andrew Prock
-took down first place for $1,045.  [Full results are availale.](results/)
+took down first place for $1,045.  [Full results are availale.]({{< relref "/peterbarge/2025/results" >}})
 
 Peter was unable to attend, but quite a folks went to visit him at his house.
 

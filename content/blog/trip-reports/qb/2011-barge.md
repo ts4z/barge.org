@@ -780,4 +780,4 @@ Laughter particles.  Positive charge.
 
 Yes Jerrod, I'm insane, but at least I don't miss BARGE!
 
-Can I sign up for [BARGE 2012](../2012-barge/) now?
+Can I sign up for [BARGE 2012]({{< relref "/blog/trip-reports/qb/2012-barge" >}}) now?
