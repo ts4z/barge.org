@@ -2,10 +2,22 @@
 
 Include call-to-action buttons.
 
+Each CTA may carry optional "after" / "until" effective dates (see
+config).  A CTA is shown only once "after" has passed and until
+"until" is reached (until is exclusive).
+
 */}}
-{{- if and site.Params.ctas -}}
+{{- $now := now -}}
+{{- $ctas := slice -}}
+{{- range site.Params.ctas -}}
+  {{- $show := true -}}
+  {{- with .after }}{{ if $now.Before (time.AsTime .) }}{{ $show = false }}{{ end }}{{ end -}}
+  {{- with .until }}{{ if not ($now.Before (time.AsTime .)) }}{{ $show = false }}{{ end }}{{ end -}}
+  {{- if $show }}{{ $ctas = $ctas | append . }}{{ end -}}
+{{- end -}}
+{{- if $ctas -}}
 <div>
-  {{- range site.Params.ctas -}}
+  {{- range $ctas -}}
     <div class="cta-wrapper-wrapper">
       <a href="{{ .link }}">
         <div class="cta-wrapper">

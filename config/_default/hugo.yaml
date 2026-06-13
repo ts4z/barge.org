@@ -8,6 +8,7 @@
 
 baseURL: https://www.barge.org/
 languageCode: en-us
+timeZone: America/Los_Angeles
 title: BARGE.org
 theme: ["PaperMod"]
 sectionPagesMenu: main
@@ -34,12 +35,16 @@ params:
     - news
   # Keep these short so they're one line on a phone.  35 characters is great,
   # 40 will probably wrap on an iPhone SE.
+  # Each nextEvents / ctas entry may carry optional "after" and "until"
+  # effective dates (YYYY-MM-DD).  These require a rebuild to take effect.
   nextEvents:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: "https://argempoker.com/"
       text: "ARGEM June 12-14"
+      until: "2026-06-15"
     - link: "/barge/2026/"
       text: "BARGE July 20-25"
+      until: "2026-07-25"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.  As with
@@ -48,6 +53,8 @@ params:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: https://www.zeffy.com/en-US/ticketing/barge--2026
       text: "Register now for BARGE 2026!"
+      # Best guess.
+      until: "2026-07-15"
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
