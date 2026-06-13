@@ -20,7 +20,7 @@ params:
 
 {{< figure class="floatright40" src="bargechipslogo.png" alt="BARGE Chips Logo" >}}
 
-QUICK LINKS: [Chip orders open now!](https://secure.barge.org/order-chips/) &mdash; [the gallery]({{< relref "/chips/gallery" >}})
+QUICK LINKS: [the gallery]({{< relref "/chips/gallery" >}})
 
 It is a tradition of BARGE that each Main Event winner wins a custom
 chipset... that they "get to" design.  These chips are also sold as sample sets
