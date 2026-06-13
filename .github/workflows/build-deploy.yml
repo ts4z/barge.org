@@ -5,6 +5,8 @@ on:
     branches: [ "main" ]
   workflow_dispatch:
     branches: [ "main" ]
+  schedule:
+    - cron: "55 8 * * *"        # after midnight Las Vegas, server time UTC
 
 jobs:
   build-and-deploy-to-barge-dot-org:
