@@ -10,7 +10,6 @@ params:
   noDate: true
   notInMainMenu: true
 aliases:
- - /schedule1
  - /embargo-info
 ---
 
