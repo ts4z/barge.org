@@ -1,4 +1,6 @@
-{{- $section := site.GetPage (.Get "section") -}}
+{{- $arg := .Get "section" -}}
+{{- $section := site.GetPage $arg -}}
+{{- if not $section }}{{ errorf "year-results: section %q not found (%s)" $arg .Position }}{{ end -}}
 <div class="title-gallery">
   {{- range $section.Sections }}
     {{- $results := .GetPage "results" }}
