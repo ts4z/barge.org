@@ -56,6 +56,10 @@ params:
       text: "Register now for BARGE 2026!"
       # Best guess.
       until: "2026-07-15"
+    - link: /barge/2026/hotel/
+      text: "Reserve Orleans Rooms @ BARGE rate"
+      # Best guess.
+      until: "2026-07-15"
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
