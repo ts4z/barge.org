@@ -3,7 +3,6 @@ title: Officers
 draft: false
 aliases: 
  - /officers
- - /officers/
 tags:
  - inc
 summary: Our Board of Directors directs the Organizers to organize.
