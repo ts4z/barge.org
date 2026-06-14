@@ -35,22 +35,23 @@ a good start.
 Titles, headings, and subheadings
 ---------------------------------
 
-Equal-underlined makes big titles.  Dash-underline makes small titles.
+One hash (`#`) in column 1 makes a big title (h1).  Two hash makes a small
+title (h2).
+
+You can also make titles with underlines, at least for h1 and h2.  See this
+file (raw) for some examples.
 
 The number of dashes don't have to be the same as the text, but if they are, it
 looks nicer.  Four of either is enough to convince the parser.
 
 Pages have exactly one title, so only the first thing is a title.  After that,
 use subheadings.  Since the title of our documents lives in the frontmatter,
-avoid using `#` and `===`-underlined titles, because Hugo will add that.
+avoid using `#` and `====`-underlined titles, because Hugo will add that.
+Start with `##` and `----`.
 
 ### Other titles
 
 This title is an h3-type title labeled with hash marks in column 0.
-
-Alternatively, a leading `# ` sequence makes a first-level title (equal-line),
-and `## ` makes a second level (dash-line) title.  I prefer `=` and `-`
-underlined titles, but these are fine, too.
 
 Note that you must put the `#` followed by a space.  Otherwise some tools will
 think it's a hashtag.
@@ -171,29 +172,24 @@ Markdown, or GFM.
 We are not using this as a consequence of being hosted on GitHub, it's just a
 conveneient standard.
 
-Note that the BARGE rulebook currently uses a different parser that does not
-support tables or footnotes.  Ask Tim if he finds this annoying.[^1]
-
-[^1]: He does.
-
-|                                     tables... | are a common extension                                                 |
-|----------------------------------------------:|------------------------------------------------------------------------|
-|                                      are easy |                                                                        |
-|                this column is right-justified | this column is left-justified                                          |
-| (note the colon in the divider controls this) | (all columns are left-justified by default)                            |
-|              this heading is left justfied... | this one is centered...                                                |
-|               ... because the whole column is | ... which is the default, even though the data is left-justified       |
-|                                               | (but you can make this more explicit with a colon in the divider line) |
-|                                               | GFM Markdown tables are not as                                         |
-|                                               | general as HTML tables                                                 |
-|                                               | ... you can't merge cells, for instance                                |
-|                                               | ... for very complicated tables, we might have to use raw HTML,        |
-|                                               | but it hasn't come up yet.                                             |
+|                                     tables... |                                 | are a common extension                                                 |
+|----------------------------------------------:|:-------------------------------:|------------------------------------------------------------------------|
+|                                      are easy |                                 |                                                                        |
+|                                               |                                 |                                                                        |
+|                this column is right-justified | this one is centered...         | this column is left-justified                                          |
+| (note the colon in the divider controls this) | ... because the whole column is | (all columns are left-justified by default)                            |
+|                                               |                                 | (but you can make this more explicit with a colon in the divider line) |
+|                                               |                                 |                                                                        |
+|                                               |                                 | GFM Markdown tables are not as                                         |
+|                                               |                                 | general as HTML tables                                                 |
+|                                               |                                 | ... you can't merge cells, for instance                                |
+|                                               |                                 |                                                                        |
+|                   for very complicated tables | we use raw HTML                 | but rarely                                                             |
 
 ## Shortcodes
 
 Hugo supports "shortcodes".  The details of this are not here.  The
-implementations are in layouts/shortcodes/
+implementations are in layouts/_shortcodes/
 
 In general, we use these for semantic marking that gets turned into HTML.
 
