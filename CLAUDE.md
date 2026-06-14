@@ -35,6 +35,13 @@ The theme is our fork of PaperMod, at `themes/barge-PaperMod`
 (<https://github.com/ts4z/barge-hugo-PaperMod>).  It must be installed;
 `git submodule update --init --recursive` will fetch it.
 
+If you find a `themes/PaperMod` directory, or the submodule path/URL still
+points at upstream, this checkout predates the rename to `barge-PaperMod`.
+Run the migration steps in README.md (under "Clone this repository", the
+"Theme renamed" note): `git submodule sync --recursive`,
+`git submodule update --init --recursive`, then `rm -rf themes/PaperMod`.
+Do this automatically before building.
+
 It is fine to make theme changes in `barge-PaperMod`, but they must be pushed
 to the `barge-hugo-PaperMod` repository, not committed inside this repo.
 **Sequencing matters:** before committing a change to barge.org that bumps the
