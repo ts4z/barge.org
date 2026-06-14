@@ -14,8 +14,8 @@ invoked on the same page once.  */ -}}
   {{ end }}
   
   <!-- Next and previous buttons -->
-  <a style="box-shadow:none;" class="ss-ctrl ss-prev" onclick="stepSlide('ss{{- $classID -}}', -1)">&#10094;</a>
-  <a style="box-shadow:none;" class="ss-ctrl ss-next" onclick="stepSlide('ss{{- $classID -}}', 1)">&#10095;</a>
+  <a class="ss-ctrl ss-prev" onclick="stepSlide('ss{{- $classID -}}', -1)">&#10094;</a>
+  <a class="ss-ctrl ss-next" onclick="stepSlide('ss{{- $classID -}}', 1)">&#10095;</a>
 
   <script> initSlides("ss{{- $classID -}}",
             {{- if .Params.time -}}
