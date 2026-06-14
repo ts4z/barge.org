@@ -127,7 +127,7 @@ body {
   font-size: 18px;
   transition: 0.6s ease;
   user-select: none;
-  box-shadow: none;
+  text-decoration: none !important;
 }
 
 /* Position the "next button" to the right */
