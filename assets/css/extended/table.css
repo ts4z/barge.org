@@ -1,7 +1,13 @@
-td, th {
+table td, table th {
     border: none !important;
     padding: 2px !important;
     padding-left: 10px !important;
+    width: auto;
+    background-color: inherit;
+}
+
+table th {
+    border-bottom: 2px solid var(--border) !important;
 }
 
 table th:empty {
@@ -11,4 +17,10 @@ table th:empty {
 table {
     border-top: 2px solid var(--border) !important;
     border-bottom: 2px solid var(--border) !important;
+    display: table !important;
+    border-collapse: collapse;
+}
+
+table tr:nth-child(odd) {
+  background-color: oklch(from var(--theme) calc(l - 0.015) c h);
 }
