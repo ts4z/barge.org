@@ -31,8 +31,8 @@ title: BARGE 2013 Results
 
 {{< tournament
     event="Chinese Poker"
-    buyin="Tuesday, July 30th, 2013"
-    date="$60+$15"   >}}
+    date="Tuesday, July 30th, 2013"
+    buyin="$60+$15"   >}}
 
 |   |               |      |
 |--:|---------------|------|
