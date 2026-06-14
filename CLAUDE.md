@@ -20,7 +20,7 @@ hugo server --buildDrafts
 
 The site builds to `public/`. The staging config in `config/staging/hugo.yaml` overrides the base URL to `https://test.bjrge.org/`.
 
-The PaperMod theme is a git submodule. If `themes/PaperMod` is empty (fresh clone or missed `--recurse-submodules`), Hugo will build but most list/section pages will 404 because `baseof.html` lives in the theme. Fix with `git submodule update --init --recursive`.
+The theme is a git submodule (our fork of PaperMod, at `themes/barge-PaperMod`). If `themes/barge-PaperMod` is empty (fresh clone or missed `--recurse-submodules`), Hugo will build but most list/section pages will 404 because `baseof.html` lives in the theme. Fix with `git submodule update --init --recursive`.
 
 ### git
 
@@ -29,13 +29,23 @@ Make small, self-contained git commits whenever possible.
 
 When pulling from remote, use `git pull --rebase`, not `git pull`.
 
-### PaperMod
+### Theme submodule
 
-PaperMod must be installed.  `git submodule update --init --recursive` will fetch it.
+The theme is our fork of PaperMod, at `themes/barge-PaperMod`
+(<https://github.com/ts4z/barge-hugo-PaperMod>).  It must be installed;
+`git submodule update --init --recursive` will fetch it.
+
+It is fine to make theme changes in `barge-PaperMod`, but they must be pushed
+to the `barge-hugo-PaperMod` repository, not committed inside this repo.
+**Sequencing matters:** before committing a change to barge.org that bumps the
+submodule to a new theme commit, push that commit to `barge-hugo-PaperMod`
+first.  Otherwise the pinned commit will not exist on the remote and CI (and
+collaborators) will fail to fetch the submodule.  Theme changes should
+generally also be offered upstream to PaperMod.
 
 ## Architecture Overview
 
-This is a [Hugo](https://gohugo.io/) static site for BARGE.org, the website for BARGE (Big Annual Rec.Gambling Excursion) and related poker community events. The theme is [PaperMod](https://github.com/adityatelange/hugo-PaperMod), with significant custom layouts extending it.
+This is a [Hugo](https://gohugo.io/) static site for BARGE.org, the website for BARGE (Big Annual Rec.Gambling Excursion) and related poker community events. The theme is our fork of [PaperMod](https://github.com/adityatelange/hugo-PaperMod), [barge-PaperMod](https://github.com/ts4z/barge-hugo-PaperMod), installed as the `themes/barge-PaperMod` submodule, with significant custom layouts extending it.
 
 ### Content Sections
 

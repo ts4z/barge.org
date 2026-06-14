@@ -106,9 +106,9 @@ Update these in [config/_default/hugo.yaml](config/_default/hugo.yaml) for site-
 ## Styling and Partials
 
 - Custom partials in `layouts/_partials/` extend PaperMod theme (e.g., `ctas.html`, `next-events.html`, `common-header.html`)
-- **PaperMod theme override workflow**: Theme lives in `themes/PaperMod/` as git submodule - DO NOT modify files there directly
-  - To override theme behavior: copy file from `themes/PaperMod/layouts/` to `layouts/` with same path structure
-  - Example: Override `themes/PaperMod/layouts/partials/footer.html` by creating `layouts/partials/footer.html`
+- **Theme override workflow**: Theme lives in `themes/barge-PaperMod/` (our fork of PaperMod) as a git submodule - DO NOT modify files there directly in this repo
+  - To override theme behavior: copy file from `themes/barge-PaperMod/layouts/` to `layouts/` with same path structure
+  - Example: Override `themes/barge-PaperMod/layouts/partials/footer.html` by creating `layouts/partials/footer.html`
   - This pattern accommodates eventual theme replacement or removal
 - CSS customizations: `assets/css/` (theme provides base styles)
 - Do not write extensive custom HTML - use shortcodes or create new layout types instead
@@ -153,4 +153,4 @@ Update these in [config/_default/hugo.yaml](config/_default/hugo.yaml) for site-
 - [CHEATSHEET.md](CHEATSHEET.md) - Markdown examples and syntax reference
 - [README.md](README.md) - Full setup and deployment guide
 - Hugo shortcodes: `layouts/_shortcodes/*.html`
-- Theme documentation: `themes/PaperMod/README.md`
+- Theme documentation: `themes/barge-PaperMod/README.md`
