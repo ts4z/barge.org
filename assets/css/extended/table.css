@@ -1,0 +1,14 @@
+td, th {
+    border: none !important;
+    padding: 2px !important;
+    padding-left: 10px !important;
+}
+
+table th:empty {
+    display: none;
+}
+
+table {
+    border-top: 2px solid var(--border) !important;
+    border-bottom: 2px solid var(--border) !important;
+}
