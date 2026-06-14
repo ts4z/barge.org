@@ -25,7 +25,7 @@ a thirteen year-old tradition of drunken degenerate gamb00ling and
 debauchery that is unparalleled in the annals of time, except for my
 home game.  It is held annually in Las Vegas on the first weekend in
 August.  If you haven&rsquo;t been, you should; just like Vegas itself, it
-must be experienced at least once in one&rsquo;s life.  Visit www.barge.org
+must be experienced at least once in one&rsquo;s life.  Visit [www.barge.org]({{< relref "/" >}})
 for more information.
 
 DISCLAIMER:  This trip report is based on a true story, which means,
@@ -230,7 +230,7 @@ a thirteen year-old tradition of drunken degenerate gamb00ling and
 debauchery that is unparalleled in the annals of time, except for my
 home game.  It is held annually in Las Vegas on the first weekend in
 August.  If you haven't been, you should; just like Vegas itself, it
-must be experienced at least once in one's life.  Visit www.barge.org
+must be experienced at least once in one's life.  Visit [www.barge.org]({{< relref "/" >}})
 for more information.
 
 DISCLAIMER:  This trip report is based on a true story, which means,
@@ -450,7 +450,7 @@ a thirteen year-old tradition of drunken degenerate gamb00ling and
 debauchery that is unparalleled in the annals of time, except for my
 home game.  It is held annually in Las Vegas on the first weekend in
 August.  If you haven't been, you should; just like Vegas itself, it
-must be experienced at least once in one's life.  Visit www.barge.org
+must be experienced at least once in one's life.  Visit [www.barge.org]({{< relref "/" >}})
 for more information.
 
 DISCLAIMER:  This trip report is based on a true story, which means,
@@ -670,7 +670,7 @@ a thirteen year-old tradition of drunken degenerate gamb00ling and
 debauchery that is unparalleled in the annals of time, except for my
 home game.  It is held annually in Las Vegas on the first weekend in
 August.  If you haven&rsquo;t been, you should; just like Vegas itself, it
-must be experienced at least once in one&rsquo;s life.  Visit www.barge.org
+must be experienced at least once in one&rsquo;s life.  Visit [www.barge.org]({{< relref "/" >}})
 for more information.
 
 DISCLAIMER:  This trip report is based on a true story, which means,

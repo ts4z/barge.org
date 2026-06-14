@@ -93,11 +93,11 @@ BARGE.  Now, I would like to provide some pointers for the BARGE first timer
 that may help you overcome your feeling of "outsiderness".
 
 * Read all you can about Barge.  All information about BARGE can be found at
-  www.barge.org.  There is a very detailed description of the long and storied
+  [www.barge.org]({{< relref "/" >}}).  There is a very detailed description of the long and storied
   history of BARGE in all its gory detail.
 * All BARGErs wear the customary BARGE Badge.  These badges are created for you
   by the organizers and you can only get one if you have signed up for BARGE at
-  www.barge.org.  Signup opens up around the May-June time frame each year,
+  [www.barge.org]({{< relref "/" >}}).  Signup opens up around the May-June time frame each year,
   watch the [BARGE Email list]({{< relref "/resources/mailing-lists" >}}) for more details.  These badges
   are how we identify other BARGErs, both old timers and new comers.  When you
   arrive at the host casino, please come up and introduce yourself to anyone
