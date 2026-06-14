@@ -73,16 +73,28 @@ Good luck.
 On GitHub, just above and to the right of this text area, go to the Code
 dropdown and pick "ssh".  Run that.
 
-The PaperMod theme is a git submodule, so you need to either clone with
+The theme is a git submodule, so you need to either clone with
 `--recurse-submodules` or, after cloning, run:
 
 ```sh
 git submodule update --init --recursive
 ```
 
-Without this, `themes/PaperMod` will be empty and most pages will 404 (Hugo
-falls through to a bare "Page Not Found" because the theme's `baseof.html` is
-missing).
+Without this, `themes/barge-PaperMod` will be empty and most pages will 404
+(Hugo falls through to a bare "Page Not Found" because the theme's
+`baseof.html` is missing).
+
+> **Theme renamed (June 2026):** the theme submodule moved from
+> `themes/PaperMod` (upstream) to `themes/barge-PaperMod` (our fork,
+> <https://github.com/ts4z/barge-hugo-PaperMod>). If you cloned before this
+> change, run the following once to pick up the new name/URL and clear the old
+> directory:
+>
+> ```sh
+> git submodule sync --recursive
+> git submodule update --init --recursive
+> rm -rf themes/PaperMod
+> ```
 
 #### Test your edits
 
