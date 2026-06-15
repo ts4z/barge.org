@@ -1,26 +1,53 @@
-table td, table th {
-    border: none !important;
-    padding: 2px !important;
-    padding-left: 10px !important;
+/* Editorial look: top/bottom rules on the table, an underline under the header
+ * row, tight cells, and a deliberately subtle zebra stripe. 
+ *
+ * Selectors mirror the theme's own table selector (same :not(...) list) so
+ * they match its specificity and win on source order (no !important required).
+ * The :not(...)  also leaves code-highlight tables to the theme.  `display:
+ * table` overrides the reset's `table { display: block }` so rows (and the
+ * zebra) fill the full table width.
+ */
+.md-content .table-scroll {
+    overflow-x: auto;
+    /* overflow-x makes this a block formatting context, which would sit beside
+     * floated figures instead of below them; clear both so tables always start
+     * on their own line. */
+    clear: both;
+}
+
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) {
+    display: table;
     width: auto;
-    background-color: inherit;
-}
-
-table th {
-    border-bottom: 2px solid var(--border) !important;
-}
-
-table th:empty {
-    display: none;
-}
-
-table {
-    border-top: 2px solid var(--border) !important;
-    border-bottom: 2px solid var(--border) !important;
-    display: table !important;
+    min-width: 100%;
+    border-top: 2px solid var(--border);
+    border-bottom: 2px solid var(--border);
     border-collapse: collapse;
 }
 
-table tr:nth-child(odd) {
-  background-color: oklch(from var(--theme) calc(l - 0.015) c h);
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) th,
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+    border: none;
+    padding: 3px;
+    padding-left: 10px;
+    width: auto;
+    background-color: inherit;
+    font-variant-numeric: tabular-nums;
+}
+
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) th {
+    border-bottom: 2px solid var(--border);
+}
+
+/* Hide empty first row (which we must have to make Goldmark see them as
+   tables, but we frequently don't use them). */
+.md-content table th:empty {
+    display: none;
+}
+
+/* Add a subtle background color difference.  On results pages this is minor;
+   on schedule pages, which are quite large, it helps the rows subtly stand
+   out.  0.015 was the least shading difference I could see in both light and
+   dark modes. */
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) tr:nth-child(odd) {
+    background-color: oklch(from var(--theme) calc(l - 0.015) c h);
 }
