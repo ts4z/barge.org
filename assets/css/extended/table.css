@@ -16,6 +16,10 @@
  * overflowing the page. */
 .md-content .table-scroll {
     overflow-x: auto;
+    /* overflow-x makes this a block formatting context, which would sit beside
+     * floated figures instead of below them; clear both so tables always start
+     * on their own line. */
+    clear: both;
 }
 
 .md-content table:not(.highlighttable, .highlight table, .gist .highlight) {
