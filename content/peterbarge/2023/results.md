@@ -9,7 +9,7 @@ summary: Results for the tournament.
     entries=43 >}}
     
 |   |                  |       |
-|--:|------------------|-------|
+|--:|------------------|-------:|
 | 1 | Chris Kuntz      | $1240 |
 | 2 | Gerald Jeong     | $880  |
 | 3 | David Kluchman   | $680  |

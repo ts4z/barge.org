@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Pete Segal | $3,774 |
 | 2 | Ron Lyons | $1,887 |
 | 3 | Brenda Mowrey | $1,110 |
@@ -37,7 +37,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="Seven-Card Stud Hi/Lo" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Tom Bessoir | $1,890 |
 | 2 | Tina Gonzalez | $1,050 |
 | 3 | Ross Poppel | $630 |
@@ -48,7 +48,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="ToC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Tracy Becker | $2,664 |
 | 2 | Chris O’Connor | $1,480 |
 | 3 | Kevin Conlon | $814 |

@@ -16,7 +16,7 @@ title: BARGE 2015 Results
     bonus="($3,500 payouts, $1,750 bounties)" >}}
 
 |   |                  |      |
-|--:|------------------|------|
+|--:|------------------|------:|
 | 1 | Warren Sander    | $925 |
 | 2 | David Lawful     | $680 |
 | 3 | Russ Fox         | $505 |
@@ -33,7 +33,7 @@ title: BARGE 2015 Results
     prize-pool=$4410 >}}
 
 |   |                 |       |
-|--:|-----------------|-------|
+|--:|-----------------|-------:|
 | 1 | Chris Mecklin   | $1145 |
 | 2 | Doug Grismore   | $830  |
 | 3 | Sean McGuiness  | $660  |
@@ -51,7 +51,7 @@ title: BARGE 2015 Results
     prize-pool=$2,170 >}}
 
 |   |                  |      |
-|--:|------------------|------|
+|--:|------------------|------:|
 | 1 | Kenny Shei       | $910 |
 | 2 | Patti Beadles    | $565 |
 | 3 | David Croson     | $390 |
@@ -63,7 +63,7 @@ title: BARGE 2015 Results
     prize-pool=$6,225 >}}
 
 |    |                     |       |
-|---:|---------------------|-------|
+|---:|---------------------|-------:|
 |  1 | Larry Bierman       | $1620 |
 |  2 | Scott Samarel       | $1186 |
 |  3 | Paul Stine          | $935  |
@@ -83,7 +83,7 @@ title: BARGE 2015 Results
     prize-pool=$6375 >}}
 
 |    |                  |       |
-|---:|------------------|-------|
+|---:|------------------|-------:|
 |  1 | Michael Maurer   | $1645 |
 |  2 | Sharon Goldman   | $1200 |
 |  3 | Dean Kerl        | $945  |
@@ -101,7 +101,7 @@ Open Face Pineapple
 $1375 prize pool
 
 |   |                   |      |
-|--:|-------------------|------|
+|--:|-------------------|------:|
 | 1 | Erin Ramsay       | $490 |
 | 2 | Jordan Devenport  | $330 |
 | 3 | Dan Goldman       | $235 |
@@ -114,7 +114,7 @@ $1375 prize pool
     prize-pool=$4590 >}}
 
 |   |                  |       |
-|--:|------------------|-------|
+|--:|------------------|-------:|
 | 1 | David Kluchman   | $1720 |
 | 2 | Paul McMullin    | $1400 |
 | 3 | Steve Eisenstein | $825  |
@@ -126,7 +126,7 @@ $1375 prize pool
     prize-pool=$1595 >}}
 
 |   |               |      |
-|--:|---------------|------|
+|--:|---------------|------:|
 | 1 | Corey Imsdahl | $480 |
 | 2 | Jeanne David  | $480 |
 | 3 | Oliver Juang  | $270 |
@@ -175,7 +175,7 @@ $1375 prize pool
     prize-pool=$11500 >}}
 
 |    |                  |       |
-|---:|------------------|-------|
+|---:|------------------|-------:|
 |  1 | Jordan Devenport | $2860 |
 |  2 | Mike Connors     | $2175 |
 |  3 | Melissa Hayden   | $1600 |
@@ -196,7 +196,7 @@ $1375 prize pool
     prize-pool=$16920 >}}
 
 |  | | |
-|--:|---|---|
+|--:|---|---:|
 |1| Jennifer Shahade| $4215|
 |2| Bree Goldman| $3030|
 |3| Jordan Devenport| $2360|

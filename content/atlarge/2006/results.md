@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="Seven-Card Stud" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | John Harkness | $2,205 |
 | 2 | Bill Chen | $1,225 |
 | 3 | Jerrod Ankenman | $735 |
@@ -24,7 +24,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="H.O.E." >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Jodi Neufeld | $3,810 |
 | 2 | Gabe DeVitto | $2,000 |
 | 3 | Robert Catlett | $1,000 |
@@ -47,7 +47,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Joe Hammond | $6,630 |
 | 2 | Len Greenberg | $3,480 |
 | 3 | Jazbo Burns | $1,740 |

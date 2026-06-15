@@ -21,7 +21,7 @@ cover:
     date="Thursday, January 16, 2025" >}}
 
 |   |                         |        |
-|--:|-------------------------|--------|
+|--:|-------------------------|--------:|
 | 1 | Andrew “drewster” Prock | $1,184 |
 | 2 | Mary “MadMary” Massey   | $1,095 |
 | 3 | Ellis “Drackala” Starks | $731   |
@@ -38,7 +38,7 @@ cover:
     date="Friday, January 17, 2025" >}}
 
 |   |                                  |        |
-|--:|----------------------------------|--------|
+|--:|----------------------------------|--------:|
 | 1 | Mark “Bluffing Viking” Haroldson | $1,127 |
 | 2 | David “Heldar” Heller            | $794   |
 | 3 | Andrew “drewster” Prock          | $609   |
@@ -55,7 +55,7 @@ cover:
     date="Friday, January 17, 2025" >}}
 
 |   |                               |        |
-|--:|-------------------------------|--------|
+|--:|-------------------------------|--------:|
 | 1 | Doug “Snoop” Grismore         | $1,158 |
 | 2 | Sharon “ADB Shaza” Goldman    | $762   |
 | 3 | Lennie “LenFuego” Augustine   | $531   |
@@ -71,7 +71,7 @@ cover:
     date="Saturday, January 18, 2025" >}}
 
 |   |                               |        |
-|--:|-------------------------------|--------|
+|--:|-------------------------------|--------:|
 | 1 | Peter “ADB Foldem” Secor      | $1,926 |
 | 2 | Andrew “drewster” Prock       | $1,595 |
 | 3 | Nancy “NancyR13” Robertson    | $1,136 |
@@ -90,7 +90,7 @@ cover:
     date="Saturday, January 18, 2025" >}}
 
 |   |                             |      |
-|--:|-----------------------------|------|
+|--:|-----------------------------|------:|
 | 1 | Rich “Omaholic” Bremer      | $896 |
 | 2 | Sabyl “Kaismom” Landrum     | $606 |
 | 3 | Dan “ADB smalltalk” Goldman | $586 |
@@ -108,7 +108,7 @@ cover:
     date="Sunday, January 19, 2025" >}}
 
 |   |                                     |      |
-|--:|-------------------------------------|------|
+|--:|-------------------------------------|------:|
 | 1 | Christian “Dr. Doofenshmirtz“ Jones | $817 |
 | 2 | Scott “Bwana” Byron                 | $574 |
 | 3 | Bex “Redbird77” Kerl                | $439 |
@@ -142,7 +142,7 @@ cover:
     date="Sunday, January 19, 2025" >}}
 
 |   |                         |      |
-|--:|-------------------------|------|
+|--:|-------------------------|------:|
 | 1 | Jesse Capps             | $924 |
 | 2 | Andrew “drewster” Prock | $572 |
 | 3 | Bex “Redbird77” Kerl    | $396 |

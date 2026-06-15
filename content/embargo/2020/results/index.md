@@ -23,7 +23,7 @@ prize-pool="$2,170"
 bonus="$2,000 donated to American Cancer Society" >}}
 
 |   |                                      |      |
-|--:|--------------------------------------|------|
+|--:|--------------------------------------|------:|
 | 1 | Rebecca "Redbird" Kerl     | $756 |
 | 2 | James "Hamme" Hammer       | $496 |
 | 3 | Andreas "Not Sure" Wolfram | $344 |
@@ -41,7 +41,7 @@ Redbird also wins the Full Monte Award!
     prize-pool="$3,430" >}}
 
 |   |                                        |      |
-|--:|----------------------------------------|------|
+|--:|----------------------------------------|------:|
 | 1 | David "David" Kluchman       | $800 |
 | 2 | Larry "Azalphapoker" Bierman | $685 |
 | 3 | Karen "LR" Adams             | $684 |
@@ -59,7 +59,7 @@ players=34
 prize-pool="$2,380" >}}
 
 |   |                                      |      |
-|--:|--------------------------------------|------|
+|--:|--------------------------------------|------:|
 | 1 | Chris "SharkBait" Kluchman | $654 |
 | 2 | Corey "Ling Cod" Imsdahl   | $654 |
 | 3 | David "sam_6" Lawful       | $371 |
@@ -76,7 +76,7 @@ prize-pool="$2,380" >}}
     prize-pool="$5,400" >}}
 
 |   |                                           |        |
-|--:|-------------------------------------------|--------|
+|--:|-------------------------------------------|--------:|
 | 1 | Jared "Mr3putt" Anderson        | $1,372 |
 | 2 | Russell "Messenger of Doom" Fox | $1,134 |
 | 3 | Linda M "Llew" Lewis            | $864   |
@@ -94,7 +94,7 @@ prize-pool="$2,380" >}}
     prize-pool="$4,060" >}}
 
 |   |                                       |        |
-|--:|---------------------------------------|--------|
+|--:|---------------------------------------|--------:|
 | 1 | Kirk "RogueRat" Oshiro      | $1,080 |
 | 2 | Scott "Samarai" Samarel     | $811   |
 | 3 | Kenny "QB" Kubey            | $618   |

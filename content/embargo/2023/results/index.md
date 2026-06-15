@@ -21,7 +21,7 @@ summary: Complete results for EMBARGO 2023.
     prize-pool="$4,000" >}}
 
 |   |                                              |        |
-|--:|----------------------------------------------|--------|
+|--:|----------------------------------------------|--------:|
 | 1 | Dave Low                                     | $1,220 |
 | 2 | Russell "Messenger of Doom" Fox    | $860   |
 | 3 | Nolan "COMMUNITY" Hee              | $660   |
@@ -38,7 +38,7 @@ summary: Complete results for EMBARGO 2023.
     prize-pool="$4,000" >}}
 
 |   |                                          |        |
-|--:|------------------------------------------|--------|
+|--:|------------------------------------------|--------:|
 | 1 | Nolan "COMMUNITY" Hee          | $1,240 |
 | 2 | Scott "samarai" Samarel        | $880   |
 | 3 | Dan "ADB smalltalk" Goldman    | $680   |
@@ -55,7 +55,7 @@ summary: Complete results for EMBARGO 2023.
     image-alt="James Hammer" >}}
 
 |   |                                         |        |
-|--:|-----------------------------------------|--------|
+|--:|-----------------------------------------|--------:|
 | 1 | James "Hammer" Hammer         | $1,224 |
 | 2 | Mike "Omahafool" Fujita       | $816   |
 | 3 | Rich "Omaholic" Bremer        | $578   |
@@ -69,7 +69,7 @@ summary: Complete results for EMBARGO 2023.
     prize-pool="$6,500" >}}
 
 |   |                                           |        |
-|--:|-------------------------------------------|--------|
+|--:|-------------------------------------------|--------:|
 | 1 | Russell "Messenger of Doom" Fox | $1,800 |
 | 2 | Danny Sprung                              | $1,345 |
 | 3 | Dean "MrBookworm" Kerl          | $1,020 |
@@ -86,7 +86,7 @@ summary: Complete results for EMBARGO 2023.
     prize-pool="$3,800" >}}
 
 |   |                                          |        |
-|--:|------------------------------------------|--------|
+|--:|------------------------------------------|--------:|
 | 1 | Ron "Box 'o Schmuck" Grossberg | $1,178 |
 | 2 | Jim Anderson                             | $836   |
 | 3 | Paul "framistat" McMullin      | $646   |

@@ -20,7 +20,7 @@ title: BARGE 2008 Results
     prize-pool="$3,950" >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Guy "Grizz"  Berentsen      | $920 |
 | 2 | Chris "Jepstonian" Jepsen   | $720 |
 | 3 | Bob "BettyAnn" Ogus         | $720 |
@@ -37,7 +37,7 @@ title: BARGE 2008 Results
     prize-pool="$1,750" >}}
 
 |   |                                     |      |
-|--:|-------------------------------------|------|
+|--:|-------------------------------------|------:|
 | 1 | Matt "Grapes" Grapenthien | $595 |
 | 2 | Charles "Chic" Natkins    | $475 |
 | 3 | Gerald "Gerdog" Peterson  | $380 |
@@ -52,7 +52,7 @@ title: BARGE 2008 Results
     prize-pool="$1,400" >}}
 
 |   |                                            |      |
-|--:|--------------------------------------------|------|
+|--:|--------------------------------------------|------:|
 | 1 | Charles "Chic" Natkins           | $560 |
 | 2 | Nichole "Noisy Tigress" Chartier | $420 |
 | 3 | Shirley Kramer                             | $280 |
@@ -65,7 +65,7 @@ title: BARGE 2008 Results
     prize-pool="$5,160" >}}
 
 |   |                                       |        |
-|--:|---------------------------------------|--------|
+|--:|---------------------------------------|--------:|
 | 1 | Richard "Quiet Lion" Brodie | $1,290 |
 | 2 | Chris "Tom Bayes" Mecklin   | $1,030 |
 | 3 | Ken "ADB QB" Kubey          | $770   |
@@ -95,7 +95,7 @@ title: BARGE 2008 Results
     prize-pool=$6,000 >}}
 
 |       |                                          |           |
-|------:|------------------------------------------|-----------|
+|------:|------------------------------------------|-----------:|
 |     1 | Steve "BIA" Nissman            | $1,110    |
 |     2 | Stephen "Marlin" Cohen, ADB    | $1,110    |
 |     3 | Greg Pappas                              | $740      |
@@ -125,7 +125,7 @@ title: BARGE 2008 Results
     prize-pool="$260" >}}
 
 |   |                |     |
-|--:|----------------|-----|
+|--:|----------------|-----:|
 | 1 | Chris Kluchman | $70 |
 | 2 | Martha Fairris | $50 |
 | 3 | Caryn Adair    | $40 |
@@ -137,7 +137,7 @@ title: BARGE 2008 Results
     prize-pool="$12,525" >}}
 
 |    |                                       |        |
-|---:|---------------------------------------|--------|
+|---:|---------------------------------------|--------:|
 |  1 | Barry Tanenbaum                       | $3,000 |
 |  2 | Marc "The Occupant" Gilutin | $2,240 |
 |  3 | Chuck "Train Man" Weinstock | $1,625 |
@@ -176,7 +176,7 @@ title: BARGE 2008 Results
     prize-pool="$20,400" >}}
 
 |    |                                      |        |
-|---:|--------------------------------------|--------|
+|---:|--------------------------------------|--------:|
 |  1 | Dan Chevrie                          | $4,550 |
 |  2 | Mark "Dagon" Rafn          | $3,640 |
 |  3 | Steve "Lunchbox" Forcash   | $2,730 |

@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Bob Lauria | $3,740 |
 | 2 | Michael Cegielski | $1,870 |
 | 3 | Jeanne David | $1,100 |
@@ -35,7 +35,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="Pot-Limit Omaha" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Len Greenberg | $1,400 |
 | 2 | Chris Alaura | $870 |
 | 3 | Katie Baxter | $435 |
@@ -44,7 +44,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="ToC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Bob Lauria | $2,556 |
 | 2 | Margaret Pilchman | $1,420 |
 | 3 | Donna Kracinovich | $781 |

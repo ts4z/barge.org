@@ -20,7 +20,7 @@ Thursday, for instance.  Something may be wrong. &mdash;ts4z)
     parentheticals="(5 card draw, lowball)" >}}
 
 |   |               |      |
-|--:|---------------|------|
+|--:|---------------|------:|
 | 1 | Andy Hughes   | $900 |
 | 2 | Rich Strauss  | $720 |
 | 3 | Bob Herlien   | $540 |
@@ -40,7 +40,7 @@ Alternating limit hold'em, Omaha/8, and seven-card stud, followed by No-Limit
 Hold'em at the later levels.
 
 |   |                   |        |
-|--:|-------------------|--------|
+|--:|-------------------|--------:|
 | 1 | Chris Straghalis  | $1,480 |
 | 2 | Steve Jacobs      | $1,168 |
 | 3 | Mike M.           | $876   |
@@ -66,7 +66,7 @@ Hold'em at the later levels.
     event="7-Card Stud Shootout" >}}
 
 |    |                    |        |
-|---:|--------------------|--------|
+|---:|--------------------|--------:|
 |  1 | Don Perry          | $1,080 |
 |  2 | John Miller        | $840   |
 |  3 | Lenny Augustine    | $599   |
@@ -98,7 +98,7 @@ Hold'em at the later levels.
     event="No-Limit Hold'em" >}}
 
 |    |                  |        |
-|---:|------------------|--------|
+|---:|------------------|--------:|
 |  1 | Mike McBride     | $2,825 |
 |  2 | Andrew Prock     | $2,260 |
 |  3 | Gavin Smith      | $1,700 |

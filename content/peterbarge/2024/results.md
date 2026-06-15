@@ -9,7 +9,7 @@ summary: Results for the tournament.
     prize-pool="$3,200" >}}
 
 |   |                   |        |
-|--:|-------------------|--------|
+|--:|-------------------|--------:|
 | 1 | Ron Grossberg     | $1,115 |
 | 2 | Larry Stone       | $745   |
 | 3 | Lenny Augustine   | $525   |

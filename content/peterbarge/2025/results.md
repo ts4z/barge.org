@@ -10,7 +10,7 @@ summary: Results for the tournament.
     prize-pool="$2,900" >}}
 
 |   |                    |        |
-|--:|--------------------|--------|
+|--:|--------------------|--------:|
 | 1 | Andrew Prock       | $1,045 |
 | 2 | Lee Daniel Crocker | $700   |
 | 3 | Larry Stone        | $490   |

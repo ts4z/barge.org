@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Richard Bremer | $2,405 |
 | 2 | Mark Manitzas | $1,323 |
 | 3 | Stephen Jacobs | $782 |
@@ -26,7 +26,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="PLBO/SS8" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | David Kluchman | $1,226 |
 | 2 | Kevin Conlon | $670 |
 | 3 | Pete Segal | $335 |
@@ -34,7 +34,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="TOC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Richard Bremer | $2,366 |
 | 2 | Jeff Calkins | $1,302 |
 | 3 | Antoinett Pennington | $769 |

@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="Seven-Card Stud" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Robert Catlett | $1,584 |
 | 2 | Matt Ivester | $910 |
 | 3 | Jerrod Ankenman | $475 |
@@ -27,7 +27,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="H.O.E." >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Ross Poppel | $2,256 |
 | 2 | Lauri Calkins | $1,297 |
 | 3 | Keith Fichtemaier | $677 |
@@ -40,7 +40,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Sean McGuiness | $5,686 |
 | 2 | John Bonaguro | $2,985 |
 | 3 | Crystal Haggard | $1,492 |

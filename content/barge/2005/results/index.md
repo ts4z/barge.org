@@ -26,7 +26,7 @@ title: BARGE 2005 Results
 Charity:  Chris "ADB Kfish" Hartman's Family  $500
 
 |   |                                      |      |
-|--:|--------------------------------------|------|
+|--:|--------------------------------------|------:|
 | 1 | Guy "Grizz" Berentsen      | $500 |
 | 2 | Sarah "Sarahbellum" Boston | $400 |
 | 3 | Matthew Kursar                       | $300 |
@@ -47,7 +47,7 @@ Charity:  Chris "ADB Kfish" Hartman's Family  $500
     image-alt="Steven Markowitz" >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Steven Markowitz                      | $450 |
 | 2 | Stevan "Goldiefish" Goldman | $350 |
 | 3 | Marc Howard                           | $250 |
@@ -64,7 +64,7 @@ Charity:  Chris "ADB Kfish" Hartman's Family  $500
     image-alt="Connie Kellers" >}}
 
 |   |                                       |              |
-|--:|---------------------------------------|--------------|
+|--:|---------------------------------------|--------------:|
 | 1 | Connie "baguette" Kellers   | $432 (4,940) |
 | 2 | "Tuscaloosa" Johnny Kampis  | $324 (1,290) |
 | 3 | Stevan "Goldiefish" Goldman | $216 (1,285) |
@@ -80,7 +80,7 @@ Charity:  Chris "ADB Kfish" Hartman's Family  $500
     image-alt="Alex Ziselman" >}}
 
 |   |                                            |        |
-|--:|--------------------------------------------|--------|
+|--:|--------------------------------------------|--------:|
 | 1 | Alex "Mav"  Ziselman             | $1,060 |
 | 2 | Mark Trombley                              | $850   |
 | 3 | Barry Tanenbaum                            | $640   |
@@ -98,7 +98,7 @@ Charity:  Chris "ADB Kfish" Hartman's Family  $500
     image-alt="Luck Factor Zero, the winning CHORSE team" >}}
 
 |    |                                                       |        |
-|---:|-------------------------------------------------------|--------|
+|---:|-------------------------------------------------------|--------:|
 |  1 | Luck Factor Zero                                      | T2,966 |
 |  2 | Ace High All-Stars                                    | T1,528 |
 |  3 | Team ADB                                              | T1,485 |
@@ -136,7 +136,7 @@ Charity:  Chris "ADB Kfish" Hartman's Family  $500
     image-alt="Kerry Planow" >}}
 
 |   |                   |     |
-|--:|-------------------|-----|
+|--:|-------------------|-----:|
 | 1 | Kerry Planow      | $50 |
 | 2 | Sandra Joe        | $30 |
 | 3 | Patricia Loncaric | $20 |
@@ -151,7 +151,7 @@ Charity:  Chris "ADB Kfish" Hartman's Family  $500
     image-alt="Sabyl Cohen" >}}
 
 |       |                                        |          |
-|------:|----------------------------------------|----------|
+|------:|----------------------------------------|----------:|
 |     1 | Sabyl Cohen                            | $1,240   |
 |     2 | Ross Poppel                            | $990     |
 |     3 | Don "ADB Bingo" Rieck        | $740     |
@@ -173,7 +173,7 @@ Charity:  Chris "ADB Kfish" Hartman's Family  $500
     image-alt="Mike Osborne" >}}
 
 |   |                                     |        |
-|--:|-------------------------------------|--------|
+|--:|-------------------------------------|--------:|
 | 1 | Mike "Oz" Osborne         | $2,975 |
 | 2 | David Kuznick                       | $2,390 |
 | 3 | Sabyl Cohen                         | $1,790 |
@@ -194,7 +194,7 @@ Charity:  Chris "ADB Kfish" Hartman's Family  $500
     image-alt="Don Perry" >}}
     
 |    |                                     |        |
-|---:|-------------------------------------|--------|
+|---:|-------------------------------------|--------:|
 |  1 | Don Perry                           | $5,050 |
 |  2 | Nick Christiansen                   | $4,050 |
 |  3 | Dave McVay                          | $3,040 |

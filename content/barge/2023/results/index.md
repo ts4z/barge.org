@@ -23,7 +23,7 @@ bonus="54 total rebuys and add-ons = $3,240, and the final 8 players agreed to d
 $4,240 total donated to [Bicycle Colorado](https://www.bicyclecolorado.org/)!
 
 |   |                                           |      |
-|--:|-------------------------------------------|------|
+|--:|-------------------------------------------|------:|
 | 1 | Russell "Messenger of Doom" Fox | $300 |
 | 2 | Patti "Patti" Beadles           | $300 |
 | 3 | Shinichiro Hatakeyama*                    | $300 |
@@ -41,7 +41,7 @@ players=41
 prize-pool="$3,280" >}}
 
 |   |                                              |        |
-|--:|----------------------------------------------|--------|
+|--:|----------------------------------------------|--------:|
 | 1 | Lee "Bowtie" Crocker               | $1,016 |
 | 2 | Ron "Playing For Haigen" Grossberg | $722   |
 | 3 | Scott "Bwana" Byron                | $558   |
@@ -55,7 +55,7 @@ prize-pool="$3,280" >}}
     prize-pool="$5,100" >}}
 
 |   |                               |        |
-|--:|-------------------------------|--------|
+|--:|-------------------------------|--------:|
 | 1 | Terrance Reid                 | $1,408 |
 | 2 | Salim Valimahomed             | $1,051 |
 | 3 | Nolan Dalla                   | $796   |
@@ -207,7 +207,7 @@ prize-pool="$3,280" >}}
     bonus="(plus bounties)" >}}
 
 |   |                                                 |        |
-|--:|-------------------------------------------------|--------|
+|--:|-------------------------------------------------|--------:|
 | 1 | Richard "Ricky" Jaglarski             | $1,309 |
 | 2 | Dean "MrBookworm*" Kerl               | $858   |
 | 3 | Guy "Grizz" Berentsen                 | $760   |
@@ -252,7 +252,7 @@ Team Unlawful won an additional $40 first place prize per player.
     prize-pool="$3,360" >}}
 
 |   |                                     |        |
-|--:|-------------------------------------|--------|
+|--:|-------------------------------------|--------:|
 | 1 | Rich "Omaholic" Bremer    | $1,042 |
 | 2 | Jon Regashus                        | $739   |
 | 3 | Guy "Grizz" Berentsen     | $571   |
@@ -267,7 +267,7 @@ Team Unlawful won an additional $40 first place prize per player.
     prize-pool="$5,900" >}}
 
 |   |                                           |        |
-|--:|-------------------------------------------|--------|
+|--:|-------------------------------------------|--------:|
 | 1 | Corey "LingCod" Imsdahl         | $1,582 |
 | 2 | James Hammer                              | $1,199 |
 | 3 | Patrick "CtheTurn" Kirwan       | $924   |
@@ -285,7 +285,7 @@ Team Unlawful won an additional $40 first place prize per player.
     prize-pool="$1,280" >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Randal "Randal" Hennemuth   | $386 |
 | 2 | Jeff "Blofeld" Deitch       | $435 |
 | 3 | Dan "ADB smalltalk" Goldman | $230 |
@@ -300,7 +300,7 @@ Team Unlawful won an additional $40 first place prize per player.
     prize-pool="$8,500" >}}
 
 |   |                                              |        |
-|--:|----------------------------------------------|--------|
+|--:|----------------------------------------------|--------:|
 | 1 | Russell "Messenger of Doom" Fox    | $2,275 |
 | 2 | Guy "Grizz" Berentsen              | $1,680 |
 | 3 | Lori "PokerVixen" Miller           | $1,255 |
@@ -317,7 +317,7 @@ Team Unlawful won an additional $40 first place prize per player.
     prize-pool=$1,680 >}}
 
 |   |                                           |      |
-|--:|-------------------------------------------|------|
+|--:|-------------------------------------------|------:|
 | 1 | Stephanie "Sassy" Wasserman     | $656 |
 | 2 | Scott "samarai" Samarel         | $412 |
 | 3 | Kelly "Short Stack Queen" Kania | $277 |
@@ -332,7 +332,7 @@ Team Unlawful won an additional $40 first place prize per player.
     prize-pool="$2,000" >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Dan "ADB smalltalk" Goldman | $720 |
 | 2 | Ben Gamble                            | $500 |
 | 3 | Nolan Dalla                           | $500 |
@@ -346,7 +346,7 @@ Team Unlawful won an additional $40 first place prize per player.
     prize-pool="$13,720" >}}
 
 |    |                                        |        |
-|---:|----------------------------------------|--------|
+|---:|----------------------------------------|--------:|
 |  1 | Rich "Omaholic" Bremer       | $3,568 |
 |  2 | Nolan Dalla                            | $2,607 |
 |  3 | David Kluchman                         | $2,058 |

@@ -19,7 +19,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$4,350 >}}
 
 |   |                                       |        |
-|--:|---------------------------------------|--------|
+|--:|---------------------------------------|--------:|
 | 1 | Dan "ADB smalltalk" Goldman | $1,100 |
 | 2 | Paul Stine                            | $915   |
 | 3 | Peter "ADB Foldem" Secor    | $695   |
@@ -38,7 +38,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$600 >}}
 
 |   |                                    |      |
-|--:|------------------------------------|------|
+|--:|------------------------------------|------:|
 | 1 | Voltaire Ronquillo                 | $400 |
 | 2 | Doug &ldquo;Snoop&rdquo; Grismore  | $200 |
 | 3 | Rich &ldquo;Omaholic&rdquo; Bremer | $100 |
@@ -49,7 +49,7 @@ summary: Complete results for BARGE 2018.
     players=6 >}}
 
 |   |                                    |      |
-|--:|------------------------------------|------|
+|--:|------------------------------------|------:|
 | 1 | Rich &ldquo;Omaholic&rdquo; Bremer | $300 |
 
 
@@ -69,7 +69,7 @@ summary: Complete results for BARGE 2018.
     players=3 >}}
 
 |   |                                    |      |
-|--:|------------------------------------|------|
+|--:|------------------------------------|------:|
 | 1 | Rich &ldquo;Omaholic&rdquo; Bremer | $120 |
 
 {{< tournament
@@ -78,7 +78,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$4,698 >}}
 
 |   |                                     |        |
-|--:|-------------------------------------|--------|
+|--:|-------------------------------------|--------:|
 | 1 | Rich "Omaholic" Bremer    | $1,318 |
 | 2 | Kenny Shei                          | $985   |
 | 3 | Bruce "ADB Bigboy" Kramer | $750   |
@@ -93,7 +93,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$880 >}}
 
 |   |                                          |      |
-|--:|------------------------------------------|------|
+|--:|------------------------------------------|------:|
 | 1 | Tanya "MissT74" Peck-Devenport | $365 |
 | 2 | Ron "SHH-MOOK-BAWKS" Grossberg | $230 |
 | 3 | Nancy "Nance" Robertson        | $160 |
@@ -105,7 +105,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$3,480 >}}
 
 |   |                                              |        |
-|--:|----------------------------------------------|--------|
+|--:|----------------------------------------------|--------:|
 | 1 | Christopher "Tom Bayz " Mecklin    | $1,060 |
 | 2 | Sean "oscar" McGuiness             | $745   |
 | 3 | Russell "Messenger of Doom" Fox    | $570   |
@@ -120,7 +120,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$1,100 >}}
 
 |   |                                           |      |
-|--:|-------------------------------------------|------|
+|--:|-------------------------------------------|------:|
 | 1 | Jesse Capps                               | $450 |
 | 2 | Mark "@MarkHaroldson" Haroldson | $275 |
 | 3 | Ken "QB" Kubey                  | $190 |
@@ -134,7 +134,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$6,264 >}}
 
 |   |                                          |        |
-|--:|------------------------------------------|--------|
+|--:|------------------------------------------|--------:|
 | 1 | Sabyl "kaismom" Landrum        | $1,689 |
 | 2 | Richard Korbin                           | $1,255 |
 | 3 | Larry Bierman                            | $940   |
@@ -150,7 +150,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$320 >}}
 
 |   |           |                  |
-|--:|-----------|------------------|
+|--:|-----------|------------------:|
 | 1 | Team Donk | T30225 and  $320 |
 
 | Team Donk                                |
@@ -168,7 +168,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$6,264 >}}
 
 |   |                                              |        |
-|--:|----------------------------------------------|--------|
+|--:|----------------------------------------------|--------:|
 | 1 | Christian "Dr.Doofenshmirtz" Jones | $1,664 |
 | 2 | Bob Gilbert                                  | $1,230 |
 | 3 | Steve "Crunch" Daniel              | $920   |
@@ -185,7 +185,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$10,812 >}}
 
 |    |                                     |        |
-|---:|-------------------------------------|--------|
+|---:|-------------------------------------|--------:|
 |  1 | Peter "ADB Foldem" Secor  | $2,550 |
 |  2 | Josh "Len Fuego" Paley    | $2,112 |
 |  3 | Len "Len G" Greenberg     | $1,470 |
@@ -208,7 +208,7 @@ summary: Complete results for BARGE 2018.
     prize-pool=$15,616 >}}
 
 |    |                                         |        |
-|---:|-----------------------------------------|--------|
+|---:|-----------------------------------------|--------:|
 |  1 | Donald "ADBBingo" Rieck       | $3,811 |
 |  2 | Regis "Regis" Donovan         | $2,865 |
 |  3 | Jared "Mr3Putt" Anderson      | $2,085 |

@@ -22,7 +22,7 @@ have normally been the buyin. FM = Fun Money)
     prize-pool="FM 7,400" >}}
 
 |    |                                       |         |
-|---:|---------------------------------------|---------|
+|---:|---------------------------------------|---------:|
 |  1 | Ellis "Drackala" Starks     | FM 1850 |
 |  2 | Dean "MrBookworm" Kerl      | FM 1406 |
 |  3 | Shari "pokerchimp" Silk     | FM 1036 |
@@ -44,7 +44,7 @@ have normally been the buyin. FM = Fun Money)
     prize-pool="FM 6,400" >}}
 
 |   |                                          |         |
-|--:|------------------------------------------|---------|
+|--:|------------------------------------------|---------:|
 | 1 | Scott "samarai" Samarel        | FM 1728 |
 | 2 | Asya "asya" Kamsky             | FM 1280 |
 | 3 | Christopher "tombayes" Mecklin | FM 960  |
@@ -64,7 +64,7 @@ have normally been the buyin. FM = Fun Money)
 
 
 |   |                                      |         |
-|--:|--------------------------------------|---------|
+|--:|--------------------------------------|---------:|
 | 1 | Scott "Bridgeman" Lewis    | FM 2430 |
 | 2 | Ron "Schmuckbox" Grossberg | FM 1800 |
 | 3 | David "dlow" Low           | FM 1350 |
@@ -83,7 +83,7 @@ have normally been the buyin. FM = Fun Money)
     prize-pool="FM 3,360" >}}
 
 |   |                                         |        |
-|--:|-----------------------------------------|--------|
+|--:|-----------------------------------------|--------:|
 | 1 | John "JRX" Reed               | FM 941 |
 | 2 | Eric "NiceHandSir" Schneller  | FM 706 |
 | 3 | Oliver "ojuang" Juang         | FM 537 |

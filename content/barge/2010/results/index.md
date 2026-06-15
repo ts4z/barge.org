@@ -20,7 +20,7 @@ title: BARGE 2010 Results
     prize-pool="$3,800" >}}
 
 |   |                                       |     |
-|--:|---------------------------------------|-----|
+|--:|---------------------------------------|-----:|
 | 1 | Andrew Prock                          | 950 |
 | 2 | Chris "Tom Bayes" Mecklin   | 760 |
 | 3 | Rich "Omaholic" Bremer      | 570 |
@@ -37,7 +37,7 @@ title: BARGE 2010 Results
     prize-pool=$1,160 >}}
 
 |   |                                    |     |
-|--:|------------------------------------|-----|
+|--:|------------------------------------|-----:|
 | 1 | Peter "ADB Foldem" Secor | 484 |
 | 2 | Rich "Omaholic" Bremer   | 348 |
 | 3 | Spencer "ADB Zorak" Sun  | 232 |
@@ -51,7 +51,7 @@ title: BARGE 2010 Results
     prize-pool="$1,600" >}}
 
 |   |                                         |     |
-|--:|-----------------------------------------|-----|
+|--:|-----------------------------------------|-----:|
 | 1 | Gillian Groves                          |     |
 | 2 | Leslie Walker                           |     |
 | 3 | Chris "ADB Ploink" Straghalis | 300 |
@@ -66,7 +66,7 @@ title: BARGE 2010 Results
     prize-pool="$4,800" >}}
 
 |   |                                     |       |
-|--:|-------------------------------------|-------|
+|--:|-------------------------------------|-------:|
 | 1 | Rich "Omaholic" Bremer    | 1,200 |
 | 2 | Mark "Clutch" Trombley    | 840   |
 | 3 | Rick "Zbigniew" Bevan     | 840   |
@@ -82,7 +82,7 @@ title: BARGE 2010 Results
     entries=16 >}}
 
 |    |                           |         |
-|---:|---------------------------|---------|
+|---:|---------------------------|---------:|
 |  1 | Inglorious Donkeys        | $973.75 |
 |  2 | Team MPN                  | $753.75 |
 |  3 | DV8s                      | $612.5  |
@@ -118,7 +118,7 @@ title: BARGE 2010 Results
     prize-pool="$7,200" >}}
 
 |   |                                         |       |
-|--:|-----------------------------------------|-------|
+|--:|-----------------------------------------|-------:|
 | 1 | Mark "Clutch" Trombley        | 1,800 |
 | 2 | Chris "ADB Ploink" Straghalis | 1,440 |
 | 3 | Sabyl Landrum                           | 1,080 |
@@ -136,7 +136,7 @@ title: BARGE 2010 Results
     prize-pool="$10,875" >}}
 
 |    |                                         |       |
-|---:|-----------------------------------------|-------|
+|---:|-----------------------------------------|-------:|
 |  1 | David Kluchman                          | 2,715 |
 |  2 | David "Meeee" Aronson         | 1,955 |
 |  3 | Randy "ADB Schmengie" Collack | 1,405 |
@@ -163,7 +163,7 @@ title: BARGE 2010 Results
     prize-pool="$260" >}}
 
 |   |               |    |
-|--:|---------------|----|
+|--:|---------------|----:|
 | 1 | Stacey Slick  | 75 |
 | 2 | Amy Smith     | 65 |
 | 3 | Maria Caldes  | 50 |
@@ -178,7 +178,7 @@ title: BARGE 2010 Results
     prize-pool="$17,900" >}}
 
 |    |                                                   |      |
-|---:|---------------------------------------------------|------|
+|---:|---------------------------------------------------|------:|
 |  1 | Chuck "HE Chas" Humphrey                | 4430 |
 |  2 | Stephen "Neverwhinge" Winter            | 3170 |
 |  3 | Len Greenberg                                     | 2330 |

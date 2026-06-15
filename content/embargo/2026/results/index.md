@@ -23,7 +23,7 @@ cover:
     date="Thursday, January 29, 2026" >}}
 
 |   |                            |      |
-|--:|----------------------------|------|
+|--:|----------------------------|------:|
 | 1 | Nolan “COMMUNITY” Hee      | $874 |
 | 2 | Caryl “Mrstcao” Aronson    | $795 |
 | 3 | Douglas Kitchens           | $761 |
@@ -43,7 +43,7 @@ cover:
     date="Friday, January 30, 2026" >}}
 
 |   |                            |        |
-|--:|----------------------------|--------|
+|--:|----------------------------|--------:|
 | 1 | Zach Jarvis                | $1,059 |
 | 2 | Rich “MajorAceHole” Vehlow | $1,032 |
 | 3 | Caryl “Mrstcao” Aronson    | $925   |
@@ -63,7 +63,7 @@ cover:
     date="Friday, January 30, 2026" >}}
 
 |   |                                    |        |
-|--:|------------------------------------|--------|
+|--:|------------------------------------|--------:|
 | 1 | Christian “Dr.Doofenshmirtz” Jones | $1,249 |
 | 2 | Dean “MrBookworm” Kerl             | $840   |
 | 3 | Rich “MajorAceHole” Vehlow         | $638   |
@@ -81,7 +81,7 @@ cover:
     date="Saturday, January 31, 2026" >}}
 
 |   |                             |        |
-|--:|-----------------------------|--------|
+|--:|-----------------------------|--------:|
 | 1 | Jim Anderson                | $1,755 |
 | 2 | Larry Bierman               | $1,755 |
 | 3 | Rich “MajorAceHole” Vehlow  | $1,318 |
@@ -108,7 +108,7 @@ Better](/rulebook/omaha-high-low-eight-or-better.html), and
 [Razz](/rulebook/razz.html).
 
 |   |                             |        |
-|--:|-----------------------------|--------|
+|--:|-----------------------------|--------:|
 | 1 | Jared “Mr3putt” Anderson    | $1,423 |
 | 2 | Dan Kleinberg               | $1,240 |
 | 3 | Dan “ADB smalltalk” Goldman | $844   |
@@ -127,7 +127,7 @@ Better](/rulebook/omaha-high-low-eight-or-better.html), and
     date="Sunday, February 1, 2026" >}}
 
 |   |                        |        |
-|--:|------------------------|--------|
+|--:|------------------------|--------:|
 | 1 | Stephanie Anderson     | $1,182 |
 | 2 | Dean “MrBookworm” Kerl | $778   |
 | 3 | John Berdahl           | $542   |

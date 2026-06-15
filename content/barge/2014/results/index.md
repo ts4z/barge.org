@@ -19,7 +19,7 @@ title: BARGE 2014 Results
     entrants=66 >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Katie "Power of V" Baxter   | $940 |
 | 2 | Sharon "Lil Angel" Lewis    | $685 |
 | 3 | Steve "Ice" Eisenstein      | $545 |
@@ -33,7 +33,7 @@ title: BARGE 2014 Results
 {{< tournament event="History of Poker" buyin="$60" entrants=57 >}}
 
 |   |                                     |      |
-|--:|-------------------------------------|------|
+|--:|-------------------------------------|------:|
 | 1 | Bob "Blues" Herlien       | $960 |
 | 2 | Scott "Bwana" Byron       | $720 |
 | 3 | Rich "Omaholic" Bremer    | $545 |
@@ -49,7 +49,7 @@ title: BARGE 2014 Results
     entries=87 >}}
 
 |    |                     |       |
-|---:|---------------------|-------|
+|---:|---------------------|-------:|
 |  1 | Claudia Mastroianni | $1700 |
 |  2 | Bob Lauria          | $1240 |
 |  3 | Steve Eisenstein    | $980  |
@@ -64,7 +64,7 @@ title: BARGE 2014 Results
 {{< tournament event="Pot-Limit Omaha" buyin=$75 entrants=81 >}}
 
 |    |                                       |       |
-|---:|---------------------------------------|-------|
+|---:|---------------------------------------|-------:|
 |  1 | Erin "Spitecall" Ramsay     | $1585 |
 |  2 | Bree "Dan's Kid" Goldman    | $1155 |
 |  3 | Tina "Dilligaf" Gonzalez    | $910  |
@@ -79,7 +79,7 @@ title: BARGE 2014 Results
 {{< tournament event="Mike Sexton Original TOC-Style" buyin="$75" entrants=134 >}}
 
 |    |                                            |       |
-|---:|--------------------------------------------|-------|
+|---:|--------------------------------------------|-------:|
 |  1 | Arthur "Cider" Goltz             | $2505 |
 |  2 | Brian "Nick Name" O'Grady        | $1910 |
 |  3 | David Low                                  | $1405 |
@@ -99,7 +99,7 @@ title: BARGE 2014 Results
 {{< tournament event="No Limit Hold'Em" buyin="$100" entrants=151 >}}
 
 |    |                                            |       |
-|---:|--------------------------------------------|-------|
+|---:|--------------------------------------------|-------:|
 |  1 | Andreas Wolfram                            | $3150 |
 |  2 | Bob "scsuhockey10" Lauria        | $3150 |
 |  3 | Randy "ADB Schmengie" Collack    | $2115 |
@@ -127,7 +127,7 @@ title: BARGE 2014 Results
     entrants=31 >}}
 
 |   |                                             |      |
-|--:|---------------------------------------------|------|
+|--:|---------------------------------------------|------:|
 | 1 | Michael "mickdog" Patterson       | $475 |
 | 2 | (tie) Alex "maverick600" Ziselman | $300 |
 | 2 | (tie) Connie "baguette" Kellers   | $300 |
@@ -141,7 +141,7 @@ title: BARGE 2014 Results
     entrants=24 >}}
 
 |   |                                         |      |
-|--:|-----------------------------------------|------|
+|--:|-----------------------------------------|------:|
 | 1 | Kyle "Super-ev" Minnis        | $400 |
 | 2 | Stevan "goldie" Goldman       | $300 |
 | 3 | Chuck "ADB Enabler" Weinstock | $225 |
@@ -155,7 +155,7 @@ title: BARGE 2014 Results
     entrants=30 >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Rich "Omaholic" Bremer      | $575 |
 | 2 | Scott "Bwana" Byron         | $300 |
 | 3 | Dan "ABD smalltalk" Goldman | $175 |
@@ -168,7 +168,7 @@ title: BARGE 2014 Results
     entrants="21" >}}
 
 |   |                                         |      |
-|--:|-----------------------------------------|------|
+|--:|-----------------------------------------|------:|
 | 1 | Alex "Maverick600" Ziselman   | $360 |
 | 2 | Michael "mickdog" Patterson   | $175 |
 | 3 | Chuck "ADB Enabler" Weinstock | $125 |
@@ -177,7 +177,7 @@ title: BARGE 2014 Results
 {{< tournament event="Second Chance Binglaha" buyin="$55" entrants=53 >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Dan "ADB smalltalk" Goldman | $820 |
 | 2 | Ira Wiedman                           | $610 |
 | 3 | Steve "Crunch" Daniel       | $465 |
@@ -189,7 +189,7 @@ title: BARGE 2014 Results
 {{< tournament event="Second Chance Open Face Chinese Poker" buyin="$55" entrants=24 >}}
 
 |   |                                         |      |
-|--:|-----------------------------------------|------|
+|--:|-----------------------------------------|------:|
 | 1 | Jordan "FellKnight" Devenport | $520 |
 | 2 | Alex "Maverick600" Ziselman   | $320 |
 | 3 | Michael "mickdog" Patterson   | $220 |
@@ -199,7 +199,7 @@ title: BARGE 2014 Results
 {{< tournament event="Second Chance Limit Hold'em" buyin="$55" entrants=11 >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Tracy "TracyB" Becker       | $300 |
 | 2 | Blake "Blake" Mombourquette | $180 |
 | 3 | Lynsy "Lynsy" Higgs Iwamoto | $125 |
