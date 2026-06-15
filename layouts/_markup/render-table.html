@@ -1,0 +1,28 @@
+{{- /* Wrap every Markdown table in a horizontally scrollable container so wide
+       tables (e.g. schedules) scroll on narrow screens instead of overflowing
+       the page. This is automatic for all pipe tables -- authors write plain
+       Markdown, nothing to wrap by hand. Reproduces Hugo's default table
+       markup, including per-column alignment. */ -}}
+<div class="table-scroll">
+  <table
+    {{- range $k, $v := .Attributes }}{{ if $v }} {{ $k }}="{{ $v }}"{{ end }}{{ end }}>
+    <thead>
+      {{- range .THead }}
+      <tr>
+        {{- range . }}
+        <th{{ with .Alignment }} style="text-align: {{ . }}"{{ end }}>{{ .Text }}</th>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </thead>
+    <tbody>
+      {{- range .TBody }}
+      <tr>
+        {{- range . }}
+        <td{{ with .Alignment }} style="text-align: {{ . }}"{{ end }}>{{ .Text }}</td>
+        {{- end }}
+      </tr>
+      {{- end }}
+    </tbody>
+  </table>
+</div>

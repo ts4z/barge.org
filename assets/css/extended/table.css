@@ -1,26 +1,52 @@
-table td, table th {
-    border: none !important;
-    padding: 2px !important;
-    padding-left: 10px !important;
+/* BARGE table styling.
+ *
+ * Editorial look: top/bottom rules on the table, an underline under the header
+ * row, tight cells, and a deliberately subtle zebra stripe. 0.015 is the least
+ * lightness shift that stays visible in both light and dark mode.
+ *
+ * The selectors mirror the theme's own table selector (same :not(...) list) so
+ * they match its specificity and win on source order alone -- no !important
+ * needed. The :not(...) also leaves code-highlight tables to the theme, as it
+ * does. display: table overrides the reset's `table { display: block }` so rows
+ * (and the zebra) fill the full table width. */
+
+/* render-table.html wraps every table in .table-scroll. width:auto + min-width
+ * 100% makes narrow tables stretch to full width (zebra fills) while wide tables
+ * (schedules) grow past the viewport and scroll inside the wrapper instead of
+ * overflowing the page. */
+.md-content .table-scroll {
+    overflow-x: auto;
+}
+
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) {
+    display: table;
     width: auto;
-    background-color: inherit;
-}
-
-table th {
-    border-bottom: 2px solid var(--border) !important;
-}
-
-table th:empty {
-    display: none;
-}
-
-table {
-    border-top: 2px solid var(--border) !important;
-    border-bottom: 2px solid var(--border) !important;
-    display: table !important;
+    min-width: 100%;
+    border-top: 2px solid var(--border);
+    border-bottom: 2px solid var(--border);
     border-collapse: collapse;
 }
 
-table tr:nth-child(odd) {
-  background-color: oklch(from var(--theme) calc(l - 0.015) c h);
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) th,
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+    border: none;
+    padding: 3px;
+    padding-left: 10px;
+    width: auto;
+    background-color: inherit;
+    font-variant-numeric: tabular-nums;
+}
+
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) th {
+    border-bottom: 2px solid var(--border);
+}
+
+/* Many results tables ship an all-empty header row; hide those cells so the
+ * table starts cleanly at the first data row. */
+.md-content table th:empty {
+    display: none;
+}
+
+.md-content table:not(.highlighttable, .highlight table, .gist .highlight) tr:nth-child(odd) {
+    background-color: oklch(from var(--theme) calc(l - 0.015) c h);
 }
