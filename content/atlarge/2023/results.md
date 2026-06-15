@@ -16,7 +16,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Dean White | $2,753 |
 | 2 | Chris Kluchman | $1,706 |
 | 3 | Linda Lewis | $1,008 |
@@ -27,7 +27,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="Pot-Limit Omaha" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Richard Bremer | $1,112 |
 | 2 | Bruce Kramer | $678 |
 | 3 | Scott Byron | $460 |
@@ -36,7 +36,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="ToC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Rick Becker | $1,316 |
 | 2 | Andy Bartalone | $1,070 |
 | 3 | Russell Diaz | $783 |

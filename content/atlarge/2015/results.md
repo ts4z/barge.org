@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Paul McMullin | $2,920 |
 | 2 | Meredith Holtzman | $1,606 |
 | 3 | David Fruchter | $949 |
@@ -26,7 +26,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="Pot-Limit Omaha" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Stevan Goldman | $1,595 |
 | 2 | John Scheinberg | $870 |
 | 3 | Mark Wileczek | $435 |
@@ -34,7 +34,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="ToC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | David Fruchter | $2,440 |
 | 2 | Richard Bremer | $1,342 |
 | 3 | Chris O’Connor | $793 |

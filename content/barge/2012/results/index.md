@@ -20,7 +20,7 @@ title: BARGE 2012 Results
     buy-in=$50+10 >}}
 
 |  | | |
-|--:|---|---|
+|--:|---|---:|
 |1 |Keith "fich" Fichtemaier | $825|
 |2 |Ryan Troll | $620|
 |3 |Rich Strauss| $470|
@@ -37,7 +37,7 @@ title: BARGE 2012 Results
     prize-pool=$1250 >}}
 
 |  | | |
-|--:|---|---|
+|--:|---|---:|
 |1 |Rich "Omaholic" Bremer| $500|
 |2 |Paul "prmcm" McMullin| $300|
 |3 |Ryan Troll| $200|
@@ -52,7 +52,7 @@ title: BARGE 2012 Results
     prize-pool=$880 >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Michael "mickdog" Patterson | $400 |
 | 2 | Doug "douggr" Grismore      | $250 |
 | 3 | Gillian "Gillian" Groves    | $150 |
@@ -66,7 +66,7 @@ title: BARGE 2012 Results
     prize-pool=$4560 >}}
 
 |   |                                          |       |
-|--:|------------------------------------------|-------|
+|--:|------------------------------------------|-------:|
 | 1 | Caryl Aronson                            | $1023 |
 | 2 | Keith "Junk-game-junky" Troell | $1022 |
 | 3 | Bree "Dan's Kid" Goldman       | $685  |
@@ -87,7 +87,7 @@ title: BARGE 2012 Results
     prize-pool=$6450 >}}
 
 |    |                                        |       |
-|---:|----------------------------------------|-------|
+|---:|----------------------------------------|-------:|
 |  1 | Andrew Prock                           | $1670 |
 |  2 | Rich "Omaholic" Bremer       | $1225 |
 |  3 | Arthur "Spike the Cat" Reber | $970  |
@@ -107,7 +107,7 @@ title: BARGE 2012 Results
     prize-pool=$9750 >}}
 
 |    |                                           |       |
-|---:|-------------------------------------------|-------|
+|---:|-------------------------------------------|-------:|
 |  1 | Stephen "steveLB" Lewin-Berlin  | $2435 |
 |  2 | John "da pickle" Pickels        | $1850 |
 |  3 | Rick Mombourquette                        | $1360 |
@@ -132,7 +132,7 @@ title: BARGE 2012 Results
     prize-pool=$15,800 >}}
 
 |    |                                           |       |
-|---:|-------------------------------------------|-------|
+|---:|-------------------------------------------|-------:|
 |  1 | Paul "prmcm" McMullin           | $3945 |
 |  2 | Nick Christensen                          | $2845 |
 |  3 | Randall Hennenuth                         | $2210 |

@@ -17,7 +17,7 @@ entries="49"
 prizepool="$2,940" >}}
 
 |     |                   |      |
-|----:|-------------------|------|
+|----:|-------------------|------:|
 | 1st | Monte Christensen | $824 |
 | 2nd | Nick Christensen  | $617 |
 | 3rd | Jeff Deitch       | $470 |
@@ -34,7 +34,7 @@ entries=51
 prizepool="$3,060" >}}
 
 |     |                         |      |
-|----:|-------------------------|------|
+|----:|-------------------------|------:|
 | 1st | Michael Patterson&nbsp; | $846 |
 | 2nd | Steve Eisenstein&nbsp;  | $633 |
 | 3rd | Patti Beadles           | $480 |
@@ -53,7 +53,7 @@ prizepool="$3,060" >}}
  prizepool="$5,300" >}}
 
 |     |               |        |
-|----:|---------------|--------|
+|----:|---------------|--------:|
 | 1st | Bree Goldman  | $1,134 |
 | 2nd | Kevin Knourek | $1,133 |
 | 3rd | Peter Secor   | $1,133 |

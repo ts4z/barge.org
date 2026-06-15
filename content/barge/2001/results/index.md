@@ -21,7 +21,7 @@ title: BARGE 2001 Results
     image-alt="Andy Bloch" >}}
 
 |   |                    |        |
-|--:|--------------------|--------|
+|--:|--------------------|--------:|
 | 1 | Andy Bloch         | $1,660 |
 | 2 | Sean McGuiness     | $1,110 |
 | 3 | Spencer Sun        | $710   |
@@ -42,7 +42,7 @@ Alternating limit hold'em, Omaha/8, and seven-card stud, followed by No-Limit
 Hold'em at the later levels.
 
 |    |                                     |        |
-|---:|-------------------------------------|--------|
+|---:|-------------------------------------|--------:|
 |  1 | Frank Jerome                        | $2,120 |
 |  2 | David Croson                        | $1,415 |
 |  3 | Connie Kellers                      | $850   |
@@ -80,7 +80,7 @@ Friday, August 3, 2001
     image-alt="Russ Fox" >}}
 
 |    |                                   |        |
-|---:|-----------------------------------|--------|
+|---:|-----------------------------------|--------:|
 |  1 | Russ Fox                          | $4,320 |
 |  2 | John Fleming                      | $2,280 |
 |  3 | Don "ADB Bingo" Rieck | $1,695 |

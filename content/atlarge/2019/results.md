@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | David Chan | $1,935 |
 | 2 | Meredith Holtzman | $1,051 |
 | 3 | Stephen Jacobs | $663 |
@@ -28,7 +28,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="Pot-Limit Omaha" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Richard Bremer | $1,298 |
 | 2 | Chris Kluchman | $755 |
 | 3 | Scott Byron | $543 |
@@ -37,7 +37,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="TOC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Katie Baxter | $1,628 |
 | 2 | Scott Byron | $1,023 |
 | 3 | Tom Goodwin | $606 |

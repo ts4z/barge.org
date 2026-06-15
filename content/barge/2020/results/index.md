@@ -21,7 +21,7 @@ title: BARGE 2020 Results
     prizepool="FM 1,400" >}}
     
 |   |                                         |        |
-|--:|-----------------------------------------|--------|
+|--:|-----------------------------------------|--------:|
 | 1 | Doug "dgr" Grismore           | FM 560 |
 | 2 | Nolan "COMMUNITY2" Hee        | FM 420 |
 | 3 | Michael "mickdog" Patterson   | FM 280 |
@@ -33,7 +33,7 @@ title: BARGE 2020 Results
     prizepool="FM 1100" >}}
 
 |   |                                       |        |
-|--:|---------------------------------------|--------|
+|--:|---------------------------------------|--------:|
 | 1 | Scott "Bwana" Byron         | FM 440 |
 | 2 | Katie "c2d2" Baxter         | FM 330 |
 | 3 | Bryan "bjuliano" Juliano    | FM 220 |
@@ -45,7 +45,7 @@ title: BARGE 2020 Results
     prizepool="FM 1100" >}}
 
 |   |                                              |        |
-|--:|----------------------------------------------|--------|
+|--:|----------------------------------------------|--------:|
 | 1 | Bruce "ADBbigboy" kramer           | FM 440 |
 | 2 | Christian "Dr.Doofenshmirtz" Jones | FM 330 |
 | 3 | Kyle "SuperKM" Minnis              | FM 220 |
@@ -78,7 +78,7 @@ title: BARGE 2020 Results
     prizepool="FM 8,000" >}}
  
 |   |                                           |         |
-|--:|-------------------------------------------|---------|
+|--:|-------------------------------------------|---------:|
 | 1 | Cliff "deadhead" Matthews       | FM 2160 |
 | 2 | Charles "ADBDaVoice" Breuninger | FM 1600 |
 | 3 | Dean "MrBookworm" Kerl          | FM 1200 |
@@ -94,7 +94,7 @@ title: BARGE 2020 Results
     prizepool="FM 8,400" >}}
 
 |    |                                        |          |
-|---:|----------------------------------------|----------|
+|---:|----------------------------------------|----------:|
 |  1 | David "ProfDC" Croson        | FM 2,184 |
 |  2 | Dan "smalltalkdan" Goldman   | FM 1,596 |
 |  3 | Rich "omaholic" Bremer       | FM 1,260 |
@@ -112,7 +112,7 @@ title: BARGE 2020 Results
    prizepool="FM 10,680" >}}
 
 |    |                                       |          |
-|---:|---------------------------------------|----------|
+|---:|---------------------------------------|----------:|
 |  1 | Thomas "Aardvark" Hummel    | FM 2,772 |
 |  2 | Gerald "gerdog" Petersen    | FM 2,026 |
 |  3 | Sabyl "kaismom" Landrum     | FM 1,599 |
@@ -130,7 +130,7 @@ title: BARGE 2020 Results
     prizepool="FM 8,100" >}}
 
 |    |                                         |          |
-|---:|-----------------------------------------|----------|
+|---:|-----------------------------------------|----------:|
 |  1 | Andreas "Not, Sure" Wolfram   | FM 2,106 |
 |  2 | John "JRX" Reed               | FM 1,539 |
 |  3 | John "jlloyd" Lloyd           | FM 1,215 |
@@ -148,7 +148,7 @@ title: BARGE 2020 Results
     prizepool="FM 4680" >}}
 
 |   |                                       |          |
-|--:|---------------------------------------|----------|
+|--:|---------------------------------------|----------:|
 | 1 | Lennie "LenFuego" Augustine | FM 1,264 |
 | 2 | Bruce "ADBbigboy" kramer    | FM 936   |
 | 3 | David "dlow" Low            | FM 702   |
@@ -164,7 +164,7 @@ title: BARGE 2020 Results
     prizepool="FM 16240" >}}
 
 |    |                                          |          |
-|---:|------------------------------------------|----------|
+|---:|------------------------------------------|----------:|
 |  1 | Russell "ABVidale" Fox         | FM 4,060 |
 |  2 | John "muscatel" Grout          | FM 3,086 |
 |  3 | John "da pickle" Pickels       | FM 2,274 |
@@ -184,7 +184,7 @@ title: BARGE 2020 Results
     prizepool="FM 4,920" >}}
 
 |    |                                          |          |
-|---:|------------------------------------------|----------|
+|---:|------------------------------------------|----------:|
 |  1 | Tim "ts4z" Showalter           | FM 1,279 |
 |  2 | Andreas "Not, Sure" Wolfram    | FM 935   |
 |  3 | Oliver "ojuang" Juang          | FM 738   |
@@ -202,7 +202,7 @@ title: BARGE 2020 Results
     prizepool="FM 5,040" >}}
 
 |    |                                         |          |
-|---:|-----------------------------------------|----------|
+|---:|-----------------------------------------|----------:|
 |  1 | Eric "NiceHandSir" Schneller  | FM 1,264 |
 |  2 | Rich "omaholic" Bremer        | FM 924   |
 |  3 | Claudia "Claudia" Mastroianni | FM 729   |

@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Mark Sobieski | $2,483 |
 | 2 | Mark Richardson | $1,366 |
 | 3 | Michael Klein | $807 |
@@ -26,7 +26,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="PLBO/SS8" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Richard Bremer | $1,280 |
 | 2 | Mike Fujita | $699 |
 | 3 | Ron Lyons | $349 |
@@ -34,7 +34,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="TOC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Joe Morrissette | $1,500 |
 | 2 | Ron Grossberg | $1,400 |
 | 3 | Rick Becker | $1,400 |

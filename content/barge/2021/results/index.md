@@ -35,7 +35,7 @@ entries=42
 prize-pool=$3,360 >}}
 
 |   |                                        |        |
-|--:|----------------------------------------|--------|
+|--:|----------------------------------------|--------:|
 | 1 | Kyle "Super-EV" Minnis       | $1,042 |
 | 2 | Keith "ODB Phat Mack" Troell | $739   |
 | 3 | Mark "deuceTrey" Haroldson   | $571   |
@@ -50,7 +50,7 @@ prize-pool=$2,400
 bonus="plus bounties" >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Kevin "CHORSE Whisperer" Un | $864 |
 | 2 | Dean "MrBookworm" Kerl      | $576 |
 | 3 | Gerald "gerdog" Petersen    | $408 |
@@ -63,7 +63,7 @@ bonus="plus bounties" >}}
     prize-pool=$2,600 >}}
 
 |   |                                           |      |
-|--:|-------------------------------------------|------|
+|--:|-------------------------------------------|------:|
 | 1 | Nolan "ADB Darkside" Dalla      | $764 |
 | 2 | Russell "Messenger of Doom" Fox | $666 |
 | 3 | Kyle "Super-EV" Minnis          | $412 |
@@ -79,7 +79,7 @@ bonus="plus bounties" >}}
     prize-pool=$1,760 >}}
 
 |   |                                     |      |
-|--:|-------------------------------------|------|
+|--:|-------------------------------------|------:|
 | 1 | Scott Canalichio                    | $714 |
 | 2 | Bex "Redbird" Kerl        | $433 |
 | 3 | Bruce "ADB Bigboy" Kramer | $292 |
@@ -93,7 +93,7 @@ bonus="plus bounties" >}}
     prize-pool=$5,800 >}}
 
 |   |                                             |        |
-|--:|---------------------------------------------|--------|
+|--:|---------------------------------------------|--------:|
 | 1 | Linda "1st Lady of Poker" Johnson | $1,594 |
 | 2 | Christopher "Luckbucket" Kuntz    | $1,208 |
 | 3 | Eric "NiceHandSir" Schneller      | $928   |
@@ -107,7 +107,7 @@ bonus="plus bounties" >}}
 {{< tournament event="Team CHORSE" >}}
 
 |   |                     |      |
-|--:|---------------------|------|
+|--:|---------------------|------:|
 | 1 | Team Donk           | $925 |
 | 2 | Team MPN            | $704 |
 | 3 | Happy Raisers       | $438 |
@@ -116,7 +116,7 @@ bonus="plus bounties" >}}
 | 6 | Arrogant Bastards   | $0   |
 
 |   | Team Donk                                  |     |
-|--:|--------------------------------------------|-----|
+|--:|--------------------------------------------|-----:|
 | C | Rich "Omaholic" Bremer           | $40 |
 | H | Bob "888" Gilbert                | $40 |
 | O | Dan "ADB smalltalk" Goldman      | $40 |
@@ -132,7 +132,7 @@ entries=50
 prize-pool=$5,000 >}}
 
 |   |                                       |        |
-|--:|---------------------------------------|--------|
+|--:|---------------------------------------|--------:|
 | 1 | Andrew "Black Beauty" Prock | $1,400 |
 | 2 | Rich "Omaholic" Bremer      | $1,050 |
 | 3 | Mark "deuceTrey" Haroldson  | $800   |
@@ -147,7 +147,7 @@ entries=27
 prize-pool=$2,160 >}}
 
 |   |                                        |      |
-|--:|----------------------------------------|------|
+|--:|----------------------------------------|------:|
 | 1 | Cole Stewart                           | $728 |
 | 2 | Voltaire Ronquillo                     | $488 |
 | 3 | Scott "samarai" Samarel      | $347 |
@@ -161,7 +161,7 @@ entries=18
 prize-pool=$900 >}}
 
 |   |                                    |      |
-|--:|------------------------------------|------|
+|--:|------------------------------------|------:|
 | 1 | Ryan "LMGTFY" Troll      | $378 |
 | 2 | Gerald "gerdog" Petersen | $234 |
 | 3 | Paul McMullin                      | $162 |
@@ -173,7 +173,7 @@ entries=84
 prize-pool=$10,500 >}}
 
 |    |                                             |        |
-|---:|---------------------------------------------|--------|
+|---:|---------------------------------------------|--------:|
 |  1 | Linda "1st Lady of Poker" Johnson | $1,586 |
 |  2 | Cliff "deadhead" Matthews         | $1,531 |
 |  3 | Gillian "Tegwin" Groves           | $1,527 |
@@ -191,7 +191,7 @@ prize-pool=$10,500 >}}
     prize-pool=$1,680 >}}
 
 |   |                                        |      |
-|--:|----------------------------------------|------|
+|--:|----------------------------------------|------:|
 | 1 | Steve "Crunch" Daniel        | $706 |
 | 2 | Jesse Capps                            | $437 |
 | 3 | Larry "AZalphapoker" Bierman | $302 |
@@ -202,7 +202,7 @@ prize-pool=$10,500 >}}
     prize-pool=$800 >}}
 
 |   |                                   |      |
-|--:|-----------------------------------|------|
+|--:|-----------------------------------|------:|
 | 1 | Donald "ADBBingo" Rieck | $200 |
 | 2 | Rich "Omaholic" Bremer  | $400 |
 | 3 | David "Heldar" Heller   | $200 |
@@ -213,7 +213,7 @@ prize-pool=$10,500 >}}
     prize-pool=$12,320 >}}
 
 |    |                                       |        |
-|---:|---------------------------------------|--------|
+|---:|---------------------------------------|--------:|
 |  1 | Sabyl "Kaismom" Landrum     | $3,204 |
 |  2 | Andrew "Black Beauty" Prock | $2,341 |
 |  3 | Nolan "ADB Darkside" Dalla  | $1,848 |

@@ -20,7 +20,7 @@ Binion's, Las Vegas
     prizepool="$2,880" >}}
 
 |     |               |        |
-|----:|---------------|--------|
+|----:|---------------|--------:|
 | 1st | Jeanne David  | $1,200 |
 | 2nd | John Lloyd    | $720   |
 | 3rd | Rich Bremer   | $430   |
@@ -36,7 +36,7 @@ Binion's, Las Vegas
   prizepool="$2,940" >}}
 
 |     |               |       |
-|----:|---------------|-------|
+|----:|---------------|-------:|
 | 1st | Bob Ogus      | $455  |
 | 2nd | Rich Strauss  | $1100 |
 | 3rd | Larry Bierman | $640  |
@@ -53,7 +53,7 @@ entries="49"
 prizepool="$4,900" >}}
 
 |     |                  |        |
-|----:|------------------|--------|
+|----:|------------------|--------:|
 | 1st | Dan Goldman      | $2,295 |
 | 2nd | Spencer Sun      | $1,350 |
 | 3rd | Steve Eisenstein | $610   |

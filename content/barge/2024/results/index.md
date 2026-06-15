@@ -27,7 +27,7 @@ donated to Dan Goldman's chosen charity, Dogs on Deployment.&nbsp; And Deron
 Brod has offered to have it matched through his employer Black &amp; Decker!
 
 |   |                                             |      |
-|--:|---------------------------------------------|------|
+|--:|---------------------------------------------|------:|
 | 1 | Dan &ldquo;ADB smalltalk&rdquo; Goldman     | $964 |
 | 2 | Patrick &ldquo;CtheTurn&rdquo; Kirwan       | $578 |
 | 3 | Jim Anderson                                | $385 |
@@ -41,7 +41,7 @@ Brod has offered to have it matched through his employer Black &amp; Decker!
     prizepool="$2,850" >}}
 
 |   |                                                 |      |
-|--:|-------------------------------------------------|------|
+|--:|-------------------------------------------------|------:|
 | 1 | Jared &ldquo;Mr3putt&rdquo; Anderson            | $834 |
 | 2 | Christian &ldquo; Dr.Doofenshmirtz&rdquo; Jones | $597 |
 | 3 | Carol &ldquo;CKBWoP&rdquo; Anderson             | $464 |
@@ -58,7 +58,7 @@ entries="67"
 prizepool="$7,035" >}}
 
 |    |                                                |        |
-|---:|------------------------------------------------|--------|
+|---:|------------------------------------------------|--------:|
 |  1 | Michael &ldquo;mickdog&rdquo; Patterson        | $1,524 |
 |  2 | Russell &ldquo;Messenger of Doom&rdquo; Fox    | $1,523 |
 |  3 | Jared &ldquo;Mr3putt&rdquo; Anderson           | $1,035 |
@@ -78,7 +78,7 @@ prizepool="$7,035" >}}
     prizepool="$500" >}}
 
 |   |                                    |      |
-|--:|------------------------------------|------|
+|--:|------------------------------------|------:|
 | 1 | Kyle &ldquo;Super-ev&rdquo; Minnis | $320 |
 | 2 | Rich &ldquo;Omaholic&rdquo; Bremer | $180 |
 
@@ -111,7 +111,7 @@ prizepool="$7,035" >}}
     prizepool="$5,670" >}}
 
 |   |                                               |      |
-|--:|-----------------------------------------------|------|
+|--:|-----------------------------------------------|------:|
 | 1 | Dan &ldquo;dann&rdquo; Nussbaum |  $1,209 |
 | 2 | Rich &ldquo;Omaholic&rdquo; Bremer | $1,442 |
 | 3 | Aaron Lion | $944 |
@@ -132,7 +132,7 @@ prizepool="$7,035" >}}
 
 
 |   |                                               |      |
-|--:|-----------------------------------------------|------|
+|--:|-----------------------------------------------|------:|
 | 1 | Rich &ldquo;Omaholic&rdquo; Bremer            | $500 |
 | 2 | Dan &ldquo;dann&rdquo; Nussbaum               | $500 |
 | 3 | Jared &ldquo;Mr3putt&rdquo; Anderson          | $500 |
@@ -154,7 +154,7 @@ event="Chinese Poker Mix"
     prizepool="$900" >}}
 
 |   |                                             |      |
-|--:|---------------------------------------------|------|
+|--:|---------------------------------------------|------:|
 | 1 | Eric &ldquo;NiceHandSir&rdquo; Schneller    | $306 |
 | 2 | Brian &ldquo;Half-Giant&rdquo; Fazio        | $193 |
 | 3 | Jesse &ldquo;Busta&rdquo; Capps             | $159 |
@@ -170,7 +170,7 @@ event="Chinese Poker Mix"
     prizepool="$5,670" >}}
 
 |   |                                                 |        |
-|--:|-------------------------------------------------|--------|
+|--:|-------------------------------------------------|--------:|
 | 1 | Rick Mombourquette                              | $1,567 |
 | 2 | Tim &ldquo;ts4z&rdquo; Showalter                | $1,171 |
 | 3 | Dan &ldquo;ADB smalltalk&rdquo; Goldman         | $887   |
@@ -189,7 +189,7 @@ event="Chinese Poker Mix"
     prizepool="$9,360" >}}
 
 |    |                                           |        |
-|---:|-------------------------------------------|--------|
+|---:|-------------------------------------------|--------:|
 | 1 |Jesse &ldquo;Busta&rdquo; Capps |  $2,321 |
 | 2 |Rich &ldquo;Omaholic&rdquo; Bremer |  $1,758 |
 | 3 |Jared &ldquo;Mr3putt&rdquo; Anderson |  $1,290 |
@@ -215,7 +215,7 @@ event="Chinese Poker Mix"
     prizepool="$13,365" >}}
 
 |    |                                           |        |
-|---:|-------------------------------------------|--------|
+|---:|-------------------------------------------|--------:|
 |  1 | Tim &ldquo;ADB ts4z&rdquo; Showalter      | $2,962 |
 |  2 | Ben &ldquo;recdot&rdquo; Gamble           | $2,631 |
 |  3 | Len &ldquo;Len G&rdquo; Greenberg         | $1,594 |

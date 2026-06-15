@@ -20,7 +20,7 @@ title: BARGE 2013 Results
     buyin="$60+$10"   >}}
 
 |   |                     |      |
-|--:|---------------------|------|
+|--:|---------------------|------:|
 | 1 | Andy Hughes         | $765 |
 | 2 | Christopher Mecklin | $575 |
 | 3 | Rich Bremer         | $440 |
@@ -35,7 +35,7 @@ title: BARGE 2013 Results
     buyin="$60+$15"   >}}
 
 |   |               |      |
-|--:|---------------|------|
+|--:|---------------|------:|
 | 1 | Caryl Aronson | $875 |
 | 2 | Patti Beadles | $655 |
 | 3 | Paul Gibboney | $500 |
@@ -52,7 +52,7 @@ title: BARGE 2013 Results
     image-alt="Triathlon of Gambling Champion horseshoe trophy" >}}
 
 |   |                   |      |
-|--:|-------------------|------|
+|--:|-------------------|------:|
 | 1 | Michael Patterson | $480 |
 | 2 | Patti Beadles     | $300 |
 | 3 | Kenny Shei        | $200 |
@@ -64,7 +64,7 @@ title: BARGE 2013 Results
     buyin="$75+$20"  >}}
 
 |    |               |        |
-|---:|---------------|--------|
+|---:|---------------|--------:|
 |  1 | David Lawful  | $1,710 |
 |  2 | David Aronson | $1,245 |
 |  3 | Paul McMullin | $980   |
@@ -85,7 +85,7 @@ title: BARGE 2013 Results
     image-alt="Rich Strauss" >}}
 
 |    |                |        |
-|---:|----------------|--------|
+|---:|----------------|--------:|
 |  1 | Rich Strauss   | $1,205 |
 |  2 | Tom White Jr.  | $1,200 |
 |  3 | Paul Fischman  | $835   |
@@ -103,7 +103,7 @@ title: BARGE 2013 Results
     date="Friday, August 2nd, 2013" >}}
 
 |    |                 |        |
-|---:|-----------------|--------|
+|---:|-----------------|--------:|
 |  1 | Gillian Groves  | $2,150 |
 |  2 | Derek Gomez     | $1,635 |
 |  3 | Don Rieck       | $1,210 |
@@ -125,7 +125,7 @@ title: BARGE 2013 Results
     image-alt="David Lawful" >}}
 
 |    |                    |        |
-|---:|--------------------|--------|
+|---:|--------------------|--------:|
 |  1 | David Lawful       | $3,100 |
 |  2 | Robert Lauria      | $3,090 |
 |  3 | Gerald Petersen    | $2,015 |
@@ -152,7 +152,7 @@ title: BARGE 2013 Results
     teams=10 >}}
 
 |         |                   |         |
-|--------:|-------------------|---------|
+|--------:|-------------------|---------:|
 |       1 | Arrogant Bastards | $610    |
 |       2 | Team Virgin       | $602    |
 |       3 | Team Moosecock    | $542    |
