@@ -14,14 +14,25 @@ Taking Orders
 Chip sales have been handled by all sorts of means in the past.
 
 In 2025, We sold chips with a Google form and the promise of Venmo payments.
-
-If Tim had this to do over again, and couldn't find a proper shopping cart
-system, he would have collected money himself, since it would have been easier
-to audit.  Having another person (who happens to have the desirable handle
-@bargechips) was confusing.
-
 A Google Form makes a crappy shopping cart experience.  It is easy to set up.
 However, several people sent the wrong amount of money in.
+
+In 2026, we had Claude put together a form.  On the whole, this worked better
+than the Google Sheet -- there were fewer errors.  The form was rigged up to
+post to a Google Sheet, which was then fed into the actual order.  The form had
+some usability mistakes.  Make sure an "address" form has city/state/zip
+fields.  People expect these, and since he got cute and made this a
+`&lt;textarea&gt;`, some folks left out their city.  Also, make sure the "pay
+now" information is on the submission confirmation.
+
+Whoever collects the money needs to reconcile the amounts posted to the
+spreadsheet.  In 2025, this didn't happen.
+
+In 2026, our order form sent email to people who ordered chips.  This
+frequently hit the spam folder.  Some folks waited to get this email in order
+to send money.
+
+Being able to take credit cards would be a really good idea.
 
 Expected Sales
 --------------
@@ -61,6 +72,8 @@ the chips up about 150% after a lot of waffling.  We had a budget and did some
 careful calculations, then at the last minute Tim bumped it up to make it
 mostly a round $20 per sample set.  We turned a modest profit.
 
+In 2026, we accidentally made money.  Our markup was too high, we sold through
+some "paid for" old stock, and our sales were a little better than 2025.
 
 Accessories
 -----------
