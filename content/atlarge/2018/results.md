@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Kevin Conlon | $2,468 |
 | 2 | Stephen Kracinovich | $1,252 |
 | 3 | Pete Segal | $754 |
@@ -25,7 +25,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="PLBO8" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | David Kluchman | $1,275 |
 | 2 | Richard Bremer | $693 |
 | 3 | Russell Diaz | $345 |
@@ -34,7 +34,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="TOC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Thomas Kracinovich | $2,105 |
 | 2 | Stephanie Wasserman | $1,138 |
 | 3 | Steven Eisenstein | $693 |

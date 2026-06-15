@@ -21,7 +21,7 @@ title: BARGE 2022 Results
     after-entries="$3,230.55 total rebuys, add-ons, and donations to be sent to Rich Korbin&rsquo;s charity of choice, the National Suicide Prevention Lifeline" >}}
 
 |   |                                           |        |
-|--:|-------------------------------------------|--------|
+|--:|-------------------------------------------|--------:|
 | 1 | Russell "Messenger of Doom" Fox | $1,079 |
 | 2 | Dean "MrBookworm" Kerl          | $721   |
 | 3 | Steve &ldquo;Crunch" Daniel          | $510   |
@@ -34,7 +34,7 @@ title: BARGE 2022 Results
     prize-pool=$2,560 >}}
 
 |   |                                    |      |
-|--:|------------------------------------|------|
+|--:|------------------------------------|------:|
 | 1 | Chris "Big F'n Q" Quan   | $765 |
 | 2 | David "sam\_6" Lawful    | $765 |
 | 3 | Kevin "UN" Un            | $435 |
@@ -51,7 +51,7 @@ title: BARGE 2022 Results
     image-alt="Scott Byron" >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Scott "Bwana" Byron         | $972 |
 | 2 | Gerald "gerdog" Petersen    | $648 |
 | 3 | Steve "Crunch" Daniel       | $459 |
@@ -66,7 +66,7 @@ title: BARGE 2022 Results
     image-alt="Gillian Groves" >}}
 
 |   |                                              |        |
-|--:|----------------------------------------------|--------|
+|--:|----------------------------------------------|--------:|
 | 1 | Gillian "Tegwin" Groves            | $1,211 |
 | 2 | Rich "Omaholic" Bremer             | $862   |
 | 3 | Jeanne "Jeanne D" David            | $667   |
@@ -84,7 +84,7 @@ title: BARGE 2022 Results
     image-alt="Rick Mombourquette" >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Rick "Rick M" Mombourquette | $605 |
 | 2 | David "sam_6" Lawful        | $403 |
 | 3 | Dan "ADB smalltalk" Goldman | $286 |
@@ -111,7 +111,7 @@ title: BARGE 2022 Results
     image-alt="Arrogant Bastards, the winning CHORSE team" >}}
 
 |   |                   |      |
-|--:|-------------------|------|
+|--:|-------------------|------:|
 | 1 | Arrogant Bastards | $719 |
 | 2 | Team Donk         | $556 |
 | 3 | Team Moosecock    | $325 |
@@ -135,7 +135,7 @@ title: BARGE 2022 Results
     image-alt="Guy Berentsen" >}}
 
 |   |                                  |      |
-|--:|----------------------------------|------|
+|--:|----------------------------------|------:|
 | 1 | Guy "Grizz" Berentsen  | $891 |
 | 2 | Dean "MrBookworm" Kerl | $548 |
 | 3 | Ken "QB" Kubey         | $399 |
@@ -149,7 +149,7 @@ title: BARGE 2022 Results
     bonus="$960 derby pool" >}}
 
 |   |                                   |      |
-|--:|-----------------------------------|------|
+|--:|-----------------------------------|------:|
 | 1 | Corey "LingCod" Imsdahl | $403 |
 | 2 | Tim "ts4z" Showalter    | $250 |
 | 3 | Oliver "Oliver" Allen   | $173 |
@@ -158,7 +158,7 @@ title: BARGE 2022 Results
 Derby winners:
 
 |   |                                   |      |
-|--:|-----------------------------------|------|
+|--:|-----------------------------------|------:|
 | 1 | Tim "ts4z" Showalter    | $480 |
 | 2 | Corey "LingCod" Imsdahl | $288 |
 | 3 | Oliver "Oliver" Allen   | $192 |
@@ -171,7 +171,7 @@ Derby winners:
     image-alt="Claudia Mastroianni" >}}
 
 |   |                                         |        |
-|--:|-----------------------------------------|--------|
+|--:|-----------------------------------------|--------:|
 | 1 | Claudia "Claudia" Mastroianni | $1,960 |
 | 2 | Joe "Cap" Santagata           | $1,470 |
 | 3 | Jared "Mr3putt" Anderson      | $1,120 |
@@ -186,7 +186,7 @@ Derby winners:
     prize-pool=$1,520 >}}
 
 |    |                                           |      |
-|---:|-------------------------------------------|------|
+|---:|-------------------------------------------|------:|
 | 1* | Dean "MrBookworm" Kerl          | $638 |
 |  2 | Russell "Messenger of Doom" Fox | $395 |
 |  3 | Scott "scottro" Harker          | $274 |
@@ -198,7 +198,7 @@ Derby winners:
     prize-pool=$700 >}}
 
 |   |                                          |      |
-|--:|------------------------------------------|------|
+|--:|------------------------------------------|------:|
 | 1 | Scott "Bwana" Byron            | $490 |
 | 2 | David &ldquo;stonedonkey&rdquo; Kluchman | $210 |
  
@@ -210,7 +210,7 @@ Derby winners:
     image-alt="Jesse Capps" >}}
 
 |    |                                           |        |
-|---:|-------------------------------------------|--------|
+|---:|-------------------------------------------|--------:|
 |  1 | Jesse Capps                               | $3,002 |
 |  2 | Gerald "gerdog" Petersen        | $2,188 |
 |  3 | Barry "Mr. Raise" Kornspan      | $1,723 |

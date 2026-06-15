@@ -14,7 +14,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | David Torrente | $2,500 |
 | 2 | David Lawful | $1,800 |
 | 3 | Michael Jacobs | $1,400 |
@@ -29,7 +29,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="Pot-Limit Omaha" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Mike Fujita | $928 |
 | 2 | Gloria Lorusso | $599 |
 | 3 | Thomas Kracinovich | $543 |
@@ -42,7 +42,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="ToC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Tom Hummel | $1,875 |
 | 2 | Chris Kluchman | $1,350 |
 | 3 | David Lawful | $975 |

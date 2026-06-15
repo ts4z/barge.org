@@ -16,7 +16,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="Double-Board PLO" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Pete Segal | $470 |
 | 2 | Mike Fujita | $217 |
 | 3 | Barry Kornspan | $317 |
@@ -29,7 +29,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Dean White | $2,343 |
 | 2 | George Stricker | $2,342 |
 | 3 | Cynthia Yannette | $1,152 |
@@ -41,7 +41,7 @@ Results as reported in Crunch's BAAP database.
 {{< tournament event="ToC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Meredith Holtzman | $1,445 |
 | 2 | Alan Stuart | $1,440 |
 | 3 | Jeanne David | $1,280 |

@@ -20,7 +20,7 @@ title: BARGE 2011 Results
     prize-pool=$4,400 >}}
 
 |   |                                      |      |
-|--:|--------------------------------------|------|
+|--:|--------------------------------------|------:|
 | 1 | David Kluchman                       | $950 |
 | 2 | Len Greenberg                        | $950 |
 | 3 | Sharon "ADB Shaza" Goldman | $640 |
@@ -38,7 +38,7 @@ title: BARGE 2011 Results
     prize-pool=$1,050 >}}
 
 |   |                 |      |
-|--:|-----------------|------|
+|--:|-----------------|------:|
 | 1 | David Heller    | $455 |
 | 2 | Gerald Petersen | $280 |
 | 3 | Connie Kellers  | $185 |
@@ -52,7 +52,7 @@ title: BARGE 2011 Results
     date="Tuesday. August 2, 2011" >}}
 
 |   |                |      |
-|--:|----------------|------|
+|--:|----------------|------:|
 | 1 | Michael Maurer | $400 |
 | 2 | Sabyl Landrum  | $300 |
 | 3 | Alan Veach     | $200 |
@@ -65,7 +65,7 @@ title: BARGE 2011 Results
     prize-pool=$4,260 >}}
 
 |   |                                     |        |
-|--:|-------------------------------------|--------|
+|--:|-------------------------------------|--------:|
 | 1 | Chris "Tom Bayes" Mecklin | $1,065 |
 | 2 | Scott "Bwana" Byron       | $845   |
 | 3 | Joe "ChipRider" Long      | $640   |
@@ -80,7 +80,7 @@ title: BARGE 2011 Results
     event="Team CHORSE" >}}
 
 |    |                           |      |
-|---:|---------------------------|------|
+|---:|---------------------------|------:|
 |  1 | Team I Don't Give A Damn  | $864 |
 |  2 | McLibtards                | $676 |
 |  3 | deadheads                 | $642 |

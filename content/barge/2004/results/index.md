@@ -24,7 +24,7 @@ title: BARGE 2004 Results
 Charity:  Hidden Villa of Los Altos Hills, CA - $370
 
 |   |                                   |      |
-|--:|-----------------------------------|------|
+|--:|-----------------------------------|------:|
 | 1 | Dave Orr                          | $430 |
 | 2 | Greg "Fossilman" Raymer | $320 |
 | 3 | Sabyl Cohen                       | $250 |
@@ -40,7 +40,7 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
     entries="34" >}}
 
 |   |                                        |      |
-|--:|----------------------------------------|------|
+|--:|----------------------------------------|------:|
 | 1 | Barry "PokerBear" Tanenbaum  | $775 |
 | 2 | David "ADB Iceman" Trinidad  | $465 |
 | 3 | Rick "RLM" Mombourquette     | $310 |
@@ -56,7 +56,7 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
     date="Wednesday, July 28, 2004" >}}
 
 |   |                                    |      |
-|--:|------------------------------------|------|
+|--:|------------------------------------|------:|
 | 1 | Dave McVay                         | $545 |
 | 2 | Betty "BLT" Tanenbaum    | $410 |
 | 3 | Peter "ADB Foldem" Secor | $270 |
@@ -69,7 +69,7 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
     entries=16 >}}
 
 |   |                         |        |
-|--:|-------------------------|--------|
+|--:|-------------------------|--------:|
 | 1 | Math Is Hard 5          | T2,150 |
 | 2 | Luck Factor Zero        | T1,920 |
 | 3 | Team Presto             | T1,606 |
@@ -95,7 +95,7 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
     entries=161 >}}
 
 |   |                                         |        |
-|--:|-----------------------------------------|--------|
+|--:|-----------------------------------------|--------:|
 | 1 | David "GreatPlans" Fruchter   | $2,620 |
 | 2 | Jim "Bullbert" Bullard        | $2,090 |
 | 3 | Chris "ADB Ploink" Straghalis | $1,560 |
@@ -113,7 +113,7 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
     entries="104 Entries" >}}
 
 |    |                                       |          |
-|---:|---------------------------------------|----------|
+|---:|---------------------------------------|----------:|
 |  1 | Peter "Taki" Caldes         | $1,420   |
 |  2 | Sabyl Cohen                           | $1,130   |
 |  3 | Perry "The Baiter" Friedman | $850     |
@@ -136,7 +136,7 @@ Charity:  Hidden Villa of Los Altos Hills, CA - $370
     entries=206 >}}
 
 |    |                                       |        |
-|---:|---------------------------------------|--------|
+|---:|---------------------------------------|--------:|
 |  1 | Gavin "Raffi" Smith         | $3,710 |
 |  2 | Frank "ADB Nut-Z" Brabec    | $2,970 |
 |  3 | Dan Nussbaum                          | $2,220 |

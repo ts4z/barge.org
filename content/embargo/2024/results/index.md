@@ -22,7 +22,7 @@ cover:
     prizepool="$4,700" >}}
 
 |   |                                        |        |
-|--:|----------------------------------------|--------|
+|--:|----------------------------------------|--------:|
 | 1 | Sam "Sooted" Scheinberg      | $1,427 |
 | 2 | Sabyl "kaismom" Landrum      | $1004  |
 | 3 | Nolan "COMMUNITY" Hee        | $680   |
@@ -38,7 +38,7 @@ cover:
     prizepool="$4,300"  >}}
 
 |   |                                              |        |
-|--:|----------------------------------------------|--------|
+|--:|----------------------------------------------|--------:|
 | 1 | Nolan &ldquo;COMMUNITY&rdquo; Hee            | $1,308 |
 | 2 | Ron &ldquo;Playing for Mitt&rdquo; Grossberg | $921   |
 | 3 | Helen Kimble                                 | $706   |
@@ -54,7 +54,7 @@ cover:
     prizepool="$3,200" >}}
 
 |   |                                              |      |
-|--:|----------------------------------------------|------|
+|--:|----------------------------------------------|------:|
 | 1 | Sam &ldquo;Soooted&rdquo; Scheinberg         | $960 |
 | 2 | Dan &ldquo;ADB smalltalk&rdquo; Goldman      | $960 |
 | 3 | Joe &ldquo;Joe Santa&rdquo; Santagata        | $544 |
@@ -68,7 +68,7 @@ cover:
     prizepool="$5,200" >}}
 
 |   |                                          |        |
-|--:|------------------------------------------|--------|
+|--:|------------------------------------------|--------:|
 | 1 | Larry &ldquo;AZAlphapoker&rdquo; Bierman | $1,248 |
 | 2 | Lori &ldquo;PokerVixen&rdquo; Miller     | $1,300 |
 | 3 | Paul &ldquo;prmcm&rdquo; McMullin        | $832   |
@@ -84,7 +84,7 @@ cover:
     prizepool="$3,500" >}}
 
 |   |                                     |        |
-|--:|-------------------------------------|--------|
+|--:|-------------------------------------|--------:|
 | 1 | Ellis &ldquo;Drackala&rdquo; Starks | $1,210 |
 | 2 | Dan &ldquo;dann&rdquo; Nussbaum     | $790   |
 | 3 | Jeanne David                        | $545   |

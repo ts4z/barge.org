@@ -17,7 +17,7 @@ we have.)
 {{< tournament event="No-Limit Hold'em" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Steven Eisenstein | $1,800 |
 | 2 | Ross Poppel | $1,800 |
 | 3 | Lee Ilagan | $1,800 |
@@ -31,7 +31,7 @@ we have.)
 {{< tournament event="Pot-Limit Omaha" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | David Kluchman | $1,800 |
 | 2 | Barry Gassen | $1,800 |
 | 3 | Brandon Gerson | $1,800 |
@@ -41,7 +41,7 @@ we have.)
 {{< tournament event="ToC" >}}
 
 |    |                          |        |
-|---:|--------------------------|--------|
+|---:|--------------------------|--------:|
 | 1 | Rick Becker | $1,800 |
 | 2 | Thomas Kracinovich | $1,400 |
 | 3 | Cary Flynn | $1,278 |

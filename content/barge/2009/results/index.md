@@ -21,7 +21,7 @@ title: BARGE 2009 Results
     prize-pool=$3,600 >}}
 
 |    |                                         |      |
-|---:|-----------------------------------------|------|
+|---:|-----------------------------------------|------:|
 |  1 | Rick Mombourquette                      | $875 |
 |  2 | Rodney Chen                             | $695 |
 |  3 | Guy "Grizz" Berenstein        | $530 |
@@ -41,7 +41,7 @@ title: BARGE 2009 Results
     prize-pool=$1,700 >}}
 
 |   |                                           |      |
-|--:|-------------------------------------------|------|
+|--:|-------------------------------------------|------:|
 | 1 | Matt "Grapes" Grapenthien       | $590 |
 | 2 | Charles "Chic" Natkins          | $460 |
 | 3 | Bree "Dan's Kid" Goldman        | $350 |
@@ -58,7 +58,7 @@ title: BARGE 2009 Results
     prize-pool=$1,400 >}}
 
 |   |                                   |      |
-|--:|-----------------------------------|------|
+|--:|-----------------------------------|------:|
 | 1 | Rich "Omaholic" Bremer  | $560 |
 | 2 | Charles "Chic" Natkins  | $420 |
 | 3 | Stephen Landrum                   | $280 |
@@ -72,7 +72,7 @@ title: BARGE 2009 Results
     prize-pool=$4,860 >}}
 
 |   |                                 |        |
-|--:|---------------------------------|--------|
+|--:|---------------------------------|--------:|
 | 1 | Gillian Groves                  | $910   |
 | 2 | Rick "Zbigniew" Bevan | $1,005 |
 | 3 | Steve Bartnyk                   | $815   |
@@ -92,7 +92,7 @@ title: BARGE 2009 Results
     image-alt="the winning CHORSE team" >}}
 
 |    |                                                        |      |
-|---:|--------------------------------------------------------|------|
+|---:|--------------------------------------------------------|------:|
 |  1 | The Math Is Hard 5 Sans That Talentless Commie Bastard | $981 |
 |  2 | Team PMS                                               | $954 |
 |  3 | The Live Straddlers                                    | $799 |
@@ -129,7 +129,7 @@ title: BARGE 2009 Results
     prize-pool=$4,650 >}}
 
 |      |                                        |          |
-|-----:|----------------------------------------|----------|
+|-----:|----------------------------------------|----------:|
 |    1 | David "StoneDonkey" Kluchman | $1,010   |
 |    2 | Cliff "deadhead" Matthews    | $810     |
 |    3 | Michael "pygmyhipo" Maurer   | $610     |
@@ -156,7 +156,7 @@ title: BARGE 2009 Results
     prize-pool=$12,375 >}}
 
 | event=" |                                                |        |
-|--------:|------------------------------------------------|--------|
+|--------:|------------------------------------------------|--------:|
 |       1 | Michael "pygmyhipo" Maurer           | $3,120 |
 |       2 | Doug Grismore                                  | $1,465 |
 |       3 | Stephanie "Sassy Bikebabe" Wasserman | $1,790 |
@@ -186,7 +186,7 @@ title: BARGE 2009 Results
     prize-pool=$430 >}}
 
 |    |                     |      |
-|---:|---------------------|------|
+|---:|---------------------|------:|
 |  1 | Cindy Martin        | $100 |
 |  2 | Elaine Byron        | $80  |
 |  3 | Elizabeth Lozero    | $60  |
@@ -207,7 +207,7 @@ title: BARGE 2009 Results
     prize-pool=$20,900 >}}
 
 |    |                                         |        |
-|---:|-----------------------------------------|--------|
+|---:|-----------------------------------------|--------:|
 |  1 | David "Heldar" Heller         | $5,035 |
 |  2 | Brenda "SunnyGirl" Mowrey     | $3,765 |
 |  3 | Bruce "ADB Bigboy" Kramer     | $2,720 |

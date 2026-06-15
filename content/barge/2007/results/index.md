@@ -20,7 +20,7 @@ title: BARGE 2007 Results
     prize-pool="$4,350" >}}
     
 |   |                                         |        |
-|--:|-----------------------------------------|--------|
+|--:|-----------------------------------------|--------:|
 | 1 | Andy "WAR" Bloch              | $1,090 |
 | 2 | Tim "ts4z" Showalter          | $870   |
 | 3 | Chris "ADB Ploink" Straghalis | $650   |
@@ -38,7 +38,7 @@ title: BARGE 2007 Results
     prize-pool="$2,000" >}}
   
 |   |                                           |      |
-|--:|-------------------------------------------|------|
+|--:|-------------------------------------------|------:|
 | 1 | Nolan Hee                                 | $850 |
 | 2 | Greg Pappas                               | $500 |
 | 3 | Chic "Boomerman" Natkins        | $350 |
@@ -53,7 +53,7 @@ title: BARGE 2007 Results
      prize-pool="$1,560" >}}
 
 |   |                                       |      |
-|--:|---------------------------------------|------|
+|--:|---------------------------------------|------:|
 | 1 | Michael "Mickdog" Patterson | $595 |
 | 2 | Orlando Rojas                         | $480 |
 | 3 | Kevin "ADB Un" Knourek      | $320 |
@@ -66,7 +66,7 @@ title: BARGE 2007 Results
     prize-pool="$5,100" >}}
 
 |   |                                        |        |
-|--:|----------------------------------------|--------|
+|--:|----------------------------------------|--------:|
 | 1 | Patti "ADB Patti" Beadles    | $1,275 |
 | 2 | Warren Sander                          | $1,015 |
 | 3 | Nolan "ADB Darkside" Dalla   | $770   |
@@ -82,7 +82,7 @@ title: BARGE 2007 Results
     teams=18 >}}
 
 |             |                         |        |
-|------------:|-------------------------|--------|
+|------------:|-------------------------|--------:|
 |           1 | Team Chinese Pocker     | T1,833 |
 |             | &nbsp;Jerrod Ankenman   |        |
 |             | &nbsp;Michelle Ankenman |        |
@@ -117,7 +117,7 @@ title: BARGE 2007 Results
     bonus=Freeroll >}}
 
 |   |                 |     |
-|--:|-----------------|-----|
+|--:|-----------------|-----:|
 | 1 | Robert Archletu | $70 |
 | 2 | Hedy Valledolmo | $50 |
 | 3 | Faith Rivera    | $40 |
@@ -129,7 +129,7 @@ title: BARGE 2007 Results
     prize-pool="$6,375" >}}
 
 |       |                                        |          |
-|------:|----------------------------------------|----------|
+|------:|----------------------------------------|----------:|
 |     1 | Chic "Boomerman" Natkins     | $1,275   |
 |     2 | John "Dead Money" Harkness   | $1,015   |
 |     3 | Chieu "Choo Choo" Tran       | $770     |
@@ -161,7 +161,7 @@ title: BARGE 2007 Results
     prize-pool="$12,825" >}}
 
 |    |                                       |        |
-|---:|---------------------------------------|--------|
+|---:|---------------------------------------|--------:|
 |  1 | Kenny Shei                            | $3,205 |
 |  2 | Stevan "goldiefish" Goldman | $2,310 |
 |  3 | Dave "BronzeDodger" O'Grady | $1,670 |
@@ -188,7 +188,7 @@ title: BARGE 2007 Results
     bonus=Freeroll >}}
 
 |   |                 |     |
-|--:|-----------------|-----|
+|--:|-----------------|-----:|
 | 1 | Jay Galanto     | $70 |
 | 2 | Robert Arculeta | $50 |
 | 3 | Jan McWorter    | $40 |
@@ -203,7 +203,7 @@ title: BARGE 2007 Results
     prize-pool="$20,600" >}}
 
 |    |                                       |        |
-|---:|---------------------------------------|--------|
+|---:|---------------------------------------|--------:|
 |  1 | John "daPickle" Pickels     | $4,600 |
 |  2 | Don "ADB Bingo" Rieck       | $3,680 |
 |  3 | David "ADB Iceman" Trinidad | $2,760 |
