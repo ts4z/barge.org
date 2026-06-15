@@ -7,10 +7,10 @@ author: Tim Showalter
 This is all just my opinion, yet I'm writing this in third person.  It feels
 weird but it will survive your edits better. &mdash;ts4z
 
-The Winner Designs the Chips
+The Winner Makes the Chips
 ----------------------------
 
-The tradition is that the winner designs the chips.  This means that these are
+The tradition is that the winner makes the chips.  This means that these are
 not rules, more like guidelines.  If you want to make only 44mm chips made of
 Hanukkah gelt, we can't stop you.  (We will probably try to talk you out of
 it.)
@@ -19,7 +19,7 @@ it.)
 Size
 ----
 
-BARGE chips have always been 39mm round chips ("standard chips").  Other sizes
+BARGE chips have always been 39mm round chips ("standard" chips).  Other sizes
 are now available, but 39mm chips are easy to frame, rack, and store in
 standard accessories.
 
@@ -36,11 +36,11 @@ tend to improve the game.  Most tournaments use 4, or maybe 5 colors.
 ### 300-Chip Trophy Set
 
 The standard trophy set has always been 300 chips.  A 3:2:1 ratio is probably a
-good idea.  That is, perhaps it's 150 white, 100 red, 50 green.
+good idea.  That is, perhaps it's 150 white, 100 red, 50 green.  4:3:2:1 works
+fine, too, especially for a larger set (500 chips -- 200:150:100:50).
 
-But since this leaves a few colors out, nobody does this.  80/80/60/40 for
-actual play colors, +10 each of the other colors, still provides a usable 300
-chips.
+Since this leaves a few colors out, nobody does this.  80/80/60/40 for actual
+play colors, +10 each of the other colors, still provides a usable 300 chips.
 
 ### Expanded Sets
 
@@ -49,7 +49,7 @@ small markup (to defray art costs, but likely better than buying them
 separately due to volume discounts).
 
 Tim bought chips intended for board games in low denominations, and more in the
-high denominations for a MTT set.  The total order was about 1500.
+high denominations for a MTT set.  His total order was about 1500.
 
 
 Material
@@ -189,8 +189,9 @@ Bright and simple is advised.
 
 The thinner the black outline, the better.
 
-Our "Fabulous" BARGE logo looks OK on chips, but the black outline of the light bulbs blurs
-and the bulbs are lost.  We simplify this logo.
+Our "Fabulous" BARGE logo looks OK on chips, but the black outline of the light
+bulbs blurs and the bulbs are lost.  Patrick simplified this logo, leaving out
+the yellow circles (light bulbs) and it printed better.
 
 On the PeterBARGE 2025 chips, we have a picture of a pinball machine.  This
 machine has illustrations of playing cards with lots of fine black-line art.
