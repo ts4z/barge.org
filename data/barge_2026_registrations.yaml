@@ -1,4 +1,4 @@
-last_updated: 2026-06-14 20:42 PDT
+last_updated: 2026-06-15 19:34 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -285,3 +285,13 @@ registrations:
   nickname: timmer
   ticket: 74
   ticket_type: BARGE
+- first: Adam
+  last_initial: B
+  nickname: Allknight
+  ticket: 75
+  ticket_type: BARGE & Banquet
+- first: Debbie
+  last_initial: B
+  nickname: Debbie
+  ticket: 76
+  ticket_type: Banquet
