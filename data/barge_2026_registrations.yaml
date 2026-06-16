@@ -1,4 +1,4 @@
-last_updated: 2026-06-14 20:42 PDT
+last_updated: 2026-06-15 19:34 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -228,3 +228,11 @@ registrations:
   ticket: 74
   nickname: timmer
   ticket_type: BARGE
+- full_name: Adam Bachrach
+  ticket: 75
+  nickname: Allknight
+  ticket_type: BARGE & Banquet
+- full_name: Debbie Bachrach
+  ticket: 76
+  nickname: Debbie
+  ticket_type: Banquet
