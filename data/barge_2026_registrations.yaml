@@ -1,4 +1,4 @@
-last_updated: 2026-06-17 08:00 PDT
+last_updated: 2026-06-17 15:28 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -256,3 +256,11 @@ registrations:
   ticket: 81
   nickname: Rick
   ticket_type: BARGE
+- full_name: David Heller
+  ticket: 82
+  nickname: Heldar
+  ticket_type: BARGE & Banquet
+- full_name: Andrea Darvas
+  ticket: 83
+  nickname: Ms. Heldar
+  ticket_type: Banquet
