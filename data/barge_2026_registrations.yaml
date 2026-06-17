@@ -1,4 +1,4 @@
-last_updated: 2026-06-16 15:55 PDT
+last_updated: 2026-06-16 17:16 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -248,3 +248,7 @@ registrations:
   ticket: 79
   nickname: Hot Flash
   ticket_type: Banquet
+- full_name: Michael Patterson
+  ticket: 80
+  nickname: mickdog
+  ticket_type: BARGE & Banquet
