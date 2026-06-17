@@ -1,4 +1,4 @@
-last_updated: 2026-06-16 15:55 PDT
+last_updated: 2026-06-16 17:16 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -310,3 +310,8 @@ registrations:
   nickname: Hot Flash
   ticket: 79
   ticket_type: Banquet
+- first: Michael
+  last_initial: P
+  nickname: mickdog
+  ticket: 80
+  ticket_type: BARGE & Banquet
