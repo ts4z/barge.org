@@ -1,4 +1,4 @@
-last_updated: 2026-06-16 17:16 PDT
+last_updated: 2026-06-17 08:00 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -252,3 +252,7 @@ registrations:
   ticket: 80
   nickname: mickdog
   ticket_type: BARGE & Banquet
+- full_name: Rick
+  ticket: 81
+  nickname: Rick
+  ticket_type: BARGE
