@@ -1,4 +1,4 @@
-last_updated: 2026-06-16 17:16 PDT
+last_updated: 2026-06-17 08:00 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -315,3 +315,8 @@ registrations:
   nickname: mickdog
   ticket: 80
   ticket_type: BARGE & Banquet
+- first: Rick
+  last_initial: ''
+  nickname: Rick
+  ticket: 81
+  ticket_type: BARGE
