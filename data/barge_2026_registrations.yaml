@@ -1,4 +1,4 @@
-last_updated: 2026-06-17 08:00 PDT
+last_updated: 2026-06-17 15:28 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -320,3 +320,13 @@ registrations:
   nickname: Rick
   ticket: 81
   ticket_type: BARGE
+- first: David
+  last_initial: H
+  nickname: Heldar
+  ticket: 82
+  ticket_type: BARGE & Banquet
+- first: Andrea
+  last_initial: D
+  nickname: Ms. Heldar
+  ticket: 83
+  ticket_type: Banquet
