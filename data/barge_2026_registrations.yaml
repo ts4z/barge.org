@@ -1,4 +1,4 @@
-last_updated: 2026-06-17 15:28 PDT
+last_updated: 2026-06-17 21:00 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -264,3 +264,7 @@ registrations:
   ticket: 83
   nickname: Ms. Heldar
   ticket_type: Banquet
+- full_name: Brian Fazio
+  ticket: 84
+  nickname: Half-Giant
+  ticket_type: BARGE & Banquet
