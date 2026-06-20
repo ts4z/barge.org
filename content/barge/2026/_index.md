@@ -19,4 +19,6 @@ Casino](https://orleans.boydgaming.com/) from July 20 through July 25.
 
 [Register for BARGE 2026!]({{< relref "/barge/2026/register" >}})
 
-[Event Schedule is now available.]({{< relref "schedule/" >}})
+[See who has registered for BARGE.]({{< relref "registrations/" >}})
+[Book a room at the Orleans.]({{< relref "hotel/" >}})
+[Ponder the event schedule.]({{< relref "schedule/" >}})
