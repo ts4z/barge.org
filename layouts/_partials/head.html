@@ -91,11 +91,15 @@ SOFTWARE.
 {{- /* Add extended css after theme style */ -}}
 {{- $stylesheet := (slice $license_css $core $extended) | resources.Concat "assets/css/stylesheet.css"  }}
 
+{{- /* The 404 page is served from arbitrary paths, so a relativeURLs-style
+       relative href (./assets/...) breaks for non-root URLs. Use the absolute
+       URL on the 404 page only; every other page keeps relative URLs so the
+       site still works in subdirectories. */}}
 {{- if not site.Params.assets.disableFingerprinting }}
 {{- $stylesheet := $stylesheet | fingerprint }}
-<link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="{{ cond (eq .Kind "404") $stylesheet.Permalink $stylesheet.RelPermalink }}" integrity="{{ $stylesheet.Data.Integrity }}" rel="preload stylesheet" as="style">
 {{- else }}
-<link crossorigin="anonymous" href="{{ $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="{{ cond (eq .Kind "404") $stylesheet.Permalink $stylesheet.RelPermalink }}" rel="preload stylesheet" as="style">
 {{- end }}
 
 {{- /* Search */}}
