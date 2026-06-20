@@ -22,6 +22,7 @@ menu: events
 Quick Links for [BARGE 2026]({{< relref "2026/" >}}):
 [Registration]({{< relref "/barge/2026/register" >}})
 [Schedule]({{< relref "2026/schedule/" >}})
+[Hotel]({{< relref "2026/hotel/" >}})
 &mdash; [Previous BARGE Results]({{< relref "results/" >}})
 
 BARGE is the **Big Annual Rec.Gambling Excursion** (to Las Vegas). This is our
