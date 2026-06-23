@@ -17,8 +17,7 @@ and correct. ---Ed., 2026\]*
 
 ---
 
-Binion's generously provided all cashing players with a WSOP
-Jacket!
+Binion's generously provided all cashing players with a WSOP Jacket!
 
 {{< tournament
     date="Thursday, August 3rd, 2000"
@@ -68,7 +67,7 @@ Jacket!
 {{< tournament
     date="Saturday, August 6th, 2000"
     event="TEXAS HOLDEM"
-    parentheticals="(NO LIMIT)" 
+    parentheticals="(NO LIMIT)"
     image="jeffb.jpg"
     image-alt="Jeff Bartoszewicz" >}}
 
@@ -109,7 +108,6 @@ Jacket!
     date="Saturday, August 6th, 2000 into Sunday, August 7th, 2000"
     event="CHIP CASTLE CHAMPIONSHIP"
     parentheticals="(Unofficial Event)" >}}
-    
 
 |   |                        |    |
 |---|------------------------|----|
@@ -122,6 +120,4 @@ Jacket!
 
 Don "trythat" Perry
 
-{{< rawhtml >}}
-<br clear="all">
-{{< /rawhtml >}}
+{{< rawhtml >}} <br clear="all"> {{< /rawhtml >}}
