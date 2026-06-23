@@ -8,4 +8,3 @@ died: May 19, 2023
 special: Table 21, Seat 8
 location: California
 ---
-
