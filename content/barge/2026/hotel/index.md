@@ -9,7 +9,7 @@ date: 2026-06-12
 ---
 
 Below are the details for our BARGE hotel rooms at the Orleans.  Note when
-booking online the resort fee is included in the base rate.
+booking online the resort fee is included in the base rate.  \[Rate expires 6/26! --Ed.\]
 
 You can click the below link to book, or if you prefer to call (and for
 handicap rooms please call) 800-675-3267 and reference group code: BARG26C.
