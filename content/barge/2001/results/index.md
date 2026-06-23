@@ -63,9 +63,10 @@ Hold'em at the later levels.
 | 18 | Randy Collack                       | $70    |
 
 
-Friday, August 3, 2001
-&nbsp;BARGE Team CHORSE
-&nbsp;(hold'em, omaha8, razz, 7stud, stud8, crazy pineapple)
+{{< tournament
+    date="Friday, August 3, 2001"
+    event="BARGE Team CHORSE"
+    parentheticals="(hold'em, omaha8, razz, 7stud, stud8, crazy pineapple)" >}}
 
 |   |               |
 |--:|---------------|
