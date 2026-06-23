@@ -46,7 +46,7 @@ params:
     - link: "http://fargopoker.org/"
       text: "FARGO 2026 — October 16-18"
       after: "2026-08-01"
-      until: "2006-10-19"
+      until: "2026-10-19"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.  As with
@@ -58,9 +58,8 @@ params:
       # Best guess.
       until: "2026-07-15"
     - link: /barge/2026/hotel/
-      text: "Reserve Orleans Rooms @ BARGE rate"
-      # Best guess.
-      until: "2026-07-15"
+      text: "Orleans Hotel block info (expires 6/26)"
+      until: "2026-06-27"
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
