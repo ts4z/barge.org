@@ -11,14 +11,13 @@ title: BARGE 1999 Results
 
 We do not have complete results for BARGE 1999.
 
-These results were found in the [BARGE Trivia book]({{< relref "/resources/trivia" >}}) book, 
-from a post to rec.gambling.poker by Mike Paulle.
+These results were found in the [BARGE Trivia
+book]({{< relref "/resources/trivia" >}}) book, from a post to
+rec.gambling.poker by Mike Paulle.
 
-{{< tournament
-    event="Team CHORSE" >}}
-    
-Winners: Scott Byron, Chuck Emerling, Jim Geary,
-Melissa Hayden, Lee Jones.
+{{< tournament event="Team CHORSE" >}}
+
+Winners: Scott Byron, Chuck Emerling, Jim Geary, Melissa Hayden, Lee Jones.
 
 {{< tournament
     event="No Limit Hold'em Main Event"
