@@ -105,11 +105,40 @@ class AuthExpired(Exception):
     pass
 
 
+# Browser-imitating headers.  Zeffy is fronted by Cloudflare; the
+# `__cf_bm` bot-management cookie is partially bound to the client
+# fingerprint that produced it.  Bare requests-default headers get
+# served the Cloudflare "Just a moment..." JS challenge (HTTP 403,
+# text/html body) instead of the export.  These headers mimic the
+# Chrome that the login flow ran in, which is enough to satisfy CF.
+_BROWSER_UA = (
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) "
+    "Chrome/120.0.0.0 Safari/537.36"
+)
+_API_HEADERS = {
+    "Content-Type": "application/json",
+    "User-Agent": _BROWSER_UA,
+    "Accept": "*/*",
+    "Accept-Language": "en-US,en;q=0.9",
+    # Don't advertise brotli — requests doesn't auto-decompress it.
+    "Accept-Encoding": "gzip, deflate",
+    "Origin": "https://www.zeffy.com",
+    "Referer": "https://www.zeffy.com/en-US/o/fundraising/campaigns/hub",
+    "sec-ch-ua": '"Not_A Brand";v="8", "Chromium";v="120", "Google Chrome";v="120"',
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": '"macOS"',
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-site",
+}
+
+
 def fetch_xlsx_bytes(session: requests.Session, campaign_id: str) -> bytes:
     resp = session.post(
         ENDPOINT,
         json=build_body(campaign_id),
-        headers={"Content-Type": "application/json"},
+        headers=_API_HEADERS,
         timeout=30,
     )
     if resp.status_code in (401, 403):
