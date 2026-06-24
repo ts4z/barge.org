@@ -1,4 +1,4 @@
-last_updated: 2026-06-20 08:10 PDT
+last_updated: 2026-06-24 11:23 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -71,7 +71,7 @@ registrations:
 - full_name: Patti Beadles
   ticket: 18
   nickname: Patti
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Steve Watanabe
   ticket: 19
   nickname: stevew
@@ -280,3 +280,11 @@ registrations:
   ticket: 87
   nickname: ADB goldie
   ticket_type: BARGE & Banquet
+- full_name: Connie Kellers
+  ticket: 89
+  nickname: baguette
+  ticket_type: BARGE & Banquet
+- full_name: David Low
+  ticket: 90
+  nickname: dave
+  ticket_type: BARGE
