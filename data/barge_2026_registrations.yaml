@@ -1,4 +1,4 @@
-last_updated: 2026-06-24 11:23 PDT
+last_updated: 2026-06-24 14:00 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -288,3 +288,7 @@ registrations:
   ticket: 90
   nickname: dave
   ticket_type: BARGE
+- full_name: Nolan Hee
+  ticket: 91
+  nickname: COMMUNITY
+  ticket_type: BARGE & Banquet
