@@ -1,4 +1,4 @@
-last_updated: 2026-06-20 08:10 PDT
+last_updated: 2026-06-24 11:23 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -89,7 +89,7 @@ registrations:
   last_initial: B
   nickname: Patti
   ticket: 18
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Steve
   last_initial: W
   nickname: stevew
@@ -350,3 +350,13 @@ registrations:
   nickname: ADB goldie
   ticket: 87
   ticket_type: BARGE & Banquet
+- first: Connie
+  last_initial: K
+  nickname: baguette
+  ticket: 89
+  ticket_type: BARGE & Banquet
+- first: David
+  last_initial: L
+  nickname: dave
+  ticket: 90
+  ticket_type: BARGE
