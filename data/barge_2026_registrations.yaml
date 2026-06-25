@@ -1,4 +1,4 @@
-last_updated: 2026-06-24 22:02 PDT
+last_updated: 2026-06-24 23:32 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -303,4 +303,8 @@ registrations:
 - full_name: Denise Cunningham
   ticket: 94
   nickname: Dee Nice
+  ticket_type: BARGE & Banquet
+- full_name: Tim McGarvey
+  ticket: null
+  nickname: ADB Timmy
   ticket_type: BARGE & Banquet
