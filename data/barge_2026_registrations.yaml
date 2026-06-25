@@ -1,4 +1,4 @@
-last_updated: 2026-06-24 22:02 PDT
+last_updated: 2026-06-24 23:32 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -379,4 +379,9 @@ registrations:
   last_initial: C
   nickname: Dee Nice
   ticket: 94
+  ticket_type: BARGE & Banquet
+- first: Tim
+  last_initial: M
+  nickname: ADB Timmy
+  ticket: null
   ticket_type: BARGE & Banquet
