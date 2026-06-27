@@ -5,13 +5,13 @@
   {{ partial "breadcrumbs.html" . }}
   <div class="next-post" style="float: left;">
     {{ if .Page.NextInSection }}
-    <a class="link-reverse" href="{{ .Page.NextInSection.Permalink }}?ref=footer">« {{ .Page.NextInSection.Title | truncate 50 "..." }}</a>
+    <a class="link-reverse" href="{{ .Page.NextInSection.Permalink }}">« {{ .Page.NextInSection.Title | truncate 50 "..." }}</a>
     {{ end }}
   </div>
 
   <div class="previous-post" style="float: right;">
     {{ if .Page.PrevInSection }}
-    <a class="link-reverse" href="{{ .Page.PrevInSection.Permalink }}?ref=footer">{{ .Page.PrevInSection.Title | truncate 50 "..."}} »</a>
+    <a class="link-reverse" href="{{ .Page.PrevInSection.Permalink }}">{{ .Page.PrevInSection.Title | truncate 50 "..."}} »</a>
     {{ end }}
   </div>
 
