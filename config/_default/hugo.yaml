@@ -56,10 +56,7 @@ params:
     - link: https://www.zeffy.com/en-US/ticketing/barge--2026
       text: "Register now for BARGE 2026!"
       # Best guess.
-      until: "2026-07-15"
-    - link: /barge/2026/hotel/
-      text: "Orleans Hotel block info (expires 6/26)"
-      until: "2026-06-27"
+      until: "2026-07-20"
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
