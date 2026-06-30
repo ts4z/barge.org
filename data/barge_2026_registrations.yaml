@@ -1,4 +1,4 @@
-last_updated: 2026-06-29 08:03 PDT
+last_updated: 2026-06-29 18:18 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -343,4 +343,8 @@ registrations:
 - full_name: Bruce Kramer
   ticket: 104
   nickname: ADB  Bigboy
+  ticket_type: BARGE & Banquet
+- full_name: Paul McMullin
+  ticket: 105
+  nickname: framistat/prm
   ticket_type: BARGE & Banquet
