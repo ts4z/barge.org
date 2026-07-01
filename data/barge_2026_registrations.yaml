@@ -1,4 +1,4 @@
-last_updated: 2026-06-29 18:18 PDT
+last_updated: 2026-06-30 23:09 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -348,3 +348,7 @@ registrations:
   ticket: 105
   nickname: framistat/prm
   ticket_type: BARGE & Banquet
+- full_name: Andy Bloch
+  ticket: 106
+  nickname: WAR
+  ticket_type: BARGE
