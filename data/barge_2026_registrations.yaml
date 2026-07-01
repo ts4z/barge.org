@@ -1,4 +1,4 @@
-last_updated: 2026-06-30 23:09 PDT
+last_updated: 2026-07-01 08:06 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -351,4 +351,12 @@ registrations:
 - full_name: Andy Bloch
   ticket: 106
   nickname: WAR
+  ticket_type: BARGE
+- full_name: Brandon Gerson
+  ticket: 107
+  nickname: Drexel
+  ticket_type: BARGE
+- full_name: Jeanne David
+  ticket: 108
+  nickname: Jeanne D
   ticket_type: BARGE
