@@ -1,4 +1,4 @@
-last_updated: 2026-07-01 08:06 PDT
+last_updated: 2026-07-01 08:36 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -449,4 +449,9 @@ registrations:
   last_initial: D
   nickname: Jeanne D
   ticket: 108
+  ticket_type: BARGE
+- first: Mike
+  last_initial: P
+  nickname: Mike
+  ticket: 109
   ticket_type: BARGE
