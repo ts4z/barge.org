@@ -1,4 +1,4 @@
-last_updated: 2026-07-01 08:36 PDT
+last_updated: 2026-07-01 11:22 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -455,3 +455,8 @@ registrations:
   nickname: Mike
   ticket: 109
   ticket_type: BARGE
+- first: Kevin
+  last_initial: U
+  nickname: ADB UN
+  ticket: 110
+  ticket_type: BARGE & Banquet
