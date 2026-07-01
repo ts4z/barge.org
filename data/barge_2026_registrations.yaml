@@ -1,4 +1,4 @@
-last_updated: 2026-07-01 13:18 PDT
+last_updated: 2026-07-01 14:33 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -375,4 +375,8 @@ registrations:
 - full_name: Barry
   ticket: 112
   nickname: Mr. Raise
+  ticket_type: BARGE & Banquet
+- full_name: Edmund Hack
+  ticket: 113
+  nickname: rktsci
   ticket_type: BARGE & Banquet
