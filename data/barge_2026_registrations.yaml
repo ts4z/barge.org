@@ -1,4 +1,4 @@
-last_updated: 2026-06-30 23:09 PDT
+last_updated: 2026-07-01 08:06 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -439,4 +439,14 @@ registrations:
   last_initial: B
   nickname: WAR
   ticket: 106
+  ticket_type: BARGE
+- first: Brandon
+  last_initial: G
+  nickname: Drexel
+  ticket: 107
+  ticket_type: BARGE
+- first: Jeanne
+  last_initial: D
+  nickname: Jeanne D
+  ticket: 108
   ticket_type: BARGE
