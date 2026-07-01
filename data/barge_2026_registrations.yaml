@@ -1,4 +1,4 @@
-last_updated: 2026-07-01 08:06 PDT
+last_updated: 2026-07-01 08:36 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -359,4 +359,8 @@ registrations:
 - full_name: Jeanne David
   ticket: 108
   nickname: Jeanne D
+  ticket_type: BARGE
+- full_name: Mike Puskarich
+  ticket: 109
+  nickname: Mike
   ticket_type: BARGE
