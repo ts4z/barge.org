@@ -1,4 +1,4 @@
-last_updated: 2026-06-29 18:18 PDT
+last_updated: 2026-06-30 23:09 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -435,3 +435,8 @@ registrations:
   nickname: framistat/prm
   ticket: 105
   ticket_type: BARGE & Banquet
+- first: Andy
+  last_initial: B
+  nickname: WAR
+  ticket: 106
+  ticket_type: BARGE
