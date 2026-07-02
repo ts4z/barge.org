@@ -1,4 +1,4 @@
-last_updated: 2026-07-01 14:33 PDT
+last_updated: 2026-07-01 17:29 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -380,3 +380,7 @@ registrations:
   ticket: 113
   nickname: rktsci
   ticket_type: BARGE & Banquet
+- full_name: Holly Jones
+  ticket: 114
+  nickname: HoJo
+  ticket_type: BARGE
