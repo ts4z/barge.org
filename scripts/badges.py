@@ -73,16 +73,35 @@ DISPLAY_NAME_OVERFLOW = 25
 # ---------------------------------------------------------------------------
 # Avery 74459 PDF layout constants.
 #
-# The stock is 6-up on letter (2 cols × 3 rows), no gutter between cells.
-# Numbers below are the vendor nominal; --offset-x and --offset-y let
-# you nudge for printer feed slop after inspecting the calibration page.
+# The stock is 6-up on letter (2 cols × 3 rows).  The badge cells don't
+# actually tile edge-to-edge — the sheet has:
+#   * a ~1" tear-off strip at the top
+#   * a ~1.125" tear-off strip at the bottom
+#   * ~0.25" of side border on each edge
+#   * a small gap between the left and right columns
+#
+# So the top row sits high, the bottom row sits low, and the two
+# columns are pushed away from the page center.  Values below match a
+# real Avery 74459 sheet held up against a light source; --offset-x
+# and --offset-y let you nudge everything uniformly for printer feed
+# slop after inspecting the calibration page.
 # ---------------------------------------------------------------------------
 PAGE_W = 8.5 * inch
 PAGE_H = 11.0 * inch
 CELL_W = 3.5 * inch
 CELL_H = 2.25 * inch
-GRID_MARGIN_LEFT = 0.75 * inch
-GRID_MARGIN_TOP = 2.125 * inch  # measured from the top edge of the page
+
+# Column geometry: each column moved 0.3" outward from page center vs.
+# the vendor nominal, so the gap between the two columns is 0.6".
+GRID_MARGIN_LEFT = 0.45 * inch       # was 0.75; -0.3" for the outward shift
+COLUMN_GAP = 0.6 * inch              # between the two columns
+
+# Row geometry (top edge of each row measured from the top of the page).
+# Nominal was a uniform 2.125"/4.375"/6.625"; adjusted so the top row
+# tucks up under the 1" top tear-off and the bottom row tucks down
+# against the 1.125" bottom tear-off.
+ROW_TOP_INCHES = (1.375, 4.375, 7.325)
+
 SAFE_MARGIN = 0.15 * inch       # interior padding inside each cell
 
 # Base-14 fonts.  Fine for the current dataset (ASCII + a few accented
@@ -317,12 +336,14 @@ def cell_origin(row: int, col: int,
                 offset_x: float = 0.0, offset_y: float = 0.0) -> tuple[float, float]:
     """Bottom-left corner of cell (row, col) in ReportLab points.
 
-    row 0 is the top row, col 0 is the left column.  offset_x/offset_y
-    are applied in the natural sense: positive shifts the print right
-    and down, respectively.
+    row 0 is the top row, col 0 is the left column.  Column gap and
+    per-row top margin come from module-level constants — the rows are
+    NOT uniformly spaced (see the block-comment above the constants).
+    offset_x / offset_y are applied in the natural sense: positive
+    shifts the print right / down.
     """
-    x = GRID_MARGIN_LEFT + col * CELL_W + offset_x
-    y = PAGE_H - GRID_MARGIN_TOP - (row + 1) * CELL_H - offset_y
+    x = GRID_MARGIN_LEFT + col * (CELL_W + COLUMN_GAP) + offset_x
+    y = PAGE_H - ROW_TOP_INCHES[row] * inch - CELL_H - offset_y
     return x, y
 
 
@@ -343,11 +364,15 @@ def draw_badge(c: pdfcanvas.Canvas, x0: float, y0: float,
                a: Attendee) -> None:
     """Draw one badge into the cell whose lower-left corner is (x0, y0).
 
-    Layout inside the cell's safe zone, from bottom up:
+    Layout inside the cell's safe zone:
 
-        0 – 20%   hometown (italic, small; skipped if empty)
-        20 – 40%  display_name (regular)
-        40 – 100% nickname (bold, auto-shrunk to fit width)
+        * Hometown line: anchored ~10pt above the safe-zone bottom
+          (skipped cleanly if empty — no ghost gap).
+        * Display name: single-spaced above the hometown line, or in
+          the hometown's slot if hometown is empty.
+        * Nickname: fills the entire band above the name, bold,
+          auto-shrunk from NICKNAME_MAX_PT down to NICKNAME_MIN_PT so
+          it hugs the safe-zone width.
 
     Badges are text-only for now; artwork will drop in as a background
     image behind draw_badge() once the poker-chip ring design exists.
@@ -357,35 +382,35 @@ def draw_badge(c: pdfcanvas.Canvas, x0: float, y0: float,
     sw = CELL_W - 2 * SAFE_MARGIN
     sh = CELL_H - 2 * SAFE_MARGIN
 
-    # --- Nickname (top ~60% of safe zone) ---
+    # --- Bottom lines: hometown + name, tight single-spacing ---
+    # Anchor the hometown baseline near the safe-zone bottom.  Name
+    # baseline sits (font size × 1.15) above it — snug single spacing.
+    home_baseline_y = sy + 10   # points above safe-zone bottom
+    name_baseline_y = home_baseline_y + int(HOMETOWN_PT * 1.15) + 2
+    if not a.hometown:
+        # No hometown to render — let the name occupy the bottom slot
+        # instead of leaving an empty line there.
+        name_baseline_y = home_baseline_y
+
+    c.setFont(FONT_NAME, NAME_PT)
+    c.drawCentredString(sx + sw / 2, name_baseline_y, a.display_name)
+
+    if a.hometown:
+        c.setFont(FONT_HOMETOWN, HOMETOWN_PT)
+        c.drawCentredString(sx + sw / 2, home_baseline_y, a.hometown)
+
+    # --- Nickname band: everything above the name line, with breathing gap ---
+    nickname_band_bottom = name_baseline_y + NAME_PT + 8
+    nickname_band_top = sy + sh
     nickname = a.nickname or ""
     if nickname:
         pt = fit_font_size(nickname, sw, FONT_NICKNAME,
                            NICKNAME_MAX_PT, NICKNAME_MIN_PT)
         c.setFont(FONT_NICKNAME, pt)
-        # Vertically center within the nickname band.  Baseline heuristic:
-        # visible glyph height is ~0.72 × point size; baseline sits above y
-        # by ~0.22 × pt.  Place baseline so glyph mid-height lands at
-        # band-center.
-        band_bottom = sy + sh * 0.40
-        band_top = sy + sh
-        band_mid = (band_top + band_bottom) / 2
-        baseline_y = band_mid - pt * 0.28
-        c.drawCentredString(sx + sw / 2, baseline_y, nickname)
-
-    # --- Display name (middle band) ---
-    c.setFont(FONT_NAME, NAME_PT)
-    name_band_center_y = sy + sh * 0.30
-    c.drawCentredString(sx + sw / 2, name_band_center_y - NAME_PT * 0.28,
-                        a.display_name)
-
-    # --- Hometown (bottom band; skip cleanly if absent so no ghost gap) ---
-    if a.hometown:
-        c.setFont(FONT_HOMETOWN, HOMETOWN_PT)
-        home_band_center_y = sy + sh * 0.10
-        c.drawCentredString(sx + sw / 2,
-                            home_band_center_y - HOMETOWN_PT * 0.28,
-                            a.hometown)
+        # Vertically center in the band.  Rough glyph geometry: baseline
+        # sits ~0.28 × pt below the visual center of the glyph.
+        band_mid = (nickname_band_top + nickname_band_bottom) / 2
+        c.drawCentredString(sx + sw / 2, band_mid - pt * 0.28, nickname)
 
     # --- Banquet indicator (top-right of safe zone) ---
     # Text pill for now.  Swap for a proper emoji or graphic asset (turkey
