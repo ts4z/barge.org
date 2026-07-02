@@ -5,6 +5,7 @@
 #     "requests>=2.32",
 #     "openpyxl>=3.1",
 #     "PyYAML>=6.0",
+#     "reportlab>=4.0",
 # ]
 # ///
 """
@@ -46,6 +47,9 @@ from pathlib import Path
 
 import openpyxl
 import yaml
+from reportlab.lib.units import inch
+from reportlab.pdfbase.pdfmetrics import stringWidth
+from reportlab.pdfgen import canvas as pdfcanvas
 
 # Reuse the poller's Zeffy client.  Importing by module works because
 # scripts/ is on sys.path when running via `uv run scripts/badges.py`.
@@ -64,6 +68,39 @@ from zeffy_poll import (  # noqa: E402
 # side of surfacing things worth eyeballing.
 NICKNAME_OVERFLOW = 20
 DISPLAY_NAME_OVERFLOW = 25
+
+
+# ---------------------------------------------------------------------------
+# Avery 74459 PDF layout constants.
+#
+# The stock is 6-up on letter (2 cols × 3 rows), no gutter between cells.
+# Numbers below are the vendor nominal; --offset-x and --offset-y let
+# you nudge for printer feed slop after inspecting the calibration page.
+# ---------------------------------------------------------------------------
+PAGE_W = 8.5 * inch
+PAGE_H = 11.0 * inch
+CELL_W = 3.5 * inch
+CELL_H = 2.25 * inch
+GRID_MARGIN_LEFT = 0.75 * inch
+GRID_MARGIN_TOP = 2.125 * inch  # measured from the top edge of the page
+SAFE_MARGIN = 0.15 * inch       # interior padding inside each cell
+
+# Base-14 fonts.  Fine for the current dataset (ASCII + a few accented
+# Latin characters).  If we ever see names outside Latin-1 we register
+# a full-Unicode TTF and swap here.
+FONT_NICKNAME = "Helvetica-Bold"
+FONT_NAME = "Helvetica"
+FONT_HOMETOWN = "Helvetica-Oblique"
+FONT_BANQUET = "Helvetica-Bold"
+
+# Nickname auto-shrink bounds.  Start big for "readable across a poker
+# table" prominence, floor at what a human across the table can still
+# read.  Values in points.
+NICKNAME_MAX_PT = 48
+NICKNAME_MIN_PT = 18
+
+NAME_PT = 13
+HOMETOWN_PT = 11
 
 
 @dataclass
@@ -272,6 +309,178 @@ def validation_report(attendees: list[Attendee]) -> None:
         print(f"Missing hometown ({len(missing_hometown)}): {names}")
 
 
+# ---------------------------------------------------------------------------
+# PDF rendering
+# ---------------------------------------------------------------------------
+
+def cell_origin(row: int, col: int,
+                offset_x: float = 0.0, offset_y: float = 0.0) -> tuple[float, float]:
+    """Bottom-left corner of cell (row, col) in ReportLab points.
+
+    row 0 is the top row, col 0 is the left column.  offset_x/offset_y
+    are applied in the natural sense: positive shifts the print right
+    and down, respectively.
+    """
+    x = GRID_MARGIN_LEFT + col * CELL_W + offset_x
+    y = PAGE_H - GRID_MARGIN_TOP - (row + 1) * CELL_H - offset_y
+    return x, y
+
+
+def fit_font_size(text: str, max_width: float, font: str,
+                  max_pt: int, min_pt: int) -> int:
+    """Largest integer point size at which text fits into max_width.
+
+    If no size in [min_pt, max_pt] fits, returns min_pt — the caller
+    should have caught it in the validation report.
+    """
+    for pt in range(max_pt, min_pt - 1, -1):
+        if stringWidth(text, font, pt) <= max_width:
+            return pt
+    return min_pt
+
+
+def draw_badge(c: pdfcanvas.Canvas, x0: float, y0: float,
+               a: Attendee) -> None:
+    """Draw one badge into the cell whose lower-left corner is (x0, y0).
+
+    Layout inside the cell's safe zone, from bottom up:
+
+        0 – 20%   hometown (italic, small; skipped if empty)
+        20 – 40%  display_name (regular)
+        40 – 100% nickname (bold, auto-shrunk to fit width)
+
+    Badges are text-only for now; artwork will drop in as a background
+    image behind draw_badge() once the poker-chip ring design exists.
+    """
+    sx = x0 + SAFE_MARGIN
+    sy = y0 + SAFE_MARGIN
+    sw = CELL_W - 2 * SAFE_MARGIN
+    sh = CELL_H - 2 * SAFE_MARGIN
+
+    # --- Nickname (top ~60% of safe zone) ---
+    nickname = a.nickname or ""
+    if nickname:
+        pt = fit_font_size(nickname, sw, FONT_NICKNAME,
+                           NICKNAME_MAX_PT, NICKNAME_MIN_PT)
+        c.setFont(FONT_NICKNAME, pt)
+        # Vertically center within the nickname band.  Baseline heuristic:
+        # visible glyph height is ~0.72 × point size; baseline sits above y
+        # by ~0.22 × pt.  Place baseline so glyph mid-height lands at
+        # band-center.
+        band_bottom = sy + sh * 0.40
+        band_top = sy + sh
+        band_mid = (band_top + band_bottom) / 2
+        baseline_y = band_mid - pt * 0.28
+        c.drawCentredString(sx + sw / 2, baseline_y, nickname)
+
+    # --- Display name (middle band) ---
+    c.setFont(FONT_NAME, NAME_PT)
+    name_band_center_y = sy + sh * 0.30
+    c.drawCentredString(sx + sw / 2, name_band_center_y - NAME_PT * 0.28,
+                        a.display_name)
+
+    # --- Hometown (bottom band; skip cleanly if absent so no ghost gap) ---
+    if a.hometown:
+        c.setFont(FONT_HOMETOWN, HOMETOWN_PT)
+        home_band_center_y = sy + sh * 0.10
+        c.drawCentredString(sx + sw / 2,
+                            home_band_center_y - HOMETOWN_PT * 0.28,
+                            a.hometown)
+
+    # --- Banquet indicator (top-right of safe zone) ---
+    # Text pill for now.  Swap for a proper emoji or graphic asset (turkey
+    # leg + cocktail per Doug's preference) once we have artwork by
+    # replacing this block with c.drawImage(...) at (pill_x, pill_y).
+    if "Banquet" in a.ticket_type:
+        pill_text = "BANQUET"
+        pill_pt = 8
+        pad_x = 4
+        pad_y = 3
+        pill_w = stringWidth(pill_text, FONT_BANQUET, pill_pt) + 2 * pad_x
+        pill_h = pill_pt + 2 * pad_y
+        pill_x = sx + sw - pill_w
+        pill_y = sy + sh - pill_h
+        c.setFillColorRGB(0.60, 0.10, 0.15)
+        c.roundRect(pill_x, pill_y, pill_w, pill_h, 3, stroke=0, fill=1)
+        c.setFillColorRGB(1, 1, 1)
+        c.setFont(FONT_BANQUET, pill_pt)
+        c.drawCentredString(pill_x + pill_w / 2, pill_y + pad_y, pill_text)
+        c.setFillColorRGB(0, 0, 0)
+
+
+def render_badges_pdf(attendees: list[Attendee], out_path: Path,
+                      offset_x: float = 0.0, offset_y: float = 0.0) -> int:
+    """Write the full-run PDF (6 badges per page).  Returns page count."""
+    c = pdfcanvas.Canvas(str(out_path), pagesize=(PAGE_W, PAGE_H))
+    page = 1
+    for i, a in enumerate(attendees):
+        pos_on_page = i % 6
+        col = pos_on_page % 2
+        row = pos_on_page // 2
+        x, y = cell_origin(row, col, offset_x, offset_y)
+        draw_badge(c, x, y, a)
+        if pos_on_page == 5 and i < len(attendees) - 1:
+            c.showPage()
+            page += 1
+    c.showPage()
+    c.save()
+    return page
+
+
+def render_calibration_pdf(out_path: Path,
+                           offset_x: float = 0.0,
+                           offset_y: float = 0.0) -> None:
+    """One-page calibration overlay: cell outlines and center crosshairs.
+
+    Print this on plain paper, then hold it up to a sheet of Avery 74459
+    over a light source to see how well the cells align with the die-cuts.
+    Nudge --offset-x / --offset-y until it lines up, then use the same
+    offsets when generating the real PDF.
+    """
+    c = pdfcanvas.Canvas(str(out_path), pagesize=(PAGE_W, PAGE_H))
+
+    # Instructions in the top margin — outside the grid so they can't
+    # affect what you're measuring.
+    c.setFont("Helvetica-Bold", 12)
+    c.drawString(0.75 * inch, PAGE_H - 0.75 * inch,
+                 "PRINT AT 100% (\"Actual Size\") — NOT \"Fit to Page\"")
+    c.setFont("Helvetica", 9)
+    c.drawString(0.75 * inch, PAGE_H - 1.05 * inch,
+                 "Hold this sheet against Avery 74459 over a light source.  "
+                 "The rectangles below should line up with the die-cuts.")
+    c.drawString(0.75 * inch, PAGE_H - 1.25 * inch,
+                 f"Offsets in use: x={offset_x:+.2f} pt, y={offset_y:+.2f} pt.")
+
+    c.setLineWidth(0.5)
+    c.setStrokeColorRGB(0.35, 0.35, 0.35)
+    for row in range(3):
+        for col in range(2):
+            x, y = cell_origin(row, col, offset_x, offset_y)
+            c.rect(x, y, CELL_W, CELL_H)
+            cx = x + CELL_W / 2
+            cy = y + CELL_H / 2
+            arm = 10
+            c.line(cx - arm, cy, cx + arm, cy)
+            c.line(cx, cy - arm, cx, cy + arm)
+            c.setFont("Helvetica", 6)
+            c.setFillColorRGB(0.4, 0.4, 0.4)
+            c.drawString(x + 3, y + 3, f"r{row}c{col}")
+            c.setFillColorRGB(0, 0, 0)
+    c.save()
+
+
+def filter_attendees(attendees: list[Attendee], only: str) -> list[Attendee]:
+    """Match on display_name, nickname, or last_name (case-insensitive substring)."""
+    needle = only.casefold()
+    matches = [
+        a for a in attendees
+        if needle in a.display_name.casefold()
+        or needle in a.nickname.casefold()
+        or needle in a.last_name.casefold()
+    ]
+    return matches
+
+
 def emit_csv(attendees: list[Attendee], path: Path) -> None:
     with path.open("w", newline="") as fh:
         w = csv.writer(fh)
@@ -292,8 +501,8 @@ def emit_csv(attendees: list[Attendee], path: Path) -> None:
 
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--campaign", required=True,
-                    help="Zeffy campaign UUID.")
+    ap.add_argument("--campaign",
+                    help="Zeffy campaign UUID.  Not needed with --calibration.")
     ap.add_argument(
         "--output", type=Path,
         default=Path(__file__).parent / "badges_canonical.csv",
@@ -310,7 +519,41 @@ def main() -> int:
         help="Hand-maintained corrections applied after parsing.  "
              "Default: scripts/badge_overrides.yaml (skipped if absent).",
     )
+    ap.add_argument(
+        "--pdf", type=Path,
+        help="Also render a full-run 6-up badge PDF to this path.",
+    )
+    ap.add_argument(
+        "--calibration", type=Path,
+        help="Render a calibration-page PDF to this path and exit.  "
+             "No Zeffy data is fetched or read.",
+    )
+    ap.add_argument(
+        "--only", type=str,
+        help="With --pdf, render only attendees matching this string "
+             "(case-insensitive substring against display_name, nickname, "
+             "or last_name).  Useful for reprints.",
+    )
+    ap.add_argument(
+        "--offset-x", type=float, default=0.0,
+        help="Horizontal offset in points applied to every cell.  "
+             "Positive shifts print right.  Tune with --calibration.",
+    )
+    ap.add_argument(
+        "--offset-y", type=float, default=0.0,
+        help="Vertical offset in points applied to every cell.  "
+             "Positive shifts print down.  Tune with --calibration.",
+    )
     args = ap.parse_args()
+
+    # Calibration is a standalone path — no data source needed.
+    if args.calibration:
+        render_calibration_pdf(args.calibration, args.offset_x, args.offset_y)
+        print(f"Wrote calibration page to {args.calibration}.")
+        return 0
+
+    if not args.campaign:
+        sys.exit("--campaign is required (unless you're only running --calibration).")
 
     if args.last_export:
         if not args.last_export.exists():
@@ -340,6 +583,18 @@ def main() -> int:
 
     emit_csv(attendees, args.output)
     print(f"Wrote {args.output}.")
+
+    if args.pdf:
+        to_render = attendees
+        if args.only:
+            to_render = filter_attendees(attendees, args.only)
+            if not to_render:
+                sys.exit(f"--only {args.only!r} matched no attendees.")
+            print(f"--only {args.only!r} matched {len(to_render)} attendee(s).")
+        pages = render_badges_pdf(to_render, args.pdf,
+                                  args.offset_x, args.offset_y)
+        print(f"Wrote {args.pdf} ({pages} page(s), {len(to_render)} badges).")
+
     return 0
 
 
