@@ -1,4 +1,4 @@
-last_updated: 2026-07-01 18:58 PDT
+last_updated: 2026-07-02 05:47 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -379,4 +379,8 @@ registrations:
 - full_name: Holly Jones
   ticket: 114
   nickname: HoJo
+  ticket_type: BARGE
+- full_name: Richard Jaglarski
+  ticket: 115
+  nickname: Rich
   ticket_type: BARGE
