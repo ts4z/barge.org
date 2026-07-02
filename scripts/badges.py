@@ -102,7 +102,29 @@ COLUMN_GAP = 0.4 * inch              # between the two columns
 # against the 1.125" bottom tear-off.
 ROW_TOP_INCHES = (1.375, 4.375, 7.325)
 
-SAFE_MARGIN = 0.15 * inch       # interior padding inside each cell
+SAFE_MARGIN = 0.15 * inch       # interior padding inside each cell (text)
+
+# Artwork layer paths (relative to repo root).  Every badge is rendered
+# as three stacked layers:
+#
+#   1. badge_pile.png filling the entire cell (the background "chip pile").
+#   2. A white rounded rectangle sitting slightly proud of the text safe
+#      zone — this is the readable card the text lives on.
+#   3. The text, plus banquet.png (upper-right of the white card) if the
+#      attendee has a banquet ticket.
+REPO_ROOT = Path(__file__).parent.parent
+BADGE_PILE_PATH = REPO_ROOT / "assets" / "badge" / "badge_pile.png"
+BANQUET_PATH = REPO_ROOT / "assets" / "badge" / "banquet.png"
+
+# White card geometry.  The card is slightly larger than the text safe
+# zone in each direction so text has natural padding inside it, and the
+# background pile still shows in a thin border around it.
+WHITE_MARGIN = 0.08 * inch       # from cell edge to white card edge
+WHITE_CORNER_R = 10              # points; corner radius on the card
+
+# Banquet indicator (upper-right of the white card).
+BANQUET_W = 0.55 * inch          # aspect-ratio preserved from the source PNG
+BANQUET_INSET = 4                # points; distance from the card's top-right
 
 # Base-14 fonts.  Fine for the current dataset (ASCII + a few accented
 # Latin characters).  If we ever see names outside Latin-1 we register
@@ -364,19 +386,35 @@ def draw_badge(c: pdfcanvas.Canvas, x0: float, y0: float,
                a: Attendee) -> None:
     """Draw one badge into the cell whose lower-left corner is (x0, y0).
 
-    Layout inside the cell's safe zone:
+    Layers, drawn bottom to top:
 
-        * Hometown line: anchored ~10pt above the safe-zone bottom
-          (skipped cleanly if empty — no ghost gap).
-        * Display name: single-spaced above the hometown line, or in
-          the hometown's slot if hometown is empty.
-        * Nickname: fills the entire band above the name, bold,
-          auto-shrunk from NICKNAME_MAX_PT down to NICKNAME_MIN_PT so
-          it hugs the safe-zone width.
-
-    Badges are text-only for now; artwork will drop in as a background
-    image behind draw_badge() once the poker-chip ring design exists.
+        1. badge_pile.png stretched to fill the whole cell.
+        2. White rounded rectangle sitting on top, sized WHITE_MARGIN
+           smaller than the cell.
+        3. Text on top of the white card:
+             * Hometown line ~10pt above the safe-zone bottom
+               (skipped cleanly if empty).
+             * Display name single-spaced above hometown, or in the
+               hometown's slot if hometown is empty.
+             * Nickname above that, bold, auto-shrunk from
+               NICKNAME_MAX_PT down to NICKNAME_MIN_PT to fit the safe
+               zone width.
+        4. banquet.png in the upper-right of the white card (only if
+           the attendee has a banquet ticket).
     """
+    # --- Layer 1: background pile fills the cell ---
+    c.drawImage(str(BADGE_PILE_PATH), x0, y0, CELL_W, CELL_H)
+
+    # --- Layer 2: white rounded card ---
+    wx = x0 + WHITE_MARGIN
+    wy = y0 + WHITE_MARGIN
+    ww = CELL_W - 2 * WHITE_MARGIN
+    wh = CELL_H - 2 * WHITE_MARGIN
+    c.setFillColorRGB(1, 1, 1)
+    c.roundRect(wx, wy, ww, wh, WHITE_CORNER_R, stroke=0, fill=1)
+    c.setFillColorRGB(0, 0, 0)
+
+    # --- Text sits in the interior safe zone (concentric with the card) ---
     sx = x0 + SAFE_MARGIN
     sy = y0 + SAFE_MARGIN
     sw = CELL_W - 2 * SAFE_MARGIN
@@ -412,25 +450,19 @@ def draw_badge(c: pdfcanvas.Canvas, x0: float, y0: float,
         band_mid = (nickname_band_top + nickname_band_bottom) / 2
         c.drawCentredString(sx + sw / 2, band_mid - pt * 0.28, nickname)
 
-    # --- Banquet indicator (top-right of safe zone) ---
-    # Text pill for now.  Swap for a proper emoji or graphic asset (turkey
-    # leg + cocktail per Doug's preference) once we have artwork by
-    # replacing this block with c.drawImage(...) at (pill_x, pill_y).
+    # --- Layer 4: banquet indicator (upper-right of the white card) ---
     if "Banquet" in a.ticket_type:
-        pill_text = "BANQUET"
-        pill_pt = 8
-        pad_x = 4
-        pad_y = 3
-        pill_w = stringWidth(pill_text, FONT_BANQUET, pill_pt) + 2 * pad_x
-        pill_h = pill_pt + 2 * pad_y
-        pill_x = sx + sw - pill_w
-        pill_y = sy + sh - pill_h
-        c.setFillColorRGB(0.60, 0.10, 0.15)
-        c.roundRect(pill_x, pill_y, pill_w, pill_h, 3, stroke=0, fill=1)
-        c.setFillColorRGB(1, 1, 1)
-        c.setFont(FONT_BANQUET, pill_pt)
-        c.drawCentredString(pill_x + pill_w / 2, pill_y + pad_y, pill_text)
-        c.setFillColorRGB(0, 0, 0)
+        # preserveAspectRatio + only a width hint lets ReportLab pick
+        # the correct height from the source PNG (turkey leg + cocktail).
+        c.drawImage(
+            str(BANQUET_PATH),
+            wx + ww - BANQUET_W - BANQUET_INSET,
+            wy + wh - (BANQUET_W * 442 / 772) - BANQUET_INSET,
+            BANQUET_W,
+            BANQUET_W * 442 / 772,
+            mask="auto",
+            preserveAspectRatio=True,
+        )
 
 
 def render_badges_pdf(attendees: list[Attendee], out_path: Path,
