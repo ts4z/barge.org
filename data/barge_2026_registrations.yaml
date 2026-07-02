@@ -1,4 +1,4 @@
-last_updated: 2026-07-02 09:03 PDT
+last_updated: 2026-07-02 15:39 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -391,4 +391,8 @@ registrations:
 - full_name: Peter Primiano
   ticket: 117
   nickname: Pete
+  ticket_type: BARGE
+- full_name: Jeff Deitch
+  ticket: 118
+  nickname: Blofeld
   ticket_type: BARGE
