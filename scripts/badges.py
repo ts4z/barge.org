@@ -91,10 +91,10 @@ PAGE_H = 11.0 * inch
 CELL_W = 3.5 * inch
 CELL_H = 2.25 * inch
 
-# Column geometry: each column moved 0.3" outward from page center vs.
-# the vendor nominal, so the gap between the two columns is 0.6".
-GRID_MARGIN_LEFT = 0.45 * inch       # was 0.75; -0.3" for the outward shift
-COLUMN_GAP = 0.6 * inch              # between the two columns
+# Column geometry: each column moved 0.2" outward from page center vs.
+# the vendor nominal, so the gap between the two columns is 0.4".
+GRID_MARGIN_LEFT = 0.55 * inch       # was 0.75; -0.2" for the outward shift
+COLUMN_GAP = 0.4 * inch              # between the two columns
 
 # Row geometry (top edge of each row measured from the top of the page).
 # Nominal was a uniform 2.125"/4.375"/6.625"; adjusted so the top row
