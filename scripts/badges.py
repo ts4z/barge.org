@@ -116,13 +116,15 @@ REPO_ROOT = Path(__file__).parent.parent
 BADGE_PILE_PATH = REPO_ROOT / "assets" / "badge" / "badge_pile.png"
 BANQUET_PATH = REPO_ROOT / "assets" / "badge" / "banquet.png"
 
-# The badge_pile source is 4:3 (1448×1086); the cell is ~1.56:1.  If we
-# just drawImage it into the cell, ReportLab either stretches (distorts
-# the pile) or letterboxes (leaves visible bands).  We center-crop the
-# source once at first render to match the cell aspect ratio and cache
-# the result next to badges.py; subsequent runs reuse it unless the
-# source has been updated.
-BADGE_PILE_CROPPED_PATH = Path(__file__).parent / ".badge_pile_cropped.png"
+# The pile is rendered as six tiles per page — one per die-cut cell,
+# but each tile is expanded past the cell edges until it meets its
+# neighbours: at the page center between the two columns, at the
+# midpoints of the row gaps between rows, and at the page edges (into
+# the top/bottom tear-off strips).  This gives the "six piles-of-
+# badges arranged in a grid" look Doug wants without any visible white
+# gaps between them.  The raw image is drawn stretched into each
+# tile's rectangle; the pile is a texture, not a photo whose geometry
+# matters, so per-tile stretch is invisible.
 
 # White card geometry.  The card is slightly larger than the text safe
 # zone in each direction so text has natural padding inside it, and the
@@ -362,32 +364,46 @@ def validation_report(attendees: list[Attendee]) -> None:
 # PDF rendering
 # ---------------------------------------------------------------------------
 
-def get_cropped_pile_path() -> Path:
-    """Return a path to badge_pile.png center-cropped to the cell aspect
-    ratio.  Cached to disk; regenerated when the source is newer.
+def pile_tile_bounds(row: int, col: int) -> tuple[float, float, float, float]:
+    """(x, y, width, height) of the pile tile for the die-cut cell at
+    (row, col), in ReportLab points, ignoring offsets.
+
+    The tile expands from the die-cut cell out to the nearest neighbour
+    boundary in each direction: page edges on the outside, the page's
+    horizontal centre between the two columns, and the midpoint of the
+    inter-row die-cut gaps between the rows.
     """
-    src = BADGE_PILE_PATH
-    dst = BADGE_PILE_CROPPED_PATH
-    if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
-        return dst
-    # Lazy import — PIL/Pillow ships with reportlab; no extra dep needed.
-    from PIL import Image
-    im = Image.open(src)
-    src_w, src_h = im.size
-    target_aspect = CELL_W / CELL_H
-    src_aspect = src_w / src_h
-    if src_aspect < target_aspect:
-        # Source is squarer than target — trim top and bottom.
-        new_h = int(round(src_w / target_aspect))
-        top = (src_h - new_h) // 2
-        box = (0, top, src_w, top + new_h)
-    else:
-        # Source is wider than target — trim sides.
-        new_w = int(round(src_h * target_aspect))
-        left = (src_w - new_w) // 2
-        box = (left, 0, left + new_w, src_h)
-    im.crop(box).save(dst, format="PNG")
-    return dst
+    row0_top = PAGE_H - ROW_TOP_INCHES[0] * inch
+    row0_bottom = row0_top - CELL_H
+    row1_top = PAGE_H - ROW_TOP_INCHES[1] * inch
+    row1_bottom = row1_top - CELL_H
+    row2_top = PAGE_H - ROW_TOP_INCHES[2] * inch
+    # Vertical boundaries, bottom-up (ReportLab origin is bottom-left).
+    y_bounds = [
+        0.0,
+        (row1_bottom + row2_top) / 2,   # midpoint of row 1 ↔ row 2 gap
+        (row0_bottom + row1_top) / 2,   # midpoint of row 0 ↔ row 1 gap
+        PAGE_H,
+    ]
+    # Horizontal boundaries: left edge, page centre, right edge.
+    x_bounds = [0.0, PAGE_W / 2, PAGE_W]
+
+    # row 0 (top row) uses the topmost y range; row 2 (bottom) uses the
+    # bottommost y range.
+    y_lo = y_bounds[2 - row]
+    y_hi = y_bounds[3 - row]
+    x_lo = x_bounds[col]
+    x_hi = x_bounds[col + 1]
+    return x_lo, y_lo, x_hi - x_lo, y_hi - y_lo
+
+
+def draw_page_pile(c: pdfcanvas.Canvas) -> None:
+    """Fill the whole page with the six pile tiles, edge-to-edge."""
+    for row in range(3):
+        for col in range(2):
+            x, y, w, h = pile_tile_bounds(row, col)
+            c.drawImage(str(BADGE_PILE_PATH), x, y, w, h,
+                        preserveAspectRatio=False)
 
 
 def cell_origin(row: int, col: int,
@@ -438,11 +454,9 @@ def draw_badge(c: pdfcanvas.Canvas, x0: float, y0: float,
         4. banquet.png in the upper-right of the white card (only if
            the attendee has a banquet ticket).
     """
-    # --- Layer 1: background pile fills the cell, full bleed ---
-    # Use the pre-cropped variant so the pile keeps its aspect and still
-    # fills edge-to-edge (no stretching, no letterboxing).
-    c.drawImage(str(get_cropped_pile_path()), x0, y0, CELL_W, CELL_H,
-                preserveAspectRatio=False)
+    # (Layer 1, the pile background, is drawn once per page by
+    # draw_page_pile — not per cell — so it can bleed across the column
+    # gap and into the tear-off strips.)
 
     # --- Layer 2: white rounded card ---
     wx = x0 + WHITE_MARGIN
@@ -507,6 +521,7 @@ def render_badges_pdf(attendees: list[Attendee], out_path: Path,
                       offset_x: float = 0.0, offset_y: float = 0.0) -> int:
     """Write the full-run PDF (6 badges per page).  Returns page count."""
     c = pdfcanvas.Canvas(str(out_path), pagesize=(PAGE_W, PAGE_H))
+    draw_page_pile(c)
     page = 1
     for i, a in enumerate(attendees):
         pos_on_page = i % 6
@@ -516,6 +531,7 @@ def render_badges_pdf(attendees: list[Attendee], out_path: Path,
         draw_badge(c, x, y, a)
         if pos_on_page == 5 and i < len(attendees) - 1:
             c.showPage()
+            draw_page_pile(c)
             page += 1
     c.showPage()
     c.save()
