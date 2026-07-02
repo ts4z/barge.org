@@ -1,4 +1,4 @@
-last_updated: 2026-07-01 18:58 PDT
+last_updated: 2026-07-02 05:47 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -474,4 +474,9 @@ registrations:
   last_initial: J
   nickname: HoJo
   ticket: 114
+  ticket_type: BARGE
+- first: Richard
+  last_initial: J
+  nickname: Rich
+  ticket: 115
   ticket_type: BARGE
