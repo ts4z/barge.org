@@ -8,6 +8,10 @@ scripts/cookies.json
 scripts/last_export.xlsx
 scripts/state.json
 scripts/.lock
+scripts/last_login.png
+scripts/badges_canonical.csv
+scripts/resolutions.json
+scripts/*.pdf
 scripts/.venv
 scripts/__pycache__
 scripts/logs
