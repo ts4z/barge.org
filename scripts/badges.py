@@ -116,6 +116,14 @@ REPO_ROOT = Path(__file__).parent.parent
 BADGE_PILE_PATH = REPO_ROOT / "assets" / "badge" / "badge_pile.png"
 BANQUET_PATH = REPO_ROOT / "assets" / "badge" / "banquet.png"
 
+# The badge_pile source is 4:3 (1448×1086); the cell is ~1.56:1.  If we
+# just drawImage it into the cell, ReportLab either stretches (distorts
+# the pile) or letterboxes (leaves visible bands).  We center-crop the
+# source once at first render to match the cell aspect ratio and cache
+# the result next to badges.py; subsequent runs reuse it unless the
+# source has been updated.
+BADGE_PILE_CROPPED_PATH = Path(__file__).parent / ".badge_pile_cropped.png"
+
 # White card geometry.  The card is slightly larger than the text safe
 # zone in each direction so text has natural padding inside it, and the
 # background pile still shows in a thin border around it.
@@ -354,6 +362,34 @@ def validation_report(attendees: list[Attendee]) -> None:
 # PDF rendering
 # ---------------------------------------------------------------------------
 
+def get_cropped_pile_path() -> Path:
+    """Return a path to badge_pile.png center-cropped to the cell aspect
+    ratio.  Cached to disk; regenerated when the source is newer.
+    """
+    src = BADGE_PILE_PATH
+    dst = BADGE_PILE_CROPPED_PATH
+    if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
+        return dst
+    # Lazy import — PIL/Pillow ships with reportlab; no extra dep needed.
+    from PIL import Image
+    im = Image.open(src)
+    src_w, src_h = im.size
+    target_aspect = CELL_W / CELL_H
+    src_aspect = src_w / src_h
+    if src_aspect < target_aspect:
+        # Source is squarer than target — trim top and bottom.
+        new_h = int(round(src_w / target_aspect))
+        top = (src_h - new_h) // 2
+        box = (0, top, src_w, top + new_h)
+    else:
+        # Source is wider than target — trim sides.
+        new_w = int(round(src_h * target_aspect))
+        left = (src_w - new_w) // 2
+        box = (left, 0, left + new_w, src_h)
+    im.crop(box).save(dst, format="PNG")
+    return dst
+
+
 def cell_origin(row: int, col: int,
                 offset_x: float = 0.0, offset_y: float = 0.0) -> tuple[float, float]:
     """Bottom-left corner of cell (row, col) in ReportLab points.
@@ -402,8 +438,11 @@ def draw_badge(c: pdfcanvas.Canvas, x0: float, y0: float,
         4. banquet.png in the upper-right of the white card (only if
            the attendee has a banquet ticket).
     """
-    # --- Layer 1: background pile fills the cell ---
-    c.drawImage(str(BADGE_PILE_PATH), x0, y0, CELL_W, CELL_H)
+    # --- Layer 1: background pile fills the cell, full bleed ---
+    # Use the pre-cropped variant so the pile keeps its aspect and still
+    # fills edge-to-edge (no stretching, no letterboxing).
+    c.drawImage(str(get_cropped_pile_path()), x0, y0, CELL_W, CELL_H,
+                preserveAspectRatio=False)
 
     # --- Layer 2: white rounded card ---
     wx = x0 + WHITE_MARGIN
@@ -450,16 +489,15 @@ def draw_badge(c: pdfcanvas.Canvas, x0: float, y0: float,
         band_mid = (nickname_band_top + nickname_band_bottom) / 2
         c.drawCentredString(sx + sw / 2, band_mid - pt * 0.28, nickname)
 
-    # --- Layer 4: banquet indicator (upper-right of the white card) ---
+    # --- Layer 4: banquet indicator (lower-right of the white card) ---
     if "Banquet" in a.ticket_type:
-        # preserveAspectRatio + only a width hint lets ReportLab pick
-        # the correct height from the source PNG (turkey leg + cocktail).
+        banquet_h = BANQUET_W * 442 / 772   # keep the source aspect ratio
         c.drawImage(
             str(BANQUET_PATH),
             wx + ww - BANQUET_W - BANQUET_INSET,
-            wy + wh - (BANQUET_W * 442 / 772) - BANQUET_INSET,
+            wy + BANQUET_INSET,
             BANQUET_W,
-            BANQUET_W * 442 / 772,
+            banquet_h,
             mask="auto",
             preserveAspectRatio=True,
         )

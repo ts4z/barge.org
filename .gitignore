@@ -12,6 +12,7 @@ scripts/last_login.png
 scripts/badges_canonical.csv
 scripts/resolutions.json
 scripts/*.pdf
+scripts/.badge_pile_cropped.png
 scripts/.venv
 scripts/__pycache__
 scripts/logs
