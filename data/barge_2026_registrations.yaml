@@ -1,4 +1,4 @@
-last_updated: 2026-07-01 17:29 PDT
+last_updated: 2026-07-01 18:58 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -9,7 +9,7 @@ registrations:
   last_initial: A
   nickname: MRSTCAO
   ticket: 2
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: David
   last_initial: A
   nickname: Meeee
@@ -190,11 +190,6 @@ registrations:
   nickname: ''
   ticket: 43
   ticket_type: BARGE & Banquet
-- first: Caryl
-  last_initial: A
-  nickname: Mrstcao
-  ticket: 44
-  ticket_type: Banquet
 - first: Gerald
   last_initial: P
   nickname: gerdog
