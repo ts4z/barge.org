@@ -1,4 +1,4 @@
-last_updated: 2026-07-02 09:03 PDT
+last_updated: 2026-07-02 15:39 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -489,4 +489,9 @@ registrations:
   last_initial: P
   nickname: Pete
   ticket: 117
+  ticket_type: BARGE
+- first: Jeff
+  last_initial: D
+  nickname: Blofeld
+  ticket: 118
   ticket_type: BARGE
