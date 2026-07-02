@@ -45,6 +45,7 @@ from dataclasses import dataclass, field
 from pathlib import Path
 
 import openpyxl
+import yaml
 
 # Reuse the poller's Zeffy client.  Importing by module works because
 # scripts/ is on sys.path when running via `uv run scripts/badges.py`.
@@ -161,22 +162,73 @@ def parse_extended(xlsx_bytes: bytes) -> list[Attendee]:
     out = []
     for key, a in by_key.items():
         a.ticket_type = format_ticket_type_flags(flags_by_key[key])
+        # If the attendee didn't fill in a nickname, fall back to the
+        # first token of their display name — better than a blank
+        # headline on the badge.
+        if not a.nickname:
+            first = a.display_name.split()[0] if a.display_name else ""
+            a.nickname = first
         out.append(a)
     # Present sorted by earliest ticket for downstream ergonomics.
     out.sort(key=lambda a: min(a.tickets) if a.tickets else 9999)
     return out
 
 
+def apply_overrides(attendees: list[Attendee], overrides_path: Path) -> int:
+    """Apply per-ticket overrides from scripts/badge_overrides.yaml.
+
+    The file is a small hand-maintained list of corrections we want to
+    survive regenerations (Zeffy nicknames people misjudged, awkwardly-
+    long strings shortened for the badge, etc.).  Format:
+
+        overrides:
+          - ticket: 97
+            nickname: "(f*ck c*nc*r)"
+          - ticket: 42
+            hometown: "Portland, OR"
+
+    Fields present in an override replace the value on the matching
+    attendee; fields absent leave the Zeffy value untouched.  Returns
+    the number of attendees actually modified so the caller can log it.
+    """
+    if not overrides_path.exists():
+        return 0
+    doc = yaml.safe_load(overrides_path.read_text()) or {}
+    entries = doc.get("overrides") or []
+    if not entries:
+        return 0
+
+    by_ticket = {t: a for a in attendees for t in a.tickets}
+    applied = 0
+    for entry in entries:
+        ticket = entry.get("ticket")
+        target = by_ticket.get(ticket)
+        if target is None:
+            print(f"  override warning: no attendee with ticket #{ticket}",
+                  file=sys.stderr)
+            continue
+        changed = False
+        for field_name in ("display_name", "last_name", "nickname", "hometown"):
+            if field_name in entry:
+                setattr(target, field_name, entry[field_name])
+                changed = True
+        if changed:
+            applied += 1
+    return applied
+
+
 def validation_report(attendees: list[Attendee]) -> None:
     problems: list[str] = []
 
-    # Missing nickname — badge would have a blank headline.
+    # Note attendees whose nickname was auto-filled from their first
+    # name (i.e., they didn't answer the Zeffy question).  Not really a
+    # problem — badges will still print — but worth flagging in case
+    # Doug wants to reach out.
+    autofilled: list[Attendee] = []
     for a in attendees:
-        if not a.nickname:
-            tickets = ",".join(str(t) for t in a.tickets) if a.tickets else "?"
-            problems.append(
-                f"  missing nickname: '{a.display_name}' (ticket #{tickets})"
-            )
+        first = a.display_name.split()[0] if a.display_name else ""
+        if a.nickname and a.nickname == first:
+            autofilled.append(a)
 
     # Same nickname on two different display_names.
     by_nick: dict[str, list[Attendee]] = defaultdict(list)
@@ -207,6 +259,11 @@ def validation_report(attendees: list[Attendee]) -> None:
     print(f"Validation: {len(problems)} flag(s).")
     for p in problems:
         print(p)
+
+    if autofilled:
+        names = ", ".join(a.display_name for a in autofilled)
+        print()
+        print(f"Nickname auto-filled from first name ({len(autofilled)}): {names}")
 
     missing_hometown = [a for a in attendees if not a.hometown]
     if missing_hometown:
@@ -247,6 +304,12 @@ def main() -> int:
         help="Skip the Zeffy fetch and read this XLSX file instead.  "
              "Useful when Zeffy is flaky or for offline iteration.",
     )
+    ap.add_argument(
+        "--overrides", type=Path,
+        default=Path(__file__).parent / "badge_overrides.yaml",
+        help="Hand-maintained corrections applied after parsing.  "
+             "Default: scripts/badge_overrides.yaml (skipped if absent).",
+    )
     args = ap.parse_args()
 
     if args.last_export:
@@ -267,6 +330,10 @@ def main() -> int:
 
     attendees = parse_extended(xlsx_bytes)
     print(f"Parsed {len(attendees)} canonical attendee(s).")
+
+    n_overridden = apply_overrides(attendees, args.overrides)
+    if n_overridden:
+        print(f"Applied {n_overridden} override(s) from {args.overrides}.")
     print()
     validation_report(attendees)
     print()

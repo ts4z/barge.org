@@ -1,0 +1,19 @@
+# Hand-maintained corrections applied after parsing the Zeffy guest list.
+# Each override is keyed by ticket number.  Any of these fields may be
+# present; absent fields leave the Zeffy value untouched:
+#
+#   display_name  — the badge's "official" name line
+#   last_name     — the parsed last-name token (rarely needs override)
+#   nickname      — the big headline on the badge
+#   hometown      — the "city, state" line
+#
+# Add a comment explaining why each override exists.  These survive
+# every regeneration of badges_canonical.csv.
+
+overrides:
+  # Mark's Zeffy nickname is 51 chars ("f*ck c*nc*r (buy a vowel for a
+  # $25 donation to acr)") — will overflow the badge.  Shorten to the
+  # essential punchline; the fundraising story lives on the printed
+  # program, not the badge.
+  - ticket: 97
+    nickname: "(f*ck c*nc*r)"
