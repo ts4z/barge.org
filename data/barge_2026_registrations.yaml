@@ -1,4 +1,4 @@
-last_updated: 2026-07-02 05:47 PDT
+last_updated: 2026-07-02 09:03 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -383,4 +383,12 @@ registrations:
 - full_name: Richard Jaglarski
   ticket: 115
   nickname: Rich
+  ticket_type: BARGE
+- full_name: Ruthie Primiano
+  ticket: 116
+  nickname: Ruthie
+  ticket_type: BARGE
+- full_name: Peter Primiano
+  ticket: 117
+  nickname: Pete
   ticket_type: BARGE
