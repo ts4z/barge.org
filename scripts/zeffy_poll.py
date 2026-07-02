@@ -275,7 +275,10 @@ def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
     by_key: dict[tuple[str, str], dict] = {}
     flags_by_key: dict[tuple[str, str], set[str]] = {}
     for r in out:
-        key = (r["full_name"], r["nickname"])
+        # Casefold the dedup key so e.g. Caryl's "MRSTCAO" first-ticket
+        # nickname merges with her later "Mrstcao" banquet-ticket row.
+        # Displayed values still come from the first occurrence verbatim.
+        key = (r["full_name"].casefold(), r["nickname"].casefold())
         if key not in by_key:
             by_key[key] = {
                 "full_name": r["full_name"],
