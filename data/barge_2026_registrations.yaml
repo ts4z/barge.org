@@ -1,4 +1,4 @@
-last_updated: 2026-07-02 05:47 PDT
+last_updated: 2026-07-02 09:03 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -479,4 +479,14 @@ registrations:
   last_initial: J
   nickname: Rich
   ticket: 115
+  ticket_type: BARGE
+- first: Ruthie
+  last_initial: P
+  nickname: Ruthie
+  ticket: 116
+  ticket_type: BARGE
+- first: Peter
+  last_initial: P
+  nickname: Pete
+  ticket: 117
   ticket_type: BARGE
