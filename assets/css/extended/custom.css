@@ -140,6 +140,18 @@ body {
   background-color: rgba(0,0,0,0.8);
 }
 
+/* On narrow viewports (phones), drop the float so following content —
+   most visibly the "BARGE is the most fun you can have..." h2 on the
+   homepage — flows *below* the slideshow rather than being squeezed
+   into whatever horizontal gap is left beside it. */
+@media (max-width: 700px) {
+  .slideshow-container {
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
 /* Fading animation */
 .ss-fade {
   animation-name: fade;
