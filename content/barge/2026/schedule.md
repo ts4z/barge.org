@@ -15,28 +15,30 @@ title: BARGE 2026 Schedule
 ---
 BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boydgaming.com/) from July 20 through July 25.
 
-|                     Date | Time    | Event                                                                                                              | Entry                     |
-|-------------------------:|:--------|:-------------------------------------------------------------------------------------------------------------------|:--------------------------|
-|      Mon{{< br >}}Jul 20 | 4:00pm  | BOD Meeting via Zoom {{< br >}} link to be announced                                                               |                           |
-|                          | 6:00pm  | [No Kings NLHE Memorial Charity Tournament](#no-kings-no-limit-holdem-memorial-charity-tournament) (with rebuys)   | $140 $60&nbsp;rebuys      |
-| Tue{{< br >}}Jul&nbsp;21 | 11:00am | [Triple Draw Dealer’s Choice](#triple-draw-dealers-choice)                                                         | $100 w/re&#8209;entry     |
-|                          | 5:00pm  | [OE](#oe)                                                                                                          | $140 w/re&#8209;entry     |
-| Wed{{< br >}}Jul&nbsp;22 | 11:00am | [Savage Average NLHE with Nit Levels](#savage-average-no-limit-holdem-with-nit-levels)                             | $140 w/re&#8209;entry     |
-|                          | 7:00pm  | [Wonky Action Razz](#wonky-action-razz) (second chance event)                                                      | $100 w/re&#8209;entry     |
-| Thu{{< br >}}Jul&nbsp;23 | 10:00am | [Blackjack](#blackjack)                                                                                            | $50                       |
-|                          | 1:00pm  | [Funbook Pot Limit Omaha](#funbook-pot-limit-omaha)                                                                | $140                      |
-|                          | 7:00pm  | [Team CHORSE](#team-chorse)                                                                                        | $440 +$40/team            |
-| Fri{{< br >}}Jul&nbsp;24 | 10:00am | [TOC-Style](#toc-style)                                                                                            | $160                      |
-|                          | 6:00pm  | Dinner Break                                                                                                       |                           |
-|                          | 6:00pm  | [BARGE Annual Dinner](#barge-annual-dinner)                                                                        |                           |
-|                          | 8:30pm  | TOC-Style restart                                                                                                  |                           |
-| Sat{{< br >}}Jul&nbsp;25 | 10:30am | No Limit Hold’em Main Event                                                                                        | $180                      |
-|                          | 11:00am | Significant Others’ Mixed Hold’em                                                                                  | $40                       |
-|                          | 12:00pm | Group Picture                                                                                                      |                           |
-|                          | 3:00pm  | [Crayfish Atomic Pineapple](#crayfish-atomic-pineapple) (second chance event)                                      | $100 w/re&#8209;entry     |
-|                          | 5:30pm  | Dinner Break                                                                                                       |                           |
-|                          | 7:30pm  | No Limit Hold’em Restart                                                                                           |                           |
-|                          | 8:00pm  | [Reindeer Games!](#reindeer-games)                                                                                 |                           |
+|                     Date | Time    | Event                                                                                                            | Entry                 |
+|-------------------------:|:--------|:-----------------------------------------------------------------------------------------------------------------|:----------------------|
+|      Mon{{< br >}}Jul 20 | 4:00pm  | BOD Meeting via Zoom {{< br >}} link to be announced                                                             |                       |
+|                          | 6:00pm  | [No Kings NLHE Memorial Charity Tournament](#no-kings-no-limit-holdem-memorial-charity-tournament) (with rebuys) | $140 $60&nbsp;rebuys  |
+| Tue{{< br >}}Jul&nbsp;21 | 11:00am | [Triple Draw Dealer’s Choice](#triple-draw-dealers-choice)                                                       | $100 w/re&#8209;entry |
+|                          | 5:00pm  | [OE](#oe)                                                                                                        | $140 w/re&#8209;entry |
+| Wed{{< br >}}Jul&nbsp;22 | 11:00am | [Savage Average NLHE with Nit Levels](#savage-average-no-limit-holdem-with-nit-levels)                           | $140 w/re&#8209;entry |
+|                          | 7:00pm  | [Wonky Action Razz](#wonky-action-razz) (second chance event)                                                    | $100 w/re&#8209;entry |
+| Thu{{< br >}}Jul&nbsp;23 | 10:00am | [Blackjack](#blackjack)                                                                                          | $50                   |
+|                          | 1:00pm  | [Funbook Pot Limit Omaha](#funbook-pot-limit-omaha)                                                              | $140                  |
+|                          | 7:00pm  | [Team CHORSE](#team-chorse)                                                                                      | $440 +$40/team        |
+| Fri{{< br >}}Jul&nbsp;24 | 10:00am | [TOC-Style](#toc-style)                                                                                          | $160                  |
+|                          | 6:00pm  | Dinner Break                                                                                                     |                       |
+|                          | 6:15pm  | [BARGE Annual Dinner](#barge-annual-dinner) (at [McMullan's Irish Pub](#mcmullans-irish-pub))                    | $35                   |
+|                          | 7:30pm  | Peter Secor memorial (at [McMullan's Irish Pub](#mcmullans-irish-pub))                                           |                       |
+|                          | 8:30pm  | TOC-Style restart                                                                                                |                       |
+|                          | 9:00pm  | Karaoke (at [McMullan's Irish Pub](#mcmullans-irish-pub))                                                        |                       |
+| Sat{{< br >}}Jul&nbsp;25 | 10:30am | No Limit Hold’em Main Event                                                                                      | $180                  |
+|                          | 11:00am | Significant Others’ Mixed Hold’em                                                                                | $40                   |
+|                          | 12:00pm | Group Picture                                                                                                    |                       |
+|                          | 3:00pm  | [Crayfish Atomic Pineapple](#crayfish-atomic-pineapple) (second chance event)                                    | $100 w/re&#8209;entry |
+|                          | 5:30pm  | Dinner Break                                                                                                     |                       |
+|                          | 7:30pm  | No Limit Hold’em Restart                                                                                         |                       |
+|                          | 8:00pm  | [Reindeer Games!](#reindeer-games)                                                                               |                       |
 
 ## Explanations
 
@@ -117,7 +119,21 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 ### BARGE Annual Dinner
 
  - Our guest speaker at this year’s BARGE annual dinner will be Matt Savage
- - cover charge and location TBA
+ - $35
+ - McMullan's Irish Pub (across the street from the Orleans)
+ - Immediately following the dinner and speaker, a memorial service will be
+   held honoring Peter Secor, a long-time organizer and beloved friend of
+   BARGE.
+
+### McMullan's Irish Pub
+
+ - https://www.mcmullansirishpub.com/
+ - Across the street from the Orleans
+ - A cash bar throughout the evening will be available for your drunken pleasure.
+
+### Karaoke
+
+ - 9:00-12:45 - note we need to be out at 1 so McMullan's can begin the cleanup.
 
 ### Crayfish Atomic Pineapple
 
