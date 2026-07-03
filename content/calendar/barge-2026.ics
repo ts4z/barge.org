@@ -1,0 +1,226 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//BARGE//BARGE 2026 Schedule//EN
+CALSCALE:GREGORIAN
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+LAST-MODIFIED:20260101T000000Z
+TZURL:http://tzurl.org/zoneinfo-outlook/America/Los_Angeles
+X-LIC-LOCATION:America/Los_Angeles
+BEGIN:DAYLIGHT
+TZNAME:PDT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZNAME:PST
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:barge2026-bod-meeting
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260720T160000
+DTEND;TZID=America/Los_Angeles:20260720T180000
+SUMMARY:BOD Meeting
+DESCRIPTION:BOD Meeting via Zoom\, link to be announced.
+LOCATION:Zoom
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-no-kings-nlhe
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260720T180000
+DTEND;TZID=America/Los_Angeles:20260720T233000
+SUMMARY:No Kings NLHE Memorial Charity Tournament
+DESCRIPTION:Entry: $140 ($60 rebuys)\n\nIn memory of Peter Secor\, Gillian Groves\, Tanya Peck-Devenport\, Alan Bostick\, and Art Reber. Standard no limit hold'em except kings are stripped from the deck. Unlimited $60 rebuys during first hour. All players may add-on for $60 at first break. All rebuy/add-on proceeds to be donated to charities.
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-triple-draw-dc
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260721T110000
+DTEND;TZID=America/Los_Angeles:20260721T170000
+SUMMARY:Triple Draw Dealer's Choice
+DESCRIPTION:Entry: $100 w/re-entry\n\n6 handed\; all games are played limit. Dealer's choice of the following games: A-5 Triple Draw\, 2-7 Triple Draw\, Archie\, Badugi\, Badacey\, Badeucey\, Draw High (no bug).
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-oe
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260721T170000
+DTEND;TZID=America/Los_Angeles:20260721T230000
+SUMMARY:OE
+DESCRIPTION:Entry: $140 w/re-entry\n\nAlternating rounds of Omaha/8 and Stud/8. forever.
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-savage-average-nlhe
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260722T110000
+DTEND;TZID=America/Los_Angeles:20260722T190000
+SUMMARY:Savage Average NLHE with Nit Levels
+DESCRIPTION:Entry: $140 w/re-entry\n\nDynamic blinds are used instead of a tournament clock. Levels progress as players are eliminated to maintain an average stack of at least 50 big blinds. Featuring Nit Levels.
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-wonky-action-razr
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260722T190000
+DTEND;TZID=America/Los_Angeles:20260722T233000
+SUMMARY:Wonky Action Razz (second chance event)
+DESCRIPTION:Entry: $100 w/re-entry\n\nLimit mix of Wonky Donkey and Action Razz\; games change by level. In Wonky Donkey\, players receive two cards. If the majority of the flop is red\, the game is hold'em. If the majority of the flop is black\, players receive two more cards and the game is Omaha 8 or better.
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-blackjack
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260723T100000
+DTEND;TZID=America/Los_Angeles:20260723T130000
+SUMMARY:Blackjack
+DESCRIPTION:Entry: $50\n\nThis will once again be run informally and rake-free.
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-funbook-plo
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260723T130000
+DTEND;TZID=America/Los_Angeles:20260723T190000
+SUMMARY:Funbook Pot Limit Omaha
+DESCRIPTION:Entry: $140\n\nPlayers start with 10k and get 2 lammers worth 5k each. Each entry comes with a special coupon book – redeem 'em and weep!
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-team-chorse
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260723T190000
+DTEND;TZID=America/Los_Angeles:20260724T003000
+SUMMARY:Team CHORSE
+DESCRIPTION:Entry: $440 +$40/team\n\nThis is a six person team event where each team member plays one CHORSE game (HORSE + Crazy Pineapple 8 or Better).
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-toc-style
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260724T100000
+DTEND;TZID=America/Los_Angeles:20260724T180000
+SUMMARY:TOC-Style
+DESCRIPTION:Entry: $160\n\nMix of Limit Hold'em\, Omaha/8 or Better\, Stud High before switching to No Limit Hold'em with 1-2 tables remaining.
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-dinner-break-fri
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260724T180000
+DTEND;TZID=America/Los_Angeles:20260724T203000
+SUMMARY:Dinner Break
+DESCRIPTION:Dinner Break
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-annual-dinner
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260724T180000
+DTEND;TZID=America/Los_Angeles:20260724T203000
+SUMMARY:BARGE Annual Dinner
+DESCRIPTION:Our guest speaker at this year's BARGE annual dinner will be Matt Savage. Cover charge and location TBA.
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-toc-style-restart
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260724T203000
+DTEND;TZID=America/Los_Angeles:20260725T010000
+SUMMARY:TOC-Style restart
+DESCRIPTION:TOC-Style restart
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-main-event
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260725T103000
+DTEND;TZID=America/Los_Angeles:20260725T173000
+SUMMARY:No Limit Hold'em Main Event
+DESCRIPTION:Entry: $180
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-so-mixed-holdem
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260725T110000
+DTEND;TZID=America/Los_Angeles:20260725T140000
+SUMMARY:Significant Others' Mixed Hold'em
+DESCRIPTION:Entry: $40
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-group-picture
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260725T120000
+DTEND;TZID=America/Los_Angeles:20260725T123000
+SUMMARY:Group Picture
+DESCRIPTION:BARGE 2026 Group Picture
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-crayfish-atomic-pineapple
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260725T150000
+DTEND;TZID=America/Los_Angeles:20260725T173000
+SUMMARY:Crayfish Atomic Pineapple (second chance event)
+DESCRIPTION:Entry: $100 w/re-entry\n\nIn Atomic Pineapple\, players receive five cards and discard one before the flop\, turn\, and river are dealt to end up with a two card hand. In Crayfish poker\, all five board cards are dealt on the flop. Instead of a turn\, the dealer rolls a die and the corresponding card is taken out of play...
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-dinner-break-sat
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260725T173000
+DTEND;TZID=America/Los_Angeles:20260725T193000
+SUMMARY:Dinner Break
+DESCRIPTION:Dinner Break
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-nlhe-restart
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260725T193000
+DTEND;TZID=America/Los_Angeles:20260726T000000
+SUMMARY:No Limit Hold'em Restart
+DESCRIPTION:No Limit Hold'em Main Event Restart
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+BEGIN:VEVENT
+UID:barge2026-reindeer-games
+DTSTAMP:20260622T180000Z
+DTSTART;TZID=America/Los_Angeles:20260725T200000
+DTEND;TZID=America/Los_Angeles:20260726T000000
+SUMMARY:Reindeer Games!
+DESCRIPTION:Expanded roster of cash games. Game selection through registration.
+LOCATION:The Orleans Hotel & Casino\, Las Vegas\, NV
+END:VEVENT
+
+END:VCALENDAR
