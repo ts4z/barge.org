@@ -5,7 +5,7 @@ aliases:
 - /2026/schedule
 cover:
   image: logos/barge_2026_logo.png
-date: 2026-05-26
+date: 2026-07-03
 draft: false
 summary: BARGE 2026 Schedule of Events
 tags:
