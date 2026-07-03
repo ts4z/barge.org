@@ -52,3 +52,39 @@
 .md-content table:not(.highlighttable, .highlight table, .gist .highlight) tr:nth-child(odd) {
     background-color: oklch(from var(--theme) calc(l - 0.015) c h);
 }
+
+/* Registration list (BARGE 2026 etc.): a narrow four-column table.  The rules
+ * above force every content table to min-width:100%, which would stretch these
+ * few short columns across the whole article.  Size it to its content instead
+ * (these rules come after the min-width:100% rule, so equal specificity wins on
+ * source order). */
+.md-content table.registration-list.sortable {
+    min-width: 0;
+    width: auto;
+    max-width: 100%;
+}
+
+/* The theme's core CSS floors every table cell at min-width:80px, which
+ * inflates the narrow "#" column so the right-aligned number sits far to the
+ * right with a big empty gap on its left.  Let these cells size to content. */
+.md-content table.registration-list.sortable th,
+.md-content table.registration-list.sortable td {
+    min-width: 0;
+}
+
+/* Right-align the "#" column so the numbers form a clean right-aligned rank. */
+.registration-list th:first-child,
+.registration-list td:first-child {
+    text-align: right;
+}
+
+/* Cap the Nickname column.  A single long joke "nickname" would otherwise set
+ * the column's width for everyone, leaving a big gap beside every short
+ * nickname.  max-width on the <td> is ignored under auto table-layout, so cap
+ * the content box instead: the nickname's <strong> becomes an inline-block with
+ * a bounded width, forcing long entries to wrap. */
+.registration-list td strong {
+    display: inline-block;
+    max-width: 20ch;
+    overflow-wrap: anywhere;
+}
