@@ -81,7 +81,7 @@
       <td>{{ $first }} {{ $lastInitial }}.</td>
       <td>{{ with .nickname }}<strong>{{ . }}</strong>{{ end }}</td>
 {{- if $showTicketType }}
-      <td>{{ .ticket_type | default "" }}</td>
+      <td class="nw">{{ .ticket_type | default "" }}</td>
 {{- end }}
     </tr>
 {{- end }}
