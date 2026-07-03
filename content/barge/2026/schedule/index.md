@@ -147,3 +147,7 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 
  - Expanded roster of cash games
  - Game selection through registration
+
+## Other Formats
+
+[Download BARGE 2026 Calendar (ICS format)](barge-2026.ics)
