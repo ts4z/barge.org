@@ -118,15 +118,16 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 
 ### BARGE Annual Dinner
 
- - Our guest speaker at this year’s BARGE annual dinner will be Matt Savage
+ - Guest speaker: Matt Savage
  - $35
- - McMullan's Irish Pub (across the street from the Orleans)
+ - at [McMullan's Irish Pub](#mcmullans-irish-pub)
  - Immediately following the dinner and speaker, a memorial service will be
    held honoring Peter Secor, a long-time organizer and beloved friend of
    BARGE.
 
 ### McMullan's Irish Pub
 
+ - [4650 W. Tropicana Ave, Las Vegas, NV 89103](https://maps.app.goo.gl/DweNmie7TGoxEbex7)
  - https://www.mcmullansirishpub.com/
  - Across the street from the Orleans
  - A cash bar throughout the evening will be available for your drunken pleasure.
