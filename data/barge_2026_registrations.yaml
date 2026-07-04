@@ -1,9 +1,9 @@
-last_updated: 2026-07-02 15:39 PDT
+last_updated: 2026-07-03 19:41 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
   nickname: Omaholic
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Caryl Aronson
   ticket: 2
   nickname: MRSTCAO
@@ -107,7 +107,7 @@ registrations:
 - full_name: Bob Herlien
   ticket: 27
   nickname: Blues
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - full_name: Dan Goldman
   ticket: 28
   nickname: ADB smalltalk
@@ -396,3 +396,7 @@ registrations:
   ticket: 118
   nickname: Blofeld
   ticket_type: BARGE
+- full_name: Bob Jones
+  ticket: 121
+  nickname: Bob
+  ticket_type: BARGE & Banquet
