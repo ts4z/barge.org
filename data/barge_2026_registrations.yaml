@@ -1,10 +1,10 @@
-last_updated: 2026-07-02 15:39 PDT
+last_updated: 2026-07-03 19:41 PDT
 registrations:
 - first: Rich
   last_initial: B
   nickname: Omaholic
   ticket: 1
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Caryl
   last_initial: A
   nickname: MRSTCAO
@@ -134,7 +134,7 @@ registrations:
   last_initial: H
   nickname: Blues
   ticket: 27
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Dan
   last_initial: G
   nickname: ADB smalltalk
@@ -495,3 +495,8 @@ registrations:
   nickname: Blofeld
   ticket: 118
   ticket_type: BARGE
+- first: Bob
+  last_initial: J
+  nickname: Bob
+  ticket: 121
+  ticket_type: BARGE & Banquet
