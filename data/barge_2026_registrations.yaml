@@ -1,4 +1,4 @@
-last_updated: 2026-07-03 19:41 PDT
+last_updated: 2026-07-03 21:17 PDT
 registrations:
 - full_name: Rich Bremer
   ticket: 1
@@ -400,3 +400,7 @@ registrations:
   ticket: 121
   nickname: Bob
   ticket_type: BARGE & Banquet
+- full_name: Ross
+  ticket: 122
+  nickname: Ross
+  ticket_type: BARGE
