@@ -1,4 +1,4 @@
-last_updated: 2026-07-03 19:41 PDT
+last_updated: 2026-07-03 21:17 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -500,3 +500,8 @@ registrations:
   nickname: Bob
   ticket: 121
   ticket_type: BARGE & Banquet
+- first: Ross
+  last_initial: ''
+  nickname: Ross
+  ticket: 122
+  ticket_type: BARGE
