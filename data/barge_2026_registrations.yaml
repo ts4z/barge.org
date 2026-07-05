@@ -1,4 +1,4 @@
-last_updated: 2026-07-04 22:14 PDT
+last_updated: 2026-07-05 12:53 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -39,7 +39,7 @@ registrations:
   last_initial: B
   nickname: Buffalo
   ticket: 8
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Russell
   last_initial: F
   nickname: Messenger of Doom
@@ -499,4 +499,9 @@ registrations:
   last_initial: ''
   nickname: Ross
   ticket: 122
+  ticket_type: BARGE
+- first: Ben
+  last_initial: I
+  nickname: Taco Tuesday
+  ticket: 124
   ticket_type: BARGE
