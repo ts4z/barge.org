@@ -1,4 +1,4 @@
-last_updated: 2026-07-04 22:08 PDT
+last_updated: 2026-07-04 22:14 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -104,7 +104,7 @@ registrations:
   last_initial: F
   nickname: Omahafool
   ticket: 21
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Diana
   last_initial: M
   nickname: Prof Chaos
@@ -175,11 +175,6 @@ registrations:
   nickname: Sassy
   ticket: 40
   ticket_type: BARGE
-- first: Mike
-  last_initial: F
-  nickname: Omaha Fool
-  ticket: 41
-  ticket_type: Banquet
 - first: Oliver
   last_initial: ''
   nickname: Oliver

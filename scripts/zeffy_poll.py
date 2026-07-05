@@ -272,13 +272,20 @@ def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
     # reasonable "registration order" proxy.  Across the group we union
     # the ticket-type flags so e.g. someone with BARGE + Banquet shows
     # as "BARGE & Banquet" just like someone who bought the bundle.
-    by_key: dict[tuple[str, str], dict] = {}
-    flags_by_key: dict[tuple[str, str], set[str]] = {}
+    by_key: dict[str, dict] = {}
+    flags_by_key: dict[str, set[str]] = {}
     for r in out:
-        # Casefold the dedup key so e.g. Caryl's "MRSTCAO" first-ticket
-        # nickname merges with her later "Mrstcao" banquet-ticket row.
-        # Displayed values still come from the first occurrence verbatim.
-        key = (r["full_name"].casefold(), r["nickname"].casefold())
+        # Dedup on the aggressively-normalized badge name only (casefold
+        # + strip all non-alphanumerics).  The badge name already
+        # contains the attendee's real first + last name — same person
+        # types it the same way (modulo case + trailing spaces) across
+        # every purchase they make.  Empirically, every same-normalized-
+        # badge-name group in our data has genuinely been the same
+        # person; no two different attendees have ever shared a
+        # normalized badge name.  Including nickname in the key was
+        # over-conservative and made Mike Fujita's two purchases split
+        # ("Omahafool" vs "Omaha Fool") when they shouldn't have.
+        key = dedup_norm(r["full_name"])
         if key not in by_key:
             by_key[key] = {
                 "full_name": r["full_name"],
@@ -293,6 +300,16 @@ def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
         entry["ticket_type"] = format_ticket_type_flags(flags_by_key[key])
         deduped.append(entry)
     return deduped
+
+
+def dedup_norm(s: str) -> str:
+    """Normalize a name/nickname for dedup comparison: casefold, then
+    drop everything that isn't a letter or digit.  Merges near-identical
+    forms like "Omahafool" ↔ "Omaha Fool" ↔ "OMAHA-FOOL".  Rare risk of
+    false-merge on two different attendees with punctuation-only
+    nickname differences; monitor the CSV output for anomalies.
+    """
+    return re.sub(r"[^0-9a-z]", "", (s or "").casefold())
 
 
 def split_name(full_name: str) -> tuple[str, str]:
