@@ -72,13 +72,21 @@
   </thead>
   <tbody>
 {{- range sort $rows "ticket" "asc" }}
-{{- $parts := split (.full_name | default "") " " -}}
-{{- $first := index $parts 0 -}}
-{{- $last := index $parts (sub (len $parts) 1) -}}
-{{- $lastInitial := substr $last 0 1 -}}
+{{- /* Prefer the public "first" + "last_initial" fields.  Fall back to
+       parsing a full_name — kept only for old YAML blobs; the poller no
+       longer emits full_name and any current data file should be in the
+       display-safe shape.  */ -}}
+{{- $first := .first -}}
+{{- $lastInitial := .last_initial -}}
+{{- if not $first -}}
+{{-   $parts := split (.full_name | default "") " " -}}
+{{-   $first = index $parts 0 -}}
+{{-   $last := index $parts (sub (len $parts) 1) -}}
+{{-   $lastInitial = substr $last 0 1 -}}
+{{- end -}}
     <tr>
       <td>{{ .ticket }}</td>
-      <td>{{ $first }} {{ $lastInitial }}.</td>
+      <td>{{ $first }}{{ with $lastInitial }} {{ . }}.{{ end }}</td>
       <td>{{ with .nickname }}<strong>{{ . }}</strong>{{ end }}</td>
 {{- if $showTicketType }}
       <td class="nw">{{ .ticket_type | default "" }}</td>
