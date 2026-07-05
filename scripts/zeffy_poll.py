@@ -295,8 +295,48 @@ def parse_workbook(xlsx_bytes: bytes, debug: bool = False) -> list[dict]:
     return deduped
 
 
+def split_name(full_name: str) -> tuple[str, str]:
+    """Return (first, last_initial) — the pieces the public site shows.
+
+    "Rich Bremer" → ("Rich", "B")
+    "Mark"        → ("Mark", "")     # single-token names get no initial
+    "" / None     → ("", "")
+    """
+    parts = (full_name or "").split()
+    first = parts[0] if parts else ""
+    last_initial = parts[-1][0] if len(parts) > 1 else ""
+    return first, last_initial
+
+
+def to_public_row(row: dict) -> dict:
+    """Reduce a parsed record to the fields the public YAML is allowed to
+    contain — no full name, no last name, no PII beyond first-name +
+    single last initial (already what the site displays).
+    """
+    first, last_initial = split_name(row.get("full_name", ""))
+    out = {
+        "first": first,
+        "last_initial": last_initial,
+        "nickname": row.get("nickname", ""),
+        "ticket": row.get("ticket"),
+    }
+    if "ticket_type" in row:
+        out["ticket_type"] = row["ticket_type"]
+    return out
+
+
 def key_for(row: dict) -> str:
-    return f"{row['ticket']}|{row['full_name']}"
+    """State key: derived from the same display-safe fields we write to
+    the YAML, so a state.json rebuild-from-YAML lines up perfectly with
+    a live poll.  Accepts either a raw parse_workbook row (has
+    full_name) or a display-safe row (has first + last_initial).
+    """
+    if row.get("full_name"):
+        first, last_initial = split_name(row["full_name"])
+    else:
+        first = row.get("first", "")
+        last_initial = row.get("last_initial", "")
+    return f"{row.get('ticket')}|{first}|{last_initial}|{row.get('nickname', '')}"
 
 
 def load_state(state_path: Path, output_path: Path,
@@ -327,8 +367,10 @@ def load_state(state_path: Path, output_path: Path,
         rows = existing
     else:
         rows = []
-    keys = [f"{r.get('ticket')}|{r.get('full_name')}"
-            for r in rows if r.get("full_name")]
+    # Bootstrap keys match whatever fields are in the YAML.  Old
+    # commits had `full_name`; the display-safe format has `first` +
+    # `last_initial`.  key_for() handles both.
+    keys = [key_for(r) for r in rows if r.get("full_name") or r.get("first")]
     if not keys:
         return {}
     print(f"Bootstrapping state from existing {output_path} "
@@ -495,9 +537,14 @@ def main() -> int:
     #   3. Save state.json — state reflects what's now in local HEAD.
     #   4. THEN attempt the push.
     # Push failures must not leave state stale; see push_changes() docstring.
+    #
+    # Reduce each row to public-safe fields before writing.  The site
+    # only needs first-name + last-initial + nickname + ticket + type;
+    # the raw XLSX has full names, hometown, etc. that we deliberately
+    # never commit to the public repo.
     payload = {
         "last_updated": datetime.now(DISPLAY_TZ).strftime("%Y-%m-%d %H:%M %Z"),
-        "registrations": rows,
+        "registrations": [to_public_row(r) for r in rows],
     }
     args.output.parent.mkdir(parents=True, exist_ok=True)
     args.output.write_text(

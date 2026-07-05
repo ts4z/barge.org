@@ -1,406 +1,507 @@
-last_updated: 2026-07-03 21:17 PDT
+last_updated: 2026-07-04 22:08 PDT
 registrations:
-- full_name: Rich Bremer
-  ticket: 1
+- first: Rich
+  last_initial: B
   nickname: Omaholic
+  ticket: 1
   ticket_type: BARGE & Banquet
-- full_name: Caryl Aronson
-  ticket: 2
+- first: Caryl
+  last_initial: A
   nickname: MRSTCAO
+  ticket: 2
   ticket_type: BARGE & Banquet
-- full_name: David Aronson
-  ticket: 3
+- first: David
+  last_initial: A
   nickname: Meeee
+  ticket: 3
   ticket_type: BARGE & Banquet
-- full_name: Carol Anderson
-  ticket: 4
+- first: Carol
+  last_initial: A
   nickname: CKBWoP
+  ticket: 4
   ticket_type: BARGE
-- full_name: Patrick Kirwan
-  ticket: 5
+- first: Patrick
+  last_initial: K
   nickname: CtheTurn
+  ticket: 5
   ticket_type: BARGE & Banquet
-- full_name: Chuck Weinstock
-  ticket: 6
+- first: Chuck
+  last_initial: W
   nickname: Enabler
+  ticket: 6
   ticket_type: BARGE & Banquet
-- full_name: Kenny Kubey
-  ticket: 7
+- first: Kenny
+  last_initial: K
   nickname: QB
+  ticket: 7
   ticket_type: BARGE & Banquet
-- full_name: Andy Bartalone
-  ticket: 8
+- first: Andy
+  last_initial: B
   nickname: Buffalo
+  ticket: 8
   ticket_type: BARGE
-- full_name: Russell Fox
-  ticket: 9
+- first: Russell
+  last_initial: F
   nickname: Messenger of Doom
+  ticket: 9
   ticket_type: BARGE & Banquet
-- full_name: Jared Anderson
-  ticket: 10
+- first: Jared
+  last_initial: A
   nickname: Mr3putt
+  ticket: 10
   ticket_type: BARGE
-- full_name: Nancy Robertson
-  ticket: 11
+- first: Nancy
+  last_initial: R
   nickname: NancyR13
+  ticket: 11
   ticket_type: BARGE & Banquet
-- full_name: Steve Daniel
-  ticket: 12
+- first: Steve
+  last_initial: D
   nickname: Crunch
+  ticket: 12
   ticket_type: BARGE & Banquet
-- full_name: Christian
-  ticket: 13
+- first: Christian
+  last_initial: ''
   nickname: Dr.Doofenshmirtz
+  ticket: 13
   ticket_type: BARGE
-- full_name: Deron Brod
-  ticket: 14
+- first: Deron
+  last_initial: B
   nickname: ADB Neon
+  ticket: 14
   ticket_type: BARGE & Banquet
-- full_name: Dan Nussbaum
-  ticket: 15
+- first: Dan
+  last_initial: N
   nickname: dann
+  ticket: 15
   ticket_type: BARGE & Banquet
-- full_name: JK Scheinberg
-  ticket: 16
+- first: JK
+  last_initial: S
   nickname: JZK
+  ticket: 16
   ticket_type: BARGE
-- full_name: Lee Crocker
-  ticket: 17
+- first: Lee
+  last_initial: C
   nickname: Bowtie
+  ticket: 17
   ticket_type: BARGE & Banquet
-- full_name: Patti Beadles
-  ticket: 18
+- first: Patti
+  last_initial: B
   nickname: Patti
+  ticket: 18
   ticket_type: BARGE & Banquet
-- full_name: Steve Watanabe
-  ticket: 19
+- first: Steve
+  last_initial: W
   nickname: stevew
+  ticket: 19
   ticket_type: BARGE & Banquet
-- full_name: Martin Veneroso
-  ticket: 20
+- first: Martin
+  last_initial: V
   nickname: Slick
+  ticket: 20
   ticket_type: BARGE & Banquet
-- full_name: Mike Fujita
-  ticket: 21
+- first: Mike
+  last_initial: F
   nickname: Omahafool
+  ticket: 21
   ticket_type: BARGE
-- full_name: Diana Mercer
-  ticket: 22
+- first: Diana
+  last_initial: M
   nickname: Prof Chaos
+  ticket: 22
   ticket_type: BARGE & Banquet
-- full_name: David Croson
-  ticket: 23
+- first: David
+  last_initial: C
   nickname: ProfDC
+  ticket: 23
   ticket_type: BARGE
-- full_name: Tim Showalter
-  ticket: 24
+- first: Tim
+  last_initial: S
   nickname: ADB ts4z
+  ticket: 24
   ticket_type: BARGE & Banquet
-- full_name: Todd
-  ticket: 25
+- first: Todd
+  last_initial: ''
   nickname: Scoop
+  ticket: 25
   ticket_type: BARGE
-- full_name: Guy Berentsen
-  ticket: 26
+- first: Guy
+  last_initial: B
   nickname: Grizz
+  ticket: 26
   ticket_type: BARGE & Banquet
-- full_name: Bob Herlien
-  ticket: 27
+- first: Bob
+  last_initial: H
   nickname: Blues
+  ticket: 27
   ticket_type: BARGE & Banquet
-- full_name: Dan Goldman
-  ticket: 28
+- first: Dan
+  last_initial: G
   nickname: ADB smalltalk
+  ticket: 28
   ticket_type: BARGE
-- full_name: Randal Hennemuth
-  ticket: 29
+- first: Randal
+  last_initial: H
   nickname: Randal
+  ticket: 29
   ticket_type: BARGE
-- full_name: John Lloyd
-  ticket: 30
+- first: John
+  last_initial: L
   nickname: John
+  ticket: 30
   ticket_type: BARGE & Banquet
-- full_name: Scott Byron
-  ticket: 31
+- first: Scott
+  last_initial: B
   nickname: Bwana
+  ticket: 31
   ticket_type: BARGE & Banquet
-- full_name: Paul Stine
-  ticket: 32
+- first: Paul
+  last_initial: S
   nickname: Aggie83
+  ticket: 32
   ticket_type: BARGE
-- full_name: Neil Crocker
-  ticket: 36
+- first: Neil
+  last_initial: C
   nickname: Crinklecore
+  ticket: 36
   ticket_type: BARGE
-- full_name: Eileen Milligan
-  ticket: 37
+- first: Eileen
+  last_initial: M
   nickname: TrebleMaker
+  ticket: 37
   ticket_type: BARGE & Banquet
-- full_name: Stephanie
-  ticket: 40
+- first: Stephanie
+  last_initial: ''
   nickname: Sassy
+  ticket: 40
   ticket_type: BARGE
-- full_name: Mike Fujita
-  ticket: 41
+- first: Mike
+  last_initial: F
   nickname: Omaha Fool
+  ticket: 41
   ticket_type: Banquet
-- full_name: Oliver
-  ticket: 42
+- first: Oliver
+  last_initial: ''
   nickname: Oliver
+  ticket: 42
   ticket_type: BARGE
-- full_name: Rich Strauss
-  ticket: 43
+- first: Rich
+  last_initial: S
   nickname: ''
+  ticket: 43
   ticket_type: BARGE & Banquet
-- full_name: Gerald Petersen
-  ticket: 46
+- first: Gerald
+  last_initial: P
   nickname: gerdog
+  ticket: 46
   ticket_type: BARGE & Banquet
-- full_name: Patrick Milligan
-  ticket: 48
+- first: Patrick
+  last_initial: M
   nickname: JazzLover
+  ticket: 48
   ticket_type: BARGE & Banquet
-- full_name: Len G
-  ticket: 54
+- first: Len
+  last_initial: G
   nickname: Len G
+  ticket: 54
   ticket_type: BARGE
-- full_name: Cliff Matthews
-  ticket: 55
+- first: Cliff
+  last_initial: M
   nickname: deadhead
+  ticket: 55
   ticket_type: BARGE
-- full_name: Chris Kluchman
-  ticket: 58
+- first: Chris
+  last_initial: K
   nickname: SharkBait
+  ticket: 58
   ticket_type: BARGE & Banquet
-- full_name: Ron Duursma
-  ticket: 61
+- first: Ron
+  last_initial: D
   nickname: Dutch
+  ticket: 61
   ticket_type: BARGE & Banquet
-- full_name: Jordan
-  ticket: 62
+- first: Jordan
+  last_initial: ''
   nickname: Her work husband
+  ticket: 62
   ticket_type: BARGE
-- full_name: David Kluchman
-  ticket: 63
+- first: David
+  last_initial: K
   nickname: Stone Donkey
+  ticket: 63
   ticket_type: BARGE & Banquet
-- full_name: Joe Santagata
-  ticket: 64
+- first: Joe
+  last_initial: S
   nickname: Joe
+  ticket: 64
   ticket_type: BARGE
-- full_name: Christopher Kuntz
-  ticket: 65
+- first: Christopher
+  last_initial: K
   nickname: Luckbucket
+  ticket: 65
   ticket_type: BARGE & Banquet
-- full_name: Larry Stone
-  ticket: 66
+- first: Larry
+  last_initial: S
   nickname: Larry
+  ticket: 66
   ticket_type: BARGE & Banquet
-- full_name: Maggie Jongleux
-  ticket: 67
+- first: Maggie
+  last_initial: J
   nickname: Maggie
+  ticket: 67
   ticket_type: Banquet
-- full_name: Regis Donovan
-  ticket: 69
+- first: Regis
+  last_initial: D
   nickname: Regis
+  ticket: 69
   ticket_type: BARGE & Banquet
-- full_name: Claudia Mastroianni
-  ticket: 70
+- first: Claudia
+  last_initial: M
   nickname: ClauClauClaudia
+  ticket: 70
   ticket_type: BARGE & Banquet
-- full_name: Keith Troell
-  ticket: 71
+- first: Keith
+  last_initial: T
   nickname: B16
+  ticket: 71
   ticket_type: BARGE & Banquet
-- full_name: Michael
-  ticket: 72
+- first: Michael
+  last_initial: ''
   nickname: mgators
+  ticket: 72
   ticket_type: BARGE & Banquet
-- full_name: Kelly Kania
-  ticket: 73
+- first: Kelly
+  last_initial: K
   nickname: UN's Proud Sis
+  ticket: 73
   ticket_type: BARGE & Banquet
-- full_name: TimS
-  ticket: 74
+- first: TimS
+  last_initial: ''
   nickname: timmer
+  ticket: 74
   ticket_type: BARGE
-- full_name: Adam Bachrach
-  ticket: 75
+- first: Adam
+  last_initial: B
   nickname: Allknight
+  ticket: 75
   ticket_type: BARGE & Banquet
-- full_name: Debbie Bachrach
-  ticket: 76
+- first: Debbie
+  last_initial: B
   nickname: Debbie
+  ticket: 76
   ticket_type: Banquet
-- full_name: Rich Vehlow
-  ticket: 77
+- first: Rich
+  last_initial: V
   nickname: MajorAceHole
+  ticket: 77
   ticket_type: BARGE & Banquet
-- full_name: Corey I
-  ticket: 78
+- first: Corey
+  last_initial: I
   nickname: LingCod
+  ticket: 78
   ticket_type: BARGE & Banquet
-- full_name: Kathy I
-  ticket: 79
+- first: Kathy
+  last_initial: I
   nickname: Hot Flash
+  ticket: 79
   ticket_type: Banquet
-- full_name: Michael Patterson
-  ticket: 80
+- first: Michael
+  last_initial: P
   nickname: mickdog
+  ticket: 80
   ticket_type: BARGE & Banquet
-- full_name: Rick
-  ticket: 81
+- first: Rick
+  last_initial: ''
   nickname: Rick
+  ticket: 81
   ticket_type: BARGE
-- full_name: David Heller
-  ticket: 82
+- first: David
+  last_initial: H
   nickname: Heldar
+  ticket: 82
   ticket_type: BARGE & Banquet
-- full_name: Andrea Darvas
-  ticket: 83
+- first: Andrea
+  last_initial: D
   nickname: Ms. Heldar
+  ticket: 83
   ticket_type: Banquet
-- full_name: Brian Fazio
-  ticket: 84
+- first: Brian
+  last_initial: F
   nickname: Half-Giant
+  ticket: 84
   ticket_type: BARGE & Banquet
-- full_name: Jeff Kania
-  ticket: 85
+- first: Jeff
+  last_initial: K
   nickname: Hoss
+  ticket: 85
   ticket_type: BARGE & Banquet
-- full_name: Scott Samarel
-  ticket: 86
+- first: Scott
+  last_initial: S
   nickname: samarai
+  ticket: 86
   ticket_type: BARGE & Banquet
-- full_name: Stevan
-  ticket: 87
+- first: Stevan
+  last_initial: ''
   nickname: ADB goldie
+  ticket: 87
   ticket_type: BARGE & Banquet
-- full_name: Connie Kellers
-  ticket: 89
+- first: Connie
+  last_initial: K
   nickname: baguette
+  ticket: 89
   ticket_type: BARGE & Banquet
-- full_name: David Low
-  ticket: 90
+- first: David
+  last_initial: L
   nickname: dave
+  ticket: 90
   ticket_type: BARGE
-- full_name: Nolan Hee
-  ticket: 91
+- first: Nolan
+  last_initial: H
   nickname: COMMUNITY
+  ticket: 91
   ticket_type: BARGE & Banquet
-- full_name: Ellis Starks
-  ticket: 92
+- first: Ellis
+  last_initial: S
   nickname: Drackala
+  ticket: 92
   ticket_type: BARGE & Banquet
-- full_name: Sean Morrow
-  ticket: 93
+- first: Sean
+  last_initial: M
   nickname: SoCalSean
+  ticket: 93
   ticket_type: BARGE & Banquet
-- full_name: Denise Cunningham
-  ticket: 94
+- first: Denise
+  last_initial: C
   nickname: Dee Nice
+  ticket: 94
   ticket_type: BARGE & Banquet
-- full_name: Tim McGarvey
-  ticket: 95
+- first: Tim
+  last_initial: M
   nickname: ADB Timmy
+  ticket: 95
   ticket_type: BARGE & Banquet
-- full_name: Steven Markowitz
-  ticket: 96
+- first: Steven
+  last_initial: M
   nickname: Steve
+  ticket: 96
   ticket_type: BARGE & Banquet
-- full_name: Mark
-  ticket: 97
+- first: Mark
+  last_initial: ''
   nickname: f*ck c*nc*r (buy a vowel for a $25 donation to acr)
+  ticket: 97
   ticket_type: BARGE
-- full_name: Don Rieck
-  ticket: 98
+- first: Don
+  last_initial: R
   nickname: ADBBingo
+  ticket: 98
   ticket_type: BARGE & Banquet
-- full_name: Kyle Minnis
-  ticket: 99
+- first: Kyle
+  last_initial: M
   nickname: Super-ev
+  ticket: 99
   ticket_type: BARGE & Banquet
-- full_name: Ryan
-  ticket: 100
+- first: Ryan
+  last_initial: ''
   nickname: LMGTFY
+  ticket: 100
   ticket_type: BARGE
-- full_name: Christensen Ackerman
-  ticket: 101
+- first: Christensen
+  last_initial: A
   nickname: Grizz Sis-in-law
+  ticket: 101
   ticket_type: Banquet
-- full_name: Steve Ackerman
-  ticket: 102
+- first: Steve
+  last_initial: A
   nickname: Steve Ackerman
+  ticket: 102
   ticket_type: Banquet
-- full_name: kevan garrett
-  ticket: 103
+- first: kevan
+  last_initial: g
   nickname: Troutboy
+  ticket: 103
   ticket_type: BARGE & Banquet
-- full_name: Bruce Kramer
-  ticket: 104
+- first: Bruce
+  last_initial: K
   nickname: ADB  Bigboy
+  ticket: 104
   ticket_type: BARGE & Banquet
-- full_name: Paul McMullin
-  ticket: 105
+- first: Paul
+  last_initial: M
   nickname: framistat/prm
+  ticket: 105
   ticket_type: BARGE & Banquet
-- full_name: Andy Bloch
-  ticket: 106
+- first: Andy
+  last_initial: B
   nickname: WAR
+  ticket: 106
   ticket_type: BARGE
-- full_name: Brandon Gerson
-  ticket: 107
+- first: Brandon
+  last_initial: G
   nickname: Drexel
+  ticket: 107
   ticket_type: BARGE
-- full_name: Jeanne David
-  ticket: 108
+- first: Jeanne
+  last_initial: D
   nickname: Jeanne D
+  ticket: 108
   ticket_type: BARGE
-- full_name: Mike Puskarich
-  ticket: 109
+- first: Mike
+  last_initial: P
   nickname: Mike
+  ticket: 109
   ticket_type: BARGE
-- full_name: Kevin Un
-  ticket: 110
+- first: Kevin
+  last_initial: U
   nickname: ADB UN
+  ticket: 110
   ticket_type: BARGE & Banquet
-- full_name: Bex Kerl
-  ticket: 111
+- first: Bex
+  last_initial: K
   nickname: Redbird77
+  ticket: 111
   ticket_type: BARGE & Banquet
-- full_name: Barry
-  ticket: 112
+- first: Barry
+  last_initial: ''
   nickname: Mr. Raise
+  ticket: 112
   ticket_type: BARGE & Banquet
-- full_name: Edmund Hack
-  ticket: 113
+- first: Edmund
+  last_initial: H
   nickname: rktsci
+  ticket: 113
   ticket_type: BARGE & Banquet
-- full_name: Holly Jones
-  ticket: 114
+- first: Holly
+  last_initial: J
   nickname: HoJo
+  ticket: 114
   ticket_type: BARGE
-- full_name: Richard Jaglarski
-  ticket: 115
+- first: Richard
+  last_initial: J
   nickname: Rich
+  ticket: 115
   ticket_type: BARGE
-- full_name: Ruthie Primiano
-  ticket: 116
+- first: Ruthie
+  last_initial: P
   nickname: Ruthie
+  ticket: 116
   ticket_type: BARGE
-- full_name: Peter Primiano
-  ticket: 117
+- first: Peter
+  last_initial: P
   nickname: Pete
+  ticket: 117
   ticket_type: BARGE
-- full_name: Jeff Deitch
-  ticket: 118
+- first: Jeff
+  last_initial: D
   nickname: Blofeld
+  ticket: 118
   ticket_type: BARGE
-- full_name: Bob Jones
-  ticket: 121
+- first: Bob
+  last_initial: J
   nickname: Bob
+  ticket: 121
   ticket_type: BARGE & Banquet
-- full_name: Ross
-  ticket: 122
+- first: Ross
+  last_initial: ''
   nickname: Ross
+  ticket: 122
   ticket_type: BARGE

@@ -2,168 +2,223 @@
 # Hand-edited 2026-05-27 to add registrations missed by Zeffy during early hiccups.
 # Running zeffy_poll.py will OVERWRITE this file — don't, unless you're prepared
 # to re-merge the canonical list yourself.
-- full_name: John Timm
-  ticket: 1
+- first: John
+  last_initial: T
   nickname: JT
-- full_name: Andy Bartalone
-  ticket: 2
+  ticket: 1
+- first: Andy
+  last_initial: B
   nickname: Buffalo
-- full_name: Stephen Rosenblatt
-  ticket: 3
+  ticket: 2
+- first: Stephen
+  last_initial: R
   nickname: STEPHEN
-- full_name: Mike Fujita
-  ticket: 4
+  ticket: 3
+- first: Mike
+  last_initial: F
   nickname: Omaha Fool
-- full_name: David Kuznick
-  ticket: 5
+  ticket: 4
+- first: David
+  last_initial: K
   nickname: DavidK
-- full_name: Linda M Lewis
-  ticket: 6
+  ticket: 5
+- first: Linda
+  last_initial: L
   nickname: LLEW
-- full_name: Ron Grossberg
-  ticket: 7
+  ticket: 6
+- first: Ron
+  last_initial: G
   nickname: Playing for JD
-- full_name: Shawn Grigus
-  ticket: 8
+  ticket: 7
+- first: Shawn
+  last_initial: G
   nickname: AllTheGames
-- full_name: Alan Stuart
-  ticket: 9
+  ticket: 8
+- first: Alan
+  last_initial: S
   nickname: uncle al
-- full_name: Rick Becker
-  ticket: 10
+  ticket: 9
+- first: Rick
+  last_initial: B
   nickname: Fred Garvin
-- full_name: Ricky Becker
-  ticket: 11
+  ticket: 10
+- first: Ricky
+  last_initial: B
   nickname: Ricky
-- full_name: Tracy Becker
-  ticket: 12
+  ticket: 11
+- first: Tracy
+  last_initial: B
   nickname: TracyB
-- full_name: Ron Lyons
-  ticket: 13
+  ticket: 12
+- first: Ron
+  last_initial: L
   nickname: 8-2 Ron
-- full_name: Charles Natkins
-  ticket: 14
+  ticket: 13
+- first: Charles
+  last_initial: N
   nickname: Boomerman
-- full_name: Nancy Robertson
-  ticket: 15
+  ticket: 14
+- first: Nancy
+  last_initial: R
   nickname: NancyR13
-- full_name: John Segovia
-  ticket: 16
+  ticket: 15
+- first: John
+  last_initial: S
   nickname: Mango
-- full_name: Deron Brod
-  ticket: 17
+  ticket: 16
+- first: Deron
+  last_initial: B
   nickname: ADB Neon
-- full_name: Christian Jones
-  ticket: 18
+  ticket: 17
+- first: Christian
+  last_initial: J
   nickname: Dr.Doofenshmirtz
-- full_name: Jodi Shapiro
-  ticket: 19
+  ticket: 18
+- first: Jodi
+  last_initial: S
   nickname: Jodi Ess
-- full_name: Tom Bessoir
-  ticket: 20
+  ticket: 19
+- first: Tom
+  last_initial: B
   nickname: Chaos
-- full_name: Ted Hennessey
-  ticket: 21
+  ticket: 20
+- first: Ted
+  last_initial: H
   nickname: Ted
-- full_name: Scott Byron
-  ticket: 22
+  ticket: 21
+- first: Scott
+  last_initial: B
   nickname: Bwana
-- full_name: Len Greenberg
-  ticket: 23
+  ticket: 22
+- first: Len
+  last_initial: G
   nickname: Len G
-- full_name: Thomas Abraham
-  ticket: 24
+  ticket: 23
+- first: Thomas
+  last_initial: A
   nickname: Tom
-- full_name: Caryl Aronson
-  ticket: 25
+  ticket: 24
+- first: Caryl
+  last_initial: A
   nickname: MrsTCAo
-- full_name: David Aronson
-  ticket: 26
+  ticket: 25
+- first: David
+  last_initial: A
   nickname: Meeee
-- full_name: Guy Berentsen
-  ticket: 27
+  ticket: 26
+- first: Guy
+  last_initial: B
   nickname: Grizz
-- full_name: Steven Chandler
-  ticket: 28
+  ticket: 27
+- first: Steven
+  last_initial: C
   nickname: Chandler
-- full_name: Ray Didonato
-  ticket: 29
+  ticket: 28
+- first: Ray
+  last_initial: D
   nickname: RAYDON
-- full_name: Bob Lauria
-  ticket: 30
+  ticket: 29
+- first: Bob
+  last_initial: L
   nickname: ScsuHockey10
-- full_name: Dave Filipek
-  ticket: 31
+  ticket: 30
+- first: Dave
+  last_initial: F
   nickname: Big Guy
-- full_name: Stevan Goldman
-  ticket: 32
+  ticket: 31
+- first: Stevan
+  last_initial: G
   nickname: goldie
-- full_name: Jim Hawkins
-  ticket: 33
+  ticket: 32
+- first: Jim
+  last_initial: H
   nickname: Papa Hawk
-- full_name: Meredith Holtzman
-  ticket: 34
+  ticket: 33
+- first: Meredith
+  last_initial: H
   nickname: Meredith
-- full_name: LeeMarie Ilagan
-  ticket: 35
+  ticket: 34
+- first: LeeMarie
+  last_initial: I
   nickname: Lee
-- full_name: Michael Kouvarakos
-  ticket: 36
+  ticket: 35
+- first: Michael
+  last_initial: K
   nickname: Mike K9
-- full_name: Sal Mazzurco
-  ticket: 37
+  ticket: 36
+- first: Sal
+  last_initial: M
   nickname: Dead Money
-- full_name: Paul McMullin
-  ticket: 38
+  ticket: 37
+- first: Paul
+  last_initial: M
   nickname: prmcm/framistat
-- full_name: Donna Kracinovich
-  ticket: 39
+  ticket: 38
+- first: Donna
+  last_initial: K
   nickname: JerseyGirl
-- full_name: Tom Kracinovich
-  ticket: 40
+  ticket: 39
+- first: Tom
+  last_initial: K
   nickname: TomLikesPoker
-- full_name: Thomas R Hummel
-  ticket: 41
+  ticket: 40
+- first: Thomas
+  last_initial: H
   nickname: Aardvark
-- full_name: Peter Segal
-  ticket: 42
+  ticket: 41
+- first: Peter
+  last_initial: S
   nickname: TrayRacer
-- full_name: Jack Tepper
-  ticket: 43
+  ticket: 42
+- first: Jack
+  last_initial: T
   nickname: plummet
-- full_name: David Watt
-  ticket: 44
+  ticket: 43
+- first: David
+  last_initial: W
   nickname: David
-- full_name: Chuck Weinstock
-  ticket: 45
+  ticket: 44
+- first: Chuck
+  last_initial: W
   nickname: Enabler
-- full_name: Dean White
-  ticket: 46
+  ticket: 45
+- first: Dean
+  last_initial: W
   nickname: DeantheDream
-- full_name: Cynthia Yannette
-  ticket: 47
+  ticket: 46
+- first: Cynthia
+  last_initial: Y
   nickname: Cindy
-- full_name: Steve Eisenstein
-  ticket: 48
+  ticket: 47
+- first: Steve
+  last_initial: E
   nickname: Ice
-- full_name: Richard Vehlow
-  ticket: 49
+  ticket: 48
+- first: Richard
+  last_initial: V
   nickname: Majoracehole
-- full_name: Gregory Zarefes
-  ticket: 50
+  ticket: 49
+- first: Gregory
+  last_initial: Z
   nickname: Miscalculated Mage
-- full_name: Kevin Conlon
-  ticket: 51
+  ticket: 50
+- first: Kevin
+  last_initial: C
   nickname: GolfMan
-- full_name: Patricia Conlon
-  ticket: 52
+  ticket: 51
+- first: Patricia
+  last_initial: C
   nickname: GolfMom
-- full_name: Bruce Kramer
-  ticket: 53
+  ticket: 52
+- first: Bruce
+  last_initial: K
   nickname: ADB Bigboy
-- full_name: Rich Angelo
-  ticket: 54
+  ticket: 53
+- first: Rich
+  last_initial: A
   nickname: RICH
-- full_name: Barry Kornspan
-  ticket: 55
+  ticket: 54
+- first: Barry
+  last_initial: K
   nickname: Mr. Raise
+  ticket: 55
