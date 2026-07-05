@@ -55,6 +55,7 @@ from reportlab.pdfgen import canvas as pdfcanvas
 # scripts/ is on sys.path when running via `uv run scripts/badges.py`.
 from zeffy_poll import (  # noqa: E402
     AuthExpired,
+    dedup_norm,
     fetch_xlsx_bytes,
     format_ticket_type_flags,
     load_session,
@@ -222,14 +223,15 @@ def parse_extended(xlsx_bytes: bytes) -> list[Attendee]:
     # Sort by ticket ascending so the earliest row wins for display fields.
     raw.sort(key=lambda r: (r["ticket"] is None, r["ticket"] or 0))
 
-    # Case-insensitive dedup on (display_name, nickname).  Values kept
-    # verbatim from the earliest row; later rows contribute additional
-    # tickets, a hometown backfill if the earlier row had none, and
-    # union'd ticket-type flags.
-    by_key: dict[tuple[str, str], Attendee] = {}
-    flags_by_key: dict[tuple[str, str], set[str]] = {}
+    # Dedup on the aggressively-normalized badge name only (same rule as
+    # zeffy_poll.py, imported).  Values kept verbatim from the earliest
+    # row; later rows contribute additional tickets, a hometown backfill
+    # if the earlier row had none, and union'd ticket-type flags.  See
+    # zeffy_poll.parse_workbook for the rationale.
+    by_key: dict[str, Attendee] = {}
+    flags_by_key: dict[str, set[str]] = {}
     for r in raw:
-        key = (r["display_name"].casefold(), r["nickname"].casefold())
+        key = dedup_norm(r["display_name"])
         if key not in by_key:
             by_key[key] = Attendee(
                 display_name=r["display_name"],
