@@ -9,6 +9,7 @@ date: 2016-09-01
 cover:
   image: cover.jpg
 aliases:
+ - /2016
  - /schedule-2016
 summary: BARGE was back at Binion's for the tenth year in a row.
 ---
