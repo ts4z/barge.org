@@ -1,4 +1,4 @@
-last_updated: 2026-07-05 12:53 PDT
+last_updated: 2026-07-05 17:34 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -505,3 +505,8 @@ registrations:
   nickname: Taco Tuesday
   ticket: 124
   ticket_type: BARGE
+- first: Kate
+  last_initial: S
+  nickname: Aiglet
+  ticket: 125
+  ticket_type: BARGE & Banquet
