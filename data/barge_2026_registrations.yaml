@@ -1,4 +1,4 @@
-last_updated: 2026-07-06 07:57 PDT
+last_updated: 2026-07-06 17:45 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -515,3 +515,13 @@ registrations:
   nickname: Rick
   ticket: 126
   ticket_type: BARGE & Banquet
+- first: Jessica
+  last_initial: G
+  nickname: Jessica
+  ticket: 127
+  ticket_type: BARGE
+- first: Beverly
+  last_initial: M
+  nickname: Un1corness
+  ticket: 128
+  ticket_type: BARGE
