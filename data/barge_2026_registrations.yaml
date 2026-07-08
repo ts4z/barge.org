@@ -1,4 +1,4 @@
-last_updated: 2026-07-06 17:45 PDT
+last_updated: 2026-07-08 05:24 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -64,7 +64,7 @@ registrations:
   last_initial: ''
   nickname: Dr.Doofenshmirtz
   ticket: 13
-  ticket_type: BARGE
+  ticket_type: BARGE & Banquet
 - first: Deron
   last_initial: B
   nickname: ADB Neon
@@ -525,3 +525,8 @@ registrations:
   nickname: Un1corness
   ticket: 128
   ticket_type: BARGE
+- first: Sean
+  last_initial: M
+  nickname: oscar
+  ticket: 130
+  ticket_type: BARGE & Banquet
