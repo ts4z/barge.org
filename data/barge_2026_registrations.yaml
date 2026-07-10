@@ -1,4 +1,4 @@
-last_updated: 2026-07-09 19:03 PDT
+last_updated: 2026-07-10 02:55 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -540,3 +540,8 @@ registrations:
   nickname: Playing for JD
   ticket: 132
   ticket_type: BARGE & Banquet
+- first: John
+  last_initial: B
+  nickname: Dramaha FTW
+  ticket: 133
+  ticket_type: BARGE
