@@ -1,4 +1,4 @@
-last_updated: 2026-07-10 02:55 PDT
+last_updated: 2026-07-11 16:24 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -544,4 +544,9 @@ registrations:
   last_initial: B
   nickname: Dramaha FTW
   ticket: 133
+  ticket_type: BARGE
+- first: Lori
+  last_initial: M
+  nickname: PokerVixen
+  ticket: 134
   ticket_type: BARGE
