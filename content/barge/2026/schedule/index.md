@@ -29,7 +29,7 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
 | Fri{{< br >}}Jul&nbsp;24 | 10:00am | [TOC-Style](#toc-style)                                                                                          | $160                  |
 |                          | 6:00pm  | Dinner Break                                                                                                     |                       |
 |                          | 6:15pm  | [BARGE Annual Dinner](#barge-annual-dinner) (at [McMullan's Irish Pub](#mcmullans-irish-pub))                    | $35                   |
-|                          | 7:30pm  | Peter Secor memorial (at [McMullan's Irish Pub](#mcmullans-irish-pub))                                           |                       |
+|                          | 7:30pm  | "Peter Secor ADB Memorial" (at [McMullan's Irish Pub](#mcmullans-irish-pub))                                     |                       |
 |                          | 8:30pm  | TOC-Style restart                                                                                                |                       |
 |                          | 9:00pm  | Karaoke (at [McMullan's Irish Pub](#mcmullans-irish-pub))                                                        |                       |
 | Sat{{< br >}}Jul&nbsp;25 | 10:30am | No Limit Hold’em Main Event                                                                                      | $180                  |
@@ -121,9 +121,9 @@ BARGE 2026 will be held at [The Orleans Hotel &amp; Casino](https://orleans.boyd
  - Guest speaker: Matt Savage
  - $35
  - at [McMullan's Irish Pub](#mcmullans-irish-pub)
- - Immediately following the dinner and speaker, a memorial service will be
-   held honoring Peter Secor, a long-time organizer and beloved friend of
-   BARGE.
+ - Immediately following the dinner and speaker, the ADBs have arranged a
+   memorial service honoring Peter Secor, a long-time organizer, ADB, and
+   beloved friend of BARGE.
 
 ### McMullan's Irish Pub
 
