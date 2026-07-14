@@ -54,8 +54,8 @@ params:
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
     - link: https://www.zeffy.com/en-US/ticketing/barge--2026
-      text: "BARGE reg open through Wednesday"
-      until: "2026-07-16"
+      text: "Register for BARGE 2026 now!"
+      until: "2026-07-26"
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
