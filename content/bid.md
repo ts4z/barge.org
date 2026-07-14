@@ -1,6 +1,6 @@
 ---
 title: BARGE Auction
-href: https://www.auctionpro.co/?code=zOyFA
+href: https://www.auctionpro.co/?code=CYKPI
 type: pointer
 draft: false
 aliases:
