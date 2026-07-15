@@ -623,7 +623,7 @@ HONORARY_ATTENDEES = [
     Attendee(display_name="Rodney Chen", last_name="Chen",
              nickname="Rodney", hometown="San Jose, CA"),
     Attendee(display_name="Vernon Donk", last_name="Donk",
-             nickname="Vernon", hometown="Brentwood, CA"),
+             nickname="Vernon", hometown="Valuetown, USA"),
 ]
 
 # Minimum number of empty write-your-own-nickname badges to leave at
