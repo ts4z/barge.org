@@ -157,7 +157,7 @@ FONT_BANQUET = "Helvetica-Bold"
 # Nickname auto-shrink bounds.  Start big for "readable across a poker
 # table" prominence, floor at what a human across the table can still
 # read.  Values in points.
-NICKNAME_MAX_PT = 48
+NICKNAME_MAX_PT = 44
 NICKNAME_MIN_PT = 18
 
 NAME_PT = 13
