@@ -1,4 +1,4 @@
-last_updated: 2026-07-14 21:42 PDT
+last_updated: 2026-07-15 12:46 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -595,3 +595,8 @@ registrations:
   nickname: SIXKILLER
   ticket: 144
   ticket_type: BARGE
+- first: Don
+  last_initial: A
+  nickname: Don
+  ticket: 145
+  ticket_type: BARGE & Banquet
