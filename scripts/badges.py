@@ -103,6 +103,15 @@ COLUMN_GAP = 0.4 * inch              # between the two columns
 # against the 1.125" bottom tear-off.
 ROW_TOP_INCHES = (1.375, 4.375, 7.325)
 
+# Trim this much of the pile background off the top and bottom of every
+# page.  Ink and toner aren't free, and the tear-off strips at the top
+# and bottom of the sheet get thrown away — no point covering them in
+# background art.  The badges themselves are well inside this margin
+# (top row's top edge is 1.375" from the top; bottom row's bottom edge
+# is 1.425" from the bottom), so trimming 0.75" still leaves a
+# comfortable pile border around every cell.
+PILE_TRIM_INCHES = 0.75
+
 SAFE_MARGIN = 0.15 * inch       # interior padding inside each cell (text)
 
 # Artwork layer paths (relative to repo root).  Every badge is rendered
@@ -381,11 +390,13 @@ def pile_tile_bounds(row: int, col: int) -> tuple[float, float, float, float]:
     row1_bottom = row1_top - CELL_H
     row2_top = PAGE_H - ROW_TOP_INCHES[2] * inch
     # Vertical boundaries, bottom-up (ReportLab origin is bottom-left).
+    # Outer bounds trimmed by PILE_TRIM_INCHES so the tear-off strips
+    # print blank (saves ink).
     y_bounds = [
-        0.0,
+        PILE_TRIM_INCHES * inch,
         (row1_bottom + row2_top) / 2,   # midpoint of row 1 ↔ row 2 gap
         (row0_bottom + row1_top) / 2,   # midpoint of row 0 ↔ row 1 gap
-        PAGE_H,
+        PAGE_H - PILE_TRIM_INCHES * inch,
     ]
     # Horizontal boundaries: left edge, page centre, right edge.
     x_bounds = [0.0, PAGE_W / 2, PAGE_W]
@@ -582,6 +593,36 @@ def render_calibration_pdf(out_path: Path,
     c.save()
 
 
+# Two honorary badges we always print in addition to the registrant
+# list: the group photographer (occasional player) and the organizers'
+# totem.  Their badges look identical to a regular attendee's but
+# they've never been in Zeffy — we just append them to the run.
+HONORARY_ATTENDEES = [
+    Attendee(display_name="Rodney Chen", last_name="Chen",
+             nickname="Rodney", hometown="San Jose, CA"),
+    Attendee(display_name="Vernon Donk", last_name="Donk",
+             nickname="Vernon", hometown="Brentwood, CA"),
+]
+
+# Minimum number of empty write-your-own-nickname badges to leave at
+# the end of the run.  The run is padded with blank Attendees until
+# there are at least this many, AND the total ends on a full page.
+BLANK_BADGES_MIN = 10
+
+
+def with_honorary_and_blanks(attendees: list[Attendee]) -> list[Attendee]:
+    """Append the two honorary badges, then pad with blank Attendees
+    until we have at least BLANK_BADGES_MIN blanks and end on a full
+    (6-badge) page — no partial pages at the end of the print.
+    """
+    with_honorary = list(attendees) + HONORARY_ATTENDEES
+    n_real = len(with_honorary)
+    target = n_real + BLANK_BADGES_MIN
+    total = ((target + 5) // 6) * 6
+    blank = Attendee(display_name="", last_name="", nickname="", hometown="")
+    return with_honorary + [blank] * (total - n_real)
+
+
 def filter_attendees(attendees: list[Attendee], only: str) -> list[Attendee]:
     """Match on display_name, nickname, or last_name (case-insensitive substring)."""
     needle = only.casefold()
@@ -698,12 +739,20 @@ def main() -> int:
     print(f"Wrote {args.output}.")
 
     if args.pdf:
-        to_render = attendees
         if args.only:
-            to_render = filter_attendees(attendees, args.only)
+            # Reprint mode: search both real attendees and honorary
+            # badges (in case we need to reprint Rodney or Vernon).
+            to_render = (filter_attendees(attendees, args.only)
+                         + filter_attendees(HONORARY_ATTENDEES, args.only))
             if not to_render:
                 sys.exit(f"--only {args.only!r} matched no attendees.")
             print(f"--only {args.only!r} matched {len(to_render)} attendee(s).")
+        else:
+            # Full run: append honorary badges, then pad with blanks.
+            to_render = with_honorary_and_blanks(attendees)
+            n_blanks = sum(1 for a in to_render if not a.display_name)
+            print(f"Appended {len(HONORARY_ATTENDEES)} honorary badge(s) "
+                  f"and {n_blanks} blank badge(s).")
         pages = render_badges_pdf(to_render, args.pdf,
                                   args.offset_x, args.offset_y)
         print(f"Wrote {args.pdf} ({pages} page(s), {len(to_render)} badges).")
