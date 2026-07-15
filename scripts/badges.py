@@ -434,6 +434,26 @@ def cell_origin(row: int, col: int,
     return x, y
 
 
+def is_shouty(text: str) -> bool:
+    """True if the majority of the text's letters+digits are uppercase or
+    numeric — i.e., the nickname reads as ALL-CAPS style even if it has
+    a scattering of lowercase letters mixed in.  Whitespace and
+    punctuation don't count.  Used to knock these nicknames down a size
+    because uppercase glyphs are wider and heavier and otherwise
+    dominate the badge more than mixed-case ones at the same point
+    size.
+    """
+    alnum = [c for c in text if c.isalnum()]
+    if not alnum:
+        return False
+    non_lower = sum(1 for c in alnum if not c.islower())
+    return non_lower > len(alnum) / 2
+
+
+# Fraction to shrink the nickname font by when is_shouty() fires.
+SHOUTY_SHRINK = 0.90
+
+
 def fit_font_size(text: str, max_width: float, font: str,
                   max_pt: int, min_pt: int) -> int:
     """Largest integer point size at which text fits into max_width.
@@ -510,6 +530,8 @@ def draw_badge(c: pdfcanvas.Canvas, x0: float, y0: float,
     if nickname:
         pt = fit_font_size(nickname, sw, FONT_NICKNAME,
                            NICKNAME_MAX_PT, NICKNAME_MIN_PT)
+        if is_shouty(nickname):
+            pt = int(round(pt * SHOUTY_SHRINK))
         c.setFont(FONT_NICKNAME, pt)
         # Vertically center in the band.  Rough glyph geometry: baseline
         # sits ~0.28 × pt below the visual center of the glyph.
