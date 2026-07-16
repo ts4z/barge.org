@@ -1,4 +1,4 @@
-last_updated: 2026-07-15 14:11 PDT
+last_updated: 2026-07-15 18:03 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -605,3 +605,8 @@ registrations:
   nickname: Nolan
   ticket: 146
   ticket_type: BARGE & Banquet
+- first: Jesse
+  last_initial: C
+  nickname: Duck Guy
+  ticket: 147
+  ticket_type: BARGE
