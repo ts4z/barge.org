@@ -1,4 +1,4 @@
-last_updated: 2026-07-15 18:03 PDT
+last_updated: 2026-07-16 07:44 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -609,4 +609,9 @@ registrations:
   last_initial: C
   nickname: Duck Guy
   ticket: 147
+  ticket_type: BARGE
+- first: Doug
+  last_initial: G
+  nickname: Snoop
+  ticket: 148
   ticket_type: BARGE
