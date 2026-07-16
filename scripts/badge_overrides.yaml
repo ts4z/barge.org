@@ -17,3 +17,8 @@ overrides:
   # program, not the badge.
   - ticket: 97
     nickname: "(f*ck c*nc*r)"
+
+  # Zeffy has "Los Angele/ California" — the hometown cleaner fixes the
+  # separator but can't know the city is a typo for Los Angeles.
+  - ticket: 92
+    hometown: "Los Angeles, CA"

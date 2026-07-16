@@ -40,6 +40,7 @@ Usage:
 import argparse
 import csv
 import io
+import re
 import sys
 from collections import defaultdict
 from dataclasses import dataclass, field
@@ -271,6 +272,127 @@ def parse_extended(xlsx_bytes: bytes) -> list[Attendee]:
     # Present sorted by earliest ticket for downstream ergonomics.
     out.sort(key=lambda a: min(a.tickets) if a.tickets else 9999)
     return out
+
+
+US_STATES = {
+    "alabama": "AL", "alaska": "AK", "arizona": "AZ", "arkansas": "AR",
+    "california": "CA", "colorado": "CO", "connecticut": "CT",
+    "delaware": "DE", "florida": "FL", "georgia": "GA", "hawaii": "HI",
+    "idaho": "ID", "illinois": "IL", "indiana": "IN", "iowa": "IA",
+    "kansas": "KS", "kentucky": "KY", "louisiana": "LA", "maine": "ME",
+    "maryland": "MD", "massachusetts": "MA", "michigan": "MI",
+    "minnesota": "MN", "mississippi": "MS", "missouri": "MO",
+    "montana": "MT", "nebraska": "NE", "nevada": "NV",
+    "new hampshire": "NH", "new jersey": "NJ", "new mexico": "NM",
+    "new york": "NY", "north carolina": "NC", "north dakota": "ND",
+    "ohio": "OH", "oklahoma": "OK", "oregon": "OR", "pennsylvania": "PA",
+    "rhode island": "RI", "south carolina": "SC", "south dakota": "SD",
+    "tennessee": "TN", "texas": "TX", "utah": "UT", "vermont": "VT",
+    "virginia": "VA", "washington": "WA", "west virginia": "WV",
+    "wisconsin": "WI", "wyoming": "WY", "district of columbia": "DC",
+}
+STATE_ABBREVS = set(US_STATES.values())
+
+# If one of these immediately precedes a spelled-out state name, the
+# state is part of a phrase rather than a location suffix.  Without this
+# guard, "People's Republic of Texas" normalizes to the nonsense
+# "People's Republic of, TX".
+_PHRASE_WORDS = {"of", "the", "in", "over", "to", "from", "at", "on"}
+
+# Whole-string aliases, matched case-insensitively once whitespace is
+# collapsed.  BARGE is a Las Vegas event, so plenty of locals type just
+# the city, or fat-finger the state; "Las Vegas" standing alone is
+# unambiguous here in a way a bare "Seattle" or "Downers Grove" is not.
+#
+# Matching the WHOLE string is the point.  "Chicago/Las Vegas" is
+# someone who splits their time, and "Chi/Vegas" and "Vegas Baby!!!"
+# are jokes — none of them should collapse to "Las Vegas, NV".  Only
+# add entries whose intent is unmistakable.
+HOMETOWN_ALIASES = {
+    "las vegas": "Las Vegas, NV",
+    "las vegas nevadas": "Las Vegas, NV",
+}
+
+
+def smart_title(text: str) -> str:
+    """Title-case only the words that are entirely upper- or lower-case.
+
+    Words with interior capitals are left alone, so "McLean" and
+    "DeKalb" survive a pass that still fixes "LAS VEGAS" and "las vegas".
+    """
+    out = []
+    for word in text.split():
+        out.append(word.capitalize() if word.isupper() or word.islower()
+                   else word)
+    return " ".join(out)
+
+
+def normalize_hometown(raw: str) -> str | None:
+    """Return a canonical "City, ST" form of *raw*, or None to leave it.
+
+    Attendees type this field freehand into Zeffy, so it arrives as
+    everything from "Las Vegas NV" to "Vegas Baby!!!".  We only rewrite
+    entries we can parse with confidence — a city part followed by a
+    recognizable state, either two-letter or spelled out.  Anything else
+    is returned as None and printed verbatim: a hometown we can't parse
+    is far more likely to be a joke someone chose on purpose ("People's
+    Republic of Texas", "Somewhere, Over the Rainbow") than a mistake,
+    and mangling those is worse than leaving sloppy capitalization.
+
+    Deliberately NOT handled:
+      * bare cities ("Seattle", "Downers Grove") — we won't guess a
+        state, except for the HOMETOWN_ALIASES whole-string special cases
+      * bare states ("Nevada", "NJ") — nothing to pair them with
+      * anything containing () or ! — reads as an aside or a joke
+    """
+    s = " ".join(raw.split())
+    if not s:
+        return None
+
+    alias = HOMETOWN_ALIASES.get(s.lower())
+    if alias:
+        return alias
+
+    if any(ch in s for ch in "()!"):
+        return None
+
+    # "Las Vegas NV" / "Las Vegas/NV" / "Torrance, Ca." — a two-letter
+    # state at the end, however the attendee separated it.
+    m = re.match(r"^(.*?)[\s,/]+([A-Za-z]{2})\.?$", s)
+    if m and m.group(2).upper() in STATE_ABBREVS:
+        city = m.group(1).strip(" ,/")
+        if city:
+            return f"{smart_title(city)}, {m.group(2).upper()}"
+
+    # "Henderson, Nevada" / "Argyle Wisconsin" / "Denver/Colorado".
+    lowered = s.lower()
+    for name, abbrev in US_STATES.items():
+        m = re.match(rf"^(.*?)[\s,/]+{re.escape(name)}\.?$", lowered)
+        if not m:
+            continue
+        city = s[:m.end(1)].strip(" ,/")
+        if not city or city.split()[-1].lower().strip(".,") in _PHRASE_WORDS:
+            return None
+        return f"{smart_title(city)}, {abbrev}"
+
+    return None
+
+
+def clean_hometowns(attendees: list[Attendee]) -> list[tuple[str, str]]:
+    """Normalize hometowns in place; return the (before, after) pairs.
+
+    Runs before apply_overrides so that a hand-written override always
+    wins and is printed exactly as typed.
+    """
+    changes: list[tuple[str, str]] = []
+    for a in attendees:
+        if not a.hometown:
+            continue
+        cleaned = normalize_hometown(a.hometown)
+        if cleaned and cleaned != a.hometown:
+            changes.append((a.hometown, cleaned))
+            a.hometown = cleaned
+    return changes
 
 
 def apply_overrides(attendees: list[Attendee], overrides_path: Path) -> int:
@@ -749,6 +871,12 @@ def main() -> int:
 
     attendees = parse_extended(xlsx_bytes)
     print(f"Parsed {len(attendees)} canonical attendee(s).")
+
+    hometown_changes = clean_hometowns(attendees)
+    if hometown_changes:
+        print(f"Normalized {len(hometown_changes)} hometown(s):")
+        for before, after in sorted(set(hometown_changes)):
+            print(f"  {before!r} -> {after!r}")
 
     n_overridden = apply_overrides(attendees, args.overrides)
     if n_overridden:
