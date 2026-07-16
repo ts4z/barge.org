@@ -1,4 +1,4 @@
-last_updated: 2026-07-16 07:44 PDT
+last_updated: 2026-07-16 10:38 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -614,4 +614,9 @@ registrations:
   last_initial: G
   nickname: Snoop
   ticket: 148
+  ticket_type: BARGE
+- first: Louise
+  last_initial: F
+  nickname: Lou
+  ticket: 149
   ticket_type: BARGE
