@@ -1,4 +1,4 @@
-last_updated: 2026-07-16 10:38 PDT
+last_updated: 2026-07-16 20:00 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -619,4 +619,9 @@ registrations:
   last_initial: F
   nickname: Lou
   ticket: 149
+  ticket_type: BARGE
+- first: Robb
+  last_initial: M
+  nickname: Robb
+  ticket: 150
   ticket_type: BARGE
