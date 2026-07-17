@@ -1,4 +1,4 @@
-last_updated: 2026-07-16 20:00 PDT
+last_updated: 2026-07-17 05:47 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -624,4 +624,9 @@ registrations:
   last_initial: M
   nickname: Robb
   ticket: 150
+  ticket_type: BARGE
+- first: Larry
+  last_initial: ''
+  nickname: AZAlphaPoker
+  ticket: 151
   ticket_type: BARGE
