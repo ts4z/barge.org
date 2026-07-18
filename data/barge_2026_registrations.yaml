@@ -1,4 +1,4 @@
-last_updated: 2026-07-17 05:47 PDT
+last_updated: 2026-07-17 18:41 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -629,4 +629,9 @@ registrations:
   last_initial: ''
   nickname: AZAlphaPoker
   ticket: 151
+  ticket_type: BARGE
+- first: David
+  last_initial: J
+  nickname: YurUnkleDave
+  ticket: 152
   ticket_type: BARGE
