@@ -767,6 +767,21 @@ def with_honorary_and_blanks(attendees: list[Attendee]) -> list[Attendee]:
     return with_honorary + [blank] * (total - n_real)
 
 
+def pad_to_full_page(attendees: list[Attendee]) -> list[Attendee]:
+    """Append blank badges so the run ends on a full 6-up page.
+
+    Without this, a partial last page leaves its leftover cells as bare
+    background pile.  Padding turns them into write-your-own blanks,
+    which is what we want for a reprint sheet too — a two-badge --only
+    run comes out as those two plus four blanks, not two badges floating
+    on a mostly-empty page.
+    """
+    n = len(attendees)
+    total = ((n + 5) // 6) * 6
+    blank = Attendee(display_name="", last_name="", nickname="", hometown="")
+    return list(attendees) + [blank] * (total - n)
+
+
 def filter_attendees(attendees: list[Attendee], only: str) -> list[Attendee]:
     """Match on display_name, nickname, or last_name (case-insensitive substring)."""
     needle = only.casefold()
@@ -892,11 +907,16 @@ def main() -> int:
         if args.only:
             # Reprint mode: search both real attendees and honorary
             # badges (in case we need to reprint Rodney or Vernon).
-            to_render = (filter_attendees(attendees, args.only)
-                         + filter_attendees(HONORARY_ATTENDEES, args.only))
-            if not to_render:
+            matched = (filter_attendees(attendees, args.only)
+                       + filter_attendees(HONORARY_ATTENDEES, args.only))
+            if not matched:
                 sys.exit(f"--only {args.only!r} matched no attendees.")
-            print(f"--only {args.only!r} matched {len(to_render)} attendee(s).")
+            # Fill out the rest of the sheet with blank badges so the
+            # leftover cells are write-your-own, not bare background.
+            to_render = pad_to_full_page(matched)
+            n_blanks = len(to_render) - len(matched)
+            print(f"--only {args.only!r} matched {len(matched)} attendee(s); "
+                  f"padded with {n_blanks} blank badge(s).")
         else:
             # Full run: append honorary badges, then pad with blanks.
             to_render = with_honorary_and_blanks(attendees)
