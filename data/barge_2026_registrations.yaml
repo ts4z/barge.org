@@ -1,4 +1,4 @@
-last_updated: 2026-07-18 21:07 PDT
+last_updated: 2026-07-20 10:47 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -644,4 +644,9 @@ registrations:
   last_initial: B
   nickname: Sweet Lew
   ticket: 153
+  ticket_type: BARGE
+- first: Warren
+  last_initial: W
+  nickname: Warren
+  ticket: 154
   ticket_type: BARGE
