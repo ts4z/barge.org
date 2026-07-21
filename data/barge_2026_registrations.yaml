@@ -1,4 +1,4 @@
-last_updated: 2026-07-20 10:47 PDT
+last_updated: 2026-07-20 17:18 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -649,4 +649,9 @@ registrations:
   last_initial: W
   nickname: Warren
   ticket: 154
+  ticket_type: BARGE
+- first: Erik
+  last_initial: W
+  nickname: ''
+  ticket: 155
   ticket_type: BARGE
