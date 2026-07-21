@@ -1,4 +1,4 @@
-last_updated: 2026-07-21 11:53 PDT
+last_updated: 2026-07-21 12:48 PDT
 registrations:
 - first: Rich
   last_initial: B
@@ -659,4 +659,9 @@ registrations:
   last_initial: T
   nickname: PearlJammer
   ticket: 156
+  ticket_type: BARGE
+- first: Leyla
+  last_initial: R
+  nickname: Leyla
+  ticket: 157
   ticket_type: BARGE
