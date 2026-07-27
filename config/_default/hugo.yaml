@@ -45,7 +45,6 @@ params:
       until: "2026-07-26"
     - link: "http://fargopoker.org/"
       text: "FARGO 2026 — October 16-18"
-      after: "2026-08-01"
       until: "2026-10-19"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
