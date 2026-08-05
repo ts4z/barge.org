@@ -1,6 +1,5 @@
 ---
 draft: false
-weight: 20
 title: BARGE 2026 Hotel Information
 summary: BARGE rate at the Orleans has expired, but other offers are available.
 cover:
