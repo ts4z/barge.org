@@ -2740,17 +2740,12 @@ Side bets, potting, kitties, pushing bets, saving, potting out, horsing, and
 other such arrangements are a violation of table stakes rules and are expressly
 prohibited. Pushing an ante is only allowed in time collection games.
 
-## 9.13. PLAYING CASH
+## 9.13. CASH DOES NOT PLAY
 
-Cash does not play and is not permitted on the table in games smaller than
-\$10-\$20. In games \$10-\$20 and higher, hundred dollar bills play and may be
-kept on the table. (ALTERNATE RULE: Hundred dollar bills play in all games.
-SECOND ALTERNATE RULE: In games smaller than \$10-\$20, all cash plays.) No
-other cash may be kept on the table except for the purchase of chips from a
-chip-runner, and only then when announced by the dealer. If players were
-allowed to keep bills of different denominations on the table, then opposing
-players would have no idea how much money a player has in play, as a hundred
-dollar bill, for example, could be wrapped around a wad of ones.
+Cash on the table does not play, except for playing behind.[^bills]
+
+[^bills]: Until 200X, most Vegas rooms allowed that $100 bills played just as
+    chips.  This makes it difficult to judge how much a player has in play.
 
 ## 9.14. WRONG AMOUNT IN POT
 

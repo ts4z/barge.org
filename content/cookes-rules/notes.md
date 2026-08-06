@@ -13,7 +13,6 @@ We have a growing list of some things that should be updated:
 1. The right to see all called hands is more or less gone.  You have to call
    down in order to see the hand, not just be dealt in.  (See the
    [Afterword]({{< relref cookes-rules >}}#afterword).)
-2. Cash almost never plays, not even $100s, not even at the Orleans.
 3. The suggestion of a betting line has been tried.  At Bay 101, they put the
    line in and had a big campaign that "The Line Is The Line" and enforced it
    as suggested here.  After a few months, the rule was gone.  The line remains
