@@ -2798,7 +2798,7 @@ forced bring-in bet unless it is verbally declared to do so.
 
 ## 9.18 ODD CHIP
 
-In all games where dividing the pot results in an oddchip when the pot is
+In all games where dividing the pot results in an odd chip when the pot is
 split, the odd chip—in increments of the minimum betting unit—will go to the
 player with the least advantageous position in button games for high (the
 player closest to the left of the dealer button) to the high card by suit in
