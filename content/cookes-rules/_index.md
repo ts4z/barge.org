@@ -3220,7 +3220,6 @@ all situations (including those of partially exposed hands at showdown) where a
 player asks to see another player's hand, the dealer shall kill the hand first
 by turning it face down and touching it to the muck. Hands shall never be
 placed on top
-
 of the muck. A hand that has been killed and then exposed is not eligible to
 win the pot, except and unless the winner of the pot has asked to see it, in
 which case it does remain eligible to win the pot.
