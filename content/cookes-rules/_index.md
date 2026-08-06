@@ -1304,18 +1304,11 @@ bring-in does not constitute a raise, and four raises remain open.
 
 ## 5.08. SEVEN-CARD STUD: FOURTH STREET
 
-Players receive a fourth card up, followed by a betting round. On this betting
-round, if any player's two upcards are of the same rank (a pair) then the size
-of the bet can be doubled. The doubling of the bet is optional, not mandatory,
-and any active player may exercise this option. If a player pairs his door card
-on fourth street, he then has the option of checking, betting the small fixed
-limit amount or betting the large fixed limit amount. If the player bets the
-small limit amount, the player(s) after him have the option of calling the
-small amount, raising the bet the amount of the small amount or raising the bet
-the amount of the large limit. (For example, in a \$10-\$20 game, where the
-initial betting rounds are \$10, if a player's board pairs on fourth street,
-then any player in action may bet or raise \$20 or \$10, whichever he prefers.)
-Once the stakes are raised to the large bet amount they cannot go back down.
+Players receive a fourth card up, followed by a betting round.[^obs2x]
+
+[^obs2x]: Older practice allowed players to optionally play for a double-bet 
+    if any player had a paired door card.  By 2026, this rule was mostly
+    extinct, and forbidden by TDA rules (2024, RP-10, bullet F).
 
 ## 5.09. SEVEN-CARD STUD: FIFTH AND SIXTH STREET
 
