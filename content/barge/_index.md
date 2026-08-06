@@ -32,16 +32,15 @@ In order to participate in BARGE: you must register via the Internet.
 
 ### Location
 
-[BARGE 2026]({{< relref "2026/" >}}) will be at 
+BARGE is held in/around Las Vegas.
+
+[BARGE 2026]({{< relref "2026/" >}}) was at 
 [the Orleans Hotel &amp; Casino](https://orleans.boydgaming.com/)
 on July 20-25, 2026.
 
-[BARGE 2025]({{< relref "2025/" >}}) was also at 
-[the Orleans Hotel &amp; Casino](https://orleans.boydgaming.com/).
-
 ### Registration
 
-[Register now for BARGE 2026]({{< relref "/barge/2026/register" >}})
+Registration is closed.
         
 ### Who is Eligible to Register for BARGE?
               
@@ -117,5 +116,5 @@ Cover image: TOC in progress at BARGE 2024.
 
 We have a little bit of history split up by year.  (If you have any memories to
 share, please contact us!  Some years are quite light on detail.)  Start from
-the most recent, [2025]({{< relref "/barge/2025" >}}), or the beginning, [1991]({{< relref "/barge/1991" >}}).
+the most recent, [2026]({{< relref "/barge/2026" >}}), or the beginning, [1991]({{< relref "/barge/1991" >}}).
 
