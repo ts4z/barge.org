@@ -4,14 +4,11 @@ params:
   notInMainMenu: true
 ---
 
-By special arrangement with the folks at [ConJelCo](https://conjelco.com/) we
-are permitted to share [Cooke's Rules of Real
-Poker](https://www.amazon.com/Cookes-Rules-Real-Poker-Cooke/dp/1886070229/) by
-Roy Cooke and John Bond here on barge.org.
-
-We are also working on reformatting this to look more at home on barge.org, and
-you can see that version below.  (We're working on removing stray page numbers
-and formatting to improve formatting on phones, etc.)
+This rule book is based on [Cooke's Rules of Real
+Poker](https://www.amazon.com/Cookes-Rules-Real-Poker-Cooke/dp/1886070229/)
+published by [ConJelCo](https://conjelco.com/) and used with permission.
+However, it has been heavily modified to bring it up to current times with new
+rules and games that have evolved since it was originally published.
 
 Please note that the transition into Markdown introduced many errors.  We have
 fixed the ones we found.  Also, Due to the technical limitations of changing
@@ -64,7 +61,7 @@ available.]({{< relref "cookes-rules/notes/" >}})
   - [3.12. Suspension of Rules](#312-suspension-of-rules)
   - [3.13. House Employees](#313-house-employees)
   - [3.14. No Transfer of Liability](#314-no-transfer-of-liability)
-- [4. The Game of Poker](#the-game-of-poker)
+- [4. The Game of Poker](#article-4-the-game-of-poker)
   - [4.01. The Deck and Cards](#401-the-deck-and-cards)
   - [4.02. Suits](#402-suits)
   - [4.03. The Pot](#403-the-pot)
@@ -316,7 +313,7 @@ available.]({{< relref "cookes-rules/notes/" >}})
   - [15.03. Time Pots](#1503-time-pots)
   - [15.04. Taking Rake](#1504-taking-rake)
   - [15.05. Button Collection](#1505-button-collection)
-- [16. Miscellaneous Rules](#miscellaneous-rules)
+- [16. Miscellaneous Rules](#article-16-miscellaneous-rules)
   - [16.01. House Buttons](#1601-house-buttons)
   - [16.02. Table Signs](#1602-table-signs)
   - [16.03. Overs](#1603-overs)
@@ -334,7 +331,7 @@ available.]({{< relref "cookes-rules/notes/" >}})
   - [16.15. Telephones at Table](#1615-telephones-at-table)
   - [16.16. Profanity, Verbal Abuse](#1616-profanity-verbal-abuse)
   - [16.17. Announcing Irregularities](#1617-announcing-irregularities)
-- [17. Poker Etiquette](#poker-etiquette)
+- [17. Poker Etiquette](#article-17-poker-etiquette)
   - [17.01. Principles of Poker Etiquette](#1701-principles-of-poker-etiquette)
   - [17.02. Talking, Critiquing, Etc](#1702-talking-critiquing-etc)
   - [17.03. Treat Dealers Courteously](#1703-treat-dealers-courteously)
@@ -542,7 +539,7 @@ have an important place in the development of the history and rules of modern
 poker. Also, Draw is a variation of the game most Americans are quite familiar
 with, and it can be useful as a reference point in understanding the rules of
 the other games. This Rulebook considers fixed limit, spread limit, pot-limit
-and no-limit games. Sample and Jackpot Rules are set forth in the appendices.
+and no-limit games.  Jackpot Rules are set forth in the appendices.
 
 Also, although people often play the game for stakes other than money, since
 this book is principally about public cardrooms, the presumption here is that
@@ -836,7 +833,7 @@ employees of the house acting in the performance of their duties.
 In case of theft, natural disaster or other similar circumstance, management
 shall not be responsible for chips or money left on the table.
 
-# THE GAME OF POKER
+# Article 4: THE GAME OF POKER
 
 ## 4.01. THE DECK AND CARDS
 
@@ -2537,7 +2534,7 @@ every half hour.) A table sign shall indicate which game is in progress. The
 stakes shall be the same for all games played. Players may not share a seat in
 games of rounds.
 
-# Article 9 RULES RELATING TO MONEY, STAKES, BUY-INS, ETC.
+# Article 9: RULES RELATING TO MONEY, STAKES, BUY-INS, ETC.
 
 ## 9.01. PLAYER'S MONEY
 
@@ -4675,7 +4672,7 @@ seat when it is his turn to post collection on the button, the dealer shall
 take the amount of the collection from the player's stack and place it in the
 pot, where it shall be deemed dead money.
 
-# MISCELLANEOUS RULES
+# Article 16: MISCELLANEOUS RULES
 
 ## 16.01. HOUSE BUTTONS
 
@@ -4791,7 +4788,7 @@ enable players to play for different stakes that are not available in the
 cardroom. Where a variety of games at different stakes are offered, there is no
 reason for overs and they should not be permitted.
 
-#### 16.04. **SHILLS AND PROP PLAYERS**
+## 16.04. SHILLS AND PROP PLAYERS
 
 Any player put in action by the house in any manner shall be identified by the
 dealer when the player enters the game. (ALTER-NATE RULE: The house shall post
@@ -4924,7 +4921,7 @@ person; a card going to the wrong person; or a flashed or marred card. A player
 who knowingly takes advantage of an irregularity to gain an unfair advantage
 should be disciplined, and shall forfeit any interest in the pot in question.
 
-# POKER ETIQUETTE
+# Article 17: POKER ETIQUETTE
 
 ## 17.01. PRINCIPLES OF POKER ETIQUETTE
 
