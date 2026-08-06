@@ -31,6 +31,7 @@ We have a growing list of some things that should be updated:
    time to spot the mark.  But for so many players it is ceremony.
 8. In seven-card stud, the double bet on fourth street for a paired door card
    has gone from a universal rule to almost unheard of.  (Much like stud.)
+9. The telephone rules feel obsolete.
 
 We fixed a couple things in the text anyway, like the URL for the TDA rules,
 but have refrained from more editorial changes.
