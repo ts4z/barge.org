@@ -985,6 +985,6 @@ P.S.  Sorry this took me over a month to finish.  A lot going on this year.
 
 ---
 
-Can I sign up for [BARGE 2026]({{< relref "barge/" >}}) now?
+Can I sign up for [BARGE 2026]({{< relref "/blog/trip-reports/qb/2025-barge" >}}) now?
 
 ---
