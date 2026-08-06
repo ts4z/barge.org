@@ -14,10 +14,19 @@ summary: >-
 date: 2026-06-01
 ---
 
-BARGE 2026 will be held at [The Orleans Hotel &
-Casino](https://orleans.boydgaming.com/) from July 20 through July 25.
+BARGE 2026 was held at [The Orleans Hotel &
+Casino](https://orleans.boydgaming.com/) from July 20 through July 25 for our
+third BARGE there.
+
+Matt Savage was our banquet speaker.  Our Wednesday tournament used his "Savage
+Average" tournament format.
+
+Tournaments included the No Kings Charity Tournament, Funbook PLO, and Atomic
+Pineapple Crayfish.
+
+The main event was won by David Heller.
 
 * [Results]({{< relref "/barge/2026/results" >}})
-* [See who has registered for BARGE]({{< relref "registrations/" >}})
+* [See who registered for BARGE]({{< relref "registrations/" >}})
 * [Event schedule]({{< relref "schedule/" >}})
 * [Tournament structures](2026_BARGE_Structures.pdf)
