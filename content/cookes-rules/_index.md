@@ -506,9 +506,7 @@ The game of poker is conducted with a fifty-two card deck consisting of four sui
 
 ## 4.02. SUITS
 
-Unlike other card games such as bridge, in poker, one suit does not have superiority over another suit except in a few situations, which will be discussed subsequently. Suits do not count in the ranking of hands. Thus, a flush of one suit does not take priority over a flush of another suit by virtue of suit. Suits can be used in determining the lowest or highest card for a forced bet, assigning seats, resolving disputes, etc., as more fully set forth elsewhere in Cooke's Rules. For these purposes only, suits are ranked alphabetically, from lowest to highest (Clubs, Diamonds, Hearts,
-
-#### Spades, with Spades being the highest.)
+Unlike other card games such as bridge, in poker, one suit does not have superiority over another suit except in a few situations, which will be discussed subsequently. Suits do not count in the ranking of hands. Thus, a flush of one suit does not take priority over a flush of another suit by virtue of suit. Suits can be used in determining the lowest or highest card for a forced bet, assigning seats, resolving disputes, etc., as more fully set forth elsewhere in Cooke's Rules. For these purposes only, suits are ranked alphabetically, from lowest to highest (Clubs, Diamonds, Hearts, Spades, with Spades being the highest.)
 
 ## 4.03. THE POT
 
@@ -528,9 +526,7 @@ The play of a hand always proceeds clockwise, beginning with the player in first
 
 ## 4.07. FIRST TO ACT
 
-Who is to act first varies with the Rules of the particular poker game. In Stud games the lowest upcard (highest upcard in Eightor-better or Razz) is required to commence the betting with a forced bet, known as the bring-in, which is usually (although not always) equivalent to one-third or one-half a small bet in fixedlimit games. Sometimes in seven-card-stud, though rarely, house Rules require the high card to bring it in. In Hold'em games the first two players after the dealer button are usually required to enter the pot blind, the first player for a portion of a small bet generally between one-third and two-thirds of the small bet—the second player for a full small bet. (*See Cooke's Rules Article 8 "Other Betting Rules & Structures" on page 46 for bring-in and blind requirements Pot-Limit and No-Limit games.*) House Rules may instead require one or three blind bets. There are many variations of blind Rules, and they are handled differ-
-
-ently at different establishments. (*See Cooke's Rules Article 12 "Blinds and the Dealer Button" on page 76 for more details.*) Draw games are usually played with blinds, like community card games, although they often require antes as well, and who makes the first action is complicated by kill pot Rules and Rules relative to required openers. (*See Cooke's Rules Article 7 "Closed Card (Draw Style) Games" on page 36 and and Article 8 "Other Betting Rules & Structures" on page 46 for more details on kill pots.*) Subsequent players acting in their turn must respond to these initial forced betting actions by folding, calling or raising. Action proceeds clockwise from the player who is required to act first. Once play is initiated, the hand progresses until the pot is awarded.
+Who is to act first varies with the Rules of the particular poker game. In Stud games the lowest upcard (highest upcard in Eight-or-better or Razz) is required to commence the betting with a forced bet, known as the bring-in, which is usually (although not always) equivalent to one-third or one-half a small bet in fixedlimit games. Sometimes in seven-card-stud, though rarely, house Rules require the high card to bring it in. In Hold'em games the first two players after the dealer button are usually required to enter the pot blind, the first player for a portion of a small bet generally between one-third and two-thirds of the small bet—the second player for a full small bet. (*See Cooke's Rules Article 8 "Other Betting Rules & Structures" on page 46 for bring-in and blind requirements Pot-Limit and No-Limit games.*) House Rules may instead require one or three blind bets. There are many variations of blind Rules, and they are handled differently at different establishments. (*See Cooke's Rules Article 12 "Blinds and the Dealer Button" on page 76 for more details.*) Draw games are usually played with blinds, like community card games, although they often require antes as well, and who makes the first action is complicated by kill pot Rules and Rules relative to required openers. (*See Cooke's Rules Article 7 "Closed Card (Draw Style) Games" on page 36 and and Article 8 "Other Betting Rules & Structures" on page 46 for more details on kill pots.*) Subsequent players acting in their turn must respond to these initial forced betting actions by folding, calling or raising. Action proceeds clockwise from the player who is required to act first. Once play is initiated, the hand progresses until the pot is awarded.
 
 ## 4.08. BETTING ROUNDS
 
@@ -546,7 +542,7 @@ Anywhere from two to thirteen players seek to make the highest possible five-car
 
 #### 4.11. NUMBER OF CARDS
 
-In Five-Card Stud, players are dealt five cards, and must make their best hand from those alone. In Draw and Lowball, players have five cards, with an opportunity to replace them. In the most popular games—Texas Hold'em and Seven-Card Stud— players have seven cards from which to make their best poker hand. In variations of Omaha, players have nine cards from which to make their five card hands. There are forms of poker that use both fewer and more cards, but they are seldom played in public cardrooms, and are not within the purview of this book.
+In Five-Card Stud, players are dealt five cards, and must make their best hand from those alone. In Draw and Lowball, players have five cards, with an opportunity to replace them. In the most popular games—Texas Hold'em and Seven-Card Stud—players have seven cards from which to make their best poker hand. In variations of Omaha, players have nine cards from which to make their five card hands. There are forms of poker that use both fewer and more cards, but they are seldom played in public cardrooms, and are not within the purview of this book.
 
 ## 4.12. WINNING THE POT
 
@@ -564,10 +560,7 @@ The highest possible hand is determined by the relative statistical frequency of
 - F. Flush: Five cards of the same suit that are not in sequence The highest ranked card of the flush is used to determine the rank of the flush; in case of a tie for the highest card, ranking is based on the second highest card in the hand, and so on. Example: Q, 9, 8, 6, 3 all of one suit. This hand would beat the J, 10, 8, 6, 3 all of one suit.
 - G. Straight: Five cards in sequence, not all of the same suit. The highest card within the straight determines the rank of the straight. A 9-high straight would beat an 8-high straight. Example: J, 10, 9, 8, 7.
 - H. Three of a Kind (a.k.a. Trips): Three cards of the same rank and two non-matching cards. The rank of the three matching cards determines the ranking of the three of a kind. Example: 9, 9, 9, K, J.
-- I. Two Pair: Two separate pairs of matching cards of different values contained within the same hand with an unrelated fifth card. The ranking of the highest pair within the two pair determines the ranking of the hand. A hand containing Kings and deuces beats one with Queens and Jacks. If two
-
-players hold the same high pair, then the ranking of the second pair determines the winner. (i.e., K, K, Q, Q, x beats K, K, 9, 9, x.) If two players held the same two pair (IE Kings and Jacks) then the ranking of the sidecard (a.k.a. kicker) would determine the winning hand.
-
+- I. Two Pair: Two separate pairs of matching cards of different values contained within the same hand with an unrelated fifth card. The ranking of the highest pair within the two pair determines the ranking of the hand. A hand containing Kings and deuces beats one with Queens and Jacks. If two players hold the same high pair, then the ranking of the second pair determines the winner. (i.e., K, K, Q, Q, x beats K, K, 9, 9, x.) If two players held the same two pair (IE Kings and Jacks) then the ranking of the sidecard (a.k.a. kicker) would determine the winning hand.
 - J. One Pair: Two matching cards of the same value combined with three unrelated cards. Example: Q, Q, 9, 7, 4. The ranking of the pair determines the strength of the hand. If two players hold the same pair, then the ranking of the sidecards determines the winning hand.
 - K. High Card: A hand that contains no matching cards, is not of all the same suit or has no particular sequence. Example: A, Q, 10, 8, 6. The high card determines the strength of the hand. In case of a tie the second highest card would determine the winner and so on. Thus an A, J, 10, 8, 6 beats an A, 10, 9, 8, 7.
 
@@ -591,7 +584,7 @@ In split-pot games and games for low, the following is the ranking of the best l
 - F. 6-5-4-3-2 (Straight Six)
 - G. 7-4-3-2-A (A.k.a. Seven-perfect or seven-slick)
 - H. 7-5-3-2-A
-- I. Etcetera.
+- I. et cetera.
 
 This progression continues all the way through the smallest pair, trips, full house, four of a kind and straight flush (note that straights and flushes do not count against low hands, except when playing Kansas City Rules as hereinafter set forth). Thus, a player whose best low hand was a pair of deuces would win the pot against a player whose best low hand was a full house. In most low and high-low split games, aces play for high or low, so that a pair of aces is a better low hand than a pair of deuces.
 
@@ -634,7 +627,7 @@ In open card games—also known as stud games—players receive some combination
 
 As its name indicates, this is a stud game (meaning a game where some of a player's personal cards are exposed for other players to see) played with seven cards.
 
-## 5.04. SEVEN-CARD STUD: NUMBER OF PLAYERS.
+## 5.04. SEVEN-CARD STUD: NUMBER OF PLAYERS
 
 The game is typically played with a maximum of eight players, although sometimes it is played with nine. However, when played with nine, the situation sometimes arises where there are not enough cards to finish the deal, and special procedures must be instituted using burn cards and dead cards to complete the
 
@@ -647,7 +640,7 @@ hand. It is best to avoid this by limiting the game to eight, although it is pos
 Players ante before receiving a hand. The dealer deals a hand to every seat that has anted, and does not deal to any seat that has not anted. If a player seated at the table has not anted, the dealer shall ask him if he wants a hand before dealing. If a player away from the table has anted before leaving, the dealer shall give him a hand. As noted elsewhere, the size of the antes is not a matter for rules but one for house policy. However, suggested antes for various stakes are set forth at Appendix B.
 
 
-## 5.06. SEVEN-CARD STUD: INITIAL CARDS AND BRING-IN.
+## 5.06. SEVEN-CARD STUD: INITIAL CARDS AND BRING-IN
 
 
 At the beginning of the hand, players receive two downcards and a single upcard. This is followed by the initial betting round, on which the lowest upcard (by suits if two players have the same lowest ranking upcard) is required to initiate the betting with a forced bring-in bet. The player required to make the forced bet has the option of opening for the partial bet or a full bet. An example would be in a \$15-\$30 game, where the forced bring-in is for \$5, and the opener has the option of bringing it in for the \$5 or for \$15. This is often referred to as completing the bet. (The game is occasionally played where the high card instead of the low card must bring it in, but this is not the standard rule.) As in all other poker games, the action then moves clockwise around the table until it is back around to the opener.
@@ -723,7 +716,6 @@ All procedural errors regarding the deal shall be corrected to the extent possib
 - B. If the dealer burns and deals one or more cards before a round of betting has been completed, the improperly dealt card or cards shall be eliminated from play, together with an additional card for each remaining player active in the hand, with these cards set aside from the muck to be available in the event the dealer runs out of cards before the completion of the hand. When the round of betting is completed, the dealer re-burns and play resumes. If the improper card has been dealt as a final down card and is intermingled with a player's downcards, or if a player looks at the improper card, then the deal shall not be corrected.
 - C. A card dealt off the table must play. If the card so dealt was to have been a player's downcard it shall be turned face-up
   on the table and treated as an exposed card, as if the dealer had dealt a final downcard face-up to a player.
-
 - D. If the dealer accidentally turns up a player's first or second hole card, then the third card will be dealt face down. If both a player's hole cards are dealt face up his hand shall be declared dead and his ante refunded from the pot. In the event a hand is declared dead for this reason, and the third card dealt would have resulted in that player making the forced bring-in, the low card among live hands shall bring it in. ALTERNATE RULE: The first active player to the immediate left of the dead hand shall make his action as if responding to the forced bring-in by folding, opening for the amount of the bring-in or opening for a full bet.
 - E. If a player has not posted his ante but is dealt a hand, then that player shall be dealt an entire starting hand (two downcards and an upcard) and his hand shall then be killed. If this player would have been required to make the forced bring-in, then the player who would have been required to make the bring-in had that player not been dealt a hand shall have the obligation of initiating action. Dealing a player who has not anted a hand does *not* constitute a misdeal.
 - F. If a dead seat is mistakenly dealt a card, or not dealt a card when it should have been pursuant to Cooke's Rules, and if there has not been substantial action, the situation shall be remedied by moving the cards to the proper player. If there has been substantial action or if the error is on a round of downcards then the cards shall stand as dealt. Once the error has been discovered, the deal shall continue properly, with the dead hand either getting or not getting cards as it should pursuant to Cooke's Rules.
@@ -732,9 +724,7 @@ All procedural errors regarding the deal shall be corrected to the extent possib
 
 If the dealer turns the last card face-up to any player, the procedure shall vary depending upon the circumstances and how many players remain in the hand.
 - A. If there are more than two active players in the hand, all remaining players receive their last card face down. Prior to action for the final betting round, the player whose last card is exposed shall have the option of participating in the wagering or being treated as an all-in player who neither
-
-contributes to the pot on the final round nor is eligible to win any bets put into the pot on the final round. In the event the player elects to be treated as all-in, all bets of the other players in the hand shall go into a side pot for which that player is not eligible.
-
+  contributes to the pot on the final round nor is eligible to win any bets put into the pot on the final round. In the event the player elects to be treated as all-in, all bets of the other players in the hand shall go into a side pot for which that player is not eligible.
 - B. If there are only two players remaining and the first player's final hole card is dealt face-up, then the second player's final downcard will also be dealt face up and the betting proceeds as normal.
 - C. If there are only two players remaining, and the first player's card is dealt facedown and the second player's card is exposed, the player with the exposed card will have the option of being treated as an all-in player, in which case there will be no wagers permitted on the final betting round.
 - D. In all cases, the player who is high on board shall initiate the action regardless of whether he has four or five upcards.
@@ -759,9 +749,7 @@ In this game the high hand and the low hand each win half the pot. This game is 
 
 ## 5.25. RAZZ
 
-Razz is Seven Card Stud played for low only. Razz is played by exactly the same rules as Seven-Card Stud, with several major differences, as set forth in this paragraph. The game is sometimes played pot limit and no-limit. The lowest hand wins the pot. Aces play for low only. A pair of Aces is always lower than a pair of deuces. The high card is required to make the forced bring-in bet. On subsequent rounds the low hand rather than the high hand acts first. If two players have the same low hand, then the suit of the lowest card in the hand shall determine who acts first. If two players both have a deuce as their lowest card, the deuce of diamonds would act first as opposed to the two of spades. (ALTERNATE RULE: If two players have the same hand, the first player clockwise from the dealer acts first. However this cre-
-
-ates positional advantage in seating, so it is not recommended.) In Limit games, an open pair does not affect the limit. Dealers announce all pairs the first time they occur; except pairs of face cards, which are never announced.
+Razz is Seven Card Stud played for low only. Razz is played by exactly the same rules as Seven-Card Stud, with several major differences, as set forth in this paragraph. The game is sometimes played pot limit and no-limit. The lowest hand wins the pot. Aces play for low only. A pair of Aces is always lower than a pair of deuces. The high card is required to make the forced bring-in bet. On subsequent rounds the low hand rather than the high hand acts first. If two players have the same low hand, then the suit of the lowest card in the hand shall determine who acts first. If two players both have a deuce as their lowest card, the deuce of diamonds would act first as opposed to the two of spades. (ALTERNATE RULE: If two players have the same hand, the first player clockwise from the dealer acts first. However this creates positional advantage in seating, so it is not recommended.) In Limit games, an open pair does not affect the limit. Dealers announce all pairs the first time they occur; except pairs of face cards, which are never announced.
 
 ## 5.26. FIVE-CARD STUD
 
@@ -820,13 +808,11 @@ This is played exactly the same as Pineapple, except that Players discard their 
 
 ### 6.08.03. TAHOE
 
-This is played exactly the same as Texas Hold'em, except that players are dealt three hole cards, none of which they discard. Although players have three hole cards, they may not play all three cards from their hands. Rather, as in Texas
-
-Hold'em, they must play zero, one or two cards from their hands.
+This is played exactly the same as Texas Hold'em, except that players are dealt three hole cards, none of which they discard. Although players have three hole cards, they may not play all three cards from their hands. Rather, as in Texas Hold'em, they must play zero, one or two cards from their hands.
 
 ## 6.09 DOUBLE-FLOP HOLD'EM GAMES
 
-All games played with community cards (board games) can be played with a variation which is growing in popularity: the double flop. Double-flop board games have five betting rounds like stud, rather than the four betting rounds in more commonly spread variations of board games. The flop is dealt, followed by a betting round. Then a second flop is dealt under the first flop, also followed by a betting round. As in stud, the betting limit in fixed limit games doubles on this third betting round (ie in a \$10- \$20 game, betting after the second flop is dealt is at the \$20 limit.) After the second flop, the turn and river are dealt exactly as they are in all other community card games. Players contesting the pot may play one flop or the other, but not both. All other rules of specific games apply; ie in Texas Hold'em contestants may play zero, one or two from their hands, in Omaha, players must play two from their hand, three from the board, etc.
+All games played with community cards (board games) can be played with a variation which is growing in popularity: the double flop. Double-flop board games have five betting rounds like stud, rather than the four betting rounds in more commonly spread variations of board games. The flop is dealt, followed by a betting round. Then a second flop is dealt under the first flop, also followed by a betting round. As in stud, the betting limit in fixed limit games doubles on this third betting round (ie in a \$10-\$20 game, betting after the second flop is dealt is at the \$20 limit.) After the second flop, the turn and river are dealt exactly as they are in all other community card games. Players contesting the pot may play one flop or the other, but not both. All other rules of specific games apply; ie in Texas Hold'em contestants may play zero, one or two from their hands, in Omaha, players must play two from their hand, three from the board, etc.
 
 # CLOSED CARD (DRAW STYLE) GAMES
 
@@ -882,7 +868,6 @@ Rapping the table in turn constitutes a pass, but rapping the table in turn in d
 ## 7.13. ALL-IN FOR THE ANTE
 
 A player who is all-in for the ante (or part of the ante) may declare the pot opened if he has the minimum required openers or if no minimum openers are required. One who is all-in and declares the pot open without being able to show a hand that meets an opening requirement will lose his ante money and shall not continue to play on any subsequent deals until a winner is determined. Even if that player buys in again, he must wait until the pot has been legally opened and someone else has won it before the draw, provided: a) No cards have been dealt off the
-
 deck in response to your request; and b) No player has acted in any way on his hand based on the number of cards that player requested. If an all-in player playing for just the antes has declared the pot open, all callers must come in for the full opening bet. If a player has only a full ante and no other chips on the table, he may play for just the ante. If no one opens and there is another ante, he may still play for that part of the antes that he has matched, without putting in more chips.
 
 ## 7.14. RIGHT TO ANTE IN
@@ -1028,7 +1013,7 @@ A player has the right to know the amount of money an opponent has in play. All 
 
 ### 8.01.09 HOUSE MAY INVOKE CLOCK
 
-The dealer shall give a player one minute and ten seconds to act pursuant to the rules relating to clock requests when a player fails to act timely (*See Cooke's Rules Article 10* *"10.03. Clock Request" on page 65.*)
+The dealer shall give a player one minute and ten seconds to act pursuant to the rules relating to clock requests when a player fails to act timely (*See Cooke's Rules Article 10 "10.03. Clock Request" on page 65.*)
 
 ### 8.01.10 INSURANCE AND PROPOSITION BETS
 
@@ -1077,7 +1062,6 @@ Certain special rules apply to Lowball played pot-limit. (*See Cooke's Rules Art
 ## 8.03 SPREAD-LIMIT (UNSTRUCTURED) POKER
 
 Spread-limit poker is also called unstructured poker because there is no structured amount to bet on a given street. Rather, there is a minimum bet and maximum bet. A player may wager any amount in between and including the higher and lower limits at any time pursuant to the current betting round. Spread-limit is most commonly used in low limit games. Common applications
-
 are \$1-\$5 Stud, where a player may bet from \$1 to \$5 at any time; \$1-\$4-\$8-\$8 hold'em or Omaha (a player may bet from \$1-\$4 before the flop and on the flop, and from \$1-\$8 on the turn and river) and \$2-\$6 hold'em. Example: In \$2-\$10 hold'em, a player may bet anywhere between \$2 and \$10 dollars. If a player bets \$4, a subsequent player may call \$4 or make it anywhere between \$8 and \$14. All raises must be at least the size of the last bet or raise made on that street. When spread limit games are played with a kill, both the minimum and maximum amounts of the bets are increased. (i.e. \$2-\$6 becomes \$4- \$12.)
 
 ## 8.04 KILL POT GAMES
@@ -1124,9 +1108,7 @@ Some smaller stakes games are played with a half kill, where the amount of the a
 
 ### 8.04.10 VOLUNTARY KILLS
 
-If no player at the table objects, a player may voluntarily kill the pot at any time. The kill must be announced and the kill blind posted before the deal of the first card, except in Lowball as more fully described in Article 7 of Cooke's Rules. In order to kill voluntarily, a player must have at least four times the amount of the kill blind in his stack. For example; if the big blind is two chips, and the kill blind is four chips, the voluntary killer must have at least 16 chips prior to posting the kill. (ALTERNATE RULE: Voluntary Kills shall be prohibited.) Volun-
-
-tary kills are distinguished from Straddles and Sleepers (See Cooke's Rules Article 12 "Blinds and the Dealer Button" on page 76) because a kill doubles the stakes, while straddles and sleepers do not.
+If no player at the table objects, a player may voluntarily kill the pot at any time. The kill must be announced and the kill blind posted before the deal of the first card, except in Lowball as more fully described in Article 7 of Cooke's Rules. In order to kill voluntarily, a player must have at least four times the amount of the kill blind in his stack. For example; if the big blind is two chips, and the kill blind is four chips, the voluntary killer must have at least 16 chips prior to posting the kill. (ALTERNATE RULE: Voluntary Kills shall be prohibited.) Voluntary kills are distinguished from Straddles and Sleepers (See Cooke's Rules Article 12 "Blinds and the Dealer Button" on page 76) because a kill doubles the stakes, while straddles and sleepers do not.
 
 
 ### 8.04.11. MISCELLANEOUS KILL POT RULES
@@ -1405,7 +1387,7 @@ After showdown and pushing the pot as previously set forth, the Dealer shall sof
 
 ## 12.01. BLIND BET DEFINED
 
-A blind bet, a.k.a a blind, is a wager committed to the pot before the players have seen their cards. Generally, blind bets are required to be posted by the first two players to the left of the dealer button. Blind bets are a way of initiating action in games where none of a player's cards are exposed, most commonly used in Draw, Omaha and Texas Hold'em games. In games using blinds, action on the first betting round is initiated by the first player to the left of the last blind who must call, raise or fold. On all subsequent betting rounds action begins with the first active player to the left of the button, except in certain draw games as more fully described in Article 5.
+A blind bet, a.k.a. a blind, is a wager committed to the pot before the players have seen their cards. Generally, blind bets are required to be posted by the first two players to the left of the dealer button. Blind bets are a way of initiating action in games where none of a player's cards are exposed, most commonly used in Draw, Omaha and Texas Hold'em games. In games using blinds, action on the first betting round is initiated by the first player to the left of the last blind who must call, raise or fold. On all subsequent betting rounds action begins with the first active player to the left of the button, except in certain draw games as more fully described in Article 5.
 
 ## 12.02. FACTORS AFFECTING BLIND RULES
 
@@ -1417,12 +1399,11 @@ The principal philosophies of blind rules—each of which has variations—are t
 
 ## 12.04. POSTING BLINDS
 
-All required blinds must be posted by all players receiving hands on each round of play
+All required blinds must be posted by all players receiving hands on each round of play.
 
 ## 12.05. NUMBER AND PLACEMENT OF BLINDS
 
 Two blinds shall be posted to the left of the dealer button, (arranged in clockwise order from the button), in limit, pot-limit, spread-limit and no-limit games. (ALTERNATE RULE: Some establishments have an additional blind posted on the button, and this shall be permitted when the house rules expressly provide for it.) The first bet to the left of the dealer button shall be a small (a.k.a. little) blind. The blind in the second seat to the left of the dealer button shall be the big blind. Suggested blind structures for different games and limits are set forth in Appendix A. The large blind shall be equal to a full small bet in limit games. The small blind may be anywhere from one-third of a small bet to two-thirds of a small bet, and is most commonly one half of a small bet. (In some establishments, house rules provide that two large blinds shall be posted.) The number and placement of blinds may be varied by each house in its best business wisdom. The rules may be adapted to accommodate house rules which provide for either
-
 one blind or three blinds, whether posted to the left of the button, on the button or behind the button.
 
 ## 12.06. BLINDS ARE LIVE
@@ -1647,15 +1628,11 @@ When an incoming dealer deals the first hand of his down, and there is a vacant 
 ## 13.09 BROKEN GAMES
 
 No player shall be required to play in a game that is four-handed or less in a game normally dealt eight or nine-handed, or fivehanded or less in a game that is normally dealt ten-handed. So long as at least three players are willing to play, however, a game shall not be broken. If there are not three players willing to play, then the game shall be broken and the players in the game shall be afforded an opportunity to take another seat in the same type
-
-# Seating, Table Assignments, Starting Games, Transfers,
-
 of game at the same limits in accordance with these rules relating to broken games. (ALTERNATE RULE: If there are four players in an eight or nine-handed game, or five players in a ten-handed game, and two or more wish to have the game broken, then it shall be broken. SECOND ALTERNATE RULE: If a majority of players at the table wish to break the game, and there are sufficient seats in other games of the same type and limit available to accommodate all players, then the game may be broken.)
 
 ### 13.09.01. DRAWING FOR SEATS IN OTHER GAMES
 
 When a game breaks, the remaining players shall draw cards to determine the priority of seating order for open seats as they become available. Players who took at least one hand in the last five dealt shall have priority and shall draw first and be offered the first available seats. After those players have drawn, other players seated at the table shall draw. Persons absent from the table being broken shall be added to the list after those who where present at the table. If more than one player is absent, then the floorperson shall draw for them to determine their place on the list. If cards are tied as to rank, priority on the list shall be determined by suit. If there are several games available at that limit, the player from the broken game with first priority based on the draw shall have first choice of seating. Players on the transfer list from games currently running shall have the opportunity to transfer first before any player from the broken game may select a seat. A player from the broken game on the transfer list shall be treated identically to other players from the broken game. (ALTERNATE RULE: Players from the broken game draw and select seats superseding the transfer list.) A player who has been momentarily gone from the table (such as to use the bathroom) and who returns immediately shall be treated as a player who has just taken a hand, in the floorperson's reasonable discretion. A player who has refused to take a hand shall be placed on the waiting list after players who have played all the last hands, in the floorperson's reasonable discretion. The purpose of this is to ensure that those who are willing to continue playing not be penalized to the benefit of a player who was unwilling to continue to play. When moving to another table because of a broken game, the player who drew the high card shall have the first choice of seats,
-
 etc. Players entering a game from a broken game shall not be required to post blinds to receive a hand in blind games.
 
 
@@ -1692,8 +1669,7 @@ In all button games, a player going from a must-move game to the main game shall
 ### 13.10.05 SHORT-HANDED MUST-MOVE GAMES
 
 A player in a must-move game must continue playing to remain on the list for the main game, unless the game is less than five-handed in nine or ten-handed games or less than four-handed in eight-handed games. However, if a player refuses to play short-handed, he shall move to the bottom of the must-move list for that game, and shall be proffered an option to take a seat in the main game after those players
-
-#### who have continued to play.
+who have continued to play.
 
 ### 13.10.06 ABSENT PLAYER MOVED
 
@@ -1717,56 +1693,56 @@ No transfers shall be permitted from protected main games into must-move games.
 
 # DEALERS, THE DEAL AND THE DECK
 
-## 14.01. GENERAL PRINCIPLES.
+## 14.01. GENERAL PRINCIPLES
 
 Cooke's Official Rules of Real Poker is not intended to be a "how-to" manual for dealers. However, dealers are an integral part of the game, and just as players must follow certain rules so that the game proceeds in an orderly and efficient fashion, players must also be able to rely on the dealers to preform their duties correctly. The procedures set forth in this Article are deemed to be essential to the game, and shall be treated as Rules. Dealers as well as players shall conduct themselves accordingly.
 
-## 14.02. START OF THE HAND.
+## 14.02. START OF THE HAND
 
 The previous hand ends with the gathering of all cards, followed by the scramble or soft shuffle. The next hand begins with the first riffle of the collected deck. Once the riffle has begun, the hand must be dealt regardless of intervening circumstances. The only exceptions are a misdeal, which requires a new shuffle, or a situation arising that requires a decision from a floorperson.
 
-## 14.03. THE SHUFFLE AND CUT.
+## 14.03. THE SHUFFLE AND CUT
 
 After each hand, the dealer shall scramble the cards and shall shuffle them at least three times and box them at least once, in either of the following orders: shuffle/shuffle/box/shuffle or shuffle/box/shuffle/shuffle. This is immediately followed by the cut. The shuffle shall never begin or end with a box, always with a riffle. Also, the dealer shall never box twice in a row. To box the cards, the dealer shall pull about ten cards off the top of the deck and set them on the table, continuing four or five times until the entire deck has been re-arranged, always protecting cards from flashing. After the shuffle/box procedure, the dealer then shall place the deck on the table, clearly and obviously releasing it, and then cut it onto the cover card (cut card) with one hand.
 
-## 14.04. BASIC DEALER PROCEDURES.
+## 14.04. BASIC DEALER PROCEDURES
 
 Beyond the shuffle, cut and deal, the dealer is responsible to maintain the game as efficiently as possible. The dealer shall make sure that all pre-deal money (blinds and antes) is posted. The dealer shall prompt players to act when it is their turn, and when necessary, to act in turn. At the beginning of each betting round the dealer shall announce how many active players are in the hand. The dealer shall verify that the proper amount of money goes into the pot. The dealer shall ensure that all proper procedures are followed, especially regarding showdown and awarding the pot.
 
-## 14.05. BLINDS' OPTION TO RAISE.
+## 14.05. BLINDS' OPTION TO RAISE
 
 In games with blinds, the dealer shall verbally confirm whether any live blind elects to exercise his option to raise.
 
-## 14.06. SCOOPING BETS.
+## 14.06. SCOOPING BETS
 
 Wagers are not to be pulled into the pot until each betting round is completed. All bets, including blinds, should remain in front of players until betting is completed. If a portion of a made-up blind is dead, it should be moved to the center of the pot after the shuffle and cut but before commencing the deal. If a player splashes the pot, the dealer shall verify that the correct number of chips have been placed in the pot and push them back in front of the player who has made the action so that they are clearly distinguishable from the pot and from chips placed in the pot by other players. The dealer shall not scoop until he has verified that each player has placed the proper number of chips in the pot and received proper change from the pot. Players shall never make their own change from the pot or from other players' bets.
 
-## 14.07. PITCH.
+## 14.07. PITCH
 
 The dealer shall pitch the cards so that they reach the players. Down cards shall be dealt carefully in such a fashion so that they are not flashed. In stud games, the final down card should be dealt so that it is not mixed in with the player's other hole cards. The dealer shall never turn over or roll the deck, never cover the top of the deck with his free hand, and shall always keep it squared.
 
-## 14.08. BURNING.
+## 14.08. BURNING
 
 At the conclusion of each betting round except the final betting round, the dealer shall burn a card before proceeding to deal the cards for the next round. Before burning a card the dealer shall lightly tap the table, letting the players know that he is about to deal. This enables players to stop the dealer's action if the betting is incomplete. The dealer shall place each burn card under the prior one. Burn cards are to be placed in the center of the table under the edge of the pot and should be dealt in such a
 manner that they are not flashed to the players. They are to remain there, separate from the muck, until the pot is pushed to the winning player.
 
-## 14.09. EXPOSED CARDS.
+## 14.09. EXPOSED CARDS
 
 A flashed card, a card that is dealt off the table, or a card that might reasonably be suspected to have been flashed shall be deemed an exposed card. If a private card is flashed, exposed by the dealer, or by a player discarding his hand, the exposed card and only the exposed card is to be shown face up in the center of the table and announced by the dealer. A card that is exposed by a player, either intentionally or inadvertently, shall not be replaced. A card pitched by the dealer that is exposed because it strikes a player's hand shall be deemed exposed by the dealer, not by the player. In stud games, exposed cards may or may not play. (See Cooke's Rules Article 5 "Open Card (Stud Type) Games" on page 22*.*) In hold'em and draw games, the deal of the hand shall be completed and a new card shall be given to replace the exposed card. The exposed card is then displayed to all players at the table and announced by the dealer. The burn card shall replace the exposed card, and the exposed card shall become the burn card. The only time in poker a player may receive two cards in a row off the deck is when the last downcard dealt to the last player in a Hold'em or Draw game is exposed.
 
-## 14.10. BOXED CARD.
+## 14.10. BOXED CARD
 
 A boxed card is considered a non-existent card. The next card in the deck will be dealt to the player who would have received the boxed card. A boxed card does not constitute a fouled deck. However, two or more boxed cards in the deck shall be deemed a fouled deck if it is discovered before substantial action on the first betting round, and the deal shall be considered a misdeal. If the second boxed card is discovered after substantial action on the first betting round, then it too shall be treated as a non-existent card, and the hand shall proceed as if that card were not in the deck.
 
-## 14.11. JOKER IN THE DECK.
+## 14.11. JOKER IN THE DECK
 
 A joker inadvertently included in a game where a joker is not used is considered a non-existent card. A joker received face up (boxed) is replaced by the next card. The top card of the deck replaces a joker received face down after the remaining players have all received their proper cards. (ALTERNATE RULE: A joker in the deck shall constitute a fouled deck in the same way any deck with too many cards would. The alternate rule is actually preferred in games played with a joker or bug in the event there are two jokers in the deck.)
 
-## 14.12. FOULED DECK.
+## 14.12. FOULED DECK
 
 The following shall constitute a fouled deck: a deck containing too many or too few cards; a deck containing one or more cards of a different colored back; a deck containing two cards of same rank and suit. When a fouled deck is discovered, all betting will cease and all money in the pot shall be returned to the players in the hand. If this information is available to only one player and that player attempts to win the pot by initiating action, that player shall forfeit all rights to the pot and all chips in the pot shall be divided among all active players at the time the fouled deck is discovered. If there are no remaining players, then the chips shall be forfeited to all who committed money to the pot, with the forfeited interest divided equally as if it were a split pot, regardless of how much money any individual player has committed to the pot. In button games, the next hand will be played with the button and blinds remaining in the same positions.
 
-## 14.13. DEALING COMMUNITY CARDS EARLY.
+## 14.13. DEALING COMMUNITY CARDS EARLY
 
 If the dealer burns and turns community cards before action is complete, the cards shall be returned to the deck and action shall be completed. This shall be so even if only one player who is checking has not acted before the cards are improperly dealt. The procedure for returning the cards to the deck and continuing with the action vary slightly on the flop, turn and river.
 
@@ -1774,65 +1750,65 @@ If the dealer burns and turns community cards before action is complete, the car
 
 After the pre-flop betting is correctly completed, the mis-dealt flop—but not the burn card—shall be reshuffled into the deck, and the flop shall be re-dealt with no burn.
 
-### 14.13.02. MIS-DEALT TURN.
+### 14.13.02. MIS-DEALT TURN
 
 After the flop betting is correctly completed, the card which was improperly dealt shall be set aside, and the dealer shall burn and turn so that the card which would have been the river card becomes the turn card. After the turn betting is completed, the dealer shall then shuffle the improperly dealt card back into the deck, and shall deal a river card without burning. The card that was burned before the improper dealing shall not be included in the shuffle.
 
-### 14.13.03. MIS-DEALT RIVER.
+### 14.13.03. MIS-DEALT RIVER
 
 After the turn betting is correctly completed, the dealer shall shuffle the improperly dealt card back into the deck, then turn a new river card without burning.
 
-## 14.14. FLOP PLACEMENT.
+## 14.14. FLOP PLACEMENT
 
 In hold'em games, the flop should be in the center of the table with the pot to the side and the burn cards placed under the edge of the pot. Side pots should be situated as close as possible to the players involved in the side pot, and always clearly distinguished from the main pot. Where possible, side pots should be placed on the opposite side of the flop from the main pot
 
-## 14.15. COUNT THE STUB.
+## 14.15. COUNT THE STUB
 
 The dealer shall count down the deck stub no less than once a half hour, preferably early in his down.
 
-## 14.16. DEALER ANNOUNCEMENTS.
+## 14.16. DEALER ANNOUNCEMENTS
 
 The dealer shall always announce the following circumstances to the table: a) when a player is playing behind; b) when a card has been exposed and which card it is—in board games, the dealer shall clarify whether the card came from a player's hand or from the deck, and that the exposed card will be the burn card; c) action when an all-in bet has been made; d) when a make-up blind is being posted; e) all raises; f) how many players are contesting the pot on each street; g) in stud, the forced bring-in and high hand for purposes of commencing action on each street.
 
-## 14.17. ABSENT PLAYER'S CHIPS.
+## 14.17. ABSENT PLAYER'S CHIPS
 
 When in the box it is the dealer's responsibility to watch all chips belonging to players absent from the table. Notwithstanding this, each player at the table has an obligation to the integrity of the game and each player shall protect the chips of any absent player. Notwithstanding this rule, as noted in Article 2 of Cooke's Rules, the house assumes no responsibility for a player's chips or money left on the table.
 
-## 14.18. LAST CARD.
+## 14.18. LAST CARD
 
 The last card of a shuffled deck shall not be used in any game under any circumstances. (*See Cooke's Rules relating to particular games for procedures in the event there are not sufficient cards to complete the deal in draw and stud games.*)
 
-## 14.19. DECK CHANGES AND SET-UPS.
+## 14.19. DECK CHANGES AND SET-UPS
 
 If a dealer notices a marred card, he shall immediately change decks and call for a set-up. When bringing in a new deck, it shall be spread face up and verified for completeness, then scrambled face up, then scrambled again face down, then shuffled no fewer than five times. A player may request a deck change at any time. However, a deck shall not be changed until at least two laps of hands have been played since the previous deck change. A player may not request a set-up except for a marred card. (ALTER-NATE RULE: A player may request a deck change at any time, but set-ups shall not be replaced more frequently than once per half hour. The alternate rule slows down the game and is discouraged.) Excessive requests for deck changes and set-ups may result in management electing to post a table sign limiting the frequency of deck changes to once per half hour and set-ups to once per hour.
 
-## 14.20. MISDEALS.
+## 14.20. MISDEALS
 
 Misdeals may be called for any irregularity in the initial dealing round, until substantial action has taken place. Once substantial action has taken place, the hand must proceed. The following constitute a misdeal: a) failure to shuffle and/or cut the deck before dealing; b) dealing to the wrong player first; c) failure to deal each player his proper card. (A card initially dealt to the wrong player but not looked at can be moved to its proper owner. However, no more than two cards may be pushed back. If more than two cards have to be pushed back, the hand will be declared a misdeal.); d) dealing out a player with money committed to the pot (blinds or antes) or a player on the button. (An absent player other than the above who has expressly asked for a hand but has been dealt around will also cause a misdeal unless all other players have received starting cards.); e) dealing too many cards to a player, except when the last card dealt was due to be the burn card and can be returned to the deck. (If the player has seen the card, it is a misdeal. If the player has not seen the card, it is not a misdeal.); f) dealing too few cards to a player except when that player is due to get the top card of the deck; g) exposing the first or second card dealt; h) the exposure of two or more cards that need to be replaced; i) the presence of more than one boxed card on the initial dealing round; j) the discovery of one or more cards missing from the deck; k) dealing any cards that were supposed to be part of the flop or draw. In the event of a misdeal, all cards shall be returned to the dealer, and the cards shall be scrambled, shuffled, cut and dealt. Note that if a player is dealt in who should not have received a hand,
 
 then the hand is not a misdeal and that player's hand will be declared a dead hand. l) dealing in a player who hasn't anted or posted (ALTERNATE RULE: A player who hasn't anted or posted has a dead hand, and it shall not be considered a misdeal.)
 
-## 14.21. END OF THE HAND.
+## 14.21. END OF THE HAND
 
 When all dealing is complete, the dealer shall drop the deck so that the cards are spread out, and not set it neatly down in a stack. After the showdown, the dealer shall confirm the hand is over and shove the discards into the deck stub. The cards are not to be placed on the top or bottom. The top of the deck should always be retrievable in case of an irregularity in the deal of the final betting round. (ALTERNATE RULE: The top of the deck should never be retrievable, except in draw games, where the remaining stub should be placed on the table so that the top of the deck is retrievable. The alternate rule, which is quite common in California, seems to be related somehow to the integrity of the game, but the main rule is much more practical and preferred.) The dealer shall determine that the proper number of cards has been returned, and shall verify all discarded hands. Players shall discard their hands in such a manner as to facilitate such inspection. In games that use a dealer button, the dealer shall push the pot to the winner, then move the button. The soft scramble is the last act of the old hand; the first riffle is the first act of the new hand.
 
-## 14.22. DEALERS AND DECISIONS.
+## 14.22. DEALERS AND DECISIONS
 
 If the dealer makes an error which will result in a change in the cards a player would receive (i.e. dealing before action is completed, improperly turning the flop, etc.) then the floorperson must be called for a decision. If the dealer makes an error which does not affect the card a player is to receive or one which does not give any player an advantage (i.e. forgetting to burn or dealing to the wrong seat), then the dealer shall correct the error in accordance with the rules and a floorperson does not need to be called unless a player objects. In any circumstance where there is any doubt whatsoever, dealers shall not take remedial action or render decisions, but shall call a floorperson to do so.
 
-## 14.25. IMPROPERLY DROPPED DECK.
+## 14.25. IMPROPERLY DROPPED DECK
 
 If the deck is dropped by the dealer, regardless of the reason, the dealer shall pick the deck back up and continue to use it if at all possible, and if the top of the deck can be determined. If the correctness or integrity of the deck is questioned by any player or is otherwise in doubt, then a floorperson shall be called. The dealer shall then reshuffle the unused cards and cut them. Cards known to be discards shall not be included in this re-shuffle, nor shall any cards which were burned. Cards which might or might not be part of the discards, but which cannot be determined shall be deemed discards and shall not be reshuffled. After cutting, the dealer shall continue the deal, including all requisite burns.
 
-## 14.26. RESHUFFLES.
+## 14.26. RESHUFFLES
 
 In any situation in any game requiring a reshuffle, neither discards nor burns shall be included in the reshuffle. If there is any doubt as to whether a card ought be included in the reshuffle, then it shall not be so included.
 
-## 14.27. PLAYER DEALT GAMES.
+## 14.27. PLAYER DEALT GAMES
 
 In some jurisdictions, center dealers are prohibited and players must deal the games. In these cases, all previous rules apply. In all player dealt games, a rotating dealer button shall be used to designate the dealer. Player dealt games shall use two decks. The player to the left of the dealer shall cut. The player to the right of the dealer shall shuffle the deck just dealt. The deck used in the hand will have been shuffled by the player two to the dealer's right. Having three separate persons shuffle, cut and deal reduces the potential for cheating.
 
-## 14.28. MECHANICAL SHUFFLERS.
+## 14.28. MECHANICAL SHUFFLERS
 
 Mechanical devices which shuffle the cards are becoming more commonplace. Usually these devices contain two compartments, one for placement of the deck which has just been used, and one for the deck which as been shuffled. Certain procedures relative to the course of a hand are different when using mechanical shufflers. When using mechanical shufflers, at the beginning of the hand the dealer shall remove the deck from the shuffler, place it flat on the table and release it, then cut it onto the cover card. At the end of a hand the dealer shall give the muck, discards and deck stub a soft scramble, gather the cards together and place them into the mechanical shuffler in a single block. When using a mechanical shuffler, the hand shall officially be deemed to have begun when the dealer places the new deck on the table to be cut. The end of the hand shall officially be deemed to have occurred when the dealer places the used deck into the shuffler.
 
@@ -2032,9 +2008,7 @@ A player should verbally announce his action to avoid confusion. A player going 
 
 ## 17.11. EXPEDITING THE GAME
 
-A player should assist in the orderly conduct of the game. A player should know when it is his turn, put blinds and antes in timely, use increments of correct change and stack his chips in such a manner as to not interfere with the dealer's pitch. If the pot is raked, a player should put the small change in the pot (particularly in the blinds) to make it easier for the dealer. A player should pass his cards to the dealer or muck in a proper manner. A player who expects to win the pot should show down his hand immediately. Players should limit rabbit hunting and setup and deck changes and asking to see called hands unnecessar-
-
-#### ily.
+A player should assist in the orderly conduct of the game. A player should know when it is his turn, put blinds and antes in timely, use increments of correct change and stack his chips in such a manner as to not interfere with the dealer's pitch. If the pot is raked, a player should put the small change in the pot (particularly in the blinds) to make it easier for the dealer. A player should pass his cards to the dealer or muck in a proper manner. A player who expects to win the pot should show down his hand immediately. Players should limit rabbit hunting and setup and deck changes and asking to see called hands unnecessarily.
 
 ## 17.12. ABUSE
 
