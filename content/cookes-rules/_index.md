@@ -356,7 +356,7 @@ available.]({{< relref "cookes-rules/notes/" >}})
 - [Copyright](#copyright)
 - [Colophon](#colophon)
 
-# FOREWORD
+## FOREWORD
 
 *Cooke's Rules of Real Poker* is an important work which belongs on the
 bookshelf of every poker player.
@@ -442,7 +442,7 @@ seminars to players around the world. She currently lives in Las Vegas, Nevada,
 and can be found playing in high-limit games and poker tournaments all over the
 country.
 
-# ACKNOWLEDGEMENTS
+## ACKNOWLEDGEMENTS
 
 We have reviewed hundreds of poker room rule books before writing this book.
 They were all different and all contributed something. The thing that struck us
@@ -475,7 +475,7 @@ Special credit is due the women in our lives, Misty and Jeannie, who for some
 inexplicable reason tolerate us and support us in our endeavors and even love
 us.
 
-# ABOUT COOKE'S RULES
+## ABOUT COOKE'S RULES
 
 This is the first Poker Rule Book of the 21st century. A big part of poker's
 appeal is that, at its essence, the rules are same everywhere. For the most
@@ -545,9 +545,9 @@ Also, although people often play the game for stakes other than money, since
 this book is principally about public cardrooms, the presumption here is that
 the chips in play represent real monetary gain or loss.
 
-# THE DECISION MAKING PROCESS
+## THE DECISION MAKING PROCESS
 
-## 1.01. APPLICATION OF RULES
+### 1.01. APPLICATION OF RULES
 
 Management protects players and the integrity of the game through fair and
 even-handed application of the rules. Cooke's Rules shall be enforced by the
@@ -562,7 +562,7 @@ the rule, making a decision. In applying the Rules, the floorperson shall use
 the Definitions of Poker Terms included in Cooke's Rules to the exclusion of
 any other definitions.
 
-## 1.02. TIMING OF RULINGS
+### 1.02. TIMING OF RULINGS
 
 The proper time to draw attention to an irregularity or error is at the time of
 occurrence. Objection to any matter arising in the course of a hand must be
@@ -571,7 +571,7 @@ of the cardroom) of the shuffle for the new hand. This principle applies to
 matters calling for a decision by a floorperson as well as matters within the
 purview of a dealer's duties.
 
-## 1.03. FACTORS INFLUENCING DECISIONS
+### 1.03. FACTORS INFLUENCING DECISIONS
 
 An unintentional error shall be construed more liberally than what appears to
 be a deliberate violation of the rules. An inexperienced player shall be given
@@ -585,7 +585,7 @@ or a situation. All other factors being equal, the floorperson shall apply
 
 the rules in such a way so as to induce action rather than inhibit it.
 
-## 1.04. DECISION-MAKING PROCEDURES
+### 1.04. DECISION-MAKING PROCEDURES
 
 Dealers shall *never* make decisions. *All* decisions shall be made by the
 floorperson. When a dealer calls a floorperson over to make a decision, the
@@ -604,14 +604,14 @@ table—the floorperson seeks only relevant facts, not opinions, and
 floorperson shall then render his decision that, as provided in the Paramount
 Rules, shall be final.
 
-## 1.05. DECISIONS BEYOND THE RULES
+### 1.05. DECISIONS BEYOND THE RULES
 
 At times, a situation may arise which is not expressly covered by the Rules. In
 such situations, the floorperson shall weigh the facts and render the most
 appropriate decision in light of the four principle considerations of the Rules
 of Poker: Fairness, Efficiency, Simplicity and Tradition.
 
-## 1.06. DISCIPLINE ARISING FROM DECISIONS
+### 1.06. DISCIPLINE ARISING FROM DECISIONS
 
 More often than not, a decision will only result in a determination of what
 shall be done: is a hand live or dead, is a player entitled to a pot or not,
@@ -630,7 +630,7 @@ they should resolve their disciplinary problems. Management shall always keep
 in mind the four principles of poker rules (Fairness, Efficiency, Simplicity
 and Tradition) and always serve the interest and spirit of the game.
 
-## 1.07. CONFLICT OF RULES
+### 1.07. CONFLICT OF RULES
 
 When any provision of Cooke's Official Rules is in conflict with the rules of a
 particular game, then the rules of the particular game shall take precedence
@@ -638,7 +638,7 @@ and supersede the general rule. In any other case where two rules may conflict,
 then the interpretation that best serves the interest of the game shall be
 applied.
 
-## 1.08. AVOIDING UNFAIR RESULTS
+### 1.08. AVOIDING UNFAIR RESULTS
 
 When strict enforcement of a rule will cause a patently and obviously unfair
 result, then the floorperson shall have the unrestricted right to waive any
@@ -649,7 +649,7 @@ the player with the best hand gets the pot. This is consistent with the
 Paramount Rules that fairness and the interest of the game shall always be
 served.
 
-## 1.09. PRINCIPLES FOR INTERPRETING RULES
+### 1.09. PRINCIPLES FOR INTERPRETING RULES
 
 For purposes of these rules, it shall be presumed that all games are
 center-dealt: a professional and impartial dealer who is not participating in
@@ -671,9 +671,9 @@ Article 18 is used in a Rule, then that word shall be construed pursuant to the
 definition provided here, to the exclusion of all other definitions. All rules
 automatically incorporate the Definitions.
 
-# THE PARAMOUNT RULES
+## THE PARAMOUNT RULES
 
-## 2.01. SPIRIT OF THE GAME
+### 2.01. SPIRIT OF THE GAME
 
 All rules shall be interpreted and all rulings shall be made with the intent
 that the spirit, rather than the letter of the rule, be followed. The spirit of
@@ -682,24 +682,24 @@ time shall interpretation or strict application of a rule be used to achieve an
 unjust result. The spirit of the game shall be considered the best interest of
 the game.
 
-## 2.02. BASIC PRINCIPLES OF RULES
+### 2.02. BASIC PRINCIPLES OF RULES
 
 All rules shall be interpreted in the context of the four basic principles of
 Poker Rules: Fairness, Efficiency, Simplicity and Tradition. Given that the
 foregoing principles are considered, all rules shall be interpreted in favor of
 promoting action as opposed to inhibiting action.
 
-## 2.03. DECISIONS FINAL
+### 2.03. DECISIONS FINAL
 
 The decision of the floorperson is final, and not subject to appeal.
 
-## 2.04. GOVERNMENT REGULATION
+### 2.04. GOVERNMENT REGULATION
 
 Wherever a Rule is in conflict with any governmental regulation, then the
 government regulation shall supersede the Rule. Governmental regulations shall
 be applied in such a way as to cause the least possible change in the Rules.
 
-## 2.05. GROUNDS FOR EXPULSION
+### 2.05. GROUNDS FOR EXPULSION
 
 The following shall be grounds for immediate expulsion from the cardroom:
 verbally or physically threatening any patron or employee; destruction of
@@ -708,11 +708,11 @@ This list of grounds for expulsion is not all-inclusive; management shall
 always have the authority to expel a player for any grounds it deems
 reasonable.
 
-## 2.06. PRIORITY OF PARAMOUNT RULES
+### 2.06. PRIORITY OF PARAMOUNT RULES
 
 These Paramount Rules shall supersede all other rules.
 
-## 2.07. PURPOSE OF RULES
+### 2.07. PURPOSE OF RULES
 
 The purpose of Rules is not to create a fixed regimen where there is a penalty
 for the slightest infraction, but rather to foster an environment where the
@@ -724,16 +724,16 @@ ignorance, but rather that the game be run in an efficient and impartial way.
 The Paramount Rules serve the spirit of the game, and all rules must be
 interpreted accordingly.
 
-# RIGHTS & PRIVILEGES OF MANAGEMENT
+## RIGHTS & PRIVILEGES OF MANAGEMENT
 
-## 3.01. FINAL WORD
+### 3.01. FINAL WORD
 
 By taking or requesting a seat in a game, a player agrees that the house has
 the final word on who may play, the manner in which play shall be conducted,
 and the enforcement of any rules. Management further has the right to prohibit
 any player from using its facilities for any reason whatsoever.
 
-## 3.02. CONDUCT OF OTHERS
+### 3.02. CONDUCT OF OTHERS
 
 Management is not in any way responsible for the conduct of any person who is
 not an employee of the house, or any employee of the house who is not
@@ -741,13 +741,13 @@ performing his official duties. Management shall not be responsible for the
 behavior of players or guests of players or the consequences of behavior of
 players or guests of players.
 
-## 3.03. FAULTY DECISIONS IN GOOD FAITH
+### 3.03. FAULTY DECISIONS IN GOOD FAITH
 
 A player shall have no claim against the house or any employee or agent of the
 house for a faulty decision given in good faith, or any honest error by a
 dealer or floorperson.
 
-## 3.04. STARTING AND BREAKING GAMES
+### 3.04. STARTING AND BREAKING GAMES
 
 Whether and when to start or break a game is exclusively within management's
 discretion. Management will make every effort to start games full, however,
@@ -761,7 +761,7 @@ other Rules, management reserves the right to change this policy. (*See Cooke's
 Rules Article 13 "Seating, Table Assignments, Starting Games, Transfers, Lists,
 Etc." on page 90 for more details.*)
 
-## 3.05. CHANGING GAME CONDITIONS
+### 3.05. CHANGING GAME CONDITIONS
 
 Whether to change any element of a game—such as the structure, the rake or
 collection or any other condition—is completely within management's discretion.
@@ -774,14 +774,14 @@ prefers this rule, but recognizes that the main rule as stated is more
 prevalent. SECOND ALTERNATE RULE: No such change shall be made if half the
 table objects.
 
-## 3.06. MUST MOVE
+### 3.06. MUST MOVE
 
 The house may require that players be placed on a move list and moved from the
 game they are in to another game of the same type with the same structure and
 limits. (*See Cooke's Rules Article 13 "Seating, Table Assignments, Starting
 Games, Transfers, Lists, Etc." on page 90 for more details.*)
 
-## 3.07. SEATING
+### 3.07. SEATING
 
 The house has the right to restrict seating or prohibit players from playing in
 a particular game. This includes prohibiting two players from playing in the
@@ -791,24 +791,24 @@ of caution. Management further has the right to prohibit any player from using
 its facilities, for any reason whatsoever. (*See Cooke's Rules Article 3
 "Rights & Privileges of Management" on page 9 for more details.*)
 
-## 3.08. SPECTATORS
+### 3.08. SPECTATORS
 
 The house has the right to prohibit, re-position or otherwise restrict
 spectators.
 
-## 3.09. RIGHT TO INSPECT CARDS
+### 3.09. RIGHT TO INSPECT CARDS
 
 The house has the right to inspect *any* discarded hand, whether called or not,
 to protect the honesty and integrity of the game.
 
-## 3.10. CHIPS AND CASH ON TABLE
+### 3.10. CHIPS AND CASH ON TABLE
 
 The house is not responsible for cash or chips left on the table by an absent
 player, whether verified by a floorperson or not. Players should take their
 cash with them when leaving the table, but if they re-enter the game they must
 return at least the same amount of cash to the table when re-entering the game.
 
-## 3.11. STANDARDS OF DRESS, LANGUAGE AND CONDUCT; SMOKING
+### 3.11. STANDARDS OF DRESS, LANGUAGE AND CONDUCT; SMOKING
 
 The house has the right to establish standards for dress, talk and behavior in
 the cardroom—including smoking. As a courtesy to dealers, the seats to either
@@ -816,26 +816,26 @@ immediate side of the dealer shall be designated non-smoking seats. (ALTERNATE
 RULE: Smoking shall be prohibited in the cardroom.) As with all other Rules,
 applicable governmental regulation regarding smoking shall supersede this rule.
 
-## 3.12. SUSPENSION OF RULES
+### 3.12. SUSPENSION OF RULES
 
 The house shall have the right to suspend or waive the Rules, or institute
 different Rules. Every effort will be made to post a table sign when Rules have
 been suspended or waived, but the absence of such a sign shall not confer any
 rights to a player.
 
-## 3.13. HOUSE EMPLOYEES
+### 3.13. HOUSE EMPLOYEES
 
 The rights, privileges and protections of management shall be extended to all
 employees of the house acting in the performance of their duties.
 
-## 3.14. NO TRANSFER OF LIABILITY
+### 3.14. NO TRANSFER OF LIABILITY
 
 In case of theft, natural disaster or other similar circumstance, management
 shall not be responsible for chips or money left on the table.
 
-# Article 4: THE GAME OF POKER
+## Article 4: THE GAME OF POKER
 
-## 4.01. THE DECK AND CARDS
+### 4.01. THE DECK AND CARDS
 
 The game of poker is conducted with a fifty-two card deck consisting of four
 suits (clubs, diamonds, hearts, spades) of thirteen ranks each (2, 3, 4, 5, 6,
@@ -851,7 +851,7 @@ the lowest card (below a deuce) or both, as the player holding the Ace may
 decide. Each player is dealt a pre-determined number of cards, depending on the
 variation of poker being played.
 
-## 4.02. SUITS
+### 4.02. SUITS
 
 Unlike other card games such as bridge, in poker, one suit does not have
 superiority over another suit except in a few situations, which will be
@@ -863,7 +863,7 @@ elsewhere in Cooke's Rules. For these purposes only, suits are ranked
 alphabetically, from lowest to highest (Clubs, Diamonds, Hearts, Spades, with
 Spades being the highest.)
 
-## 4.03. THE POT
+### 4.03. THE POT
 
 The game is a contest for a pot of money, which builds in the course of play of
 each hand. The game begins as a battle for the blind bets or antes—money the
@@ -875,7 +875,7 @@ betting rounds until all the cards been dealt pursuant to the Rules of the
 game, or until one player is left after all others have folded. After the last
 card has been dealt there is a final betting round.
 
-## 4.04. PLAYER ACTIONS
+### 4.04. PLAYER ACTIONS
 
 The contest of the game of poker is made up of five possible player actions:
 Check, Bet, Call, Raise and Fold. (*See Cooke's Rules "Definitions of Poker
@@ -883,7 +883,7 @@ Terms" on page 123 for more specifics on the five basic actions of poker.*)
 Which player acts first, and what that player's choices are depend upon the
 Rules of the particular game, as more fully hereinafter described.
 
-## 4.05. START OF THE HAND
+### 4.05. START OF THE HAND
 
 The hand begins when the dealer has awarded the pot from the previous hand,
 gathered in all the cards, scrambled the cards and begun the shuffle. Once the
@@ -892,14 +892,14 @@ stop until the end of the hand. (*See Cooke's Rules Article 14 "Dealers, the
 Deal and the Deck" on page 102 for more details regarding the shuffle and start
 of the hand.*)
 
-## 4.06. ORDER OF PLAY
+### 4.06. ORDER OF PLAY
 
 The play of a hand always proceeds clockwise, beginning with the player in
 first position, and ending with the last player to respond to an action. Each
 player acts after the player to his immediate right. If no action is made, then
 play continues to the player in last position.
 
-## 4.07. FIRST TO ACT
+### 4.07. FIRST TO ACT
 
 Who is to act first varies with the Rules of the particular poker game. In Stud
 games the lowest upcard (highest upcard in Eight-or-better or Razz) is required
@@ -925,7 +925,7 @@ actions by folding, calling or raising. Action proceeds clockwise from the
 player who is required to act first. Once play is initiated, the hand
 progresses until the pot is awarded.
 
-## 4.08. BETTING ROUNDS
+### 4.08. BETTING ROUNDS
 
 Different games have different numbers of betting rounds. Draw games have two
 betting rounds, one before the draw and one after the draw. (Draw variations
@@ -939,7 +939,7 @@ is dealt, after the turn (fourth community card) is dealt and after the river
 have five betting rounds: one after the first three cards are dealt and one
 after each subsequent card is dealt.
 
-## 4.09. ANTES AND BLINDS
+### 4.09. ANTES AND BLINDS
 
 There is a variety of betting structures in poker. The most common are
 Fixed-limit (a.k.a. Limit or Structured), Spread Limit (a.k.a. Unstructured),
@@ -955,7 +955,7 @@ matters for each house to establish in accordance with its best business
 wisdom. Proposed betting structures are set forth at Appendix B, but they shall
 not be deemed Rules.
 
-## 4.10 NUMBER OF PLAYERS
+### 4.10 NUMBER OF PLAYERS
 
 Anywhere from two to thirteen players seek to make the highest possible
 five-card hand from the cards made available to them by the particular form of
@@ -968,7 +968,7 @@ is nine, although eight is a preferred maximum due to frequent card shortages
 in a nine-handed game, requiring constant re-shuffle of the discards to be
 dealt for the draw.
 
-#### 4.11. NUMBER OF CARDS
+##### 4.11. NUMBER OF CARDS
 
 In Five-Card Stud, players are dealt five cards, and must make their best hand
 from those alone. In Draw and Lowball, players have five cards, with an
@@ -979,7 +979,7 @@ five card hands. There are forms of poker that use both fewer and more cards,
 but they are seldom played in public cardrooms, and are not within the purview
 of this book.
 
-## 4.12. WINNING THE POT
+### 4.12. WINNING THE POT
 
 The pot may be won in one of two ways. If a player makes a wager that no other
 player chooses to match, then the player whose bet is unmatched wins the pot.
@@ -992,7 +992,7 @@ at any time when facing action by folding—refusing to match a bet—and in so
 doing he surrenders his interest in the pot, all money he has committed to the
 pot, and any interest in any future money added to the pot.
 
-## 4.13. HIGH HAND RANKINGS
+### 4.13. HIGH HAND RANKINGS
 
 The highest possible hand is determined by the relative statistical frequency
 of the hand occurring. The following are the rankings of poker hands, in
@@ -1041,7 +1041,7 @@ descending order:
   would determine the winner and so on. Thus an A, J, 10, 8, 6 beats an A, 10,
   9, 8, 7.
 
-## 4.14. KICKERS/SIDE CARDS
+### 4.14. KICKERS/SIDE CARDS
 
 In determining the highest possible five-card hand, if all five cards are not
 used to make a hand, such as with three of a kind, two pair, one pair or high
@@ -1073,7 +1073,7 @@ best five-card hand for player A using two cards from his hand as required by
 Omaha's Rules would be A, A, A, K, 8. Players B 's best hand would be A, A, A,
 K, 7. Thus, Player A would win the pot with the best five card hand.
 
-## 4.15. RANKING LOW HANDS
+### 4.15. RANKING LOW HANDS
 
 In split-pot games and games for low, the following is the ranking of the best
 low hands:
@@ -1096,7 +1096,7 @@ would win the pot against a player whose best low hand was a full house. In
 most low and high-low split games, aces play for high or low, so that a pair of
 aces is a better low hand than a pair of deuces.
 
-## 4.16. LOW HAND RANKINGS/KANSAS CITY RULES
+### 4.16. LOW HAND RANKINGS/KANSAS CITY RULES
 
 An exception to the above hand rankings for Low games is the game of Kansas
 City Lowball, a form of draw which is somewhat popular in tournaments but not
@@ -1106,7 +1106,7 @@ high, and straights and flushes count against a hand's low value. Razz
 Rules. (*See Cooke's Rules Article 5 "Open Card (Stud Type) Games" on page 22
 for more details.*)
 
-## 4.17. QUALIFIERS FOR LOW
+### 4.17. QUALIFIERS FOR LOW
 
 Most high-low split games require an eight-or-better qualifier for low, meaning
 that if there is no low hand 8-7-6-5-4 or better, then the high hand wins the
@@ -1199,7 +1199,7 @@ cards, known as the flop, then a single community card known as the turn, and a
 final community card known as the river. Betting stakes double on the turn and
 river.
 
-## 4.18 POKER VARIANTS
+### 4.18 POKER VARIANTS
 
 Games where the winning hand is made from more or fewer than five cards,
 stripped deck games, and games where hand rankings are different from poker as
@@ -1214,16 +1214,16 @@ the Random Card Concept, and that the house has no interest in the outcome of
 any hand. Thus games like Caribbean Stud Poker and Let It Ride shall not be
 deemed poker variants within the meaning of the Rules.
 
-# OPEN CARD (STUD TYPE) GAMES
+## OPEN CARD (STUD TYPE) GAMES
 
-## 5.01. STUD DISTINGUISHED
+### 5.01. STUD DISTINGUISHED
 
 The best-known open card game is Five-Card Stud; the most widely spread open
 card game is Seven-Card Stud. Open card games are distinguished from closed
 card games such as Draw and Lowball and community card games such as Texas
 Hold'em and Omaha. Open card games are never played as button games.
 
-## 5.02. BASICS OF STUD GAMES
+### 5.02. BASICS OF STUD GAMES
 
 In open card games—also known as stud games—players receive some combination of
 cards that are exposed to other players (upcards) and cards that are not
@@ -1241,13 +1241,13 @@ before dealing the next round of cards. Low-limit stud is often offered as a
 spread limit game. (*See Cooke's Rules Article 8 "Other Betting Rules &
 Structures" on page 46 for more details.*)
 
-## 5.03. SEVEN-CARD STUD DEFINED
+### 5.03. SEVEN-CARD STUD DEFINED
 
 As its name indicates, this is a stud game (meaning a game where some of a
 player's personal cards are exposed for other players to see) played with seven
 cards.
 
-## 5.04. SEVEN-CARD STUD: NUMBER OF PLAYERS
+### 5.04. SEVEN-CARD STUD: NUMBER OF PLAYERS
 
 The game is typically played with a maximum of eight players, although
 sometimes it is played with nine. However, when played with nine, the situation
@@ -1260,7 +1260,7 @@ possible to run out of cards even in an eighthanded game. (*See Cooke's Rules
 Article 16 "16.13. Back Man Out" on page 118* for possible solutions to handle
 too many players in this or any other game.)
 
-## 5.05. SEVEN-CARD STUD: ANTES
+### 5.05. SEVEN-CARD STUD: ANTES
 
 Players ante before receiving a hand. The dealer deals a hand to every seat
 that has anted, and does not deal to any seat that has not anted. If a player
@@ -1270,7 +1270,7 @@ dealer shall give him a hand. As noted elsewhere, the size of the antes is not
 a matter for rules but one for house policy. However, suggested antes for
 various stakes are set forth at Appendix B.
 
-## 5.06. SEVEN-CARD STUD: INITIAL CARDS AND BRING-IN
+### 5.06. SEVEN-CARD STUD: INITIAL CARDS AND BRING-IN
 
 At the beginning of the hand, players receive two downcards and a single
 upcard. This is followed by the initial betting round, on which the lowest
@@ -1284,7 +1284,7 @@ occasionally played where the high card instead of the low card must bring it
 in, but this is not the standard rule.) As in all other poker games, the action
 then moves clockwise around the table until it is back around to the opener.
 
-## 5.07. SEVEN-CARD STUD: RESPONDING TO THE BRING-IN
+### 5.07. SEVEN-CARD STUD: RESPONDING TO THE BRING-IN
 
 Subsequent players react in clockwise rotation to the initial action. They can
 call the bet, complete the opening bet by increasing it to the full amount of
@@ -1302,7 +1302,7 @@ have completed the bet rather than having raised. Thus, where the rules of the
 establishment permit one bet and four raises, the completion of the forced
 bring-in does not constitute a raise, and four raises remain open.
 
-## 5.08. SEVEN-CARD STUD: FOURTH STREET
+### 5.08. SEVEN-CARD STUD: FOURTH STREET
 
 Players receive a fourth card up, followed by a betting round.[^obs2x]
 
@@ -1310,20 +1310,20 @@ Players receive a fourth card up, followed by a betting round.[^obs2x]
     if any player had a paired door card.  By 2026, this rule was mostly
     extinct, and forbidden by TDA rules (2024, RP-10, bullet F).
 
-## 5.09. SEVEN-CARD STUD: FIFTH AND SIXTH STREET
+### 5.09. SEVEN-CARD STUD: FIFTH AND SIXTH STREET
 
 The fifth card is dealt up, followed by a betting round. On fifth street the
 betting automatically moves to the higher limit, regardless of whether or not
 it did on the previous betting round. Then a sixth card is dealt up followed by
 a betting round.
 
-## 5.10. SEVEN-CARD STUD: SEVENTH STREET
+### 5.10. SEVEN-CARD STUD: SEVENTH STREET
 
 The seventh and final card is dealt down, followed by a fifth betting round.
 Thus, a player has four upcards and three hole cards from which to make his
 best possible five card hand.
 
-## 5.11. SEVEN-CARD STUD: ORDER OF PLAY
+### 5.11. SEVEN-CARD STUD: ORDER OF PLAY
 
 After the first round of betting, the high hand on board initiates the action.
 If two players have the same high hand then the suit of the high card in the
@@ -1334,7 +1334,7 @@ broken by position, with the player closest to the dealer's left acting first.
 The disadvantage of the alternate rule is that it creates a positional
 advantage in players starting at the dealer's right.)
 
-## 5.12. SEVEN-CARD STUD: DEALER ANNOUNCEMENTS
+### 5.12. SEVEN-CARD STUD: DEALER ANNOUNCEMENTS
 
 In the course of dealing the hand, the dealer shall announce the low card on
 the initial betting round, the high hand on all subsequent betting rounds, and
@@ -1344,7 +1344,7 @@ low-limit games as a courtesy to inexperienced players. In such cases the
 dealer shall only announce that a straight or flush is possible, and not which
 cards are necessary to complete the possible.
 
-## 5.13. SEVEN-CARD STUD: ABSENT PLAYER WHO HAS ANTED
+### 5.13. SEVEN-CARD STUD: ABSENT PLAYER WHO HAS ANTED
 
 A player who has posted an ante but is not present at the table when it is his
 turn to act forfeits his ante. If that player was required to bring in the
@@ -1354,7 +1354,7 @@ time he faces action, the forced bet shall also be forfeited. In each case
 where the player has not returned to the table in time to act on his hand when
 facing action, the hand shall be killed.
 
-## 5.14. SEVEN-CARD STUD: MONEY NECESSARY TO RECEIVE A HAND
+### 5.14. SEVEN-CARD STUD: MONEY NECESSARY TO RECEIVE A HAND
 
 A player shall not be eligible to receive a hand unless he has at least the
 amount of an ante and the forced bring-in in chips or playable cash in front of
@@ -1363,7 +1363,7 @@ ante. If he is all-in for the ante and must bring it in, the player to his left
 has the same choices as if the all-in player had made the forced bet—come in
 for the forced bet, make the maximum bet or fold the hand.
 
-## 5.15. SEVEN-CARD STUD: FOLDED HAND NOT FACING ACTION
+### 5.15. SEVEN-CARD STUD: FOLDED HAND NOT FACING ACTION
 
 If a player folds his hand after making a forced bet or when not facing action,
 then that player's seat will continue to receive cards until a bet is made.
@@ -1371,12 +1371,12 @@ Cards shall be dealt the same way (up or down) as to all other players. A
 player who has folded, however, cannot be required to initiate action. In this
 circumstance, the highest-ranking live hand shall initiate the action.
 
-## 5.16. SEVEN-CARD STUD: CHANGING ORDER OF UPCARDS
+### 5.16. SEVEN-CARD STUD: CHANGING ORDER OF UPCARDS
 
 It is a violation of the rules tantamount to cheating for a player to
 deliberately change the order of his upcards in any open card game.
 
-## 5.17. SEVEN-CARD STUD: TURNING UPCARDS DOWN; MIXING UPCARDS AND DOWNCARDS
+### 5.17. SEVEN-CARD STUD: TURNING UPCARDS DOWN; MIXING UPCARDS AND DOWNCARDS
 
 A player who turns upcards facedown or mixes upcards and holecards together
 when facing a bet is deemed to have folded and his hand shall be declared dead.
@@ -1385,7 +1385,7 @@ folded or mixed his cards shall the hand be declared dead. This rule should be
 loosely enforced in low limit games and when dealing with inexperienced
 players, so long as there is no suspicion of intent to deceive in the action.
 
-## 5.18. SEVEN-CARD STUD: WRONG PLAYER DESIGNATED AS LOW
+### 5.18. SEVEN-CARD STUD: WRONG PLAYER DESIGNATED AS LOW
 
 If the wrong player is designated as low and that person brings it in, the
 action will be corrected to the proper low card so long as there has not been
@@ -1396,7 +1396,7 @@ decision whether or not to enter the pot when it is his turn. If there has been
 substantial action then the hand shall play as if the improperly designated
 bring-in were correct.
 
-## 5.19. SEVEN-CARD STUD: PROCEDURAL ERRORS IN DEALING
+### 5.19. SEVEN-CARD STUD: PROCEDURAL ERRORS IN DEALING
 
 All procedural errors regarding the deal shall be corrected to the extent
 possible so that each player receives the proper card.
@@ -1443,7 +1443,7 @@ possible so that each player receives the proper card.
   been discovered, the deal shall continue properly, with the dead hand either
   getting or not getting cards as it should pursuant to Cooke's Rules.
 
-## 5.20. SEVEN-CARD STUD: LAST CARD FACE-UP
+### 5.20. SEVEN-CARD STUD: LAST CARD FACE-UP
 
 If the dealer turns the last card face-up to any player, the procedure shall
 vary depending upon the circumstances and how many players remain in the hand.
@@ -1466,7 +1466,7 @@ vary depending upon the circumstances and how many players remain in the hand.
 - D. In all cases, the player who is high on board shall initiate the action
   regardless of whether he has four or five upcards.
 
-## 5.21. SEVEN-CARD STUD: NOT ENOUGH CARDS
+### 5.21. SEVEN-CARD STUD: NOT ENOUGH CARDS
 
 If there are not enough cards left in the deck for all players to receive a
 final card then the dealer shall deal all cards except the last card. The last
@@ -1485,17 +1485,17 @@ hands as a community card. In this event, the player who is high on board
 (including the community card) shall initiate action on the final betting
 round. The bottom card of the deck shall never be dealt.
 
-## 5.22. SEVEN-CARD STUD: COMPLETE HAND TO WIN POT
+### 5.22. SEVEN-CARD STUD: COMPLETE HAND TO WIN POT
 
 A player must have exactly seven cards in his hand to be awarded the pot at
 showdown.
 
-## 5.23. SEVEN-CARD STUD: CALLING UNABLE TO BEAT BOARD
+### 5.23. SEVEN-CARD STUD: CALLING UNABLE TO BEAT BOARD
 
 A player who calls a bet even though his hand cannot beat an opponent's upcards
 shall not be entitled to a refund.
 
-## 5.24. SEVEN CARD STUD, HIGH-LOW SPLIT
+### 5.24. SEVEN CARD STUD, HIGH-LOW SPLIT
 
 In this game the high hand and the low hand each win half the pot. This game is
 also known as Seven Card Stud Eight-or-Better. Seven-card Stud High-Low Split
@@ -1517,7 +1517,7 @@ however, the game is played by Kansas City Rules, with Aces playing as high
 only, and straights and flushes counting against the low hand. In limit games,
 an open pair on fourth street does not affect the limit.
 
-## 5.25. RAZZ
+### 5.25. RAZZ
 
 Razz is Seven Card Stud played for low only. Razz is played by exactly the same
 rules as Seven-Card Stud, with several major differences, as set forth in this
@@ -1534,7 +1534,7 @@ in seating, so it is not recommended.) In Limit games, an open pair does not
 affect the limit. Dealers announce all pairs the first time they occur; except
 pairs of face cards, which are never announced.
 
-## 5.26. FIVE-CARD STUD
+### 5.26. FIVE-CARD STUD
 
 Five-Card Stud was the game of the Old West and is the game best known to
 movie-goers (It was the game in the classic poker movie *The Cincinnati Kid*),
@@ -1552,11 +1552,11 @@ unless there is an open pair on the second upcard, in which case the same rules
 as in seven card-stud apply relative to increasing the limits. The game can be
 played high-low split, with Aces playing both high and low.
 
-# Article 6
+## Article 6
 
-# COMMUNITY CARD (HOLD'EM TYPE) GAMES
+## COMMUNITY CARD (HOLD'EM TYPE) GAMES
 
-## 6.01. HOLD'EM GAMES GENERALLY
+### 6.01. HOLD'EM GAMES GENERALLY
 
 By definition, a Hold'em game is a community card game (this term is used
 interchangeably with board game) where all players receive private hole cards,
@@ -1566,7 +1566,7 @@ many home game variations use more community cards. The first betting round
 takes place after the hole cards are dealt and before any community cards are
 dealt. The most common Hold'em games are Texas Hold'em and Omaha Hold'em.
 
-### 6.02. THE DEAL: BETTING ROUNDS
+#### 6.02. THE DEAL: BETTING ROUNDS
 
 In all forms of Hold'em spread in public cardrooms, the players first receive
 their private hole cards followed by a betting round. The dealer then burns a
@@ -1579,7 +1579,7 @@ card, known as the river, followed by a betting round and then the showdown.
 Thus, Hold'em games have five board cards shared by all players and the pot is
 built over four betting rounds.
 
-## 6.03. THE DEALER BUTTON: ORDER OF PLAY
+### 6.03. THE DEALER BUTTON: ORDER OF PLAY
 
 A flat disk known as the dealer button (usually referred to just as "the
 button") determines the order of the deal and action on each betting round.
@@ -1593,7 +1593,7 @@ to the left of the dealer button.
 
 Action proceeds clockwise from the "dealer" who has the button.
 
-## 6.04. BLINDS
+### 6.04. BLINDS
 
 Betting is initiated on the first round by blind bets put into the pot before
 the players receive their cards. In limit games, the blinds typically (although
@@ -1613,7 +1613,7 @@ left until action for the betting round is completed. (*See Cooke's Rules
 Article 12 "Blinds and the Dealer Button" on page 76 for additional details
 regarding blinds.*)
 
-## 6.05. TEXAS HOLD'EM
+### 6.05. TEXAS HOLD'EM
 
 When Hold'em is referred to without further qualification, it generally means
 Texas Hold'em, the most popular and widely spread form of the game. The game is
@@ -1638,7 +1638,7 @@ intention to play the board. A problem with this rule is that if a player
 announces his intention softly or forgets to announce it a dispute may arise as
 to whether he is eligible for a share of the pot.)
 
-## 6.06. OMAHA HOLD'EM
+### 6.06. OMAHA HOLD'EM
 
 In Omaha Hold'em (generally referred to as Omaha or Omaha High) all of the
 previous rules relating to community card games and Texas Hold'em apply, except
@@ -1666,7 +1666,7 @@ Awarding The Pot" on page 72.*) Omaha is often played with a Kill, so that a
 player who wins two pots in a row must "kill' the subsequent pot. (*See Cooke's
 Rules Article 8 "8.04 Kill Pot Games" on page 50 for more details.*)
 
-## 6.07. OMAHA HOLD'EM, HIGH-LOW SPLIT
+### 6.07. OMAHA HOLD'EM, HIGH-LOW SPLIT
 
 (a.k.a. Omaha Eight-or-Better.) Omaha is most commonly spread in public
 cardrooms as a split-pot game, high-low split. Omaha High-Low Split is played
@@ -1685,32 +1685,32 @@ a player who "scoops" by winning both the high and low parts of the pot in a
 single hand must kill the subsequent pot. (*See Cooke's Rules Article 8 "Other
 Betting Rules & Structures" on page 46.*)
 
-## 6.08 THREE CARD COMMUNITY CARD GAMES
+### 6.08 THREE CARD COMMUNITY CARD GAMES
 
 In a few public cardrooms, Hold'em games are spread where players are dealt
 three hole cards. The board contains five cards just as in all other community
 card games. Except as set forth, all rules of Texas Hold'em apply.
 
-### 6.08.01. PINEAPPLE
+#### 6.08.01. PINEAPPLE
 
 Players receive three hole cards as opposed to two in Texas Hold'em or four in
 Omaha Hold'em. After the initial betting round, but before the Dealer burns and
 turns the flop, each player must discard one card into the muck.
 
-### 6.08.02. CRAZY PINEAPPLE
+#### 6.08.02. CRAZY PINEAPPLE
 
 This is played exactly the same as Pineapple, except that Players discard their
 third hole card after the dealer has burned and turned the flop, but before
 commencement of the second betting round.
 
-### 6.08.03. TAHOE
+#### 6.08.03. TAHOE
 
 This is played exactly the same as Texas Hold'em, except that players are dealt
 three hole cards, none of which they discard. Although players have three hole
 cards, they may not play all three cards from their hands. Rather, as in Texas
 Hold'em, they must play zero, one or two cards from their hands.
 
-## 6.09 DOUBLE-FLOP HOLD'EM GAMES
+### 6.09 DOUBLE-FLOP HOLD'EM GAMES
 
 All games played with community cards (board games) can be played with a
 variation which is growing in popularity: the double flop. Double-flop board
@@ -1726,9 +1726,9 @@ rules of specific games apply; ie in Texas Hold'em contestants may play zero,
 one or two from their hands, in Omaha, players must play two from their hand,
 three from the board, etc.
 
-# CLOSED CARD (DRAW STYLE) GAMES
+## CLOSED CARD (DRAW STYLE) GAMES
 
-## 7.01. DRAW GAMES GENERALLY
+### 7.01. DRAW GAMES GENERALLY
 
 Draw games preceded both open-card (stud-type) games and community-card
 (Hold'em-type) games in the evolution of poker. It is the most widely
@@ -1741,7 +1741,7 @@ usual hand values, beginning in strength with royal flush and working down,
 draw poker is widely played in a variation called lowball, in which the low
 hand wins.
 
-## 7.02. HISTORICAL PERSPECTIVE
+### 7.02. HISTORICAL PERSPECTIVE
 
 Because of peculiarities of California law, closed-card poker games have been
 legal in California since the late 1800's. Even though other games
@@ -1770,7 +1770,7 @@ cardrooms—the most experienced in draw games—have fairly much standardized
 their Five-Card Draw rules. Cooke's Rules has deviated from the standard
 California Rules only in very minor ways.
 
-## 7.03. BUTTON, BLINDS, ANTES
+### 7.03. BUTTON, BLINDS, ANTES
 
 The game is largely one of positional advantage, so it is played with a
 rotating dealer button, giving each player the same opportunity to play hands
@@ -1786,7 +1786,7 @@ commonly called "California." If all opponents who play only call the big
 blind, rather than raise, the player having posted the big blind has an option
 to raise.
 
-## 7.04. THE DECK AND DEAL
+### 7.04. THE DECK AND DEAL
 
 As noted elsewhere in Cooke's Rules, each player receives five cards facedown,
 one at a time in Draw and Lowball. The traditional version of the game requires
@@ -1800,7 +1800,7 @@ the stakes double on the second round as they do on the turn in Hold'em and on
 fifth street in Seven-card Stud. Five cards constitute a playing hand. More or
 fewer than five cards after the draw constitute a folded hand.
 
-## 7.05. THE DRAW
+### 7.05. THE DRAW
 
 After the first betting round each active player who stays for the draw may
 replace from zero to five cards. Any player may draw up to five cards, dealt
@@ -1808,7 +1808,7 @@ consecutively from the deck. A second betting round follows the draw. In most
 limit games the stakes double on the second betting round. Fairly common
 variants of the game allow a second draw and a third draw.
 
-## 7.06. ORDER OF ACTION
+### 7.06. ORDER OF ACTION
 
 If blind bets are used instead of antes or in addition to antes, action on the
 first betting round proceeds exactly the same as in Hold'em games, beginning
@@ -1824,7 +1824,7 @@ blind, if still active, are considered to have opened the betting and will act
 first. Therefore, the action always begins to the left of the dealer on the
 second betting round in blind games.
 
-## 7.07. BETTING CAP
+### 7.07. BETTING CAP
 
 Historically, unlimited raises have been allowed. Sometimes the betting is
 limited to six raises. These raises are more than what is traditionally allowed
@@ -1839,13 +1839,13 @@ have chips remaining. (ALTERNATE RULE: Once the field of active opponents is
 reduced to two players, the betting cap is removed.) Cooke's Rules recommends
 the main rule in the interest of simplicity.
 
-## 7.08. OPENING BET
+### 7.08. OPENING BET
 
 The minimum opening bet is the size of the large blind (unless otherwise
 posted). Thus, in a \$30-\$60 limit game where the Blinds are \$10, \$20, and
 \$30, a player may open for a \$30 call or a raise to \$60 before the draw.
 
-## 7.09. ASKING HOW MANY CARDS WERE DRAWN
+### 7.09. ASKING HOW MANY CARDS WERE DRAWN
 
 If one active player asks another how many cards he drew, the player is
 obligated to respond honestly until there has been action after the draw, and
@@ -1853,14 +1853,14 @@ the dealer is also obligated to respond honestly. Once there has been action
 after the draw, the player is no longer obligated to respond and the dealer
 shall not respond.
 
-## 7.10. CHANGING NUMBER OF CARDS TO REPLACE
+### 7.10. CHANGING NUMBER OF CARDS TO REPLACE
 
 After stating how many cards he wishes to draw, a player may change the number
 of cards that he wishes to draw, provided that no cards have been dealt off the
 deck in response to the initial request and no player has acted in any way on
 his hand based on the number of cards that were originally requested.
 
-## 7.11. EXPOSED CARDS
+### 7.11. EXPOSED CARDS
 
 In high-hand variations of Draw, cards that are exposed face up by the dealer
 before the draw must be kept. Cards that are exposed by the dealer on the draw
@@ -1870,14 +1870,14 @@ procedure is to minimize the impact of the exposed card on other hands, so that
 each player gets his proper random card. In low-hand variations, other rules
 may govern which exposed cards can be kept before the draw.
 
-## 7.12. RAPPING THE TABLE
+### 7.12. RAPPING THE TABLE
 
 Rapping the table in turn constitutes a pass, but rapping the table in turn in
 draw games may mean the declaration of a pat hand. A player who indicates a pat
 hand by rapping the table, not knowing the pot has been raised, may still play
 his hand.
 
-## 7.13. ALL-IN FOR THE ANTE
+### 7.13. ALL-IN FOR THE ANTE
 
 A player who is all-in for the ante (or part of the ante) may declare the pot
 opened if he has the minimum required openers or if no minimum openers are
@@ -1894,26 +1894,26 @@ has only a full ante and no other chips on the table, he may play for just the
 ante. If no one opens and there is another ante, he may still play for that
 part of the antes that he has matched, without putting in more chips.
 
-## 7.14. RIGHT TO ANTE IN
+### 7.14. RIGHT TO ANTE IN
 
 In an ante-only game, a player has the right to pay the ante (single or
 multiple) at any time and receive a hand, unless there is any additional money
 in the pot that has been forfeited during a hand in which the player was not
 involved.
 
-## 7.15. OPENERS BUTTON
+### 7.15. OPENERS BUTTON
 
 Some establishments use a house button, known as an Openers Button, to
 designate the player who opened the pot. This is particularly common in
 establishments that spread Jacks-or-Better.
 
-## 7.16. FIVE-CARD DRAW
+### 7.16. FIVE-CARD DRAW
 
 The previously stated rules apply to all forms of Draw. However, there are
 several rules that are particular to Five Card Draw games that are played for
 high, as opposed to Lowball.
 
-### 7.16.01. THE JOKER
+#### 7.16.01. THE JOKER
 
 The joker may only be played as an ace or to complete a straight or flush,
 including a straight flush. When used to complete a flush, it serves as the
@@ -1921,25 +1921,25 @@ highest unmatched rank. This means that if a player held ace-queen-nine-six of
 hearts and the joker, then the joker would serve as the king of hearts. There
 is no such thing as a "double-ace flush."
 
-### 7.16.02. FIVE ACES
+#### 7.16.02. FIVE ACES
 
 Because of the joker, all hand rankings are the same except that the highest
 hand in this game is five aces— four natural aces, plus a joker—ranking above a
 royal flush.
 
-### 7.16.03. CHECK-RAISING
+#### 7.16.03. CHECK-RAISING
 
 Check and raise is permitted. In games using blind bets, this applies to the
 second betting round only, because it isn't possible on the first betting
 round.
 
-### 7.16.04. OPENING REQUIREMENTS
+#### 7.16.04. OPENING REQUIREMENTS
 
 Traditional Five-Card Draw without minimum opening requirements is also known
 as California Draw, or Guts. In this game, players can open with any five
 cards, regardless of the strength of their hands.
 
-## 7.17. JACKS-OR-BETTER
+### 7.17. JACKS-OR-BETTER
 
 Draw is frequently played with the requirement that a player hold a pair of
 jacks or better to open the betting. This game is known as Jacks-or-Better. If
@@ -1949,12 +1949,12 @@ particular game. Except as expressly in conflict with the provisions of this
 section, all previously stated rules of Draw Generally and Five-Card Draw for
 high apply to Jacks-or-Better.
 
-### 7.17.01. SHOW OPENERS
+#### 7.17.01. SHOW OPENERS
 
 A player who opens the pot in jacks-or-better must show his openers, whether
 the hand is called or not, in order to win the pot.
 
-### 7.17.02. FALSE OPENERS
+#### 7.17.02. FALSE OPENERS
 
 If the opener should show false openers before the draw, any other active
 player who has not yet acted on a hand meeting the minimum opening requirements
@@ -1987,7 +1987,7 @@ entitled to play the next hand after anteing again.
   the opener retain the opening hand and show it after the winner of the pot
   has been determined.
 
-### 7.17. 03. SPLITTING OPENERS
+#### 7.17. 03. SPLITTING OPENERS
 
 A player who opens the pot may "Split" his openers and discard one of them, but
 must announce that he is doing so and place all discards under a chip to be
@@ -1997,7 +1997,7 @@ have had openers when the final hand is compared to the discards, he shall not
 be eligible to win the pot. A player is not splitting openers if he retains
 openers.
 
-## 7.18. LOWBALL
+### 7.18. LOWBALL
 
 Lowball is Five-Card Draw poker with the lowest hand winning the pot, ignoring
 straights and flushes, and rating the ace low. In Ace-to five Lowball (a.k.a.
@@ -2014,13 +2014,13 @@ replacing cards in their hands with new ones. In limit poker, the bet doubles
 after the draw unless otherwise posted. Lowball is frequently played with a
 Kill.
 
-### 7.18.01. THE JOKER
+#### 7.18.01. THE JOKER
 
 As with Five-Card Draw, California Lowball is played with a fifty-three card
 deck that includes a joker. The joker automatically plays as the lowest card
 not present in a player's hand.
 
-### 7.18.02. VERBAL DECLARATIONS AT SHOWDOWN BINDING
+#### 7.18.02. VERBAL DECLARATIONS AT SHOWDOWN BINDING
 
 As in other games, the cards speak. However, unlike in other games a verbal
 declaration in regards to a player's hand is binding. i.e., If a player calls
@@ -2032,13 +2032,13 @@ the mis-called hand is dead, and the best remaining hand wins the pot. As in
 all games, a player for his own protection should always protect his hand until
 an opponent's winning cards are shown down.
 
-### 7.18.03. VERBALLY ANNOUNCE PAIRS
+#### 7.18.03. VERBALLY ANNOUNCE PAIRS
 
 Any player spreading a hand at showdown with a pair in it must announce "pair"
 or risk losing the pot if it causes any other player to foul a hand. If two or
 more hands remain intact, the best hand wins the pot.
 
-### 7.18.04. MUST BET SEVENS
+#### 7.18.04. MUST BET SEVENS
 
 In limit play, if a player checks a seven-low or better and it is the best
 hand, all action after the draw is void, and that player cannot win any money
@@ -2054,7 +2054,7 @@ obligation by completing to a full bet, all subsequent betting action will
 stand. You cannot check-raise after the draw, even with a hand worse than
 seven-low.
 
-### 7.18.05. NEW PLAYER ENTERING GAME; MISSED BLIND
+#### 7.18.05. NEW PLAYER ENTERING GAME; MISSED BLIND
 
 A new player entering the game may either wait for the big blind or kill the
 pot and receive a hand immediately. (ALTER-NATE RULE*.* The new player may only
@@ -2068,7 +2068,7 @@ the player has taken all of his blinds and changed seats. In that situation, he
 will be dealt in when his position, in relation to the blinds, entitles him to
 a hand.
 
-### 7.18.06. PLAYER WITH LESS THAN HALF A BLIND
+#### 7.18.06. PLAYER WITH LESS THAN HALF A BLIND
 
 A player who has less than half a big blind when it is his turn to post may
 receive a hand. However, the next player to the left is obligated to enter the
@@ -2077,7 +2077,7 @@ the player will then be obligated to post an amount equal to the big blind in
 the position where he next receives cards. Half a blind or more constitutes a
 full blind.
 
-### 7.18.07. EXPOSED CARDS
+#### 7.18.07. EXPOSED CARDS
 
 In limit ace-to-five Lowball, before the draw, an exposed card of seven or
 under must be taken, and an exposed card higher than a seven must be replaced
@@ -2088,7 +2088,7 @@ before the draw is not treated as an exposed card unless it lands face up
 without any intervention on the part of the player. After the draw, all flashed
 cards are considered exposed cards and replaced.
 
-### 7.18.08. POT-LIMIT/NO-LIMIT VARIATIONS
+#### 7.18.08. POT-LIMIT/NO-LIMIT VARIATIONS
 
 In pot-limit and no-limit Lowball, a player must take an exposed card of A, 2,
 3, 4 or 5 before the draw and any other card must be replaced. After the draw,
@@ -2096,7 +2096,7 @@ any exposed card must be replaced. After the draw, a player may check any hand
 without penalty; the must-bet-sevens rule does not apply. Check and raise is
 always permitted in pot-limit and no-limit.
 
-## 7.19. KANSAS CITY LOWBALL
+### 7.19. KANSAS CITY LOWBALL
 
 In Kansas City Lowball (a.k.a. Deuce-to-Seven), the best hand is 7-5-4-3-2, not
 of the same suit, followed by 7-6-4-3-2, etc. The distinction is that in Kansas
@@ -2111,7 +2111,7 @@ Kansas City Lowball is generally played with a traditional fifty-two card deck.
 All other Lowball and Draw Rules not inconsistent with the provisions of this
 section apply to Kansas City Lowball.
 
-## 7.20. JACKS BACK
+### 7.20. JACKS BACK
 
 Jacks back is a five-card draw game that is a hybrid of Jacks-orbetter and
 ace-to-five Lowball. At the deal, it is Five-Card Draw with Jacks-or-better to
@@ -2124,7 +2124,7 @@ Jacks-or-Better rules. A pot that is opened as low uses all Lowball rules.
 Check and raise is always permitted in Jacks Back on the high side and never on
 the low side where the Must Bet Sevens Rule applies.
 
-#### 7.20.01.
+##### 7.20.01.
 
 If the opening forced Lowball bet is not raised; the player who made the forced
 bet has the option of raising after the dealer has acted. (*See the live blind
@@ -2135,15 +2135,15 @@ the button remains in the same position for the all-in player to take the
 blind, should no one open for high. The button then advances to its proper
 position.
 
-### 7.20.02.
+#### 7.20.02.
 
 If the pot is opened falsely for high and no one calls, the opener loses the
 opening bet, and the bet remains in the pot. The button then freezes, and the
 hand is re-dealt.
 
-# OTHER BETTING RULES & STRUCTURES
+## OTHER BETTING RULES & STRUCTURES
 
-## 8.01. NO-LIMIT POKER
+### 8.01. NO-LIMIT POKER
 
 No-limit is considered by many to be the purest form of poker. Many major
 tournaments, including the World Series of Poker championship and World Poker
@@ -2152,18 +2152,18 @@ all the money he has in play at any time pursuant to the rules governing table
 stakes. The only limit on the amount a player may bet is the amount he has in
 front of him.
 
-### 8.01.01. NO CAP
+#### 8.01.01. NO CAP
 
 There is no limit on the number of raises on any betting round.
 
-### 8.01.02. MINIMUM BET AND RAISE
+#### 8.01.02. MINIMUM BET AND RAISE
 
 Except for a player going all-in, all bets must be for no less than the minimum
 bring-in designated for the structure. Further, all raises must be equal to or
 greater than the size of the previous bet or raise on that round, except when
 making an all-in wager.
 
-### 8.01.03. NO CHECKRAISING AN ALL IN WAGER
+#### 8.01.03. NO CHECKRAISING AN ALL IN WAGER
 
 An all-in bet for less than the minimum bring-in may not be raised by any
 player who has already checked. Further, a player who has already checked and
@@ -2176,31 +2176,31 @@ raise, because his bet was raised the amount of a complete raise by the second
 player. If the first player does elect to raise, then the second player may
 re-raise because he has now been raised a complete raise.)
 
-### 8.01.04. RELEASE CHIPS
+#### 8.01.04. RELEASE CHIPS
 
 A movement with chips is not binding as a wager until the chips are released
 into the pot.
 
-### 8.01.05. VERBAL DECLARATIONS OF BETS BINDING
+#### 8.01.05. VERBAL DECLARATIONS OF BETS BINDING
 
 If a player announces a bet or raise of a certain size but puts a different
 amount in the pot, the bet will be corrected to match the amount of the verbal
 declaration.
 
-### 8.01.06. OVERSIZED CHIPS
+#### 8.01.06. OVERSIZED CHIPS
 
 A large chip or bill placed into the pot without comment shall be presumed to
 be a wager for the full amount of the chip or bill, unless the action is
 responsive to action the player is facing. If the player is facing action, the
 oversized chip or bill without comment shall be deemed a call.
 
-### 8.01.07. ANNOUNCING RAISE
+#### 8.01.07. ANNOUNCING RAISE
 
 A player who announces a raise may use more than one motion to place chips into
 the pot until his action is complete, notwithstanding any rule against string
 raises.
 
-### 8.01.08. RIGHT TO KNOW MONEY
+#### 8.01.08. RIGHT TO KNOW MONEY
 
 A player has the right to know the amount of money an opponent has in play. All
 players are entitled to an unimpeded view of the chips and cash of all
@@ -2209,13 +2209,13 @@ shall not unreasonably slow down the game by repeatedly asking for a countdown
 of his opponents. As in all other games, only hundred dollar bills play in
 no-limit, and other cash shall not be permitted on the table.
 
-### 8.01.09 HOUSE MAY INVOKE CLOCK
+#### 8.01.09 HOUSE MAY INVOKE CLOCK
 
 The dealer shall give a player one minute and ten seconds to act pursuant to
 the rules relating to clock requests when a player fails to act timely (*See
 Cooke's Rules Article 10 "10.03. Clock Request" on page 65.*)
 
-### 8.01.10 INSURANCE AND PROPOSITION BETS
+#### 8.01.10 INSURANCE AND PROPOSITION BETS
 
 Insurance and proposition bets are private agreements between or among players
 not involving the house, common in both no-limit and pot-limit poker. While the
@@ -2225,12 +2225,12 @@ either the player with the best shown down hand, or the player who has made an
 unmatched wager. Further, the house shall invoke the clock during insurance and
 proposition negotiations that unreasonably delay the game.
 
-### 8.01.11. NO-LIMIT LOWBALL
+#### 8.01.11. NO-LIMIT LOWBALL
 
 Special rules apply to Lowball played no-limit. (*See Cooke's Rules Article 7
 "Closed Card (Draw Style) Games" on page 36 for more details.*)
 
-## 8.02 POT-LIMIT POKER
+### 8.02 POT-LIMIT POKER
 
 Pot-limit is the prevalent form of poker in Europe and is commonly spread
 during tournament side action. Pot-limit is most common in button games,
@@ -2240,12 +2240,12 @@ rules for that particular structure and the amount of the pot. A player has the
 right to bet the established minimum at any time, even if it is an amount
 larger than is presently in the pot.
 
-### 8.02.01 NO-LIMIT RULES APPLY
+#### 8.02.01 NO-LIMIT RULES APPLY
 
 Except for those matters set forth herein relative to the amount which may be
 wagered, all rules of no-limit poker apply to pot-limit poker.
 
-### 8.02.02 OPENING BET
+#### 8.02.02 OPENING BET
 
 In pot-limit, the bring-in bet is sometimes larger than the combined total of
 the blinds and antes. Typically, the minimum opening bet is the size of the big
@@ -2254,7 +2254,7 @@ times the size of the big blind. Nonetheless, requirements for opening bets are
 not an appropriate subject for rules and shall be set by each establishment in
 its best judgment.
 
-### 8.02.03 DETERMINING THE SIZE OF THE POT
+#### 8.02.03 DETERMINING THE SIZE OF THE POT
 
 The size of the pot for purposes of determining the maximum bet shall be
 rounded upward to an even multiple of the minimum betting unit, with odd chips
@@ -2270,7 +2270,7 @@ and raise the size of the pot another \$300, which would make the size of the
 pot \$600. A player responding to that bet could call the raise, making the pot
 \$900, and raise the pot \$900, making the size of the pot \$1800.)
 
-### 8.02.04. OVERBETS
+#### 8.02.04. OVERBETS
 
 If a player makes a wager that exceeds the size of the pot, any excess shall be
 returned to him if it is discovered prior to substantial action behind him. If
@@ -2278,14 +2278,14 @@ two or fewer players have acted behind him, all action shall be corrected to
 reflect the proper amount. If more than two players have acted behind him, the
 overbet shall stand.
 
-### 8.02.05. OVERSIZED CHIPS
+#### 8.02.05. OVERSIZED CHIPS
 
 A chip or bill larger than the pot placed into the pot without comment shall be
 presumed to be a wager for the size of the pot unless the action is responsive
 to action the player is facing. If the player is facing action, then the
 oversized chip or bill without comment shall be deemed a call.
 
-### 8.02.06. POT-LIMIT VARIATIONS
+#### 8.02.06. POT-LIMIT VARIATIONS
 
 Pot-limit can be played with several different variations, including:
 
@@ -2297,12 +2297,12 @@ Pot-limit can be played with several different variations, including:
   no-limit shall apply after the flop.
 - C. Half pot-limit, wherein players may bet up to half the pot at any time.
 
-### 8.02.07 LOWBALL
+#### 8.02.07 LOWBALL
 
 Certain special rules apply to Lowball played pot-limit. (*See Cooke's Rules
 Article 7 "Closed Card (Draw Style) Games" on page 36 for more details.*)
 
-## 8.03 SPREAD-LIMIT (UNSTRUCTURED) POKER
+### 8.03 SPREAD-LIMIT (UNSTRUCTURED) POKER
 
 Spread-limit poker is also called unstructured poker because there is no
 structured amount to bet on a given street. Rather, there is a minimum bet and
@@ -2319,7 +2319,7 @@ bet or raise made on that street. When spread limit games are played with a
 kill, both the minimum and maximum amounts of the bets are increased. (i.e.
 \$2-\$6 becomes \$4- \$12.)
 
-## 8.04 KILL POT GAMES
+### 8.04 KILL POT GAMES
 
 All games played with blinds and only games played with blinds can be played
 for a kill. Kills are most common in Lowball and Omaha High-Low Split, but are
@@ -2327,7 +2327,7 @@ not uncommon in Texas Hold'em, Draw and Omaha High. Games played with a kill
 are indicated on the table sign identifying the game, and there is a Kill
 Button either in the dealer's tray or in play in the game.
 
-### 8.04.01 KILL DEFINED
+#### 8.04.01 KILL DEFINED
 
 On the occurrence of a predetermined event—most commonly, one player either
 winning two consecutive pots or winning both the high and low portions in a
@@ -2341,7 +2341,7 @@ are said to trigger a kill. When a kill is triggered, the player who must kill
 the pot by posting an additional blind double the amount of the normal big
 blind is known as "the killer."
 
-### 8.04.02 WINNING TWO CONSECUTIVE POTS
+#### 8.04.02 WINNING TWO CONSECUTIVE POTS
 
 (a.k.a. Natural Kill.) This kill variation can be used in any game played with
 blinds and is most common in Lowball, Texas Hold'em and Omaha High. A player
@@ -2375,7 +2375,7 @@ flop, he keeps the kill button. This is known as a walk. A player who gets a
 walk keeps the kill button. (ALTER-NATE RULE: In the event of a walk, the kill
 button becomes neutral.)
 
-### 8.04.03 SCOOPING HIGH AND LOW
+#### 8.04.03 SCOOPING HIGH AND LOW
 
 In high-low games played with a kill, a player who wins both the high and low
 portions of the pot, whether at showdown or by making an unmatched wager, shall
@@ -2385,7 +2385,7 @@ killed only if the total pot is at least five times the size of the upper limit
 of the game (i.e. \$100 in a \$10-\$20 game.) A player's uncalled bet is not
 included in determining the pot size.
 
-### 8.04.04 WINNING A BIG POT
+#### 8.04.04 WINNING A BIG POT
 
 Winning a pot with more than a certain amount of money in it can be the event
 to trigger a kill. For example, in a \$2-10 spread limit game or a \$1-4-8-8
@@ -2398,13 +2398,13 @@ the amount of the big blind) or an arbitrary amount. The amount that triggers a
 kill when using the pot-size method is a matter for management to decide in its
 best business judgment.
 
-### 8.04.05 NO OPENERS
+#### 8.04.05 NO OPENERS
 
 In some draw games with openers requirements, if nobody can open, then the kill
 can come into play, and the player immediately to the left of the blinds posts
 the additional blind.
 
-### 8.04.06 KILL BUTTON
+#### 8.04.06 KILL BUTTON
 
 Kill games are marked by the presence of a Kill Button on the table. The Kill
 Button has three statuses: neutral; a leg up; and killed. In those games that
@@ -2421,7 +2421,7 @@ The previous pot did not meet the monetary requirements for a kill. In a killed
 pot, the dealer shall place the kill button in the pot, with the word KILL
 face-up.
 
-### 8.04.07 OPENING ROUND ACTION IN KILLED POTS
+#### 8.04.07 OPENING ROUND ACTION IN KILLED POTS
 
 When a pot is killed, action on the first betting round shall begin to the left
 of the big blind, however, players shall be required to call the amount of the
@@ -2437,7 +2437,7 @@ is that it often cheats the button of the positional advantage for which he has
 paid in the form of his blinds.) If the killer raises when the action comes to
 him, further action proceeds clockwise from the killer.
 
-### 8.04.08 UNPOSTED BUT REQUIRED KILLS
+#### 8.04.08 UNPOSTED BUT REQUIRED KILLS
 
 A player who refuses to post his kill shall be ejected from the game and not
 permitted to return for at least two hours. Should a mistake be made and a
@@ -2449,14 +2449,14 @@ post a kill must do so that same hand even if he wishes to be dealt out or quit
 the game. A player who fails to post a required kill blind will not be allowed
 to participate in the game until the kill money is posted.
 
-### 8.04.09 HALF KILL
+#### 8.04.09 HALF KILL
 
 Some smaller stakes games are played with a half kill, where the amount of the
 additional blind is 150% of the big blind, and the stakes are increased
 accordingly (i.e. a \$10-\$20 game played with a half kill would require a kill
 of \$15 to be posted and the hand would be played \$15-\$30.)
 
-### 8.04.10 VOLUNTARY KILLS
+#### 8.04.10 VOLUNTARY KILLS
 
 If no player at the table objects, a player may voluntarily kill the pot at any
 time. The kill must be announced and the kill blind posted before the deal of
@@ -2469,7 +2469,7 @@ shall be prohibited.) Voluntary kills are distinguished from Straddles and
 Sleepers (See Cooke's Rules Article 12 "Blinds and the Dealer Button" on page
 76) because a kill doubles the stakes, while straddles and sleepers do not.
 
-### 8.04.11. MISCELLANEOUS KILL POT RULES
+#### 8.04.11. MISCELLANEOUS KILL POT RULES
 
 - A. Blind chopping is prohibited in killed pots.
 - B. Kill Blinds are considered part of the pot for purposes of determining the
@@ -2499,7 +2499,7 @@ Sleepers (See Cooke's Rules Article 12 "Blinds and the Dealer Button" on page
   gets a discount in these circumstances. This is sometimes known as a "soft
   kill." Voluntary soft kills shall not be permitted.
 
-### 8.04.12 SPECIAL LOWBALL KILL RULES
+#### 8.04.12 SPECIAL LOWBALL KILL RULES
 
 - A. All other Kill Pot Rules apply to Lowball, except as they expressly
   conflict with the provisions of this section.
@@ -2512,7 +2512,7 @@ Sleepers (See Cooke's Rules Article 12 "Blinds and the Dealer Button" on page
   receive a hand by agreeing to kill the next available pot, provided no one
   objects.
 
-## 8.05 HOSE, HOE, HORSE AND OTHER GAMES OF ROUNDS
+### 8.05 HOSE, HOE, HORSE AND OTHER GAMES OF ROUNDS
 
 Games of rounds are those in which multiple games are played. They are known by
 their acronyms, including HOSE (Hold'em, Omaha Hi-Lo, Stud, and Eight-or-Better
@@ -2527,13 +2527,13 @@ every half hour.) A table sign shall indicate which game is in progress. The
 stakes shall be the same for all games played. Players may not share a seat in
 games of rounds.
 
-# Article 9: RULES RELATING TO MONEY, STAKES, BUY-INS, ETC.
+## Article 9: RULES RELATING TO MONEY, STAKES, BUY-INS, ETC.
 
-## 9.01. PLAYER'S MONEY
+### 9.01. PLAYER'S MONEY
 
 A player is always responsible for his own chips and money on the table.
 
-## 9.02. MINIMUM BUY-IN
+### 9.02. MINIMUM BUY-IN
 
 The appropriate minimum buy-in for a game is a matter of house policy and
 sometimes government regulation. However, in no game shall the minimum buy-in
@@ -2555,7 +2555,7 @@ money he took off the table when he left or the minimum buy-in. Suggested
 minimum buy-ins for different games are set forth at Appendix B. No-limit and
 pot-limit games may in the house's discretion have a maximum buy-in.
 
-## 9.03. MINIMUM BETTING UNIT
+### 9.03. MINIMUM BETTING UNIT
 
 In each game, a minimum betting unit will be established as the smallest chip
 normally used in the blinds, antes or a forced bet. When going all-in, a player
@@ -2566,7 +2566,7 @@ dollars in fifty-cent pieces, then \$5 plays and must be put into the pot, \$3
 doesn't and may not be put into the pot.) Suggested minimum betting units for
 different games are set forth at Appendix B.
 
-## 9.04. APPROPRIATE CHIP DENOMINATION
+### 9.04. APPROPRIATE CHIP DENOMINATION
 
 Each game shall be played with chips of an appropriate denomination to expedite
 the game. Too many chips of either a large denomination (requiring constant
@@ -2586,7 +2586,7 @@ changing to chips larger than the appropriate denomination shall only be
 permitted when a player has so many chips in front of them that they are a
 nuisance.
 
-## 9.05. TABLE STAKES
+### 9.05. TABLE STAKES
 
 All games are table stakes. A player can only wager the money in play at the
 start of the hand. Money in play may only be increased between hands and may
@@ -2610,7 +2610,7 @@ Notwithstanding this, such non-poker bets shall not be made during the play of
 a hand in which the person making the bet is involved, so that the conditions
 of contest are not changed in the course of the hand.
 
-## 9.06. SHORT BUY-INS
+### 9.06. SHORT BUY-INS
 
 A short-buy-in of at least one half the size of the minimum buy-in will be
 allowed one time in the course of a playing session. However, a player with
@@ -2622,7 +2622,7 @@ minimum betting unit remaining. Generally, the determining factor as to
 application of the short buy rule is whether or not a player has gone all-in on
 a previous hand, although this is not necessarily dispositive.
 
-## 9.07. PLAYING BEHIND
+### 9.07. PLAYING BEHIND
 
 A player who has chips in transit or who is in the process of putting cash on
 the table shall announce to the dealer that he is playing behind, as well as
@@ -2638,7 +2638,7 @@ involved in a hand, the number of chips he wagers in the course of the hand
 shall be pulled from the pot and placed in front of him each time he makes
 action so as to avoid dispute over how much he owes the winner of the pot.
 
-## 9.08. MONEY IN VIEW
+### 9.08. MONEY IN VIEW
 
 At the start of each hand, every player at the table has the right to know how
 much money every other player at the table has in play. This is so he knows how
@@ -2652,7 +2652,7 @@ any player may ask the dealer to determine how much money another player has in
 play. In many California cardrooms racks are not permitted on the table, thus
 avoiding the problem of money hidden under racks.
 
-## 9.09. ALL-IN BETS
+### 9.09. ALL-IN BETS
 
 A player shall never be obliged to forfeit his interest in a pot because he has
 insufficient chips or money in play to match or make a bet. Such a player may
@@ -2666,7 +2666,7 @@ interest in the pot. Any action after a player is all-in shall go into a side
 pot that the all-in player is not eligible to win. If more than one player goes
 all-in during the course of a hand, there may be more than one side pot.
 
-### 9.09.01. RAISING AN ALL-IN BET OF LESS THAN ONE-HALF A BET
+#### 9.09.01. RAISING AN ALL-IN BET OF LESS THAN ONE-HALF A BET
 
 A bet of less than one half a bet in limit games shall not be considered a full
 bet. A player may go all-in with a bet, call or raise, or any part thereof in
@@ -2689,7 +2689,7 @@ not constitute a raise for purposes of determining how many raises remain open.
 Such a wager for less then half a bet does not constitute a wager to be
 responded to, and is known as action only.
 
-### 9.09.02. RAISING AN ALL-IN BET OF ONE-HALF A BET OR MORE
+#### 9.09.02. RAISING AN ALL-IN BET OF ONE-HALF A BET OR MORE
 
 An all-in wager of half a bet or more shall be treated as a full bet, and a
 player facing such an all-in bet may fold, call, or make a full raise. If the
@@ -2707,7 +2707,7 @@ complete the bet and raise it a full bet, for a total of \$80. Note that
 application of this alternate rule may create an inconsistency with the rule
 above.)
 
-## 9.10. POT SPLITTING
+### 9.10. POT SPLITTING
 
 Pot splitting, except chopping the blinds in button games, shall be prohibited.
 (ALTERNATE RULE: As chopping blinds inhibits action, it shall be prohibited.)
@@ -2722,7 +2722,7 @@ splitting is therefore prohibited, a table sign shall be posted so advising all
 persons in the game.) Pot splitting shall always be permitted in pot-limit and
 no-limit games.
 
-## 9.11. INSURANCE
+### 9.11. INSURANCE
 
 Insurance is a private agreement between the players involved and is not
 considered an integral part of the game. It is prohibited in limit games, and
@@ -2734,20 +2734,20 @@ insurance in the course of the play of a hand and refuses to honor it is
 subject to disciplinary action including but not limited to ejection from the
 game.
 
-## 9.12. SIDE BETS
+### 9.12. SIDE BETS
 
 Side bets, potting, kitties, pushing bets, saving, potting out, horsing, and
 other such arrangements are a violation of table stakes rules and are expressly
 prohibited. Pushing an ante is only allowed in time collection games.
 
-## 9.13. CASH DOES NOT PLAY
+### 9.13. CASH DOES NOT PLAY
 
 Cash on the table does not play, except for playing behind.[^bills]
 
 [^bills]: Until 200X, most Vegas rooms allowed that $100 bills played just as
     chips.  This makes it difficult to judge how much a player has in play.
 
-## 9.14. WRONG AMOUNT IN POT
+### 9.14. WRONG AMOUNT IN POT
 
 If a player mistakenly bets the lower limit on a street which calls for an
 upper limit bet, and it is discovered before the betting round is completed,
@@ -2759,13 +2759,13 @@ player puts less than half a bet too much in the pot it shall be deemed a call.
 If a player puts a half bet or more in the pot, then it shall be deemed a
 raise.)
 
-## 9.15. PLAYERS NOTICING ERRORS
+### 9.15. PLAYERS NOTICING ERRORS
 
 Any player who sees an incorrect amount of chips put into the pot, or an error
 about to be made in awarding the pot, shall point out the error to the dealer
 at the earliest possible opportunity.
 
-## 9.16. BETTING CAPS
+### 9.16. BETTING CAPS
 
 In limit poker, all games allow a maximum of a bet and four raises in pots
 involving three or more players who are not all in. (ALTERNATE RULE: A bet and
@@ -2780,7 +2780,7 @@ other games. One reason to favor the alternate rule here is that permitting so
 many raises promotes collusion and partnerships.) In pot-limit and no-limit,
 there is no cap on raises.
 
-## 9.17. OVERSIZED CHIP OR BILL
+### 9.17. OVERSIZED CHIP OR BILL
 
 If, when responding to action, a player puts a single chip or bill in the pot
 that is larger than the bet, but does not announce a raise, he shall be deemed
@@ -2791,7 +2791,7 @@ is necessary to call a bet, but the last chip might be construed as a raise. In
 stud games, a single oversized chip or bill will not automatically complete a
 forced bring-in bet unless it is verbally declared to do so.
 
-## 9.18 ODD CHIP
+### 9.18 ODD CHIP
 
 In all games where dividing the pot results in an odd chip when the pot is
 split, the odd chip—in increments of the minimum betting unit—will go to the
@@ -2803,9 +2803,9 @@ chip will be broken down to units of one dollar, which shall be divided
 proportionately, with the odd dollar or dollars allocated as set forth in the
 main rule.)
 
-# BETTING ROUNDS, ACTION & PLAY OF HANDS
+## BETTING ROUNDS, ACTION & PLAY OF HANDS
 
-## 10.01. ACTING IN TURN
+### 10.01. ACTING IN TURN
 
 A player shall act on his hand when it is his turn and only when it is his
 turn. Acting out of turn, including the practice of checking out, is expressly
@@ -2817,7 +2817,7 @@ disadvantage for other players in the hand.) Repeatedly acting out of turn
 gives some players an advantage at the expense of other players and is grounds
 for ejection from the game.
 
-## 10.02. ACTING PROMPTLY
+### 10.02. ACTING PROMPTLY
 
 A player is entitled to a reasonable amount of time to think about his action,
 but should in no other way slow the pace of the game. If a player wishes to
@@ -2836,7 +2836,7 @@ the action which the person acting behind him is facing. (*See Article 11 of
 Cooke's Rules relating to the deal for the dealer's response to a player not
 acting timely.*)
 
-## 10.03. CLOCK REQUEST
+### 10.03. CLOCK REQUEST
 
 When a player feels another player is taking too long to act on his hand, a
 clock may be requested. The player will then have one minute and ten seconds to
@@ -2853,7 +2853,7 @@ defeats the purpose of expediting the game.) At the request of the dealer, a
 floorperson may invoke the clock if a player refuses to act for any reason,
 including but not limited to drunkenness, illness or death.
 
-## 10.04. FOLLOW THE ACTION
+### 10.04. FOLLOW THE ACTION
 
 A player is responsible to follow the action. A player should know when it is
 his turn to act, and who has made what actions before him. A player should not
@@ -2862,7 +2862,7 @@ of Cooke's Rules, a player's bets remain in front of him and are not scooped
 into the pot until the betting round is completed. Thus a player can tell who
 has made what action by looking at the table.
 
-## 10.05. CHIPS SPEAK FOR ACTION
+### 10.05. CHIPS SPEAK FOR ACTION
 
 Chips placed in the pot shall always be presumed to reflect the intent of the
 player, absent a verbal declaration of different intent. Verbal declarations of
@@ -2873,7 +2873,7 @@ in the pot than necessary to call a bet he faces—shall be deemed to have calle
 the bet and must complete the call by putting the correct amount of chips into
 the pot.
 
-## 10.06. ACTIONS WITH CHIPS; FORWARD MOTION
+### 10.06. ACTIONS WITH CHIPS; FORWARD MOTION
 
 Absent a verbal declaration indicating otherwise, a player who puts more chips
 in the pot than necessary to respond to the action he is facing shall be deemed
@@ -2910,7 +2910,7 @@ them forward to rap the table, not intending to bet, and caution such players
 that such a forward motion with chips in hand may constitute binding action if
 another player acts.
 
-## 10.07. SPLASHING THE POT
+### 10.07. SPLASHING THE POT
 
 A player shall not splash the pot. When placing chips in the pot, a player
 shall place them in front of him so that there is no confusion as to who placed
@@ -2922,7 +2922,7 @@ aware that the correct number of chips is in the pot. When putting a stack of
 chips of different denominations in the pot, a player should place chips of
 larger denominations on the bottom, smaller denominations on the top.
 
-## 10.08. ACTION OUT OF TURN
+### 10.08. ACTION OUT OF TURN
 
 A player who makes action out of turn shall be held to that action when it is
 his turn, unless intervening action changes the action the out-of-turn player
@@ -2933,7 +2933,7 @@ the action comes to him. If a player calls out of turn and a player in between
 the better and the caller raises then the calling player may have the option to
 act on his hand as if he had not acted out of turn.
 
-## 10.09. VERBAL DECLARATION OF ACTION
+### 10.09. VERBAL DECLARATION OF ACTION
 
 1) In turn: a verbal declaration of action is binding if, when it is a player's
    turn to act, he announces a fold, check, bet, call, or raise. The player
@@ -2943,7 +2943,7 @@ act on his hand as if he had not acted out of turn.
    changes the action the out-of-turn plater is facing, in which case the
    player may act on his hand as if he had made no declaration.
 
-## 10.10. STRING RAISES
+### 10.10. STRING RAISES
 
 Chips should be placed in the pot in a single hand motion. A player who places
 chips in the pot shall not return to his stack for additional chips to raise,
@@ -2957,7 +2957,7 @@ player who does this shall not be permitted to raise. Note again that placing
 an oversized chip in the pot without declaring one's intention constitutes a
 call.
 
-## 10.11. CHIP MOVES
+### 10.11. CHIP MOVES
 
 Chip moves are discouraged. A player shall not intentionally make moves with
 his chips to induce other players to act out of
@@ -2969,7 +2969,7 @@ is contrary to the spirit of the game and disrupts the game. While such
 behavior is (barely) within the rules, an excessive pattern of this behavior is
 a violation of the rules that may subject a player to ejection from the game.
 
-## 10.12. MOTIONS CONSTITUTING A CHECK OR RAISE
+### 10.12. MOTIONS CONSTITUTING A CHECK OR RAISE
 
 The dealer and other players shall have the right to rely on a player's hand
 motions. Any tapping of the table or other hand signal that the dealer might
@@ -2978,14 +2978,14 @@ an upward motion with his hand, a thumbs up signal or other signal that might
 be reasonably construed by the dealer to indicate a raise shall be deemed a
 raise.
 
-## 10.13. CHECKRAISING
+### 10.13. CHECKRAISING
 
 Checking and raising is permitted in all games, except certain forms of Lowball
 (*See Article 7 for more details.*) The house may elect to offer a game where
 check and raise is prohibited, in which case a table sign announcing this shall
 be posted.
 
-## 10.14. ONE PLAYER TO A HAND
+### 10.14. ONE PLAYER TO A HAND
 
 The player seated at the table is the player for the hand, and no other person
 may give advice or otherwise participate in the play of the hand. Only one
@@ -3009,7 +3009,7 @@ advantage. Further, cards flashed to one player, even an inactive player,
 during the play of the hand may be seen by other active players, creating an
 unfair advantage.
 
-## 10.15. CONDITIONS OF CONTEST
+### 10.15. CONDITIONS OF CONTEST
 
 A player shall make no changes of the conditions of contest in the course of
 the play of a hand. Money cannot be added to or taken from the table, a seat
@@ -3017,7 +3017,7 @@ cannot be changed, a player cannot be substituted for another, no other change
 which would affect the conditions of the contest shall be permitted once the
 play of the hand has begun.
 
-## 10.16. OBJECTING TO ERRORS
+### 10.16. OBJECTING TO ERRORS
 
 If a player is aware of a procedural error, or aware that the action has passed
 his position in error and he has not acted, it is his obligation to protect the
@@ -3026,7 +3026,7 @@ is to his advantage to object to an error, then the error shall be deemed to
 have never taken place. Further, that player shall forfeit all interest in the
 pot.
 
-## 10.17. SUBSTANTIAL ACTION
+### 10.17. SUBSTANTIAL ACTION
 
 If there has been substantial action (action by two players, or action by a
 player and the dealer) after a procedural or other error, the error may not be
@@ -3036,7 +3036,7 @@ the event of dispute as to whether action was prior to or subsequent to
 discovery, there shall be a rebuttable presumption that the action was
 subsequent and therefore does not constitute part of substantial action.
 
-## 10.18. DEAD HANDS
+### 10.18. DEAD HANDS
 
 Dead hands are all hands that are no longer eligible to win the pot. A player
 who throws his cards facedown with a forward motion has surrendered his hand
@@ -3075,7 +3075,7 @@ If a player relinquishes his claim to the pot by betting a fouled hand, then
 the pot—including his money—shall be divided equally among all remaining active
 players.
 
-## 10.19. RETRIEVING HANDS
+### 10.19. RETRIEVING HANDS
 
 If a player discards his hand but no player has acted behind him, then the hand
 may be retrieved at the player's request. A hand which has touched the muck can
@@ -3087,15 +3087,15 @@ have touched the muck cannot be retrieved. This rule is actually preferred
 because it is simpler, although the main rule is more common because the
 alternate rule is often deemed too harsh.)
 
-## 10.20. INTENTIONALLY EXPOSING CARDS
+### 10.20. INTENTIONALLY EXPOSING CARDS
 
 A player shall not intentionally expose a card or reveal it verbally in order
 to induce or inhibit action. However, in head's up matches (where only two
 players are dealt in) revealing a card shall be permitted.
 
-# THE SHOWDOWN OF HANDS & AWARDING THE POT
+## THE SHOWDOWN OF HANDS & AWARDING THE POT
 
-## 11.01 ORDER OF SHOWDOWN
+### 11.01 ORDER OF SHOWDOWN
 
 Upon completion of action on the final betting round, the dealer shall ask the
 players to show their hands. If more than one player contests a pot through the
@@ -3111,7 +3111,7 @@ had the obligation of first action on the final betting round the player under
 the gun in draw and board games or the player with the highest board in stud
 games.
 
-## 11.02 PROBABLE WINNER AT SHOWDOWN
+### 11.02 PROBABLE WINNER AT SHOWDOWN
 
 In the interests of efficiency and speeding up the game, a player who is
 reasonably certain he has the winning hand should turn over his hand
@@ -3119,13 +3119,13 @@ immediately, regardless of the order of showdown. If a player does so, then
 other players at the showdown who can beat that hand should also turn their
 hands over immediately.
 
-## 11.03 SHOW ALL CARDS
+### 11.03 SHOW ALL CARDS
 
 All cards in a player's hand must be shown face-up on the table to be awarded
 any part of the pot. Note that an exception to this rule may exist in Texas
 Hold'em, depending on which rule the house uses relative to playing the board.
 
-## 11.04 READING HANDS
+### 11.04 READING HANDS
 
 At showdown the dealer shall read all hands where cards are exposed and laid on
 the table face-up. However, the dealer shall never ask a player to turn up all
@@ -3138,7 +3138,7 @@ have all cards exposed and accounted for. If a player who loses the pot exposes
 only part of his hand, the dealer shall kill it without exposing the rest of
 the hand.
 
-## 11.05 CARDS SPEAK
+### 11.05 CARDS SPEAK
 
 A hand that is turned over at the showdown is ranked according to the cards
 that are in it. If the hand is turned over, an incorrect assessment of a hand's
@@ -3163,14 +3163,14 @@ for determining whether a hand is eligible for the high, low or both ends of
 the pot in hi-lo games—is a violation of the cards speak principle and shall
 not be permitted in public cardrooms.
 
-## 11.06 TIED HANDS
+### 11.06 TIED HANDS
 
 In the case of one or more tied hands at the showdown, the pot shall be divided
 accordingly and proportionately, with odd chips allocated as set forth in
 Article 9 of Cooke's Rules. Suits shall in no way influence awarding any part
 of a pot.
 
-## 11.07 SHOWDOWN WITH SIDE POTS
+### 11.07 SHOWDOWN WITH SIDE POTS
 
 If one or more players are all-in in a multi-way contested pot, then the side
 pots shall be awarded first. If there is one all-in
@@ -3180,7 +3180,7 @@ there are multiple side pots, then those participating for the last side pot
 shall show their hands down first, followed by those involved in the
 next-to-last side pot, etc., until the main pot is awarded.
 
-## 11.08 REQUESTS TO SEE A CALLED HAND
+### 11.08 REQUESTS TO SEE A CALLED HAND
 
 Players shall not be entitled to see a called hand except in cases where there
 is a reasonable suspicion of collusion, in which case the floorperson shall be
@@ -3208,7 +3208,7 @@ considered a breach of poker etiquette and may be grounds for removal from the
 game. There is no right to see a called losing hand under any circumstances in
 head's up play.
 
-## 11.09 KILLING LOSING HANDS
+### 11.09 KILLING LOSING HANDS
 
 No pot shall be awarded until all losing hands have been mucked or killed. In
 all situations (including those of partially exposed hands at showdown) where a
@@ -3219,14 +3219,14 @@ of the muck. A hand that has been killed and then exposed is not eligible to
 win the pot, except and unless the winner of the pot has asked to see it, in
 which case it does remain eligible to win the pot.
 
-## 11.10 PROTECTING INTEREST IN THE POT
+### 11.10 PROTECTING INTEREST IN THE POT
 
 A player with a hand he believes to be the winning hand is responsible to hold
 onto his own hand until the pot is awarded. No player with an interest in the
 pot should release his hand to the dealer until his portion of the pot has been
 pushed to him.
 
-## 11.11. PUSHING THE POT
+### 11.11. PUSHING THE POT
 
 The dealer shall gather in all cards except the winning hand, then push the pot
 to the player who holds the winning hand, then collect the cards from the
@@ -3235,7 +3235,7 @@ hand shall remain face-up until the pot is awarded. In button games, the dealer
 shall then advance the button. A player shall never be permitted to reach into
 the center of the table and pull the pot to himself.
 
-## 11.12 SHOW ONE, SHOW ALL
+### 11.12 SHOW ONE, SHOW ALL
 
 If after final action a hand is shown to one player at the table, then any
 other player at the table may ask to see the hand, and it shall be shown. If
@@ -3248,7 +3248,7 @@ one but not all, the dealer shall protect the muck so that the exposed hand
 cannot be stuffed into it before being shown to all. Show One, Show All is part
 of poker's tradition.
 
-## 11.13 AFTER SHOWDOWN
+### 11.13 AFTER SHOWDOWN
 
 After showdown and pushing the pot as previously set forth, the Dealer shall
 soft scramble the muck, hands and deck stub. Discarded hands shall be stuffed
@@ -3258,9 +3258,9 @@ decision regarding the previous hand are forfeited. Note that the scramble or
 soft shuffle is the act that constitutes the end of the hand and the first
 riffle of the deck is the beginning of the new hand.
 
-# BLINDS AND THE DEALER BUTTON
+## BLINDS AND THE DEALER BUTTON
 
-## 12.01. BLIND BET DEFINED
+### 12.01. BLIND BET DEFINED
 
 A blind bet, a.k.a. a blind, is a wager committed to the pot before the players
 have seen their cards. Generally, blind bets are required to be posted by the
@@ -3272,7 +3272,7 @@ of the last blind who must call, raise or fold. On all subsequent betting
 rounds action begins with the first active player to the left of the button,
 except in certain draw games as more fully described in Article 5.
 
-## 12.02. FACTORS AFFECTING BLIND RULES
+### 12.02. FACTORS AFFECTING BLIND RULES
 
 Rules relative to blinds and the dealer button are complicated and varied
 because they are designed to achieve different and sometimes inconsistent
@@ -3290,7 +3290,7 @@ exercise. While trying to induce action and adhere to the fundamental poker
 principles of efficiency and simplicity, fairness is the most important guiding
 principle and should take precedence.
 
-## 12.03. NO MISSED BLIND VERSUS NO DEAD BUTTON
+### 12.03. NO MISSED BLIND VERSUS NO DEAD BUTTON
 
 The principal philosophies of blind rules—each of which has variations—are the
 "No Missed Blind" philosophy and the "No Dead Button" philosophy. The first
@@ -3314,12 +3314,12 @@ regarding missed blinds, button positioning, etc. is an alternate rule which
 may be adopted by poker establishments, and is described in greater detail
 hereafter on Article 12.13.
 
-## 12.04. POSTING BLINDS
+### 12.04. POSTING BLINDS
 
 All required blinds must be posted by all players receiving hands on each round
 of play.
 
-## 12.05. NUMBER AND PLACEMENT OF BLINDS
+### 12.05. NUMBER AND PLACEMENT OF BLINDS
 
 Two blinds shall be posted to the left of the dealer button, (arranged in
 clockwise order from the button), in limit, pot-limit, spread-limit and
@@ -3337,7 +3337,7 @@ be varied by each house in its best business wisdom. The rules may be adapted
 to accommodate house rules which provide for either one blind or three blinds,
 whether posted to the left of the button, on the button or behind the button.
 
-## 12.06. BLINDS ARE LIVE
+### 12.06. BLINDS ARE LIVE
 
 A player who posts a blind shall have the option of raising the pot when the
 action comes to him, regardless of whether the pot has already been raised,
@@ -3351,7 +3351,7 @@ blind portion of the makeup is live. Also, if only a little blind is made up,
 then it is dead, except in the case of a person making a seat change out of the
 little blind and posting out of position.
 
-## 12.07. POT-LIMIT AND NO-LIMIT BLIND STRUCTURE
+### 12.07. POT-LIMIT AND NO-LIMIT BLIND STRUCTURE
 
 The amount and placement of blinds in "big-bet" games varies widely.
 Historically, the normal blind structure for pot-limit and no-limit play has
@@ -3377,7 +3377,7 @@ the button. The house, in its best business judgment, may vary the number and
 placement of blinds in big bet games. However, when deviating from the
 standard, a sign indicating this should be posted.
 
-## 12.08. NO MISSED BLIND RULE GENERALLY
+### 12.08. NO MISSED BLIND RULE GENERALLY
 
 When a player leaves after posting his big blind, the button is moved forward,
 the big blind is posted by the person scheduled to post it, and there is no
@@ -3396,7 +3396,7 @@ dealing with departed players. The No Dead Button approach used in California
 and some smaller poker jurisdictions is set forth in Article 12.13, and shall
 be deemed an acceptable alternative rule.
 
-## 12.09. PLAYER DEPARTING BEFORE HIS BIG BLIND
+### 12.09. PLAYER DEPARTING BEFORE HIS BIG BLIND
 
 In the normal course of play all players shall post their blinds in turn. Most
 players elect to leave the game either temporarily or permanently in a position
@@ -3413,7 +3413,7 @@ of the player who just left the table posting the small blind. The game
 proceeds with all players receiving their hands in turn, having posted their
 blinds when they should.
 
-## 12.10 PLAYER DEPARTING HAVING PAID HIS BIG BLIND
+### 12.10 PLAYER DEPARTING HAVING PAID HIS BIG BLIND
 
 If a player pays his big blind but misses his small blind, then the button
 shall be advanced to the empty seat of the departed player, and only the big
@@ -3425,14 +3425,14 @@ player who posted the big blind the previous hand posts the small blind.
 Thereafter, the button shall advance as normal, with the blinds having been
 appropriately adjusted.
 
-## 12.11 PLAYER DEPARTING ON HIS BUTTON
+### 12.11 PLAYER DEPARTING ON HIS BUTTON
 
 If a player has posted both the big and small blind, and then departs the game
 when it is his turn to receive a hand on the button, the button will stay in
 the same location as the previous hand. This effectively gives the same player
 the button twice, and the blinds are posted normally.
 
-## 12.12. MAKING UP MISSED BLINDS
+### 12.12. MAKING UP MISSED BLINDS
 
 A player who has departed the game temporarily must post all missed blinds
 before receiving a hand, or wait until it is his turn to post the big blind. He
@@ -3452,7 +3452,7 @@ then his hand is dead, and he shall not have the opportunity to post until the
 big blind comes to him. Whenever a player returns to the table after missing
 blinds, the dealer shall ask him if he chooses to post or to wait.
 
-### 12.12.01 A PLAYER WHO HAS MISSED BOTH BLINDS
+#### 12.12.01 A PLAYER WHO HAS MISSED BOTH BLINDS
 
 A player returning to the table after an absence where he has missed both his
 blinds shall have four choices: a) he may wait until it is his turn to post the
@@ -3474,7 +3474,7 @@ player to make up blinds to be posted in front of the button in a procedure
 known as "buying the button," more fully described hereafter in Article
 12.10.03.
 
-### 12.12.02 A PLAYER WHO HAS MISSED JUST HIS SMALL BLIND
+#### 12.12.02 A PLAYER WHO HAS MISSED JUST HIS SMALL BLIND
 
 Occasionally a player pays his big blind and then either temporarily or
 permanently leaves the game when it is his turn to post the small blind. If a
@@ -3499,7 +3499,7 @@ hands in a row. (Under the No Dead Button philosophy, the player whose turn it
 is to post the small blind would post it on the button to avoid a dead button
 resulting in these positional advantages and disadvantages.)
 
-### 12.12.03 BUYING THE BUTTON
+#### 12.12.03 BUYING THE BUTTON
 
 Some establishments permit a returning player who has missed both blinds to
 post directly in front of the button, to the left of the button and to the
@@ -3512,7 +3512,7 @@ On the following hand, the player who bought the button receives the button and
 the blinds are posted in a normal manner from the two players to the left of
 the button.
 
-## 12.13. ALTERNATE RULE: NO DEAD BUTTON
+### 12.13. ALTERNATE RULE: NO DEAD BUTTON
 
 As previously noted, sections 12,08, 12.09, 12.10, 12.11 and 12.12 of this
 article describe the No Missed Blinds approach to rules related to the blinds
@@ -3532,7 +3532,7 @@ be necessary for a blind to be posted on the button and/or an additional blind
 to be posted, and/or two big or small blinds to be posted when applying the No
 Dead Button Rule.
 
-#### 12.13.01.
+##### 12.13.01.
 
 When a player leaves after paying his big blind, and when his small blind is
 due to be posted, the player in the small blind on the previous hand receives
@@ -3544,7 +3544,7 @@ next hand is dealt normally, with the button advancing to the position of the
 player who just posted the small blind in front, with the two players to his
 left posting their small and big blinds.
 
-#### 12.13.02.
+##### 12.13.02.
 
 When a player leaves on the small blind, the button is moved forward to the
 player who previously held the big blind, and the button posts a small blind.
@@ -3561,7 +3561,7 @@ players may leave at the same time and the blinds can get confusing.
 Conceptually, he button always moves forward and all players must post their
 required blinds in order.
 
-#### 12.13.03.
+##### 12.13.03.
 
 If a player has paid his big and small blinds and then leaves the game on the
 hand where he would have had the button, then the button shall be advanced
@@ -3582,12 +3582,12 @@ following hand, the blind situation returns to normal. This procedure prevents
 a player from having the privilege of last action for two hands in a row or the
 burden of acting under the gun two hands in a row.
 
-#### 12.13.04
+##### 12.13.04
 
 Buying the Button shall be permitted in No Dead Button games, except in
 circumstances where the blinds are being adjusted for a departing player.
 
-## 12.14. HEADS-UP
+### 12.14. HEADS-UP
 
 Regardless of who may have posted what and where on the previous hand, in
 heads-up play, the small blind shall be posted by the player with the button
@@ -3599,7 +3599,7 @@ blind in effect has already acted, the player on the button who has posted the
 small blind shall be first to act. The big blind as always is live and may act
 after the small blind has acted.
 
-## 12.15. NEW PLAYERS
+### 12.15. NEW PLAYERS
 
 A new player entering the game has three choices in posting blinds for his
 initial round of play: 1) post a big blind immediately; 2) wait until it would
@@ -3624,7 +3624,7 @@ either call the action—in which case he is already in—or raise. If he is fac
 a raise, he can call, fold, or re-raise. In any case, the blind he has posted
 counts as part of his bet, just as any other big blind does.
 
-## 12.16. NEW GAME
+### 12.16. NEW GAME
 
 Once the first hand of a new game has been dealt, any player entering the game
 shall be required to address blinds the same as a new player entering any other
@@ -3633,7 +3633,7 @@ to receive a free hand behind the button until the game fills, and that shall
 be deemed an acceptable alternate rule. (*See Cooke's Rules "13.02. Procedures
 For Starting A New Game" on page 90 for more details.*)
 
-## 12.17. SHORT-HANDED GAMES
+### 12.17. SHORT-HANDED GAMES
 
 When there are five or fewer players in a hold'em game, or four or fewer
 players in a draw game, a new player entering the game shall not be required to
@@ -3644,7 +3644,7 @@ only behind the button. (ALTERNATE RULE: There shall be no differentiation
 between short-handed games and full games insofar as a new player posting
 blinds is concerned.)
 
-## 12.18. STRADDLES & SLEEPERS
+### 12.18. STRADDLES & SLEEPERS
 
 A player may elect to post an extra voluntary blind bet, which in limit games
 shall be twice the big blind, effectively raising the blind. If posted under
@@ -3667,7 +3667,7 @@ of the last straddler. (ALTERNATE RULE: Straddles and sleepers are prohibited.
 This rule, however, kills action and it is strongly recommended that it not be
 adopted.)
 
-## 12.19. ALL-IN FOR PART OF THE BLIND
+### 12.19. ALL-IN FOR PART OF THE BLIND
 
 If a player goes all in for a portion of the big blind, then subsequent action
 shall be made as if the player had posted the full big blind, requiring players
@@ -3676,7 +3676,7 @@ the amount posted is more or less than half a bet. (ALTERNATE RULE: A player
 who is obligated to post a blind must have the full amount of the blind to
 receive a hand.)
 
-## 12.20. EFFECT OF SEAT CHANGES ON THE BLINDS
+### 12.20. EFFECT OF SEAT CHANGES ON THE BLINDS
 
 Rules related to the effect of seat changes on blinds are formed on the idea
 that moving away from the blinds affords a player more hands than have been
@@ -3684,12 +3684,12 @@ paid for, and moving into the blinds affords a player fewer hands than have
 been paid for. When moving away from the blinds, a player gains an unfair
 advantage over other players.
 
-#### 12.20.01.
+##### 12.20.01.
 
 A player who is moving closer to the blinds shall not be required to post in
 his new seat, and shall immediately receive a hand.
 
-#### 12.20.02.
+##### 12.20.02.
 
 A player who moves away from the blinds shall not receive a hand until the
 button has advanced so that he is the same number of seats away from the blinds
@@ -3705,7 +3705,7 @@ California, the alternate rule prevalent in Las Vegas. The main rule is
 preferred because it results in the least change in game conditions and is
 deemed to be more fair.
 
-#### 12.20.03.
+##### 12.20.03.
 
 A player who moves into a seat which is due to post the big blind may choose to
 receive a hand immediately or wait for the blinds and button to pass and then
@@ -3720,7 +3720,7 @@ positions from the big blind as his old seat was before the seat change.
 button, have the other blinds post as normal, and have the button pass over him
 the following hand.)
 
-#### 12.20.04.
+##### 12.20.04.
 
 A player who is due to post the small blind, having just posted his big blind,
 may move to any seat except the button or the big blind and post his small
@@ -3732,31 +3732,31 @@ big blind, he shall post his small blind where he is, deal off the button, and
 move into the seat behind the button. In this situation, when a player moves
 and posts his small blind in a different seat, the small blind is live.
 
-#### 12.20.05.
+##### 12.20.05.
 
 A player who has just paid his big blind or has dealt off his button may move
 to any seat except the button or blind seats and receive a free hand.
 
-#### 12.20.06.
+##### 12.20.06.
 
 Moving from the button. No player may move when on the button, as this would
 give the player to his right the benefit of last action twice in a row. The
 player must take a hand and deal off. If the player refuses the hand, the hand
 shall be dealt to him and folded, and deemed a dead hand.
 
-### 12.20.07.
+#### 12.20.07.
 
 When a player is required to post both a big blind and small blind at the same
 time, the big blind is live and shall be placed in front of the player. The
 money which would constitute the small blind is dead and shall be pulled to the
 center of the pot.
 
-#### 12.20.08.
+##### 12.20.08.
 
 A player who deals off may allow the blinds to pass his new seat one time and
 re-enter the game behind the button without having to post any blinds.
 
-## 12.21. IMPROPERLY POSITIONED BUTTON
+### 12.21. IMPROPERLY POSITIONED BUTTON
 
 Before the first card is dealt on the next hand, if it is determined that the
 button was out of position, the blind responsibilities will be corrected where
@@ -3766,7 +3766,7 @@ mistake is discovered after action has taken place, the hand is played as dealt
 and the following hand is dealt as if the previous hand had been correctly
 dealt.
 
-## 12.22. BLINDS IN TOURNAMENTS
+### 12.22. BLINDS IN TOURNAMENTS
 
 The various procedures hereinbefore set forth for dealing with issues relative
 to missed blinds have no application in tournaments, except when a player busts
@@ -3784,7 +3784,7 @@ will move, and the moving player has his choice of available seats at the new
 table. In all cases, the tournament rules apply and shall supersede these
 rules.
 
-## 12.23 BLINDS IN INTERNET POKER
+### 12.23 BLINDS IN INTERNET POKER
 
 Most Internet poker sites have adopted some variation of the No Missed Blinds
 philosophy, attempting to adjust blinds in such a manner as to provide that
@@ -3797,9 +3797,9 @@ adjustment in the blind rules as they deem necessary in their best business
 judgment. However, each shall strive to apply rules consistent with Fairness,
 Efficiency, Simplicity and the Tradition of poker.
 
-# SEATING, TABLE ASSIGNMENTS, STARTING GAMES, TRANSFERS, LISTS, ETC.
+## SEATING, TABLE ASSIGNMENTS, STARTING GAMES, TRANSFERS, LISTS, ETC.
 
-## 13.01. NUMBER OF PLAYERS FOR STARTING A NEW GAME
+### 13.01. NUMBER OF PLAYERS FOR STARTING A NEW GAME
 
 In games that are usually nine or ten-handed, five players must be present at a
 table to start a new game. Four players must start for eight-handed games.
@@ -3809,7 +3809,7 @@ start a game short-handed, it shall be permitted. However, a new shorthanded
 game shall not be deemed a full game for must-move and other such purposes
 until at least four or five players (depending on the game) are in action.
 
-## 13.02. PROCEDURES FOR STARTING A NEW GAME
+### 13.02. PROCEDURES FOR STARTING A NEW GAME
 
 Players shall be called in order from the floorperson's waiting list, sometimes
 known as the board. The order in which players are called shall be determined
@@ -3817,7 +3817,7 @@ by the order in which players put their names on the list, not by the time a
 player arrived in the room. Players higher on the list have priority over
 players arriving earlier yet further down on the list.
 
-### 13.02.01 BUTTON PLACEMENT
+#### 13.02.01 BUTTON PLACEMENT
 
 In button games, players shall draw for the button. Once the shuffle for the
 first hand has begun, players who did not participate in the draw shall be
@@ -3828,7 +3828,7 @@ button shall be placed in the seat immediately to the right of the dealer when
 starting a new game. The problem with the alternate rule is that a player can
 take the button seat, play a free lap, then leave the game.)
 
-### 13.03.02 SEAT SELECTION
+#### 13.03.02 SEAT SELECTION
 
 The first player who has been properly called from the list to arrive at the
 table for a new game shall have first preference for a seat in the new game
@@ -3851,13 +3851,13 @@ so long as he arrives before the first hand is dealt. Once the first hand is
 dealt, those who indicated a seat preference on the waiting list lose their
 priority relative to seat choice.)
 
-### 13.02.03. SPREADING THE DECK
+#### 13.02.03. SPREADING THE DECK
 
 When a new game starts, the dealer shall keep the suited deck spread on the
 table until he scrambles and shuffles for the first hand. This ensures that all
 players entering the game can see that all cards are present and accounted for.
 
-### 13.02.04. DEALING THE FIRST HAND
+#### 13.02.04. DEALING THE FIRST HAND
 
 If a full table has been called for the game and is expected to be seated, the
 dealer shall begin the shuffle when six players are seated with chips in
@@ -3869,24 +3869,24 @@ If the blinds pass their seats they shall be treated as new players in an
 existing game. (*The rules for Draw are slightly different. See Article 7 of
 Cooke's Rules for details.*)
 
-### 13.02.05. NEW PLAYER'S BUY-IN
+#### 13.02.05. NEW PLAYER'S BUY-IN
 
 When a new player enters the game, that player shall not be dealt in unless he
 has chips and/or money on the table equal to at least the minimum buy-in. The
 only exception shall be if the player has chips in transit, he is playing
 behind, and the dealer has announced the amount of money in transit.
 
-## 13.03. SEAT CHANGE RULES
+### 13.03. SEAT CHANGE RULES
 
 Seat selection is a matter of great importance to many players, and every
 effort shall be made to honor all seat change requests fairly.
 
-### 13.03.01. EXISTING PLAYER'S PRIORITY
+#### 13.03.01. EXISTING PLAYER'S PRIORITY
 
 A player who is already in a game shall have preference over a new player
 entering the game for a vacant seat.
 
-### 13.03.02. PRIORITY AMONG EXISTING PLAYERS
+#### 13.03.02. PRIORITY AMONG EXISTING PLAYERS
 
 As among players who are already seated in a game, the seat shall be made
 available in the order that players have requested a seat change. A player who
@@ -3920,7 +3920,7 @@ seat, whether by seniority or by order of request, then the disputing players
 shall draw for the seat. With the second alternate rule, there is always a
 draw.
 
-### 13.03.03. MOVING IN BLIND GAMES
+#### 13.03.03. MOVING IN BLIND GAMES
 
 In blind games, a player who has paid his blinds may deal off the button.
 However, he must take the new seat immediately thereafter *if* a player is
@@ -3932,7 +3932,7 @@ new seat. Once the incoming player has declared he will not post, he may not
 change his mind in the course of the round until the player who is vacating the
 seat would be required to move.
 
-### 13.03.04. NEW PLAYER'S LOCK-UP
+#### 13.03.04. NEW PLAYER'S LOCK-UP
 
 A new player has no prerogatives, choices or options which would come at the
 expense of existing players until he has taken a hand, at which point he has
@@ -3955,7 +3955,7 @@ available to other players in the game until the new player arrives and is
 assigned his seat as hereinbefore set forth. Once the new player takes the
 seat, it shall not be available for a seat change to existing players.
 
-## 13.04. PLAYER WAITING LISTS
+### 13.04. PLAYER WAITING LISTS
 
 A player who is called for an existing game must take his seat immediately.
 Rules relating to playing out the present hand the player is involved in,
@@ -3972,7 +3972,7 @@ waiting list shall be permitted. A player who phones in and doesn't show when
 his name is called shall be crossed off the list and *not* rolled over to the
 bottom of the list.)
 
-## 13.05 WAITING LIST LOCKUPS
+### 13.05 WAITING LIST LOCKUPS
 
 A player who expects that he may be away from the room when his name is called
 but back shortly thereafter may leave lock-up money with the floorperson
@@ -3986,7 +3986,7 @@ If he does not return within thirty minutes of the time his lock-up is placed
 in the seat, the he shall be picked up pursuant to the house's normal pick-up
 procedure.
 
-## 13.06 PLAYING OVER
+### 13.06 PLAYING OVER
 
 When a player is going to be absent from the table for one half hour or more,
 but not long enough to be picked up, the house may permit a player on the
@@ -4010,7 +4010,7 @@ Such requests shall be granted. Some establishments, in cases of players who
 object to being played-over, will not allow those players themselves to play
 over another player.
 
-## 13.07. TABLE TRANSFERS
+### 13.07. TABLE TRANSFERS
 
 Players who wish to transfer to a different table of the same game and limits
 shall place their names on a transfer list with the floorperson responsible for
@@ -4037,7 +4037,7 @@ mustmove rules when they are in effect. There are no table transfers permitted
 when must- move rules are in effect. Players transferring into a game are
 treated as new players for seat selection purposes.
 
-## 13.08. PLAYER ABSENT PROCEDURES
+### 13.08. PLAYER ABSENT PROCEDURES
 
 When an incoming dealer deals the first hand of his down, and there is a vacant
 seat with chips in front of it indicating that it is held by a player, then the
@@ -4059,7 +4059,7 @@ been picked up, then the one who returns first shall be the first to receive a
 seat, and the one who returns second shall be next up, etc., regardless of
 which player was picked up first.
 
-## 13.09 BROKEN GAMES
+### 13.09 BROKEN GAMES
 
 No player shall be required to play in a game that is four-handed or less in a
 game normally dealt eight or nine-handed, or fivehanded or less in a game that
@@ -4075,7 +4075,7 @@ players at the table wish to break the game, and there are sufficient seats in
 other games of the same type and limit available to accommodate all players,
 then the game may be broken.)
 
-### 13.09.01. DRAWING FOR SEATS IN OTHER GAMES
+#### 13.09.01. DRAWING FOR SEATS IN OTHER GAMES
 
 When a game breaks, the remaining players shall draw cards to determine the
 priority of seating order for open seats as they become available. Players who
@@ -4104,13 +4104,13 @@ because of a broken game, the player who drew the high card shall have the
 first choice of seats, etc. Players entering a game from a broken game shall
 not be required to post blinds to receive a hand in blind games.
 
-### 13.09.02. MINIMUM BUY-IN COMING FROM BROKEN GAME
+#### 13.09.02. MINIMUM BUY-IN COMING FROM BROKEN GAME
 
 A player who is forced to transfer to a game of the same type and limit because
 of a broken game shall not be required to buy additional chips, even if he has
 less than the minimum buy-in when entering the new game.
 
-## 13.10. MUST-MOVE GAMES
+### 13.10. MUST-MOVE GAMES
 
 In order to protect an existing game (usually referred to as the "main" game) a
 must-move (a.k.a. forced move) procedure may be invoked by the house when an
@@ -4118,7 +4118,7 @@ additional game of the same type and limit is started. The must-move list is
 maintained in the same order as the original waiting list for the game. The
 following are the procedures for must-move.
 
-### 13.10.01 ORDER OF LIST
+#### 13.10.01 ORDER OF LIST
 
 When the second (or third or fourth) game is started, players shall be seated
 in the order of the player waiting list, notwithstanding the order in which
@@ -4128,7 +4128,7 @@ however, is still based on arrival rather than list position.) Any player who
 does not take a seat in the game shall either have his name crossed off the
 list or rolled to the bottom of the list in accordance with house policy.
 
-### 13.10.02 SELECTING THE PLAYER TO MOVE
+#### 13.10.02 SELECTING THE PLAYER TO MOVE
 
 When a seat in the main game becomes vacant, a player forced to move from the
 must-move game to the main game or the next oldest game feeding the main game
@@ -4171,13 +4171,13 @@ follows:
   is necessary. The advantage is that it protects players without jeopardizing
   the main game.)
 
-### 13.10.03 MINIMUM BUY-IN IN MUST-MOVES
+#### 13.10.03 MINIMUM BUY-IN IN MUST-MOVES
 
 A player who is forced to transfer pursuant to must-move rules to a game of the
 same limit shall not be required to buy additional chips, even if he has less
 than the minimum buy-in when entering the new game.
 
-### 13.10.04 BLINDS IN BUTTON MUST-MOVE GAMES
+#### 13.10.04 BLINDS IN BUTTON MUST-MOVE GAMES
 
 In all button games, a player going from a must-move game to the main game
 shall get a free hand without posting any blinds, or he may wait and take a
@@ -4188,7 +4188,7 @@ RULE: The player may play until his blind in the game which he is leaving, in
 which case he must either post or wait for the big blind in the game he is
 entering.)
 
-### 13.10.05 SHORT-HANDED MUST-MOVE GAMES
+#### 13.10.05 SHORT-HANDED MUST-MOVE GAMES
 
 A player in a must-move game must continue playing to remain on the list for
 the main game, unless the game is less than five-handed in nine or ten-handed
@@ -4197,7 +4197,7 @@ refuses to play short-handed, he shall move to the bottom of the must-move list
 for that game, and shall be proffered an option to take a seat in the main game
 after those players who have continued to play.
 
-### 13.10.06 ABSENT PLAYER MOVED
+#### 13.10.06 ABSENT PLAYER MOVED
 
 A player who is absent from the table when it is his turn to have the option of
 moving shall be deemed to have accepted the move, and shall be moved
@@ -4206,7 +4206,7 @@ in the same manner as if there were a pick-up and move his chips to the other
 table. Any missed blind or player absent buttons the absent player has received
 shall be moved with his chips to the new table.
 
-### 13.10.07 STATUS OF THIRD GAME
+#### 13.10.07 STATUS OF THIRD GAME
 
 If a third game of the same type and limits starts and fills, then it shall
 become the must-move game. If the third game starts and no one from the second
@@ -4217,7 +4217,7 @@ or third game when must-move rules are in effect, nor can a player go from the
 second game to the third game. The concept of offering players with seniority
 the option of moving shall remain consistent through the third game.
 
-### 13.10.08 STATUS OF FOURTH GAME
+#### 13.10.08 STATUS OF FOURTH GAME
 
 If there are more than three games of the same type and limit, then both the
 first game started and second game started shall have main game status, and
@@ -4229,7 +4229,7 @@ it shall lose its must-move status and be treated as any other game. If after
 this has happened, both the original main game and the former must-move game
 become shorthanded, then the must-move rules shall be re-instated.)
 
-### 13.10.09 TEMPORARY MUST-MOVE GAMES
+#### 13.10.09 TEMPORARY MUST-MOVE GAMES
 
 The house may require that a second, third, fourth or other new game of a given
 type and limit shall have must-move status for a limited period of time,
@@ -4237,13 +4237,13 @@ typically an hour or two hours. This is common in establishments where a game
 runs all night and new games start during the day, as it protects the players
 in the all-night game.
 
-### 13.10.10 TRANSFER FROM MAIN GAMES
+#### 13.10.10 TRANSFER FROM MAIN GAMES
 
 No transfers shall be permitted from protected main games into must-move games.
 
-# DEALERS, THE DEAL AND THE DECK
+## DEALERS, THE DEAL AND THE DECK
 
-## 14.01. GENERAL PRINCIPLES
+### 14.01. GENERAL PRINCIPLES
 
 Cooke's Official Rules of Real Poker is not intended to be a "how-to" manual
 for dealers. However, dealers are an integral part of the game, and just as
@@ -4253,7 +4253,7 @@ their duties correctly. The procedures set forth in this Article are deemed to
 be essential to the game, and shall be treated as Rules. Dealers as well as
 players shall conduct themselves accordingly.
 
-## 14.02. START OF THE HAND
+### 14.02. START OF THE HAND
 
 The previous hand ends with the gathering of all cards, followed by the
 scramble or soft shuffle. The next hand begins with the first riffle of the
@@ -4262,7 +4262,7 @@ intervening circumstances. The only exceptions are a misdeal, which requires a
 new shuffle, or a situation arising that requires a decision from a
 floorperson.
 
-## 14.03. THE SHUFFLE AND CUT
+### 14.03. THE SHUFFLE AND CUT
 
 After each hand, the dealer shall scramble the cards and shall shuffle them at
 least three times and box them at least once, in either of the following
@@ -4276,7 +4276,7 @@ shuffle/box procedure, the dealer then shall place the deck on the table,
 clearly and obviously releasing it, and then cut it onto the cover card (cut
 card) with one hand.
 
-## 14.04. BASIC DEALER PROCEDURES
+### 14.04. BASIC DEALER PROCEDURES
 
 Beyond the shuffle, cut and deal, the dealer is responsible to maintain the
 game as efficiently as possible. The dealer shall make sure that all pre-deal
@@ -4287,12 +4287,12 @@ hand. The dealer shall verify that the proper amount of money goes into the
 pot. The dealer shall ensure that all proper procedures are followed,
 especially regarding showdown and awarding the pot.
 
-## 14.05. BLINDS' OPTION TO RAISE
+### 14.05. BLINDS' OPTION TO RAISE
 
 In games with blinds, the dealer shall verbally confirm whether any live blind
 elects to exercise his option to raise.
 
-## 14.06. SCOOPING BETS
+### 14.06. SCOOPING BETS
 
 Wagers are not to be pulled into the pot until each betting round is completed.
 All bets, including blinds, should remain in front of players until betting is
@@ -4306,7 +4306,7 @@ he has verified that each player has placed the proper number of chips in the
 pot and received proper change from the pot. Players shall never make their own
 change from the pot or from other players' bets.
 
-## 14.07. PITCH
+### 14.07. PITCH
 
 The dealer shall pitch the cards so that they reach the players. Down cards
 shall be dealt carefully in such a fashion so that they are not flashed. In
@@ -4315,7 +4315,7 @@ the player's other hole cards. The dealer shall never turn over or roll the
 deck, never cover the top of the deck with his free hand, and shall always keep
 it squared.
 
-## 14.08. BURNING
+### 14.08. BURNING
 
 At the conclusion of each betting round except the final betting round, the
 dealer shall burn a card before proceeding to deal the cards for the next
@@ -4327,7 +4327,7 @@ table under the edge of the pot and should be dealt in such a manner that they
 are not flashed to the players. They are to remain there, separate from the
 muck, until the pot is pushed to the winning player.
 
-## 14.09. EXPOSED CARDS
+### 14.09. EXPOSED CARDS
 
 A flashed card, a card that is dealt off the table, or a card that might
 reasonably be suspected to have been flashed shall be deemed an exposed card.
@@ -4346,7 +4346,7 @@ shall become the burn card. The only time in poker a player may receive two
 cards in a row off the deck is when the last downcard dealt to the last player
 in a Hold'em or Draw game is exposed.
 
-## 14.10. BOXED CARD
+### 14.10. BOXED CARD
 
 A boxed card is considered a non-existent card. The next card in the deck will
 be dealt to the player who would have received the boxed card. A boxed card
@@ -4357,7 +4357,7 @@ second boxed card is discovered after substantial action on the first betting
 round, then it too shall be treated as a non-existent card, and the hand shall
 proceed as if that card were not in the deck.
 
-## 14.11. JOKER IN THE DECK
+### 14.11. JOKER IN THE DECK
 
 A joker inadvertently included in a game where a joker is not used is
 considered a non-existent card. A joker received face up (boxed) is replaced by
@@ -4368,7 +4368,7 @@ deck with too many cards would. The alternate rule is actually preferred in
 games played with a joker or bug in the event there are two jokers in the
 deck.)
 
-## 14.12. FOULED DECK
+### 14.12. FOULED DECK
 
 The following shall constitute a fouled deck: a deck containing too many or too
 few cards; a deck containing one or more cards of a different colored back; a
@@ -4384,7 +4384,7 @@ pot, regardless of how much money any individual player has committed to the
 pot. In button games, the next hand will be played with the button and blinds
 remaining in the same positions.
 
-## 14.13. DEALING COMMUNITY CARDS EARLY
+### 14.13. DEALING COMMUNITY CARDS EARLY
 
 If the dealer burns and turns community cards before action is complete, the
 cards shall be returned to the deck and action shall be completed. This shall
@@ -4392,13 +4392,13 @@ be so even if only one player who is checking has not acted before the cards
 are improperly dealt. The procedure for returning the cards to the deck and
 continuing with the action vary slightly on the flop, turn and river.
 
-### 14.13.01. MIS-DEALT FLOP
+#### 14.13.01. MIS-DEALT FLOP
 
 After the pre-flop betting is correctly completed, the mis-dealt flop—but not
 the burn card—shall be reshuffled into the deck, and the flop shall be re-dealt
 with no burn.
 
-### 14.13.02. MIS-DEALT TURN
+#### 14.13.02. MIS-DEALT TURN
 
 After the flop betting is correctly completed, the card which was improperly
 dealt shall be set aside, and the dealer shall burn and turn so that the card
@@ -4407,13 +4407,13 @@ betting is completed, the dealer shall then shuffle the improperly dealt card
 back into the deck, and shall deal a river card without burning. The card that
 was burned before the improper dealing shall not be included in the shuffle.
 
-### 14.13.03. MIS-DEALT RIVER
+#### 14.13.03. MIS-DEALT RIVER
 
 After the turn betting is correctly completed, the dealer shall shuffle the
 improperly dealt card back into the deck, then turn a new river card without
 burning.
 
-## 14.14. FLOP PLACEMENT
+### 14.14. FLOP PLACEMENT
 
 In hold'em games, the flop should be in the center of the table with the pot to
 the side and the burn cards placed under the edge of the pot. Side pots should
@@ -4421,12 +4421,12 @@ be situated as close as possible to the players involved in the side pot, and
 always clearly distinguished from the main pot. Where possible, side pots
 should be placed on the opposite side of the flop from the main pot
 
-## 14.15. COUNT THE STUB
+### 14.15. COUNT THE STUB
 
 The dealer shall count down the deck stub no less than once a half hour,
 preferably early in his down.
 
-## 14.16. DEALER ANNOUNCEMENTS
+### 14.16. DEALER ANNOUNCEMENTS
 
 The dealer shall always announce the following circumstances to the table: a)
 when a player is playing behind; b) when a card has been exposed and which card
@@ -4437,7 +4437,7 @@ being posted; e) all raises; f) how many players are contesting the pot on each
 street; g) in stud, the forced bring-in and high hand for purposes of
 commencing action on each street.
 
-## 14.17. ABSENT PLAYER'S CHIPS
+### 14.17. ABSENT PLAYER'S CHIPS
 
 When in the box it is the dealer's responsibility to watch all chips belonging
 to players absent from the table. Notwithstanding this, each player at the
@@ -4446,14 +4446,14 @@ protect the chips of any absent player. Notwithstanding this rule, as noted in
 Article 2 of Cooke's Rules, the house assumes no responsibility for a player's
 chips or money left on the table.
 
-## 14.18. LAST CARD
+### 14.18. LAST CARD
 
 The last card of a shuffled deck shall not be used in any game under any
 circumstances. (*See Cooke's Rules relating to particular games for procedures
 in the event there are not sufficient cards to complete the deal in draw and
 stud games.*)
 
-## 14.19. DECK CHANGES AND SET-UPS
+### 14.19. DECK CHANGES AND SET-UPS
 
 If a dealer notices a marred card, he shall immediately change decks and call
 for a set-up. When bringing in a new deck, it shall be spread face up and
@@ -4468,7 +4468,7 @@ is discouraged.) Excessive requests for deck changes and set-ups may result in
 management electing to post a table sign limiting the frequency of deck changes
 to once per half hour and set-ups to once per hour.
 
-## 14.20. MISDEALS
+### 14.20. MISDEALS
 
 Misdeals may be called for any irregularity in the initial dealing round, until
 substantial action has taken place. Once substantial action has taken place,
@@ -4499,7 +4499,7 @@ hand. l) dealing in a player who hasn't anted or posted (ALTERNATE RULE: A
 player who hasn't anted or posted has a dead hand, and it shall not be
 considered a misdeal.)
 
-## 14.21. END OF THE HAND
+### 14.21. END OF THE HAND
 
 When all dealing is complete, the dealer shall drop the deck so that the cards
 are spread out, and not set it neatly down in a stack. After the showdown, the
@@ -4518,7 +4518,7 @@ shall push the pot to the winner, then move the button. The soft scramble is
 the last act of the old hand; the first riffle is the first act of the new
 hand.
 
-## 14.22. DEALERS AND DECISIONS
+### 14.22. DEALERS AND DECISIONS
 
 If the dealer makes an error which will result in a change in the cards a
 player would receive (i.e. dealing before action is completed, improperly
@@ -4531,7 +4531,7 @@ player objects. In any circumstance where there is any doubt whatsoever,
 dealers shall not take remedial action or render decisions, but shall call a
 floorperson to do so.
 
-## 14.25. IMPROPERLY DROPPED DECK
+### 14.25. IMPROPERLY DROPPED DECK
 
 If the deck is dropped by the dealer, regardless of the reason, the dealer
 shall pick the deck back up and continue to use it if at all possible, and if
@@ -4544,13 +4544,13 @@ discards, but which cannot be determined shall be deemed discards and shall not
 be reshuffled. After cutting, the dealer shall continue the deal, including all
 requisite burns.
 
-## 14.26. RESHUFFLES
+### 14.26. RESHUFFLES
 
 In any situation in any game requiring a reshuffle, neither discards nor burns
 shall be included in the reshuffle. If there is any doubt as to whether a card
 ought be included in the reshuffle, then it shall not be so included.
 
-## 14.27. PLAYER DEALT GAMES
+### 14.27. PLAYER DEALT GAMES
 
 In some jurisdictions, center dealers are prohibited and players must deal the
 games. In these cases, all previous rules apply. In all player dealt games, a
@@ -4561,7 +4561,7 @@ used in the hand will have been shuffled by the player two to the dealer's
 right. Having three separate persons shuffle, cut and deal reduces the
 potential for cheating.
 
-## 14.28. MECHANICAL SHUFFLERS
+### 14.28. MECHANICAL SHUFFLERS
 
 Mechanical devices which shuffle the cards are becoming more commonplace.
 Usually these devices contain two compartments, one for placement of the deck
@@ -4577,9 +4577,9 @@ when the dealer places the new deck on the table to be cut. The end of the hand
 shall officially be deemed to have occurred when the dealer places the used
 deck into the shuffler.
 
-# TIME COLLECTION AND RAKE
+## TIME COLLECTION AND RAKE
 
-## 15.01. TIME AND RAKE GENERALLY
+### 15.01. TIME AND RAKE GENERALLY
 
 The amount which establishments charge players is not an appropriate subject
 for rules. Notwithstanding this, uniformity of methodology serves the best
@@ -4593,7 +4593,7 @@ communities to include the size of the pot, which has sometimes been construed
 to prohibit raking the pot.) Each establishment must devise its own procedures
 in accordance with its own local laws and best business judgment.
 
-## 15.02. TIME COLLECTION
+### 15.02. TIME COLLECTION
 
 Time collections are paid by each player to the dealer when due, usually when
 the dealer enters the box. Time collections are always paid in advance. A
@@ -4610,7 +4610,7 @@ than five minutes after time is collected shall not be required to pay time.
 Time shall not be pro-rated. If a game breaks within fifteen minutes after
 collection, the last time collected shall be refunded to the players.
 
-## 15.03. TIME POTS
+### 15.03. TIME POTS
 
 Collection is sometimes taken from the first pot after time is due, rather than
 from each player, so that the winner of the first pot
@@ -4629,7 +4629,7 @@ portion of the collection is taken from each pot until the total has been
 collected. This method creates problems relative to players who are at the
 table for some of the pots and not for others, and is advised against.
 
-## 15.04. TAKING RAKE
+### 15.04. TAKING RAKE
 
 The most common procedure for generating revenue in Nevada casinos, Internet
 cardrooms and in many other jurisdictions is the rake. A typical rake is five
@@ -4644,7 +4644,7 @@ with the winner's other chips and *before* the next hand has been dealt, then
 the pot shall be corrected and the player shall be refunded the overage from
 the dealer's tray.
 
-## 15.05. BUTTON COLLECTION
+### 15.05. BUTTON COLLECTION
 
 In a few jurisdictions, in board and draw games, the player who has the button
 posts an amount of money that is collected in lieu of time charge or rake. In
@@ -4659,21 +4659,21 @@ seat when it is his turn to post collection on the button, the dealer shall
 take the amount of the collection from the player's stack and place it in the
 pot, where it shall be deemed dead money.
 
-# Article 16: MISCELLANEOUS RULES
+## Article 16: MISCELLANEOUS RULES
 
-## 16.01. HOUSE BUTTONS
+### 16.01. HOUSE BUTTONS
 
 (Player Absent, Missed Blinds, Lock-up, Playing Behind, Overs, Openers, Kill)
 House buttons are distinguished from the dealer button. They are among other
 things used to indicate absence from the table, missed blinds, locked-up seats,
 playing behind and overs.
 
-### 16.01.01. PLAYER ABSENT BUTTON, A.K.A. NO PLAYER BUTTON
+#### 16.01.01. PLAYER ABSENT BUTTON, A.K.A. NO PLAYER BUTTON
 
 This is used to indicate that a player has been absent from the table. It is
 white in most card rooms.
 
-### 16.01.02. LOCK-UP BUTTON A.K.A. RESERVE BUTTON
+#### 16.01.02. LOCK-UP BUTTON A.K.A. RESERVE BUTTON
 
 This identifies an open seat so that prospective players, floorpersons and
 others are aware that there is an open seat at the table. It is yellow in most
@@ -4681,7 +4681,7 @@ card rooms. A new player shall not be placed in a seat with a yellow button in
 front of it without consulting the floorperson or other person responsible for
 the player list.
 
-### 16.01.03. BIG BLIND BUTTON
+#### 16.01.03. BIG BLIND BUTTON
 
 This button indicates that a player has missed both the big and small blinds.
 (If a player misses his big blind, he cannot post the small blind He must wait
@@ -4690,7 +4690,7 @@ blind comes to him again. He may also straddle or buy the button, pursuant to
 rules relating to blinds.) It is orange in most cardrooms, with red being a
 common alternate color.
 
-### 16.01.04. LITTLE BLIND BUTTON
+#### 16.01.04. LITTLE BLIND BUTTON
 
 This indicates that a player has missed his small blind and only the small
 blind. It is tan/light brown in most cardrooms. Players most often miss the
@@ -4704,7 +4704,7 @@ enter the game by posting one big blind. (*See Cooke's*
 
 *Rules Article 12 "Blinds and the Dealer Button" on page 76.*)
 
-### 16.01.05. OVERS BUTTON
+#### 16.01.05. OVERS BUTTON
 
 This is used to indicate that a player is participating in overs. At the time
 overs begins, each player participating is given an overs button. If some
@@ -4713,20 +4713,20 @@ super-overs players shall be given two overs buttons. There is no
 standardization of color for overs buttons. (*See the provision 16.03 of this
 article relating to overs play.*)
 
-### 16.01.06. PLAYING BEHIND BUTTON
+#### 16.01.06. PLAYING BEHIND BUTTON
 
 Some establishments use a playing behind button to advise other players at the
 table that a player actually has more money in play than is in front of him.
 The use of playing behind buttons is recommended, but not required.
 
-### 16.01.07. OPENERS BUTTON
+#### 16.01.07. OPENERS BUTTON
 
 This button shall be used to indicate who opened a particular pot in a draw
 game that has qualifiers to open. (*See Cooke's Rules Article 7 "Closed Card
 (Draw Style) Games" on page 36.*) The use of this button is recommended, but
 not required.
 
-### 16.01.08. KILL BUTTON
+#### 16.01.08. KILL BUTTON
 
 A kill button shall be used in games with kills to identify the person who has
 fulfilled the first part of the kill requirements, where there are two parts to
@@ -4735,14 +4735,14 @@ kill button is placed into the pot to show that betting limits have increased
 when the conditions of the kill game have been met. (*See Cooke's Rules Article
 8 "Other Betting Rules & Structures" on page 46.*)
 
-### 16.01.09. SEAT CHANGE REQUEST BUTTON
+#### 16.01.09. SEAT CHANGE REQUEST BUTTON
 
 In establishments or games that prioritize seat change requests based on the
 order of the request, this button indicates that a player has requested a seat
 change. These buttons are not commonly used, but they are very helpful for
 efficiently managing the game and are recommended.
 
-## 16.02. TABLE SIGNS
+### 16.02. TABLE SIGNS
 
 Any time the normal rules or procedures of the house are not in effect, a
 placard shall be posted on the table so advising all players in the game, as
@@ -4752,7 +4752,7 @@ Common table signs restrict the number of deck changes and prohibit pot
 splitting or insurance. A table sign stating the current game being played, the
 limits, the minimum buy-in, and the maximum rake shall be posted on all tables.
 
-## 16.03 OVERS
+### 16.03 OVERS
 
 When two or more players wish to play for higher stakes than offered in the
 game, they shall be permitted to play overs. Overs are typically (although not
@@ -4775,7 +4775,7 @@ enable players to play for different stakes that are not available in the
 cardroom. Where a variety of games at different stakes are offered, there is no
 reason for overs and they should not be permitted.
 
-## 16.04. SHILLS AND PROP PLAYERS
+### 16.04. SHILLS AND PROP PLAYERS
 
 Any player put in action by the house in any manner shall be identified by the
 dealer when the player enters the game. (ALTER-NATE RULE: The house shall post
@@ -4783,7 +4783,7 @@ a sign in the room advising whether proposition players are used, but they do
 not have to be identified when entering a game. However, these players must be
 identified at the request of any active player.)
 
-## 16.05. SMOKING
+### 16.05. SMOKING
 
 In all games, without exception, the two seats to either side of the dealer
 shall be non-smoking seats. Cigar and pipe smoking shall be prohibited. Smoking
@@ -4793,7 +4793,7 @@ Smoking shall be pro-
 hibited in the cardroom.) Where State or local law prohibits smoking, smoking
 is of course prohibited.
 
-## 16.06. SPECTATORS
+### 16.06. SPECTATORS
 
 Only players, employees and guests of players shall be permitted on the poker
 room floor. Spectators who are guests of players shall be permitted. However,
@@ -4804,7 +4804,7 @@ raised at the time the spectator is seated. Notwithstanding any of the
 foregoing, the house has the right to disallow spectators generally or any
 particular spectator, regardless of the presence or absence of objections.
 
-## 16.07. COLLUSION
+### 16.07. COLLUSION
 
 A player shall act only in his own self-interest, and shall make no action for
 the benefit of another player. The following actions shall be considered
@@ -4825,14 +4825,14 @@ cases, the player may even be barred from the establishment:
   player when heads-up.
 - H. Refunding money won to a player, such as the last bet.
 
-## 16.08. DISCUSSING CARDS IN PLAY
+### 16.08. DISCUSSING CARDS IN PLAY
 
 A player shall not make any statement that could unfairly influence the play of
 the hand, whether or not the offender is involved in the pot. (i.e. Two queens
 flop and a player whispers to the person next to him "I had a queen" or slaps
 the table in disgust indicating he had a queen.)
 
-## 16.09. READING
+### 16.09. READING
 
 Reading at the poker table is prohibited. A player who is reading might not act
 in turn, and this slows down the game to the detriment of other players.
@@ -4840,7 +4840,7 @@ Notwithstanding this, at establishments that also offer pari-mutuel wagering or
 sports betting, players may consult such periodicals as racing forms or sports
 forms, but only when they do not have cards.
 
-## 16.10. ENGLISH ONLY
+### 16.10. ENGLISH ONLY
 
 During the play of a hand, all players seated at the table and all spectators
 shall speak only in the language of the country where the game is being played,
@@ -4848,7 +4848,7 @@ regardless of whether or not the player is contesting for the pot. In the
 United States, this means English. During the shuffle and between hands,
 players and spectators may speak in other languages.
 
-### 16.11.RABBIT HUNTING
+#### 16.11.RABBIT HUNTING
 
 Rabbit hunting—asking the dealer to show the next card even though an unmatched
 wager has been made and the hand is over—is prohibited. (ALTERNATE RULE: Rabbit
@@ -4858,7 +4858,7 @@ However, if this permission is abused then the privilege of rabbit hunting
 shall be revoked. Where rabbit hunting is permitted, the card shall not be
 shown until all live hands have been surrendered to the dealer*.*)
 
-## 16.12. CARDS REMAIN ON TABLE
+### 16.12. CARDS REMAIN ON TABLE
 
 All cards must be visible at all times. In button games, a card dealt off the
 table shall be deemed an exposed card. In stud games, a card dealt off the
@@ -4868,7 +4868,7 @@ shall be declared dead. If a card falls to the floor for any reason other than
 being dealt off the table by the dealer, that player's hand is automatically
 dead.
 
-## 16.13. BACK MAN OUT
+### 16.13. BACK MAN OUT
 
 Sometimes a game can be spread with the "back man out," meaning that each
 player in rotation takes a turn sitting out a hand, where there would otherwise
@@ -4878,7 +4878,7 @@ be used to indicate the person sitting out. This button shall be advanced one
 player position each hand. The back man out rule can be used in any poker game
 where there may not be enough cards to deal all players at the table a hand.
 
-## 16.14. ROVERS
+### 16.14. ROVERS
 
 A procedure may be used wherein one player each lap or each pre-determined
 period of time gives his seat up to the first player on the waiting list.
@@ -4888,19 +4888,19 @@ rule is to get players into action. It is common in home games, but rare in
 public cardroom games. In public games, it is most often used in one or two
 table cardrooms.
 
-## 16.15. TELEPHONES AT TABLE
+### 16.15. TELEPHONES AT TABLE
 
 Telephone calls at the table, whether on cell phones or house phones, shall be
 limited to two minutes. Further, no player may speak on the telephone more than
 six minutes in an hour. If a player is speaking on the phone in violation of
 this rule, the dealer shall deal around him.
 
-## 16.16. PROFANITY, VERBAL ABUSE
+### 16.16. PROFANITY, VERBAL ABUSE
 
 Players shall not use profanity or obscenities at the table or create a
 disturbance by arguing or shouting.
 
-## 16.17. ANNOUNCING IRREGULARITIES
+### 16.17. ANNOUNCING IRREGULARITIES
 
 A player should speak up immediately when he sees an error such as an incorrect
 amount going into the pot; a pot that is about to be awarded to the wrong
@@ -4908,9 +4908,9 @@ person; a card going to the wrong person; or a flashed or marred card. A player
 who knowingly takes advantage of an irregularity to gain an unfair advantage
 should be disciplined, and shall forfeit any interest in the pot in question.
 
-# Article 17: POKER ETIQUETTE
+## Article 17: POKER ETIQUETTE
 
-## 17.01. PRINCIPLES OF POKER ETIQUETTE
+### 17.01. PRINCIPLES OF POKER ETIQUETTE
 
 Issues presented in this Article are not Rules, per se, but relate to the
 orderly maintenance of the game and civility among those who participate in the
@@ -4928,7 +4928,7 @@ principles of etiquette less stringently with inexperienced players.
 Notwithstanding that, a player shall respect and play the game in conformity
 with the principles of poker etiquette
 
-## 17.02. TALKING, CRITIQUING, ETC
+### 17.02. TALKING, CRITIQUING, ETC
 
 Players should not talk across a player who is involved in a hand. (In the
 United Kingdom historically *no* talking has been allowed during the play of a
@@ -4940,7 +4940,7 @@ in deceptive conduct which delays the game, or which abuses other players at
 the table. A player should not criticize another player for leaving the game; a
 player may quit at any time without criticism.
 
-## 17.03. TREAT DEALERS COURTEOUSLY
+### 17.03. TREAT DEALERS COURTEOUSLY
 
 As a practical matter, without center dealers there can be no fair, honest,
 efficient game of poker. The dealer is not responsible for which card comes off
@@ -4961,14 +4961,14 @@ childish and bad for poker. A player should not stack his chips in a way which
 interferes with dealing or other players' viewing of cards or to conceal how
 much money the player has in action.
 
-## 17.04. STALLING
+### 17.04. STALLING
 
 A player should not use an excessive amount of time to make a play one knows
 will be made or in any other way deliberately stall the action of the game. At
 showdown, a player should immediately muck his hand when he knows it will not
 take the pot.
 
-## 17.06. TABLE SPACE
+### 17.06. TABLE SPACE
 
 A player should manage his table space in such a way as to be fair and
 reasonable to other players. In card rooms where convenience tables are
@@ -4979,7 +4979,7 @@ belongings—drinks, ashtrays, etc.—to the area immediately in front of him. A
 player shall have the right to ask the dealer to have another player move his
 belongings if they infringe on that player's table space.
 
-## 17.07. LEAVING THE TABLE
+### 17.07. LEAVING THE TABLE
 
 If leaving the game for an extended period, a player should advise the
 floorperson and the dealer. Unless the player has a strong objection or it is
@@ -4987,7 +4987,7 @@ prohibited by the rules of the establishment, the player should advise the
 dealer and floorperson that it is permissible for another player to play over
 the player who will be absent.
 
-## 17.08. PEEKING
+### 17.08. PEEKING
 
 A player should not lean over or back to see another player's cards. However,
 if he is able to see them without making an inordinate effort, he is not
@@ -4996,14 +4996,14 @@ another player constantly has the opportunity to see another's hole cards, in
 which case the dealer shall advise the person whose cards are being seen to
 protect his hand.
 
-## 17.09. DELIBERATE OBSTRUCTION
+### 17.09. DELIBERATE OBSTRUCTION
 
 No player should deliberately act out of turn, deliberately stall, deliberately
 splash, or reveal the contents of his hand (regardless of whether or not he is
 active in the pot, all-in, or any other circumstance) before the betting is
 complete.
 
-## 17.10. CLARIFY ACTION VERBALLY
+### 17.10. CLARIFY ACTION VERBALLY
 
 A player should verbally announce his action to avoid confusion. A player going
 all-in or playing behind should announce that fact to the dealer, who shall
@@ -5012,7 +5012,7 @@ table when his blinds are due should advise the dealer of his intention in
 button games, and in stud games, a player should indicate if he intends to ante
 and take a hand.
 
-## 17.11. EXPEDITING THE GAME
+### 17.11. EXPEDITING THE GAME
 
 A player should assist in the orderly conduct of the game. A player should know
 when it is his turn, put blinds and antes in timely, use increments of correct
@@ -5024,21 +5024,21 @@ expects to win the pot should show down his hand immediately. Players should
 limit rabbit hunting and setup and deck changes and asking to see called hands
 unnecessarily.
 
-## 17.12. ABUSE
+### 17.12. ABUSE
 
 Verbal or physical abuse of other players, dealers, spectators and others shall
 not be tolerated. Any abuse of others in the cardroom is grounds for immediate
 discipline, including but not limited to ejection, suspension and barring from
 the card room. Throwing cards shall be deemed abuse.
 
-## 17.12. SLOWROLLING
+### 17.12. SLOWROLLING
 
 At the showdown, no player who holds a hand he believes to be the best hand
 should declare or reveal his hand in such a way so as to lead his opponents to
 believe they hold the winning hand, when he knows in fact they don't. Such
 behavior is antithetical to the spirit of the game.
 
-# DEFINITIONS OF POKER TERMS
+## DEFINITIONS OF POKER TERMS
 
 Act
 : To check, bet, call, fold or raise, show down a hand, deal a card or commence
@@ -6201,7 +6201,7 @@ Verbal Declaration
 Wheel
 : A five-high straight.
 
-# Afterword
+## Afterword
 
 *Cooke's Rules of Real Poker* is not an end, but a beginning. For the first
 time in the modern era of poker, there is an effort to incorporate all the
@@ -6247,7 +6247,7 @@ versions of *Cooke's Rules of Real Poker*.
 The game that you must love as much as we do if you've read this far will only
 grow. And we hope that we will grow with it.
 
-# Appendix A: PROPOSED STAKE STRUCTURES & MINIMUM BUY-INS
+## Appendix A: PROPOSED STAKE STRUCTURES & MINIMUM BUY-INS
 
 Note that in Stud games the first raise can only complete the forced bring-in,
 unless itis brought in for a full bet. An alternate, and very reasonable,
@@ -6309,11 +6309,11 @@ rather than tying it to thelower betting limit. (\* Spread Limit)
 [^a]: Games can be spread with or without an ante; higher stakes games usually
       have antes.
 
-# Appendix B: PROPOSED JACKPOT STRUCTURE & RULES[^station]
+## Appendix B: PROPOSED JACKPOT STRUCTURE & RULES[^station]
 
 [^station]: Adapted from the Jackpot Rules of Station Casinos.
 
-## A. Jackpots Generally
+### A. Jackpots Generally
 
 Bad beat, high hand, royal flush and other jackpots are not so much a part of
 the game of poker as they are part of the business of poker. They are typically
@@ -6338,7 +6338,7 @@ which time it will be dropped, just as the rake is in games that have a rake.
 Jackpot money shall be allocated to high hand, Royal Flush and Bad Beat
 jackpots in accordance with the establishment's posted rules.
 
-## C. Administrative Fees
+### C. Administrative Fees
 
 In many states (including but not limited to California, Nevada and New Jersey)
 rules governing the jackpot are subject to government regulation. In some
@@ -6353,7 +6353,7 @@ Regardless of the procedure, if an administration fee or other money is
 deducted from the jackpot money, the players should be so advised in the
 establishment's posted jackpot rules.
 
-# D. High Hand and Royal Jackpots
+### D. High Hand and Royal Jackpots
 
 Some establishments pay a daily jackpot for the high hand of the day and for
 Royal Flushes. If these establishments spread Omaha, either straight high or
@@ -6526,7 +6526,7 @@ tables, and shall be eligible for High Hand and Royal jackpots. Poker room
 employees playing when on shift shall be characterized as proposition players
 for these purposes.
 
-## G. Payout Procedures
+### G. Payout Procedures
 
 In those establishments using video surveillance, surveillance tapes will be
 reviewed prior to distribution of the jackpot to ensure that there were no
@@ -6538,7 +6538,7 @@ amounts, shall make distribution. All recipients of jackpot money in excess of
 Security numbers, and shall be issued IRS Form 1099G reflecting the amount won
 in the jackpot.
 
-# Appendix C: Tounament Rules
+## Appendix C: Tounament Rules
 
 As originally conceived, Cooke's Rules was to have an Appendix addressing rules
 which were applied differently in tournaments, or were peculiar to tournaments.
@@ -6558,9 +6558,9 @@ the Internet at:
 The authors of Cooke's Rules applaud this effort and encourage tournament
 promoters and directors around the country to adopt these rules.
 
-# ABOUT THE AUTHORS
+## ABOUT THE AUTHORS
 
-# Roy Cooke
+### Roy Cooke
 
 Roy Cooke is generally acknowledged to be the most consistent hold'em player in
 the world in a career that spans over 30 years, and is a master of limit
@@ -6578,7 +6578,7 @@ the first realmoney Internet poker site.
 Roy lives in Las Vegas with his wife Misty and daughter Krystle. Roy and Misty
 have a successful real estate and mortgage brokerage business.
 
-# John Bond
+### John Bond
 
 John Bond is a retired attorney and free-lance writer with thousands of hours
 in both private games and public cardrooms. He has also run private games. His
@@ -6595,7 +6595,7 @@ world.
 John lives in Fort Lauderdale, Florida, with his wife, Jeannie Deininger, and
 their two shih tzus, Mookie and Riley.
 
-# ABOUT THE PUBLISHER
+## ABOUT THE PUBLISHER
 
 ConJelCo specializes in books and software for the serious gambler. In addition
 to this book, ConJelCo publishes *Winning Low-Limit Hold'em* by Lee Jones,
@@ -6630,9 +6630,9 @@ us at <orders@conjelco.com>.
 
 ---
 
-# Colophon
+## Colophon
 
-## barge.org presentation
+### barge.org presentation
 
 In 2026, the original text from the book was excerpted as Markdown and cleaned
 up with the aid of various tools.  Some parts of the original book (notably,
@@ -6641,7 +6641,7 @@ excerpts from Roy Cooke's other books, and the index) have been removed.
 We hope to restore the index in the future, but due to Markdown limitations, we
 can't do that easily.
 
-# Copyright
+## Copyright
 
 Cooke's Rules of Real Poker {{< br >}} Roy Cooke  {{< br >}} John Bond
 {{< br >}} *Copyright © 2005 by Roy Cooke and John Bond*
