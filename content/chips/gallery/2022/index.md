@@ -10,7 +10,15 @@ tags:
  - chips
  - sabyl
  - 2026-batch
+summary: >-
+ Our 2021 main event winner, Sabyl
+ Landrum,  chose the theme "Mixed Games".  Each chip depicts a different
+ mix.
 ---
+{{< figure src="trophy.jpg"
+    link="trophy.jpg"
+    class="floatright40" 
+    caption="The 2022 trophy set. Picture from Patrick Milligan" >}}
 
 Our 2021 main event winner, the first after the Covid year, is Sabyl "KaisMom"
 Landrum.  Sabyl chose the theme "Mixed Games".  Each chip depicts a different
@@ -78,4 +86,4 @@ mix:
   [2-7 ***T***riple Draw](/rulebook/deuce-to-seven-triple-draw.html).
 
 These chips were designed by Patrick Milligan.
-They are being produced as part of the 2026 batch.
+They were produced as part of the [2026 batch](/tags/2026-batch).

@@ -10,7 +10,15 @@ tags:
  - chips
  - omaholic
  - 2026-batch
+summary: >-
+ Our 2024 theme theme is Omaholic's 8 (or better) Steps to Achieving Poker
+ Wizardry, a theme picked by 2023 winner Rich Bremer.  Each chip features Vernon
+ Donk, who accompanies Rich in poker tournaments.
 ---
+{{< figure src="trophy.jpg"
+    link="trophy.jpg"
+    class="floatright40" 
+    caption="The 2024 trophy set. Picture from Patrick Milligan" >}}
 
 Our 2024 theme theme is Omaholic's 8 (or better) Steps to Achieving Poker
 Wizardry, a theme picked by 2023 winner Rich Bremer.  Each chip features Vernon
@@ -29,5 +37,6 @@ The eight steps in this chipset are:
 - Step 9: Poker Wizardry
 
 These chips were designed by Patrick Milligan and feature art drawn by Matt
-Stacey, who also did the art on [Rich's 2012 chips]({{< relref "/chips/gallery/2012" >}}).  They are being
-produced as part of the 2026 batch.
+Stacey, who also did the art on [Rich's 2012 chips]({{< relref
+"/chips/gallery/2012" >}}).  They were produced as part of the [2026
+batch](/tags/2026-batch).

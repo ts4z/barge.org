@@ -10,7 +10,14 @@ tags:
  - chips
  - tegwin
  - 2026-batch
+summary: >-
+ The 2026 chip theme, chosen by 2025 Main Event winner 
+ Gillian Groves, is Whales.
 ---
+{{< figure src="trophy.jpg"
+    link="trophy.jpg"
+    class="floatright40" 
+    caption="The 2026 trophy set. Picture from Patrick Milligan" >}}
 
 The 2026 chip theme, chosen by 2025 Main Event winner Gillian Groves, is
 *Whales*.  The chipset has eight chips, each featuring a different whale and
@@ -30,4 +37,5 @@ Chip edges feature denominations and nautical flags noting the denomination.
 | Blue     | 25000        | blue         |
 
 These chips were designed by Brian Fazio, with help from the Reformed BARGE
-Chip Committee.  Pictures on the chips were supplied by Gillian Groves.
+Chip Committee.  Pictures on the chips were supplied by Gillian Groves.  These
+chips were produced as part of the [2026 batch](/tags/2026-batch).
