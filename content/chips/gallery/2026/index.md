@@ -30,4 +30,4 @@ Chip edges feature denominations and nautical flags noting the denomination.
 | Blue     | 25000        | blue         |
 
 These chips were designed by Brian Fazio, with help from the Reformed BARGE
-Chip Committee.  Pictures were supplied by Gillian Groves.
+Chip Committee.  Pictures on the chips were supplied by Gillian Groves.
