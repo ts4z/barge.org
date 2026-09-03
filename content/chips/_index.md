@@ -50,15 +50,11 @@ There is even more [BARGE memorabilia]({{< relref "/memorabilia" >}}) that we wi
 Please [contact us](mailto:tim.showalter@gmail.com) if you have images or
 corrections.
 
-
 ## Chips for Sale
 
-We will have (a very few) extra 2026, 2024, and 2022 sets once those are
-produced.
-
-We have an inventory of *some* old BARGE chips, including some complete
-sample sets.  Contact [Tim Showalter](mailto:tjs@psaux.com) to see if we have
-figured out how to sell these yet.
+We have a few 2026, 2024, and 2022 sets.  We also have an inventory of some old
+BARGE chips, including many complete sample sets.  Contact [Tim
+Showalter](mailto:tjs@psaux.com) for pricing and availability.
 
 ## History
 
