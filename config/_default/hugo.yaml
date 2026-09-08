@@ -40,21 +40,21 @@ params:
   # effective dates (YYYY-MM-DD).  These require a rebuild to take effect.
   nextEvents:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
-    - link: "/barge/2026/"
-      text: "BARGE is July 20-25 at The Orleans"
-      until: "2026-07-26"
-    - link: "http://fargopoker.org/"
-      text: "FARGO 2026 — October 16-18"
-      until: "2026-10-19"
+    # - link: "/barge/2026/"
+    #   text: "BARGE is July 20-25 at The Orleans"
+    #   until: "2026-07-26"
+    # - link: "http://fargopoker.org/"
+    #   text: "FARGO 2026 — October 16-18"
+    #   until: "2026-10-19"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.  As with
   # nextEvents, these will wrap if they get too long.
   ctas:
     # ..... 01234567890123456789012345678901234*6789* <-- r00ler
-    - link: https://www.zeffy.com/en-US/ticketing/barge--2026
-      text: "Register for BARGE 2026 now!"
-      until: "2026-07-26"
+    - link: https://fargopoker.org/registration/
+      text: "Register for FARGO 2026 — Oct 16-18"
+      until: "2026-10-19"
   selfHosted: true
   socialShare: true
   showRelatedPosts: true
