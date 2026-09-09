@@ -226,6 +226,19 @@ launchctl list | grep zeffy
 (sometimes hand-edited), and re-pointing the poller at it would clobber that. Past events
 drop out permanently.
 
+### Current state — poller is STOPPED
+
+As of **2026-09-08** the `com.doug.zeffy-poll` agent is booted out, deliberately.
+BARGE 2026 is past, its campaign is dead, and the agent had been failing auth every five
+minutes since 2026-07-27 (12,306 consecutive 401s) with nothing to poll. Logs were
+truncated the same day; `scripts/logs/FORMAT-SAMPLE-2026-09-08.txt` keeps a sample of
+both the success and failure formats so we can tell if Zeffy's shape changed when we
+start again.
+
+**Restart planned for December 2026**, pointed at the EMBARGO 2027 campaign, using the
+rollover steps above. Expect to refresh cookies at the same time — the ones on disk will
+be months dead.
+
 ### Known upcoming runs — both remote
 
 - **EMBARGO — January 2027**
