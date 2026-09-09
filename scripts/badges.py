@@ -9,7 +9,11 @@
 # ]
 # ///
 """
-BARGE 2026 badge pipeline — round 1: canonical attendee list.
+BARGE badge pipeline — canonical attendee list and print-ready PDF.
+
+See BADGES.md at the repo root for the full workflow, including how to
+refresh Zeffy cookies from an SSH-only session and how to calibrate a
+printer.
 
 Fetches the current Zeffy guest list (or reads a saved XLSX), collapses
 multi-purchase rows into one row per attendee, keeps the extra fields
@@ -20,9 +24,12 @@ badges need (last name, hometown / city+state), and emits:
   2. A validation report to stdout — missing nicknames, duplicate
      nicknames across different people, likely overflow risks, and a
      list of attendees missing a hometown value.
-
-Round 2 will consume the same canonical list to render Avery 74459
-PDFs, but that's not built yet.
+  3. With --pdf, a 6-up Avery 74459 badge PDF: chip-pile background,
+     white card, auto-shrinking nickname, plus a banquet marker for
+     attendees holding a banquet ticket.  Two honorary badges and at
+     least BLANK_BADGES_MIN write-your-own blanks are appended, padded
+     to end on a full page.  --only renders a subset for reprints, and
+     --calibration emits a printer-alignment page needing no Zeffy data.
 
 Reuses the Zeffy client from zeffy_poll.py — same cookies, same
 Cloudflare-friendly HTTP headers, same XLSX endpoint.  Unlike the
@@ -33,8 +40,11 @@ merge into one row.
 
 Usage:
     uv run scripts/badges.py --campaign <UUID>
+    uv run scripts/badges.py --campaign <UUID> --pdf badges.pdf
     uv run scripts/badges.py --campaign <UUID> --last-export scripts/last_export.xlsx
     uv run scripts/badges.py --campaign <UUID> --output /tmp/canonical.csv
+    uv run scripts/badges.py --campaign <UUID> --pdf reprint.pdf --only halvorsen
+    uv run scripts/badges.py --calibration calib.pdf     # no Zeffy data needed
 """
 
 import argparse

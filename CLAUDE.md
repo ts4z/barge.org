@@ -174,6 +174,20 @@ giving good information to Hugo helps detect errors.)
 It is an anti-pattern to link back to the root of the site, although it is
 common in human-authored code.
 
+## Registration and badges
+
+Registration runs through Zeffy. `scripts/zeffy_poll.py` (launchd
+`com.doug.zeffy-poll.plist`) polls the guest list every 5 minutes and syncs it to the
+site with last names stripped.  Exactly one Zeffy campaign is active at a time; past
+events drop out of the poller permanently and their data files become static.
+
+Badge PDFs are a separate, manual, on-demand step run after registration closes,
+usually over SSH.  **See `BADGES.md`** for the full workflow — the command, refreshing
+Zeffy cookies from an SSH-only session (they expire silently and that is the main
+failure mode), the offline `--last-export` fallback, the validation report,
+`scripts/badge_overrides.yaml`, Avery 74459 calibration, and moving the ~5.7MB PDF off
+the box.
+
 ## tools
 
 The `frontmatter` utility can be used for reading and writing frontmatter.  If
