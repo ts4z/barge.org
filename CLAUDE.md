@@ -6,7 +6,12 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ```bash
 # Start local dev server (live reload)
-hugo server
+# Always pkill first — dgrm4 runs exactly one Hugo at a time — and bind externally
+# so the server is reachable from another device over Tailscale. The default
+# 127.0.0.1 binding is invisible from anywhere but dgrm4 itself.
+pkill hugo
+hugo server --bind 0.0.0.0 --baseURL http://dgrm4:1313/ --appendPort=false
+# then open http://dgrm4:1313/
 
 # Build for production
 hugo
@@ -15,7 +20,8 @@ hugo
 hugo --environment staging
 
 # Build with drafts visible
-hugo server --buildDrafts
+pkill hugo
+hugo server --bind 0.0.0.0 --baseURL http://dgrm4:1313/ --appendPort=false --buildDrafts
 ```
 
 The site builds to `public/`. The staging config in `config/staging/hugo.yaml` overrides the base URL to `https://test.bjrge.org/`.
