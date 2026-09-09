@@ -63,7 +63,25 @@ Fallback if headless login breaks: log into Zeffy in a browser on your laptop, c
 request as cURL from devtools, and feed it to `zeffy_cookies_from_curl.py` (no
 dependencies). Clunky, but it needs nothing from dgrm4 but a paste.
 
-### 2. Generate
+**Zeffy sessions last roughly five weeks.** Measured, not guessed: `cookies.json` was
+written 2026-06-24 and the poller's last successful run was 2026-07-27 — about 33 days.
+Plan on refreshing cookies shortly *before* each badge run rather than assuming a session
+from last month still works.
+
+### 2. Find the campaign UUID
+
+The campaign ID is the **`formId` in the Zeffy campaign URL** — open the campaign in the
+Zeffy organizer dashboard and read it out of the address bar.
+
+Two other places already record the *currently active* one:
+
+- `scripts/com.doug.zeffy-poll.plist` — the `--campaign` argument.
+- `scripts/state.json` — the `campaign_id` field.
+
+For reference, BARGE 2026 was `4d592512-3aff-484e-a5dc-c59bf6fa2e2c`, output to
+`data/barge_2026_registrations.yaml`.
+
+### 3. Generate
 
 ```bash
 cd ~/projects/barge/scripts
@@ -76,7 +94,7 @@ and the 6-up print-ready `badges.pdf`, and prints a validation report to stdout.
 The campaign UUID is the Zeffy campaign for the event — the same one the poller is
 pointed at. Exactly one campaign is ever active at a time.
 
-### 3. Offline / no-Zeffy run
+### 4. Offline / no-Zeffy run
 
 If Zeffy is flaky, cookies can't be refreshed, or you just want to re-render from the
 last known data:
@@ -190,6 +208,37 @@ Do not commit the PDF to the repo to move it around — `badges.pdf` and
 churn per regeneration is not worth it.
 
 ---
+
+## Rolling over to the next event
+
+Only one Zeffy campaign is ever polled at a time. When registration opens for the next
+event, repoint the poller — edit `--campaign` and `--output` in
+`scripts/com.doug.zeffy-poll.plist`, then:
+
+```bash
+launchctl bootout    "gui/$(id -u)" ~/Library/LaunchAgents/com.doug.zeffy-poll.plist
+cp scripts/com.doug.zeffy-poll.plist ~/Library/LaunchAgents/
+launchctl bootstrap  "gui/$(id -u)" ~/Library/LaunchAgents/com.doug.zeffy-poll.plist
+launchctl list | grep zeffy
+```
+
+**A past event's campaign must never be polled again.** Its data file becomes static
+(sometimes hand-edited), and re-pointing the poller at it would clobber that. Past events
+drop out permanently.
+
+### Known upcoming runs — both remote
+
+- **EMBARGO — January 2027**
+- **ATLARGE — April 2027 (typical)**
+
+Doug is at sea for both. That makes the cookie-refresh path load-bearing rather than a
+convenience: each run needs a live Zeffy session, and sessions only last about five
+weeks, so `--last-export` will not save you — there will be no recent export for a
+campaign that's actively taking registrations.
+
+**Confirm before departure** that the BARGE Zeffy account still logs in with plain
+email + password. If 2FA or magic-link login has been turned on, `zeffy_login_headless.py`
+cannot work, and there is no remote path to fresh registration data at all.
 
 ## Gotchas
 
