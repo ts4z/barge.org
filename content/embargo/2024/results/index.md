@@ -4,6 +4,7 @@ date: 2024-02-01
 draft: false
 aliases:
  - /embargo-2024
+ - /embargo/results/2024/
 tags:
  - embargo
  - results
