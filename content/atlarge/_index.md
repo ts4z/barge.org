@@ -14,6 +14,11 @@ cover:
 aliases:
  - /atlarge/Link
 ---
+Quick Links for [ATLARGE 2026]({{< relref "2026/" >}}):
+[Schedule]({{< relref "2026/schedule/" >}})
+[Results]({{< relref "2026/results/" >}})
+&mdash; [Previous ATLARGE Results]({{< relref "results/" >}})
+
 ## What is "ATLARGE"?
 
 ATLARGE stands for the ATLantic city Annual Rec.Gambling Excursion. We are a
@@ -29,7 +34,8 @@ ATLARGE is the New Jersey version of [BARGE]({{< relref "/barge" >}}) (our group
 event, our annual gathering in Las Vegas in August). Roughly 200 people attend
 BARGE each year, and about 100 attend ATLARGE each year.
 
-Registration for ATLARGE2026 has moved to a new location: {{< new-tab href="https://www.zeffy.com/en-US/ticketing/atlantic-city-meetup-2026-atlarge" text="click here" >}} to register! (and, if you want to [see who is registered]({{< relref "/atlarge/2026/registrations" >}}), click here)
+Registration for ATLARGE2026 has closed.
+([See who registered here.]({{< relref "/atlarge/2026/registrations" >}}))
 
 Everyone of legal gambling age in New Jersey is welcome to join us at ATLARGE.
 Our *only* requirement is that you register with us in advance, here, on our
@@ -51,7 +57,7 @@ below):
 3. The third and final ATLARGE2026 tournament will be on Sunday, April 19,
    2026, at 11:00am. This event will be double board Pot Limit Omaha.
 
-The structure sheets for these tournaments are available here (only not yet).
+The structure sheets for these tournaments will be linked here when they are available.
 
 ## Other ATLARGE Traditions
 
