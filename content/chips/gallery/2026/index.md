@@ -38,4 +38,4 @@ Chip edges feature denominations and nautical flags noting the denomination.
 
 These chips were designed by Brian Fazio, with help from the Reformed BARGE
 Chip Committee.  Pictures on the chips were supplied by Gillian Groves.  These
-chips were produced as part of the [2026 batch](/tags/2026-batch).
+chips were produced as part of the [2026 batch](/tags/2026-batch/).
