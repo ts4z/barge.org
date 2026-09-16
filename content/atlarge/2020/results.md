@@ -66,7 +66,7 @@ database.  Thank you to Cliff and Crunch for helping to resurrect this in
     date="December 13, 2020" >}}
 
 |   |                 |          |
-|:-:|:-----------------0|------:|
+|:-:|:-----------------|------:|
 | 1 | Andreas Wolfram | FM 1,428 |
 | 2 | Kathy Chang     |    1,071 |
 | 3 | Russell Fox     |      816 |
