@@ -1,5 +1,5 @@
 ---
-summary: ATLARGE 2026 was> at the Borgata from April 16-19, 2026.
+summary: ATLARGE 2026 was at the Borgata from April 16-19, 2026.
 tags:
 - atlarge
 - 2026
