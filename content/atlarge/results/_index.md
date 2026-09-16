@@ -10,8 +10,6 @@ cover:
   image: logos/ATLarge_v5.png
 ---
 
-We believe we have complete results for all ATLARGE events.  However, the
-organization of the old ATLARGE site was a little different, so this index
-page hasn't linked them all yet.
+We have most results for most ATLARGE events, but we are missing a few years.
 
 {{< year-results section="/atlarge" >}}
