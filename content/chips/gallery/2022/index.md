@@ -86,4 +86,4 @@ mix:
   [2-7 ***T***riple Draw](/rulebook/deuce-to-seven-triple-draw.html).
 
 These chips were designed by Patrick Milligan.
-They were produced as part of the [2026 batch](/tags/2026-batch).
+They were produced as part of the [2026 batch]({{< relref "/tags/2026-batch" >}}).

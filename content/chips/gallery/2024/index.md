@@ -39,4 +39,4 @@ The eight steps in this chipset are:
 These chips were designed by Patrick Milligan and feature art drawn by Matt
 Stacey, who also did the art on [Rich's 2012 chips]({{< relref
 "/chips/gallery/2012" >}}).  They were produced as part of the [2026
-batch](/tags/2026-batch).
+batch]({{< relref "/tags/2026-batch" >}}).
