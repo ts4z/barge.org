@@ -1,0 +1,70 @@
+/*
+ * Parenthesized ordered lists, for formal documents such as the bylaws and the
+ * articles of incorporation.  Labels match the printed (PDF) originals:
+ *
+ *     (a) (b) (c)     top level
+ *     (i) (ii) (iii)  one level in
+ *     (A) (B) (C)     two levels in
+ *
+ * Usage:  <ol class="parentheses"> <li> ... </li> </ol>
+ *
+ * Nest another ol.parentheses inside an li to step down a level.  To force a
+ * particular label style on a list that is not where its numbering suggests,
+ * add alpha, roman, or decimal: <ol class="parentheses roman">.
+ *
+ * Labels hang in the left margin so that wrapped lines and additional
+ * paragraphs within an item stay aligned with the item's first line.
+ */
+
+ol.parentheses {
+  list-style: none;
+  counter-reset: parenthetical;
+  margin-left: 0;
+  padding-left: 2.5em;
+}
+
+ol.parentheses > li {
+  counter-increment: parenthetical;
+  position: relative;
+}
+
+ol.parentheses > li + li {
+  margin-top: 0.5em;
+}
+
+ol.parentheses > li::before {
+  content: "(" counter(parenthetical, lower-alpha) ")";
+  position: absolute;
+  left: -2.5em;
+}
+
+ol.parentheses ol.parentheses > li::before {
+  content: "(" counter(parenthetical, lower-roman) ")";
+}
+
+ol.parentheses ol.parentheses ol.parentheses > li::before {
+  content: "(" counter(parenthetical, upper-alpha) ")";
+}
+
+/* Explicit overrides; these follow the nesting rules so that they win at
+   equal specificity. */
+ol.parentheses.alpha > li::before {
+  content: "(" counter(parenthetical, lower-alpha) ")";
+}
+
+ol.parentheses.roman > li::before {
+  content: "(" counter(parenthetical, lower-roman) ")";
+}
+
+ol.parentheses.decimal > li::before {
+  content: "(" counter(parenthetical, decimal) ")";
+}
+
+/* Plain lettered and roman lists ("a." "b."), as used in Bylaws 9.1. */
+ol.lower-alpha {
+  list-style-type: lower-alpha;
+}
+
+ol.lower-roman {
+  list-style-type: lower-roman;
+}
