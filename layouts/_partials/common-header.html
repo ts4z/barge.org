@@ -1,5 +1,7 @@
-{{- partial "next-events.html" . }}
-{{- partial "ctas.html" . }}
+{{- if not (.Param "hidePlugs") }}
+  {{- partial "next-events.html" . }}
+  {{- partial "ctas.html" . }}
+{{- end }}
 
 {{- if not .IsHome | and .Title }}
 <header class="page-header">
