@@ -1,0 +1,21 @@
+name: Do Not Merge
+
+# Fails while a PR carries the `do-not-merge` label.  This only blocks merging
+# if the "do-not-merge" check is marked required for main in the repository's
+# branch protection (or ruleset) settings.
+
+on:
+  pull_request:
+    branches: [ "main" ]
+    types: [ opened, reopened, synchronize, labeled, unlabeled ]
+
+jobs:
+  do-not-merge:
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - name: check for do-not-merge label
+        if: ${{ contains(github.event.pull_request.labels.*.name, 'do-not-merge') }}
+        run: |
+          echo "This PR is labeled do-not-merge." >&2
+          exit 1
