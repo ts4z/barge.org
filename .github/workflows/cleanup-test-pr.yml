@@ -1,0 +1,30 @@
+name: Remove PR Build from Test
+
+# Deletes https://test.bjrge.org/<PR number>/ (created by
+# build-deploy-test.yml) once the PR is merged or closed.  Each build is
+# several hundred MB, so they shouldn't accumulate.
+
+on:
+  pull_request:
+    branches: [ "main" ]
+    types: [ closed ]
+
+jobs:
+  remove-pr-build:
+    runs-on: ubuntu-latest
+    environment: test.bjrge.org
+    permissions:
+      contents: read
+    steps:
+      - name: remove PR directory from test host
+        env:
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+          HOST: ${{ secrets.HOST }}
+          REMOTE_USER: ${{ secrets.USER }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          [[ "$PR" =~ ^[0-9]+$ ]] || { echo "bad PR number: $PR" >&2; exit 1; }
+          install -m 600 /dev/null ~/.ssh_key
+          printf '%s\n' "$SSH_KEY" > ~/.ssh_key
+          ssh -i ~/.ssh_key -o StrictHostKeyChecking=accept-new \
+            "$REMOTE_USER@$HOST" "rm -rf /home/timshow/test.bjrge.org/$PR"
