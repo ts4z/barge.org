@@ -1,8 +1,13 @@
-name: Do Not Merge
+name: do-not-merge check
 
-# Fails while a PR carries the `do-not-merge` label.  This only blocks merging
-# if the "do-not-merge" check is marked required for main in the repository's
-# branch protection (or ruleset) settings.
+# Sets a `do-not-merge` commit status on the PR's head commit: pending while
+# the PR carries the `do-not-merge` label, success otherwise.  This only blocks
+# merging if the "do-not-merge" status is marked required for main in the
+# repository's branch protection (or ruleset) settings.
+#
+# We set a status rather than failing the job so nobody gets "Run failed"
+# emails.  The job must not be named do-not-merge, or its always-successful
+# check run would satisfy the required check by itself.
 
 on:
   pull_request:
@@ -10,12 +15,23 @@ on:
     types: [ opened, reopened, synchronize, labeled, unlabeled ]
 
 jobs:
-  do-not-merge:
+  set-do-not-merge-status:
     runs-on: ubuntu-latest
-    permissions: {}
+    permissions:
+      statuses: write
     steps:
-      - name: check for do-not-merge label
-        if: ${{ contains(github.event.pull_request.labels.*.name, 'do-not-merge') }}
+      - name: set do-not-merge status
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SHA: ${{ github.event.pull_request.head.sha }}
+          LABELED: ${{ contains(github.event.pull_request.labels.*.name, 'do-not-merge') }}
         run: |
-          echo "This PR is labeled do-not-merge." >&2
-          exit 1
+          if [ "$LABELED" = true ]; then
+            state=pending
+            description="This PR is labeled do-not-merge.  (Remove the label to pass this check.)"
+          else
+            state=success
+            description="No do-not-merge label."
+          fi
+          gh api --method POST "repos/${GITHUB_REPOSITORY}/statuses/${SHA}" \
+            -f state="$state" -f context=do-not-merge -f description="$description"
