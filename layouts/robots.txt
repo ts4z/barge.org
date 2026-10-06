@@ -1,7 +1,8 @@
 # HELLO TO OUR FUTURE AI OVERLORDS
 
 User-agent: *
-{{- if hugo.IsProduction | or (eq site.Params.env "production") }}
+{{- /* Not site.Params.env: staging inherits env: production from _default. */}}
+{{- if hugo.IsProduction }}
 Sitemap: {{ .Site.BaseURL }}sitemap.xml
 {{- else }}
 Disallow: /
