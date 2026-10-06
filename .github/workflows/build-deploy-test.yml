@@ -1,22 +1,39 @@
 name: Build and Deploy HTML to Test
 
+# Each PR deploys to https://test.bjrge.org/<PR number>/, and main deploys to
+# https://test.bjrge.org/main/, so builds no longer overwrite each other.
+# PR directories are removed by cleanup-test-pr.yml when the PR closes.
+
 on:
   push:
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
-    branches: [ "main" ]
+
+env:
+  # PR number for pull requests, otherwise the branch name (normally "main").
+  DEPLOY_DIR: ${{ github.event.pull_request.number || github.ref_name }}
 
 jobs:
   build-and-deploy-to-test-dot-bjrge-dot-org:
     runs-on: ubuntu-latest
-    environment: test.bjrge.org
+    environment:
+      name: test.bjrge.org
+      # Shows up as a "View deployment" button on the PR.
+      url: https://test.bjrge.org/${{ github.event.pull_request.number || github.ref_name }}/
     permissions:
       contents: read
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
     steps:
+      - name: check deploy directory name
+        # Keep a weird branch name (via workflow_dispatch) from escaping the
+        # test site's directory.
+        run: |
+          [[ "$DEPLOY_DIR" =~ ^[A-Za-z0-9._-]+$ && "$DEPLOY_DIR" != .* ]] || {
+            echo "unsafe deploy directory: $DEPLOY_DIR" >&2; exit 1; }
       - name: checkout source
         uses: actions/checkout@v6
         with:
@@ -29,16 +46,15 @@ jobs:
         with:
           hugo-version: 0.160.1
       - name: build site with hugo
-        run: hugo --environment staging
+        run: hugo --environment staging --baseURL "https://test.bjrge.org/${DEPLOY_DIR}/"
       - name: list public directory
         run: find public -type f
-      # Note: Deploy _all_ changes, last one wins I guess?
       - name: rsync 'public' to test host
         uses: burnett01/rsync-deployments@7.0.1
         with:
           path: public/
           remote_host: ${{ secrets.HOST }}
           remote_key: ${{ secrets.SSH_KEY }}
-          remote_path: /home/timshow/test.bjrge.org
+          remote_path: /home/timshow/test.bjrge.org/${{ env.DEPLOY_DIR }}/
           remote_user: ${{ secrets.USER }}
           switches: -vzr --delete
