@@ -11,7 +11,7 @@ all of the subpages of that page.
 <ul>
   {{ range $page.Pages }}
   <li>
-    <a href="{{ relref $ .Permalink }}">{{ .Title }}</a>
+    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
   </li>
   {{ end }}
 </ul>
