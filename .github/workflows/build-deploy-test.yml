@@ -46,7 +46,17 @@ jobs:
         with:
           hugo-version: 0.160.1
       - name: build site with hugo
-        run: hugo --environment staging --baseURL "https://test.bjrge.org/${DEPLOY_DIR}/"
+        run: hugo --environment staging
+      - name: relocate absolute URLs into the deploy directory
+        # We can't just pass --baseURL https://test.bjrge.org/N/: with
+        # relativeURLS, Hugo's own links (which already include /N/) get
+        # rewritten relative to the site root and end up as /N/N/...  So we
+        # build as if at the root, where relativeURLS works, and fix up the
+        # absolute URLs the theme emits.  Only HTML and XML contain the host;
+        # CSS/JS are left alone so their integrity hashes stay valid.
+        run: |
+          find public -type f \( -name '*.html' -o -name '*.xml' \) -print0 |
+            xargs -0 sed -i "s#https://test\.bjrge\.org/#https://test.bjrge.org/${DEPLOY_DIR}/#g"
       - name: list public directory
         run: find public -type f
       - name: rsync 'public' to test host
