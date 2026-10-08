@@ -60,7 +60,7 @@ Showalter](mailto:tjs@psaux.com) for pricing and availability.
 
 Starting with [1993]({{< relref "/chips/gallery/1993" >}}), and through [1999]({{< relref "/chips/gallery/1999" >}}), chips
 were produced by the Main Event winner.  For the first few events, the chipset
-was presented at BARGE and designed by the previous year's winner, but starting
+was presented at BARGE and designed by the previous year's winner. Starting
 with [1997]({{< relref "/chips/gallery/1997" >}}), the winner started designing their set for
 themselves.
 
@@ -68,17 +68,18 @@ In 2000, the main event winner did not make the chips.  [Ken &#8220;QB&#8221;
 Kubey]({{< relref "/tags/qb" >}}) [made a set]({{< relref "/chips/gallery/2000-qb" >}}) for distribution at
 [BARGE 2000]({{< relref "/barge/2000" >}}).
 
-So starting from the [2001]({{< relref "/chips/gallery/2001" >}}) BARGE, and retroactive to the
-[2000]({{< relref "/chips/gallery/2000-bcc" >}}) chipset, the [BARGE Chip Committee]({{< relref "/chips/bcc" >}}) formed to
-ensure chipsets were produced every year. Input from the Main Event winners
-varied from very active to none at all.  Chip production stalled, partially due
-to the pandemic, after [2019]({{< relref "/chips/gallery/2019" >}}).
+Starting from the [2001]({{< relref "/chips/gallery/2001" >}}) BARGE, and
+retroactive to the [2000]({{< relref "/chips/gallery/2000-bcc" >}}) chipset,
+the [BARGE Chip Committee]({{< relref "/chips/bcc" >}}) formed to ensure
+chipsets were produced every year. Input from the Main Event winners varied
+from very active to none at all.
 
-In 2025, the BCC was revived, and chips were produced for
-[2025]({{< relref "/chips/gallery/2025" >}}), [2023]({{< relref "/chips/gallery/2023" >}}), [2021]({{< relref "/chips/gallery/2021" >}}), and
-[2020]({{< relref "/chips/gallery/2020" >}}) and were delivered at BARGE.
+Chip production stalled, partially due to the pandemic, after [2019]({{< relref
+"/chips/gallery/2019" >}}).
 
-We are currently producing chips for [2026]({{< relref "/chips/gallery/2026" >}}), and make-up sets
-for [2024]({{< relref "/chips/gallery/2024" >}}) and [2022]({{< relref "/chips/gallery/2022" >}}).
+In [2025]({{< relref "/chips/gallery/2025" >}}), the [BCC was Reformed]({{<
+relref "/chips/bcc/#2025-bcc20" >}}), and we produced chips for all the missing
+years.  In [2026]({{< relref "/chips/gallery/2026" >}}), we caught up with all
+the missing years.
 
 -----
