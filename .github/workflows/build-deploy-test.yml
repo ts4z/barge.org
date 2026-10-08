@@ -1,12 +1,9 @@
 name: Build and Deploy HTML to Test
 
-# Each PR deploys to https://test.bjrge.org/<PR number>/, and main deploys to
-# https://test.bjrge.org/main/, so builds no longer overwrite each other.
+# Each PR deploys to https://test.bjrge.org/pr/<PR number>/.
 # PR directories are removed by cleanup-test-pr.yml when the PR closes.
 
 on:
-  push:
-    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
   workflow_dispatch:
