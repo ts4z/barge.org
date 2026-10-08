@@ -21,7 +21,7 @@ jobs:
     environment:
       name: test.bjrge.org
       # Shows up as a "View deployment" button on the PR.
-      url: https://test.bjrge.org/${{ github.event.pull_request.number || github.ref_name }}/
+      url: https://test.bjrge.org/pr/${{ github.event.pull_request.number || github.ref_name }}/
     permissions:
       contents: read
     concurrency:
