@@ -27,4 +27,4 @@ jobs:
           install -m 600 /dev/null ~/.ssh_key
           printf '%s\n' "$SSH_KEY" > ~/.ssh_key
           ssh -i ~/.ssh_key -o StrictHostKeyChecking=accept-new \
-            "$REMOTE_USER@$HOST" "rm -rf /home/timshow/test.bjrge.org/$PR"
+            "$REMOTE_USER@$HOST" "rm -rf /home/timshow/test.bjrge.org/pr/$PR"

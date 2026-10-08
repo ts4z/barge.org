@@ -56,7 +56,7 @@ jobs:
         # CSS/JS are left alone so their integrity hashes stay valid.
         run: |
           find public -type f \( -name '*.html' -o -name '*.xml' \) -print0 |
-            xargs -0 sed -i "s#https://test\.bjrge\.org/#https://test.bjrge.org/${DEPLOY_DIR}/#g"
+            xargs -0 sed -i "s#https://test\.bjrge\.org/#https://test.bjrge.org/pr/${DEPLOY_DIR}/#g"
       - name: list public directory
         run: find public -type f
       - name: rsync 'public' to test host
@@ -65,6 +65,6 @@ jobs:
           path: public/
           remote_host: ${{ secrets.HOST }}
           remote_key: ${{ secrets.SSH_KEY }}
-          remote_path: /home/timshow/test.bjrge.org/${{ env.DEPLOY_DIR }}/
+          remote_path: /home/timshow/test.bjrge.org/pr/${{ env.DEPLOY_DIR }}/
           remote_user: ${{ secrets.USER }}
           switches: -vzr --delete
