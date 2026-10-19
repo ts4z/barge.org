@@ -44,9 +44,9 @@ params:
     #   text: "BARGE is July 20-25 at The Orleans"
     #   until: "2026-07-26"
     - link: "http://fargopoker.org/"
-      text: "FARGO 2026 — October 16-18"
-      after: "2026-10-13"
-      until: "2026-10-19"
+      text: "FARGO 2027 — October 15-17"
+      after: "2027-08-15"
+      until: "2027-10-18"
   # CTAs are added to (almost) all pages at the top in an obnoxious yellow box.
   # Each CTA should be made of a link and a display text.  Any number of CTAs
   # are supported, but try to limit yourself to one or two.  As with

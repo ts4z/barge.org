@@ -37,7 +37,7 @@ the mailing list]({{< relref "/resources/mailing-lists" >}}).
 ## FARGO
 
 FARGO (the Fall Annual Recreational Gambling Outing)
-takes place each fall in Connecticut.  FARGO 2025 was October 16-19.
+takes place each fall in Connecticut.  FARGO 2027 will be October 15-17.
 
 Visit [www.fargopoker.org](http://www.fargopoker.org/) for additional
 information.
@@ -77,7 +77,7 @@ It is held in Las Vegas during the World Series of Poker.
 Our original and longest-running event, the original meet-up game,
 [BARGE]({{< relref "/barge" >}}) has happened every year since 1991.
 
-[BARGE]({{< relref "/barge" >}}) happens each summer in late July or early August.  We'll be
+[BARGE]({{< relref "/barge" >}}) happens each summer in late July or early August.  We were
 back at the Orleans in summer 2026.
 
 {{< hr-clear >}}
