@@ -35,5 +35,5 @@ BARGE as an organizer.
 -----
 
 Cover image: Half-Native Chowaha being played at BARGE 2008. Waitress' arm is
-obscuring Kevin Un's shirt which reads, "The liver is evil. It must be
+obscuring Ben Gamble's shirt which reads, "The liver is evil. It must be
 punished."
