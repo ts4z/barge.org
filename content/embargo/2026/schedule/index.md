@@ -3,9 +3,7 @@ title: EMBARGO 2026 Schedule
 draft: false
 date: 2025-12-13
 aliases:
- - /embargo/schedule
  - /embargo/2026/sschedule/
- - /schedule1
 cover:
   image: logos/embargo_logo_2026.png
 summary: Event schedule for EMBARGO 2026 (which already happened).
