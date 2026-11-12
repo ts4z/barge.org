@@ -6,6 +6,8 @@ tags:
  - embargo
  - 2027
 date: 2026-11-10
+cover:
+  image: logos/embargo_logo_2027.png
 summary: >-
   EMBARGO 2027 will be at the Orleans, January 28-30.
 ---

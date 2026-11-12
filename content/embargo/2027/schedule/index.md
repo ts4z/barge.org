@@ -6,6 +6,7 @@ aliases:
  - /embargo/schedule
  - /schedule1
 cover:
+  image: logos/embargo_logo_2027.png
 summary: Event schedule for EMBARGO 2027 (not available yet).
 ---
 
