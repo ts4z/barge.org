@@ -13,10 +13,10 @@ aliases:
  - /embargo-info
 ---
 
-Quick Links for EMBARGO: [EMBARGO 2026]({{< relref "/embargo/2026" >}})
+Quick Links for EMBARGO: [EMBARGO 2027]({{< relref "/embargo/2027" >}})
 [Schedule]({{< relref "/embargo/2026/schedule" >}})
-[Results]({{< relref "/embargo/2026/results" >}}) 
 &mdash;
+Results: [2026]({{< relref "/embargo/2026/results" >}}) 
 [All Results]({{< relref "/embargo/results" >}}) 
 
 {{< figure src="EMBARGO+2020+Attendee+Photo-1920w.jpg" alt="EMBARGO 2020 Attendee Photo" >}}
@@ -25,10 +25,12 @@ EMBARGO is the
 **Extraordinary Mid-Winter Big Annual Rec.Gambling Outing**
 (also known as "winter BARGE" or "mini-BARGE").
 
+[EMBARGO 2027]({{< relref "/embargo/2027" >}}) will be held at the Orleans
+Hotel & Casino January 28-30, 2027.  This is the 16th edition of our off-season
+complement to our long-running [BARGE]({{< relref "/barge" >}}) event.
+
 [EMBARGO 2026]({{< relref "/embargo/2026" >}}) was held at Resorts World
 Las Vegas from January 29-February 1, 2026.
-This is the 15th edition of our off-season complement to our long-running
-[BARGE]({{< relref "/barge" >}}) event.
 
 ### Who is Eligible to Register for EMBARGO?
 
@@ -57,7 +59,7 @@ When held live, all EMBARGO events are non-smoking.
 
 ### So Who Are the "Organizers" Anyway?
 
-{{% current-organizers event="EMBARGO" year="2026" %}}
+{{% current-organizers event="EMBARGO" year="2027" %}}
 
 ### But I have a question/complaint/praise/gripe? Who should I contact?
 

@@ -12,6 +12,6 @@ summary: >-
   EMBARGO 2027 will be at the Orleans, January 28-30.
 ---
 
-EMBARGO 2027 will be at the Orleans, January 28-30. 
+EMBARGO 2027 will be at the Orleans, January 28-30!
 
 Details, including hotel information and an event schedule, will be posted here when available.

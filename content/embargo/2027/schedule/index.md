@@ -8,6 +8,10 @@ aliases:
 cover:
   image: logos/embargo_logo_2027.png
 summary: Event schedule for EMBARGO 2027 (not available yet).
+params:
+  noDate: true
 ---
 
-EMBARGO schedule hasn't been announced yet.
+EMBARGO 2027 schedule hasn't been announced yet.  We will post it here when it is
+available.
+
