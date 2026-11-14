@@ -41,7 +41,7 @@ don't need to do setup or testing.
 #### You'll need a system with git and hugo installed.
 
 <https://gohugo.io/installation/linux/> might help.  We aren't using any of the
-fancypants deployment features so the "extended" edition is fine.
+fancypants deployment features so the "standard" edition is fine.
 
 ##### Mac
 
