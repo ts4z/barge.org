@@ -7,10 +7,12 @@
 #
 
 baseURL: https://www.barge.org/
-languageCode: en-us
+locale: "en-US"
 timeZone: America/Los_Angeles
 title: BARGE.org
 theme: ["barge-PaperMod"]
+security:
+  allowContent: ['! ^text/org$']
 sectionPagesMenu: main
 enableRobotsTXT: true
 relativeURLS: true
