@@ -134,7 +134,7 @@ Cabrillo Marine Aquarium.
 
 {{< tournament
     date="Thursday, July 23"
-    event="Funbook Pot Limit Hold'em"
+    event="Funbook Pot Limit Omaha"
     buyin="$140"
     entries=56
     prize-pool="$6,440"
