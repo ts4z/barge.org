@@ -5,8 +5,33 @@
 
   <hr>
 
+  {{- /*
+    Sort order: pages with a nonzero weight come first (lowest weight first),
+    as an override.  Everyone else is sorted most recently deceased first.
+    The "died" param is free-form ("2005" or "March 23, 2026"), so build a
+    numeric YYYYMMDD key from it; a missing month or day counts as 0, so a
+    bare year sorts after full dates in that year.  Ties sort by title.
+  */}}
+  {{- $months := dict "january" 1 "february" 2 "march" 3 "april" 4 "may" 5 "june" 6
+        "july" 7 "august" 8 "september" 9 "october" 10 "november" 11 "december" 12 }}
+  {{- $weighted := where .Pages "Weight" "!=" 0 }}
+  {{- $keyed := slice }}
+  {{- range (where .Pages "Weight" 0).ByTitle }}
+    {{- $s := printf "%v" (.Params.died | default "") }}
+    {{- $year := 0 }}
+    {{- with findRE `\d{4}` $s 1 }}{{ $year = index . 0 | int }}{{ end }}
+    {{- if and (eq $year 0) .Date (not .Date.IsZero) }}{{ $year = .Date.Year }}{{ end }}
+    {{- $month := 0 }}
+    {{- with findRE `[A-Za-z]+` $s 1 }}{{ $month = index $months (lower (index . 0)) | default 0 }}{{ end }}
+    {{- $day := 0 }}
+    {{- with findRESubmatch `\b(\d{1,2}),` $s 1 }}{{ $day = index (index . 0) 1 | int }}{{ end }}
+    {{- $keyed = $keyed | append (dict "key" (add (mul $year 10000) (mul $month 100) $day) "page" .) }}
+  {{- end }}
+  {{- $pages := $weighted.ByWeight }}
+  {{- range sort $keyed "key" "desc" }}{{ $pages = $pages | append .page }}{{ end }}
+
   <div class="memoriam-gallery">
-    {{ range .Pages }}
+    {{ range $pages }}
     {{ $resource := .Resources.Get .Params.image }}
     {{ $image := $resource.Process "fill 160x180" }}
     <div class="memoriam-card">
