@@ -99,7 +99,7 @@ Cabrillo Marine Aquarium.
 {{< tournament
     date="Wednesday, July 22"
     event="Wonky Action Razz"
-    buyin="$50"
+    buyin="$100"
     entries=61
     prize-pool="$4,880"
     image="kluchman.jpg"
@@ -134,7 +134,7 @@ Cabrillo Marine Aquarium.
 
 {{< tournament
     date="Thursday, July 23"
-    event="Funbook Pot Limit Hold'em"
+    event="Funbook Pot Limit Omaha"
     buyin="$140"
     entries=56
     prize-pool="$6,440"
@@ -196,7 +196,7 @@ Cabrillo Marine Aquarium.
 |    |                                     |        |
 |----|-------------------------------------|--------|
 | 1  | Doug “Snoop” Grismore               | $2,598 |
-| 2  | Nolan Kidd                          | $1,975 |
+| 2  | Nolan Kido                          | $1,975 |
 | 3  | Len “Len G” Greenberg               | $1,455 |
 | 4  | Stevan “ADB goldie”                 | $1,143 |
 | 5  | Christian “ Dr.Doofenshmirtz” Jones | $936   |
@@ -221,7 +221,7 @@ Cabrillo Marine Aquarium.
 | 2 | Michael “mickdog” Patterson  | $459 |
 | 3 | Nolan Kidd                   | $354 |
 | 4 | Kelly “UN’s Proud Sis” Kania | $270 |
-| 5 | Rob Marriott                 | $208 |
+| 5 | Robb Marriott                | $208 |
 | 6 | Rich “MajorAceHole” Vehlow   | $120 |
 
 {{< tournament
@@ -244,8 +244,8 @@ Cabrillo Marine Aquarium.
 | 7  | Ellis “Drackala” Starks       | $660   |
 | 8  | Tim “ADB Timmy” McGarvey      | $525   |
 | 9  | Nolan “COMMUNITY” Hee         | $390   |
-| 10 | Tim “ADB ts4z”                | $390   |
+| 10 | Tim “ADB ts4z” Showalter      | $390   |
 | 11 | Len “Len G” Greenberg         | $323   |
-| 12 | Betty “BLTPROP” Tannenbaum    | $323   |
+| 12 | Betty “BLTPROP” Tanenbaum     | $323   |
 | 13 | Bex “Redbird77” Kerl          | $180   |
 

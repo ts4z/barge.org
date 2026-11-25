@@ -3,7 +3,7 @@ Override of Hugo's internal alias (redirect) template.  Identical output,
 except we emit an (empty) body element, which HTML5 requires.
 */ -}}
 <!DOCTYPE html>
-<html lang="{{ site.Language.LanguageCode }}">
+<html lang="{{ site.Language.Locale }}">
   <head>
     <title>{{ .Permalink }}</title>
     <link rel="canonical" href="{{ .Permalink }}">
